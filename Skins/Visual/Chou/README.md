@@ -1,8 +1,7 @@
 # Chou Visual Skins
 
-Validated Chou visual-skin packages. All downloads are published in the
-[`visual-chou`](https://github.com/Sparkies01/DownloadScript/releases/tag/visual-chou)
-release.
+Validated visual-skin packages. All downloads are published in the
+[`visual-chou`](https://github.com/Sparkies01/DownloadScript/releases/tag/visual-chou) release.
 
 | Package | Download |
 | --- | --- |
