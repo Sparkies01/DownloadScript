@@ -14,9 +14,13 @@ Validated visual-skin packages. All downloads are published in the
 | Hip-hop Boy | [Chou-Hip-hop-Boy.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-chou/Chou-Hip-hop-Boy.zip) |
 | Iori Yagami | [Chou-Iori-Yagami.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-chou/Chou-Iori-Yagami.zip) |
 | Ken | [Chou-Ken.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-chou/Chou-Ken.zip) |
+| Ken (Outfit 1) | [Chou-Ken-Outfit-1.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-chou/Chou-Ken-Outfit-1.zip) |
 | Ken 2 | [Chou-Ken-2.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-chou/Chou-Ken-2.zip) |
+| Ken Outfit 2 | [Chou-Ken-Outfit-2.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-chou/Chou-Ken-Outfit-2.zip) |
 | King of Muay Thai | [Chou-King-of-Muay-Thai.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-chou/Chou-King-of-Muay-Thai.zip) |
 | Kung-Fu Boy (Chinese Version) | [Chou-Kung-Fu-Boy-Chinese-Version.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-chou/Chou-Kung-Fu-Boy-Chinese-Version.zip) |
 | Libra Shiryu | [Chou-Libra-Shiryu.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-chou/Chou-Libra-Shiryu.zip) |
+| Red Tiger | [Chou-Red-Tiger.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-chou/Chou-Red-Tiger.zip) |
 | S.T.U.N. Chou | [Chou-S-T-U-N-Chou.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-chou/Chou-S-T-U-N-Chou.zip) |
 | Thunderfist | [Chou-Thunderfist.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-chou/Chou-Thunderfist.zip) |
+| Undefeated Champion | [Chou-Undefeated-Champion.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-chou/Chou-Undefeated-Champion.zip) |

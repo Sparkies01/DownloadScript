@@ -8,5 +8,8 @@ Validated visual-skin packages. All downloads are published in the
 | Aries | [Hilda-Aries.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-hilda/Hilda-Aries.zip) |
 | Backup | [Hilda-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-hilda/Hilda-Backup.zip) |
 | Bass Craze | [Hilda-Bass-Craze.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-hilda/Hilda-Bass-Craze.zip) |
+| Carmine Craze | [Hilda-Carmine-Craze.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-hilda/Hilda-Carmine-Craze.zip) |
 | Flower of the Wastes | [Hilda-Flower-of-the-Wastes.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-hilda/Hilda-Flower-of-the-Wastes.zip) |
+| Guardian Battalion | [Hilda-Guardian-Battalion.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-hilda/Hilda-Guardian-Battalion.zip) |
+| Power of Wildness | [Hilda-Power-of-Wildness.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-hilda/Hilda-Power-of-Wildness.zip) |
 | Sacred Guard | [Hilda-Sacred-Guard.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-hilda/Hilda-Sacred-Guard.zip) |

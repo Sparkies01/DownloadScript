@@ -11,5 +11,6 @@ Validated visual-skin packages. All downloads are published in the
 | Dark Draconic | [Argus-Dark-Draconic.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-argus/Argus-Dark-Draconic.zip) |
 | Darth Vader | [Argus-Darth-Vader.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-argus/Argus-Darth-Vader.zip) |
 | Light of Dawn | [Argus-Light-of-Dawn.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-argus/Argus-Light-of-Dawn.zip) |
+| Malediction | [Argus-Malediction.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-argus/Argus-Malediction.zip) |
 | Raiden Maru | [Argus-Raiden-Maru.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-argus/Argus-Raiden-Maru.zip) |
 | Winged Nightmare | [Argus-Winged-Nightmare.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-argus/Argus-Winged-Nightmare.zip) |

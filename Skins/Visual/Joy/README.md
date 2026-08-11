@@ -6,6 +6,8 @@ Validated visual-skin packages. All downloads are published in the
 | Package | Download |
 | --- | --- |
 | Backup | [Joy-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-joy/Joy-Backup.zip) |
+| Exostar Ranger | [Joy-Exostar-Ranger.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-joy/Joy-Exostar-Ranger.zip) |
+| Exostar Runner | [Joy-Exostar-Runner.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-joy/Joy-Exostar-Runner.zip) |
 | Exostar Scout | [Joy-Exostar-Scout.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-joy/Joy-Exostar-Scout.zip) |
 | Feline Ranger | [Joy-Feline-Ranger.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-joy/Joy-Feline-Ranger.zip) |
 | Neobeast Joy | [Joy-Neobeast-Joy.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-joy/Joy-Neobeast-Joy.zip) |

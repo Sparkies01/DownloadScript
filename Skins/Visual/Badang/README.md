@@ -12,4 +12,5 @@ Validated visual-skin packages. All downloads are published in the
 | Pegasus Seiya | [Badang-Pegasus-Seiya.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-badang/Badang-Pegasus-Seiya.zip) |
 | Sagittarius Seiya | [Badang-Sagittarius-Seiya.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-badang/Badang-Sagittarius-Seiya.zip) |
 | Steel Arm | [Badang-Steel-Arm.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-badang/Badang-Steel-Arm.zip) |
+| Steel Arms | [Badang-Steel-Arms.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-badang/Badang-Steel-Arms.zip) |
 | Susanoo | [Badang-Susanoo.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-badang/Badang-Susanoo.zip) |

@@ -11,5 +11,6 @@ Validated visual-skin packages. All downloads are published in the
 | Chaos Hunter | [Natan-Chaos-Hunter.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-natan/Natan-Chaos-Hunter.zip) |
 | Sanguine Steward | [Natan-Sanguine-Steward.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-natan/Natan-Sanguine-Steward.zip) |
 | Temporal Vortex | [Natan-Temporal-Vortex.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-natan/Natan-Temporal-Vortex.zip) |
+| Tidal Lord | [Natan-Tidal-Lord.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-natan/Natan-Tidal-Lord.zip) |
 | Time Wielder | [Natan-Time-Wielder.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-natan/Natan-Time-Wielder.zip) |
 | Total Lord | [Natan-Total-Lord.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-natan/Natan-Total-Lord.zip) |

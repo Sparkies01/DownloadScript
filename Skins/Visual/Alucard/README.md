@@ -13,6 +13,7 @@ Validated visual-skin packages. All downloads are published in the
 | Lightborn - Striker | [Alucard-Lightborn-Striker.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-alucard/Alucard-Lightborn-Striker.zip) |
 | Lone Hero | [Alucard-Lone-Hero.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-alucard/Alucard-Lone-Hero.zip) |
 | Obi-wan Kenobi | [Alucard-Obi-wan-Kenobi.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-alucard/Alucard-Obi-wan-Kenobi.zip) |
+| Obi-Wan Kenobi | [Alucard-Obi-Wan-Kenobi.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-alucard/Alucard-Obi-Wan-Kenobi.zip) |
 | Obsidian Blade | [Alucard-Obsidian-Blade.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-alucard/Alucard-Obsidian-Blade.zip) |
 | Romantic Fantasy | [Alucard-Romantic-Fantasy.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-alucard/Alucard-Romantic-Fantasy.zip) |
 | Viscount | [Alucard-Viscount.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-alucard/Alucard-Viscount.zip) |

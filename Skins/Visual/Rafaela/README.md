@@ -9,6 +9,7 @@ Validated visual-skin packages. All downloads are published in the
 | Backup | [Rafaela-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-rafaela/Rafaela-Backup.zip) |
 | Biomedic | [Rafaela-Biomedic.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-rafaela/Rafaela-Biomedic.zip) |
 | Bloom of Abundance | [Rafaela-Bloom-of-Abundance.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-rafaela/Rafaela-Bloom-of-Abundance.zip) |
+| Fertility Goddess | [Rafaela-Fertility-Goddess.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-rafaela/Rafaela-Fertility-Goddess.zip) |
 | Flower Fairy | [Rafaela-Flower-Fairy.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-rafaela/Rafaela-Flower-Fairy.zip) |
 | S.A.B.E.R. Savior | [Rafaela-S-A-B-E-R-Savior.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-rafaela/Rafaela-S-A-B-E-R-Savior.zip) |
 | Seraphic Selfie | [Rafaela-Seraphic-Selfie.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-rafaela/Rafaela-Seraphic-Selfie.zip) |

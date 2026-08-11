@@ -7,3 +7,4 @@ Validated visual-skin packages. All downloads are published in the
 | --- | --- |
 | Backup | [Kalea-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-kalea/Kalea-Backup.zip) |
 | Sakura Haruno | [Kalea-Sakura-Haruno.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-kalea/Kalea-Sakura-Haruno.zip) |
+| Shimmering Waves | [Kalea-Shimmering-Waves.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-kalea/Kalea-Shimmering-Waves.zip) |

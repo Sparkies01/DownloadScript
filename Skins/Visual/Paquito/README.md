@@ -11,6 +11,7 @@ Validated visual-skin packages. All downloads are published in the
 | Demontech Striker | [Paquito-Demontech-Striker.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-paquito/Paquito-Demontech-Striker.zip) |
 | First of Light | [Paquito-First-of-Light.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-paquito/Paquito-First-of-Light.zip) |
 | Fist of Glory | [Paquito-Fist-of-Glory.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-paquito/Paquito-Fist-of-Glory.zip) |
+| Fist of Light | [Paquito-Fist-of-Light.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-paquito/Paquito-Fist-of-Light.zip) |
 | Fulgent Punch | [Paquito-Fulgent-Punch.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-paquito/Paquito-Fulgent-Punch.zip) |
 | Manny Pacquiao | [Paquito-Manny-Pacquiao.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-paquito/Paquito-Manny-Pacquiao.zip) |
 | Ryu | [Paquito-Ryu.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-paquito/Paquito-Ryu.zip) |

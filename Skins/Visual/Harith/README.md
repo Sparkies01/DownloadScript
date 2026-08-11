@@ -12,4 +12,7 @@ Validated visual-skin packages. All downloads are published in the
 | Killua | [Harith-Killua.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-harith/Harith-Killua.zip) |
 | Lightborn - Inspirer | [Harith-Lightborn-Inspirer.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-harith/Harith-Lightborn-Inspirer.zip) |
 | Psychic | [Harith-Psychic.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-harith/Harith-Psychic.zip) |
+| Rebel Emberfang | [Harith-Rebel-Emberfang.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-harith/Harith-Rebel-Emberfang.zip) |
+| Savannah Cat | [Harith-Savannah-Cat.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-harith/Harith-Savannah-Cat.zip) |
 | Stardust | [Harith-Stardust.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-harith/Harith-Stardust.zip) |
+| Wayfarer | [Harith-Wayfarer.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-harith/Harith-Wayfarer.zip) |

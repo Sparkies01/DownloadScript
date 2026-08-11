@@ -6,8 +6,10 @@ Validated visual-skin packages. All downloads are published in the
 | Package | Download |
 | --- | --- |
 | Aquarius | [Aurora-Aquarius.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-aurora/Aurora-Aquarius.zip) |
+| Backup | [Aurora-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-aurora/Aurora-Backup.zip) |
 | Foxy Lady | [Aurora-Foxy-Lady.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-aurora/Aurora-Foxy-Lady.zip) |
 | Heartbreak Empress | [Aurora-Heartbreak-Empress.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-aurora/Aurora-Heartbreak-Empress.zip) |
 | Kula Diamond | [Aurora-Kula-Diamond.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-aurora/Aurora-Kula-Diamond.zip) |
 | Maiden of the Glacier | [Aurora-Maiden-of-the-Glacier.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-aurora/Aurora-Maiden-of-the-Glacier.zip) |
+| Nature's Throne | [Aurora-Nature-s-Throne.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-aurora/Aurora-Nature-s-Throne.zip) |
 | Veil of the Celestials | [Aurora-Veil-of-the-Celestials.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-aurora/Aurora-Veil-of-the-Celestials.zip) |

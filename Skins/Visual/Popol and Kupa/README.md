@@ -8,6 +8,9 @@ Validated visual-skin packages. All downloads are published in the
 | Backup | [Popol-and-Kupa-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-popol-and-kupa/Popol-and-Kupa-Backup.zip) |
 | Hunting Pals | [Popol-and-Kupa-Hunting-Pals.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-popol-and-kupa/Popol-and-Kupa-Hunting-Pals.zip) |
 | Pronto Hunter | [Popol-and-Kupa-Pronto-Hunter.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-popol-and-kupa/Popol-and-Kupa-Pronto-Hunter.zip) |
+| Proto Hunter | [Popol-and-Kupa-Proto-Hunter.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-popol-and-kupa/Popol-and-Kupa-Proto-Hunter.zip) |
+| Proto Stalker | [Popol-and-Kupa-Proto-Stalker.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-popol-and-kupa/Popol-and-Kupa-Proto-Stalker.zip) |
+| Soundwave & Ravage | [Popol-and-Kupa-Soundwave-Ravage.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-popol-and-kupa/Popol-and-Kupa-Soundwave-Ravage.zip) |
 | Soundwave and Ravage | [Popol-and-Kupa-Soundwave-and-Ravage.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-popol-and-kupa/Popol-and-Kupa-Soundwave-and-Ravage.zip) |
 | Spirit of the Brush | [Popol-and-Kupa-Spirit-of-the-Brush.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-popol-and-kupa/Popol-and-Kupa-Spirit-of-the-Brush.zip) |
 | Tribal Howl | [Popol-and-Kupa-Tribal-Howl.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-popol-and-kupa/Popol-and-Kupa-Tribal-Howl.zip) |

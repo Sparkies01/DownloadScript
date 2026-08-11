@@ -9,5 +9,7 @@ Validated visual-skin packages. All downloads are published in the
 | Jewel Connoisseur | [Fredrinn-Jewel-Connoisseur.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-fredrinn/Fredrinn-Jewel-Connoisseur.zip) |
 | Neobeast Fredrinn | [Fredrinn-Neobeast-Fredrinn.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-fredrinn/Fredrinn-Neobeast-Fredrinn.zip) |
 | Regal Renegade | [Fredrinn-Regal-Renegade.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-fredrinn/Fredrinn-Regal-Renegade.zip) |
+| Royal Marshal | [Fredrinn-Royal-Marshal.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-fredrinn/Fredrinn-Royal-Marshal.zip) |
 | Royal Marshall | [Fredrinn-Royal-Marshall.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-fredrinn/Fredrinn-Royal-Marshall.zip) |
 | SPARKLE Fredrinn | [Fredrinn-SPARKLE-Fredrinn.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-fredrinn/Fredrinn-SPARKLE-Fredrinn.zip) |
+| Winter Marshal | [Fredrinn-Winter-Marshal.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-fredrinn/Fredrinn-Winter-Marshal.zip) |

@@ -16,3 +16,4 @@ Validated visual-skin packages. All downloads are published in the
 | Invoker's Restraint | [Roger-Invoker-s-Restraint.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-roger/Roger-Invoker-s-Restraint.zip) |
 | Phantom Hunter | [Roger-Phantom-Hunter.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-roger/Roger-Phantom-Hunter.zip) |
 | Phantom Ranger | [Roger-Phantom-Ranger.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-roger/Roger-Phantom-Ranger.zip) |
+| Raging Hunter | [Roger-Raging-Hunter.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-roger/Roger-Raging-Hunter.zip) |

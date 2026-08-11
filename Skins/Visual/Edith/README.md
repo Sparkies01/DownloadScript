@@ -12,3 +12,4 @@ Validated visual-skin packages. All downloads are published in the
 | Golden Warden | [Edith-Golden-Warden.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-edith/Edith-Golden-Warden.zip) |
 | Prismatic Sentinel | [Edith-Prismatic-Sentinel.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-edith/Edith-Prismatic-Sentinel.zip) |
 | Red Bastion | [Edith-Red-Bastion.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-edith/Edith-Red-Bastion.zip) |
+| Verdan Knight | [Edith-Verdan-Knight.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-edith/Edith-Verdan-Knight.zip) |

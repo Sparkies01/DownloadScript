@@ -19,5 +19,8 @@ Validated visual-skin packages. All downloads are published in the
 | Modena Butterfly | [Miya-Modena-Butterfly.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-miya/Miya-Modena-Butterfly.zip) |
 | Moon Priestess | [Miya-Moon-Priestess.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-miya/Miya-Moon-Priestess.zip) |
 | Nightowl Huntress | [Miya-Nightowl-Huntress.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-miya/Miya-Nightowl-Huntress.zip) |
+| Nightowl Sentinel | [Miya-Nightowl-Sentinel.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-miya/Miya-Nightowl-Sentinel.zip) |
+| Nightowl Warden | [Miya-Nightowl-Warden.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-miya/Miya-Nightowl-Warden.zip) |
 | Suzuhime | [Miya-Suzuhime.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-miya/Miya-Suzuhime.zip) |
 | Sweet Fantasy | [Miya-Sweet-Fantasy.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-miya/Miya-Sweet-Fantasy.zip) |
+| Tranquil Bow | [Miya-Tranquil-Bow.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-miya/Miya-Tranquil-Bow.zip) |

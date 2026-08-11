@@ -6,6 +6,7 @@ Validated visual-skin packages. All downloads are published in the
 | Package | Download |
 | --- | --- |
 | Backup | [X-Borg-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-x-borg/X-Borg-Backup.zip) |
+| Blue Storm | [X-Borg-Blue-Storm.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-x-borg/X-Borg-Blue-Storm.zip) |
 | Bumblebee | [X-Borg-Bumblebee.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-x-borg/X-Borg-Bumblebee.zip) |
 | Graffiti Fashion | [X-Borg-Graffiti-Fashion.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-x-borg/X-Borg-Graffiti-Fashion.zip) |
 | Invoker's Flame | [X-Borg-Invoker-s-Flame.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-x-borg/X-Borg-Invoker-s-Flame.zip) |

@@ -13,4 +13,5 @@ Validated visual-skin packages. All downloads are published in the
 | Phantom Mirage | [Benedetta-Phantom-Mirage.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-benedetta/Benedetta-Phantom-Mirage.zip) |
 | Quantum Edge | [Benedetta-Quantum-Edge.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-benedetta/Benedetta-Quantum-Edge.zip) |
 | Street Blow | [Benedetta-Street-Blow.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-benedetta/Benedetta-Street-Blow.zip) |
+| Street Thrasher | [Benedetta-Street-Thrasher.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-benedetta/Benedetta-Street-Thrasher.zip) |
 | Vessel of Pride | [Benedetta-Vessel-of-Pride.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-benedetta/Benedetta-Vessel-of-Pride.zip) |

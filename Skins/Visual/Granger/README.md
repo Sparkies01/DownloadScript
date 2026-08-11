@@ -11,6 +11,7 @@ Validated visual-skin packages. All downloads are published in the
 | Bardic Whisper | [Granger-Bardic-Whisper.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-granger/Granger-Bardic-Whisper.zip) |
 | Biosoldier | [Granger-Biosoldier.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-granger/Granger-Biosoldier.zip) |
 | Cosmic Finality | [Granger-Cosmic-Finality.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-granger/Granger-Cosmic-Finality.zip) |
+| Doomsday Punisher | [Granger-Doomsday-Punisher.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-granger/Granger-Doomsday-Punisher.zip) |
 | Doomsday Terminator | [Granger-Doomsday-Terminator.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-granger/Granger-Doomsday-Terminator.zip) |
 | Exorcist Granger | [Granger-Exorcist-Granger.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-granger/Granger-Exorcist-Granger.zip) |
 | Hellbringer | [Granger-Hellbringer.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-granger/Granger-Hellbringer.zip) |

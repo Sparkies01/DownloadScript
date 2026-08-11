@@ -5,6 +5,7 @@ Validated visual-skin packages. All downloads are published in the
 
 | Package | Download |
 | --- | --- |
+| Backup | [Saber-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-saber/Saber-Backup.zip) |
 | Codename - Storm | [Saber-Codename-Storm.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-saber/Saber-Codename-Storm.zip) |
 | Force Warrior | [Saber-Force-Warrior.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-saber/Saber-Force-Warrior.zip) |
 | Fullmetal Ronin | [Saber-Fullmetal-Ronin.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-saber/Saber-Fullmetal-Ronin.zip) |
@@ -13,4 +14,5 @@ Validated visual-skin packages. All downloads are published in the
 | Onimaru | [Saber-Onimaru.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-saber/Saber-Onimaru.zip) |
 | S.A.B.E.R. Regulator | [Saber-S-A-B-E-R-Regulator.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-saber/Saber-S-A-B-E-R-Regulator.zip) |
 | Silver Edge | [Saber-Silver-Edge.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-saber/Saber-Silver-Edge.zip) |
+| Steel of Hound | [Saber-Steel-of-Hound.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-saber/Saber-Steel-of-Hound.zip) |
 | Wandering Sword | [Saber-Wandering-Sword.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-saber/Saber-Wandering-Sword.zip) |

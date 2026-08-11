@@ -6,10 +6,13 @@ Validated visual-skin packages. All downloads are published in the
 | Package | Download |
 | --- | --- |
 | Backup | [Natalia-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-natalia/Natalia-Backup.zip) |
+| Crimson Raven | [Natalia-Crimson-Raven.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-natalia/Natalia-Crimson-Raven.zip) |
 | Cyber Spectre | [Natalia-Cyber-Spectre.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-natalia/Natalia-Cyber-Spectre.zip) |
 | Deadly Mamba | [Natalia-Deadly-Mamba.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-natalia/Natalia-Deadly-Mamba.zip) |
+| Glass Blade | [Natalia-Glass-Blade.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-natalia/Natalia-Glass-Blade.zip) |
 | Grim Strangler | [Natalia-Grim-Strangler.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-natalia/Natalia-Grim-Strangler.zip) |
 | Midnight Raven | [Natalia-Midnight-Raven.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-natalia/Natalia-Midnight-Raven.zip) |
 | Phantom Dancer | [Natalia-Phantom-Dancer.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-natalia/Natalia-Phantom-Dancer.zip) |
+| Rogue Mamba | [Natalia-Rogue-Mamba.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-natalia/Natalia-Rogue-Mamba.zip) |
 | Soul Huntress | [Natalia-Soul-Huntress.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-natalia/Natalia-Soul-Huntress.zip) |
 | Warrioress Paragon | [Natalia-Warrioress-Paragon.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-natalia/Natalia-Warrioress-Paragon.zip) |

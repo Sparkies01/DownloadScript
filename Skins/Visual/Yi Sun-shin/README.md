@@ -13,3 +13,4 @@ Validated visual-skin packages. All downloads are published in the
 | Major General | [Yi-Sun-shin-Major-General.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-yi-sun-shin/Yi-Sun-shin-Major-General.zip) |
 | Roguish Ranger | [Yi-Sun-shin-Roguish-Ranger.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-yi-sun-shin/Yi-Sun-shin-Roguish-Ranger.zip) |
 | Surging Torrent | [Yi-Sun-shin-Surging-Torrent.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-yi-sun-shin/Yi-Sun-shin-Surging-Torrent.zip) |
+| Tactical Specialist | [Yi-Sun-shin-Tactical-Specialist.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-yi-sun-shin/Yi-Sun-shin-Tactical-Specialist.zip) |

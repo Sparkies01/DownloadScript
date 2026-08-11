@@ -5,6 +5,7 @@ Validated visual-skin packages. All downloads are published in the
 
 | Package | Download |
 | --- | --- |
+| Azure Commander | [Wanwan-Azure-Commander.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-wanwan/Wanwan-Azure-Commander.zip) |
 | Backup | [Wanwan-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-wanwan/Wanwan-Backup.zip) |
 | Darting Star | [Wanwan-Darting-Star.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-wanwan/Wanwan-Darting-Star.zip) |
 | E-girl | [Wanwan-E-girl.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-wanwan/Wanwan-E-girl.zip) |

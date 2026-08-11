@@ -9,6 +9,7 @@ Validated visual-skin packages. All downloads are published in the
 | Crimson Warrior | [Alpha-Crimson-Warrior.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-alpha/Alpha-Crimson-Warrior.zip) |
 | Edict of Sands | [Alpha-Edict-of-Sands.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-alpha/Alpha-Edict-of-Sands.zip) |
 | Fierce Dragon | [Alpha-Fierce-Dragon.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-alpha/Alpha-Fierce-Dragon.zip) |
+| Galactic Enforcer | [Alpha-Galactic-Enforcer.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-alpha/Alpha-Galactic-Enforcer.zip) |
 | General Void | [Alpha-General-Void.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-alpha/Alpha-General-Void.zip) |
 | Mecha-King Perseus | [Alpha-Mecha-King-Perseus.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-alpha/Alpha-Mecha-King-Perseus.zip) |
 | Onimusha Commander | [Alpha-Onimusha-Commander.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-alpha/Alpha-Onimusha-Commander.zip) |

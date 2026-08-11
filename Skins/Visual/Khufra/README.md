@@ -7,6 +7,7 @@ Validated visual-skin packages. All downloads are published in the
 | --- | --- |
 | Apophis | [Khufra-Apophis.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-khufra/Khufra-Apophis.zip) |
 | Backup | [Khufra-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-khufra/Khufra-Backup.zip) |
+| Classic Crook | [Khufra-Classic-Crook.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-khufra/Khufra-Classic-Crook.zip) |
 | Cursed Scroll | [Khufra-Cursed-Scroll.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-khufra/Khufra-Cursed-Scroll.zip) |
 | Desert Owl | [Khufra-Desert-Owl.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-khufra/Khufra-Desert-Owl.zip) |
 | Dreadful Clown | [Khufra-Dreadful-Clown.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-khufra/Khufra-Dreadful-Clown.zip) |

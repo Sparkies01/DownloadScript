@@ -12,8 +12,10 @@ Validated visual-skin packages. All downloads are published in the
 | Cannon and Roses | [Layla-Cannon-and-Roses.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-layla/Layla-Cannon-and-Roses.zip) |
 | Classic Malefic Gunner | [Layla-Classic-Malefic-Gunner.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-layla/Layla-Classic-Malefic-Gunner.zip) |
 | Green Flash | [Layla-Green-Flash.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-layla/Layla-Green-Flash.zip) |
+| Midnight Waltz | [Layla-Midnight-Waltz.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-layla/Layla-Midnight-Waltz.zip) |
 | Miss Hikari | [Layla-Miss-Hikari.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-layla/Layla-Miss-Hikari.zip) |
 | Paranormal Operative | [Layla-Paranormal-Operative.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-layla/Layla-Paranormal-Operative.zip) |
 | S.A.B.E.R Breacher | [Layla-S-A-B-E-R-Breacher.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-layla/Layla-S-A-B-E-R-Breacher.zip) |
+| Sunset Waltz | [Layla-Sunset-Waltz.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-layla/Layla-Sunset-Waltz.zip) |
 | The Beacon | [Layla-The-Beacon.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-layla/Layla-The-Beacon.zip) |
 | Twilight Waltz | [Layla-Twilight-Waltz.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-layla/Layla-Twilight-Waltz.zip) |

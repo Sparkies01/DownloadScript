@@ -9,6 +9,7 @@ Validated visual-skin packages. All downloads are published in the
 | Dream Caster | [Harley-Dream-Caster.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-harley/Harley-Dream-Caster.zip) |
 | Dreaming Koi | [Harley-Dreaming-Koi.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-harley/Harley-Dreaming-Koi.zip) |
 | Great Inventor | [Harley-Great-Inventor.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-harley/Harley-Great-Inventor.zip) |
+| Naughty Joker | [Harley-Naughty-Joker.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-harley/Harley-Naughty-Joker.zip) |
 | Pulsar Prodigy | [Harley-Pulsar-Prodigy.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-harley/Harley-Pulsar-Prodigy.zip) |
 | Referee | [Harley-Referee.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-harley/Harley-Referee.zip) |
 | Royal Magister | [Harley-Royal-Magister.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-harley/Harley-Royal-Magister.zip) |
