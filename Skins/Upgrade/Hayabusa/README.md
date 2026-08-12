@@ -5,137 +5,143 @@ Validated upgrade-skin packages. All downloads are published in the
 
 | Package | Download |
 | --- | --- |
-| 11 11 Annual Starlight | [Hayabusa-11-11-Annual-Starlight.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-11-11-Annual-Starlight.zip) |
-| 11 11 Exorcist | [Hayabusa-11-11-Exorcist.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-11-11-Exorcist.zip) |
-| 11 11 Luckybox | [Hayabusa-11-11-Luckybox.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-11-11-Luckybox.zip) |
-| 11 11 Naruto | [Hayabusa-11-11-Naruto.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-11-11-Naruto.zip) |
-| Annual Starlight 11 11 | [Hayabusa-Annual-Starlight-11-11.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Annual-Starlight-11-11.zip) |
-| Annual Starlight Exorcist | [Hayabusa-Annual-Starlight-Exorcist.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Annual-Starlight-Exorcist.zip) |
-| Annual Starlight Luckybox | [Hayabusa-Annual-Starlight-Luckybox.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Annual-Starlight-Luckybox.zip) |
-| Annual Starlight Naruto | [Hayabusa-Annual-Starlight-Naruto.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Annual-Starlight-Naruto.zip) |
-| Basic 11 11 | [Hayabusa-Basic-11-11.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Basic-11-11.zip) |
-| Basic Annual Starlight | [Hayabusa-Basic-Annual-Starlight.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Basic-Annual-Starlight.zip) |
-| Basic Exorcist Hayabusa | [Hayabusa-Basic-Exorcist-Hayabusa.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Basic-Exorcist-Hayabusa.zip) |
-| Basic Exorcist | [Hayabusa-Basic-Exorcist.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Basic-Exorcist.zip) |
-| Basic Experiment 21 | [Hayabusa-Basic-Experiment-21.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Basic-Experiment-21.zip) |
-| Basic Kakashi Hatake | [Hayabusa-Basic-Kakashi-Hatake.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Basic-Kakashi-Hatake.zip) |
-| Basic Luckybox | [Hayabusa-Basic-Luckybox.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Basic-Luckybox.zip) |
-| Basic Naruto | [Hayabusa-Basic-Naruto.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Basic-Naruto.zip) |
-| Basic Shadow of Obscurity | [Hayabusa-Basic-Shadow-of-Obscurity.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Basic-Shadow-of-Obscurity.zip) |
-| Basic Shura | [Hayabusa-Basic-Shura.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Basic-Shura.zip) |
-| Basic Spacetime Shadow | [Hayabusa-Basic-Spacetime-Shadow.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Basic-Spacetime-Shadow.zip) |
-| Basic Sushi Master | [Hayabusa-Basic-Sushi-Master.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Basic-Sushi-Master.zip) |
 | Biological Weapon Backup | [Hayabusa-Biological-Weapon-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Biological-Weapon-Backup.zip) |
+| Biological Weapon Exorcist Hayabusa | [Hayabusa-Biological-Weapon-Exorcist-Hayabusa.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Biological-Weapon-Exorcist-Hayabusa.zip) |
 | Biological Weapon Experiment 21 | [Hayabusa-Biological-Weapon-Experiment-21.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Biological-Weapon-Experiment-21.zip) |
+| Biological Weapon Future Enforcer Iron | [Hayabusa-Biological-Weapon-Future-Enforcer-Iron.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Biological-Weapon-Future-Enforcer-Iron.zip) |
+| Biological Weapon Future Enforcer | [Hayabusa-Biological-Weapon-Future-Enforcer.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Biological-Weapon-Future-Enforcer.zip) |
 | Biological Weapon Kakashi Hatake | [Hayabusa-Biological-Weapon-Kakashi-Hatake.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Biological-Weapon-Kakashi-Hatake.zip) |
-| Biological Weapon Kakashi | [Hayabusa-Biological-Weapon-Kakashi.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Biological-Weapon-Kakashi.zip) |
 | Biological Weapon Shadow of Obscurity | [Hayabusa-Biological-Weapon-Shadow-of-Obscurity.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Biological-Weapon-Shadow-of-Obscurity.zip) |
 | Biological Weapon Shura | [Hayabusa-Biological-Weapon-Shura.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Biological-Weapon-Shura.zip) |
-| Crimson Shadow Backup | [Hayabusa-Crimson-Shadow-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Crimson-Shadow-Backup.zip) |
-| Crimson Shadow Biological Weapon | [Hayabusa-Crimson-Shadow-Biological-Weapon.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Crimson-Shadow-Biological-Weapon.zip) |
-| Crimson Shadow Exorcist Hayabusa | [Hayabusa-Crimson-Shadow-Exorcist-Hayabusa.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Crimson-Shadow-Exorcist-Hayabusa.zip) |
-| Crimson Shadow Exorcist | [Hayabusa-Crimson-Shadow-Exorcist.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Crimson-Shadow-Exorcist.zip) |
-| Crimson Shadow Experiment 21 | [Hayabusa-Crimson-Shadow-Experiment-21.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Crimson-Shadow-Experiment-21.zip) |
-| Crimson Shadow Experiment21 | [Hayabusa-Crimson-Shadow-Experiment21.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Crimson-Shadow-Experiment21.zip) |
-| Crimson Shadow Future Enforcer | [Hayabusa-Crimson-Shadow-Future-Enforcer.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Crimson-Shadow-Future-Enforcer.zip) |
-| Crimson Shadow Kakashi Hatake | [Hayabusa-Crimson-Shadow-Kakashi-Hatake.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Crimson-Shadow-Kakashi-Hatake.zip) |
-| Crimson Shadow Kakashi | [Hayabusa-Crimson-Shadow-Kakashi.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Crimson-Shadow-Kakashi.zip) |
-| Crimson Shadow Shadow of Obscurity | [Hayabusa-Crimson-Shadow-Shadow-of-Obscurity.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Crimson-Shadow-Shadow-of-Obscurity.zip) |
-| Crimson Shadow Shura | [Hayabusa-Crimson-Shadow-Shura.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Crimson-Shadow-Shura.zip) |
-| Crimson Shadow Sushi Master | [Hayabusa-Crimson-Shadow-Sushi-Master.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Crimson-Shadow-Sushi-Master.zip) |
-| Crimson Shadow Techie Ninja | [Hayabusa-Crimson-Shadow-Techie-Ninja.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Crimson-Shadow-Techie-Ninja.zip) |
-| Default 11 11 | [Hayabusa-Default-11-11.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Default-11-11.zip) |
-| Default Annual Starlight | [Hayabusa-Default-Annual-Starlight.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Default-Annual-Starlight.zip) |
-| Default Exorcist | [Hayabusa-Default-Exorcist.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Default-Exorcist.zip) |
-| Default Luckybox | [Hayabusa-Default-Luckybox.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Default-Luckybox.zip) |
-| Default Naruto | [Hayabusa-Default-Naruto.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Default-Naruto.zip) |
-| Elite 1 11 11 | [Hayabusa-Elite-1-11-11.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Elite-1-11-11.zip) |
-| Elite 1 Annual Starlight | [Hayabusa-Elite-1-Annual-Starlight.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Elite-1-Annual-Starlight.zip) |
-| Elite 1 Exorcist | [Hayabusa-Elite-1-Exorcist.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Elite-1-Exorcist.zip) |
-| Elite 1 Luckybox | [Hayabusa-Elite-1-Luckybox.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Elite-1-Luckybox.zip) |
-| Elite 1 Naruto | [Hayabusa-Elite-1-Naruto.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Elite-1-Naruto.zip) |
-| Elite 2 11 11 | [Hayabusa-Elite-2-11-11.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Elite-2-11-11.zip) |
-| Elite 2 Annual Starlight | [Hayabusa-Elite-2-Annual-Starlight.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Elite-2-Annual-Starlight.zip) |
-| Elite 2 Exorcist | [Hayabusa-Elite-2-Exorcist.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Elite-2-Exorcist.zip) |
-| Elite 2 Luckybox | [Hayabusa-Elite-2-Luckybox.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Elite-2-Luckybox.zip) |
-| Elite 2 Naruto | [Hayabusa-Elite-2-Naruto.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Elite-2-Naruto.zip) |
-| Elite Exorcist Hayabusa | [Hayabusa-Elite-Exorcist-Hayabusa.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Elite-Exorcist-Hayabusa.zip) |
-| Elite Experiment 21 | [Hayabusa-Elite-Experiment-21.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Elite-Experiment-21.zip) |
-| Elite Future Enforcer | [Hayabusa-Elite-Future-Enforcer.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Elite-Future-Enforcer.zip) |
-| Elite Kakashi Hatake | [Hayabusa-Elite-Kakashi-Hatake.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Elite-Kakashi-Hatake.zip) |
-| Elite Shadow of Obscurity | [Hayabusa-Elite-Shadow-of-Obscurity.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Elite-Shadow-of-Obscurity.zip) |
-| Elite Shura | [Hayabusa-Elite-Shura.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Elite-Shura.zip) |
-| Elite2 Exorcist Hayabusa | [Hayabusa-Elite2-Exorcist-Hayabusa.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Elite2-Exorcist-Hayabusa.zip) |
-| Elite2 Kakashi Hatake | [Hayabusa-Elite2-Kakashi-Hatake.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Elite2-Kakashi-Hatake.zip) |
-| Elite2 Shadow of Obscurity | [Hayabusa-Elite2-Shadow-of-Obscurity.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Elite2-Shadow-of-Obscurity.zip) |
-| Elite2 Shura | [Hayabusa-Elite2-Shura.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Elite2-Shura.zip) |
-| Elite2 Techie Ninja | [Hayabusa-Elite2-Techie-Ninja.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Elite2-Techie-Ninja.zip) |
-| Exorcist 11 11 | [Hayabusa-Exorcist-11-11.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Exorcist-11-11.zip) |
-| Exorcist Annual Starlight | [Hayabusa-Exorcist-Annual-Starlight.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Exorcist-Annual-Starlight.zip) |
-| Exorcist Luckybox | [Hayabusa-Exorcist-Luckybox.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Exorcist-Luckybox.zip) |
-| Exorcist Naruto | [Hayabusa-Exorcist-Naruto.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Exorcist-Naruto.zip) |
+| Biological Weapon Spacetime Shadow | [Hayabusa-Biological-Weapon-Spacetime-Shadow.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Biological-Weapon-Spacetime-Shadow.zip) |
+| Biological Weapon Sushi Master Purple | [Hayabusa-Biological-Weapon-Sushi-Master-Purple.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Biological-Weapon-Sushi-Master-Purple.zip) |
+| Biological Weapon Sushi Master | [Hayabusa-Biological-Weapon-Sushi-Master.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Biological-Weapon-Sushi-Master.zip) |
+| Biological Weapon Techie Ninja | [Hayabusa-Biological-Weapon-Techie-Ninja.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Biological-Weapon-Techie-Ninja.zip) |
+| Exorcist Hayabusa Backup | [Hayabusa-Exorcist-Hayabusa-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Exorcist-Hayabusa-Backup.zip) |
+| Exorcist Hayabusa Biological Weapon | [Hayabusa-Exorcist-Hayabusa-Biological-Weapon.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Exorcist-Hayabusa-Biological-Weapon.zip) |
+| Exorcist Hayabusa Experiment 21 | [Hayabusa-Exorcist-Hayabusa-Experiment-21.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Exorcist-Hayabusa-Experiment-21.zip) |
+| Exorcist Hayabusa Future Enforcer Iron | [Hayabusa-Exorcist-Hayabusa-Future-Enforcer-Iron.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Exorcist-Hayabusa-Future-Enforcer-Iron.zip) |
+| Exorcist Hayabusa Future Enforcer | [Hayabusa-Exorcist-Hayabusa-Future-Enforcer.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Exorcist-Hayabusa-Future-Enforcer.zip) |
+| Exorcist Hayabusa Kakashi Hatake | [Hayabusa-Exorcist-Hayabusa-Kakashi-Hatake.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Exorcist-Hayabusa-Kakashi-Hatake.zip) |
+| Exorcist Hayabusa Shadow of Obscurity | [Hayabusa-Exorcist-Hayabusa-Shadow-of-Obscurity.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Exorcist-Hayabusa-Shadow-of-Obscurity.zip) |
+| Exorcist Hayabusa Shura | [Hayabusa-Exorcist-Hayabusa-Shura.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Exorcist-Hayabusa-Shura.zip) |
+| Exorcist Hayabusa Spacetime Shadow | [Hayabusa-Exorcist-Hayabusa-Spacetime-Shadow.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Exorcist-Hayabusa-Spacetime-Shadow.zip) |
+| Exorcist Hayabusa Sushi Master Purple | [Hayabusa-Exorcist-Hayabusa-Sushi-Master-Purple.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Exorcist-Hayabusa-Sushi-Master-Purple.zip) |
+| Exorcist Hayabusa Sushi Master | [Hayabusa-Exorcist-Hayabusa-Sushi-Master.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Exorcist-Hayabusa-Sushi-Master.zip) |
+| Exorcist Hayabusa Techie Ninja | [Hayabusa-Exorcist-Hayabusa-Techie-Ninja.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Exorcist-Hayabusa-Techie-Ninja.zip) |
+| Experiment 21 Backup | [Hayabusa-Experiment-21-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Experiment-21-Backup.zip) |
+| Experiment 21 Biological Weapon | [Hayabusa-Experiment-21-Biological-Weapon.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Experiment-21-Biological-Weapon.zip) |
+| Experiment 21 Exorcist Hayabusa | [Hayabusa-Experiment-21-Exorcist-Hayabusa.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Experiment-21-Exorcist-Hayabusa.zip) |
+| Experiment 21 Future Enforcer Iron | [Hayabusa-Experiment-21-Future-Enforcer-Iron.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Experiment-21-Future-Enforcer-Iron.zip) |
+| Experiment 21 Future Enforcer | [Hayabusa-Experiment-21-Future-Enforcer.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Experiment-21-Future-Enforcer.zip) |
+| Experiment 21 Kakashi Hatake | [Hayabusa-Experiment-21-Kakashi-Hatake.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Experiment-21-Kakashi-Hatake.zip) |
+| Experiment 21 Shadow of Obscurity | [Hayabusa-Experiment-21-Shadow-of-Obscurity.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Experiment-21-Shadow-of-Obscurity.zip) |
+| Experiment 21 Shura | [Hayabusa-Experiment-21-Shura.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Experiment-21-Shura.zip) |
+| Experiment 21 Spacetime Shadow | [Hayabusa-Experiment-21-Spacetime-Shadow.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Experiment-21-Spacetime-Shadow.zip) |
+| Experiment 21 Sushi Master Purple | [Hayabusa-Experiment-21-Sushi-Master-Purple.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Experiment-21-Sushi-Master-Purple.zip) |
+| Experiment 21 Sushi Master | [Hayabusa-Experiment-21-Sushi-Master.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Experiment-21-Sushi-Master.zip) |
+| Experiment 21 Techie Ninja | [Hayabusa-Experiment-21-Techie-Ninja.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Experiment-21-Techie-Ninja.zip) |
 | Future Enforcer Backup | [Hayabusa-Future-Enforcer-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Future-Enforcer-Backup.zip) |
+| Future Enforcer Biological Weapon | [Hayabusa-Future-Enforcer-Biological-Weapon.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Future-Enforcer-Biological-Weapon.zip) |
 | Future Enforcer Exorcist Hayabusa | [Hayabusa-Future-Enforcer-Exorcist-Hayabusa.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Future-Enforcer-Exorcist-Hayabusa.zip) |
-| Future Enforcer Exorcist | [Hayabusa-Future-Enforcer-Exorcist.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Future-Enforcer-Exorcist.zip) |
 | Future Enforcer Experiment 21 | [Hayabusa-Future-Enforcer-Experiment-21.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Future-Enforcer-Experiment-21.zip) |
+| Future Enforcer Iron Backup | [Hayabusa-Future-Enforcer-Iron-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Future-Enforcer-Iron-Backup.zip) |
+| Future Enforcer Iron Biological Weapon | [Hayabusa-Future-Enforcer-Iron-Biological-Weapon.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Future-Enforcer-Iron-Biological-Weapon.zip) |
+| Future Enforcer Iron Exorcist Hayabusa | [Hayabusa-Future-Enforcer-Iron-Exorcist-Hayabusa.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Future-Enforcer-Iron-Exorcist-Hayabusa.zip) |
+| Future Enforcer Iron Experiment 21 | [Hayabusa-Future-Enforcer-Iron-Experiment-21.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Future-Enforcer-Iron-Experiment-21.zip) |
+| Future Enforcer Iron Kakashi Hatake | [Hayabusa-Future-Enforcer-Iron-Kakashi-Hatake.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Future-Enforcer-Iron-Kakashi-Hatake.zip) |
+| Future Enforcer Iron Shadow of Obscurity | [Hayabusa-Future-Enforcer-Iron-Shadow-of-Obscurity.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Future-Enforcer-Iron-Shadow-of-Obscurity.zip) |
+| Future Enforcer Iron Shura | [Hayabusa-Future-Enforcer-Iron-Shura.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Future-Enforcer-Iron-Shura.zip) |
+| Future Enforcer Iron Spacetime Shadow | [Hayabusa-Future-Enforcer-Iron-Spacetime-Shadow.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Future-Enforcer-Iron-Spacetime-Shadow.zip) |
+| Future Enforcer Iron Sushi Master Purple | [Hayabusa-Future-Enforcer-Iron-Sushi-Master-Purple.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Future-Enforcer-Iron-Sushi-Master-Purple.zip) |
+| Future Enforcer Iron Sushi Master | [Hayabusa-Future-Enforcer-Iron-Sushi-Master.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Future-Enforcer-Iron-Sushi-Master.zip) |
+| Future Enforcer Iron Techie Ninja | [Hayabusa-Future-Enforcer-Iron-Techie-Ninja.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Future-Enforcer-Iron-Techie-Ninja.zip) |
 | Future Enforcer Kakashi Hatake | [Hayabusa-Future-Enforcer-Kakashi-Hatake.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Future-Enforcer-Kakashi-Hatake.zip) |
-| Future Enforcer Kakashi | [Hayabusa-Future-Enforcer-Kakashi.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Future-Enforcer-Kakashi.zip) |
 | Future Enforcer Shadow of Obscurity | [Hayabusa-Future-Enforcer-Shadow-of-Obscurity.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Future-Enforcer-Shadow-of-Obscurity.zip) |
 | Future Enforcer Shura | [Hayabusa-Future-Enforcer-Shura.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Future-Enforcer-Shura.zip) |
-| Lucky Box Kakashi Hatake | [Hayabusa-Lucky-Box-Kakashi-Hatake.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Lucky-Box-Kakashi-Hatake.zip) |
-| Lucky Box Shadow of Obscurity | [Hayabusa-Lucky-Box-Shadow-of-Obscurity.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Lucky-Box-Shadow-of-Obscurity.zip) |
-| Lucky Box Shura | [Hayabusa-Lucky-Box-Shura.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Lucky-Box-Shura.zip) |
-| Luckybox 11 11 | [Hayabusa-Luckybox-11-11.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Luckybox-11-11.zip) |
-| Luckybox Annual Starlight | [Hayabusa-Luckybox-Annual-Starlight.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Luckybox-Annual-Starlight.zip) |
-| Luckybox Exorcist | [Hayabusa-Luckybox-Exorcist.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Luckybox-Exorcist.zip) |
-| Luckybox Naruto | [Hayabusa-Luckybox-Naruto.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Luckybox-Naruto.zip) |
-| Naruto Luckybox | [Hayabusa-Naruto-Luckybox.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Naruto-Luckybox.zip) |
+| Future Enforcer Spacetime Shadow | [Hayabusa-Future-Enforcer-Spacetime-Shadow.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Future-Enforcer-Spacetime-Shadow.zip) |
+| Future Enforcer Sushi Master Purple | [Hayabusa-Future-Enforcer-Sushi-Master-Purple.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Future-Enforcer-Sushi-Master-Purple.zip) |
+| Future Enforcer Sushi Master | [Hayabusa-Future-Enforcer-Sushi-Master.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Future-Enforcer-Sushi-Master.zip) |
+| Future Enforcer Techie Ninja | [Hayabusa-Future-Enforcer-Techie-Ninja.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Future-Enforcer-Techie-Ninja.zip) |
+| Kakashi Hatake Backup | [Hayabusa-Kakashi-Hatake-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Kakashi-Hatake-Backup.zip) |
+| Kakashi Hatake Biological Weapon | [Hayabusa-Kakashi-Hatake-Biological-Weapon.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Kakashi-Hatake-Biological-Weapon.zip) |
+| Kakashi Hatake Exorcist Hayabusa | [Hayabusa-Kakashi-Hatake-Exorcist-Hayabusa.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Kakashi-Hatake-Exorcist-Hayabusa.zip) |
+| Kakashi Hatake Experiment 21 | [Hayabusa-Kakashi-Hatake-Experiment-21.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Kakashi-Hatake-Experiment-21.zip) |
+| Kakashi Hatake Future Enforcer Iron | [Hayabusa-Kakashi-Hatake-Future-Enforcer-Iron.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Kakashi-Hatake-Future-Enforcer-Iron.zip) |
+| Kakashi Hatake Future Enforcer | [Hayabusa-Kakashi-Hatake-Future-Enforcer.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Kakashi-Hatake-Future-Enforcer.zip) |
+| Kakashi Hatake Shadow of Obscurity | [Hayabusa-Kakashi-Hatake-Shadow-of-Obscurity.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Kakashi-Hatake-Shadow-of-Obscurity.zip) |
+| Kakashi Hatake Shura | [Hayabusa-Kakashi-Hatake-Shura.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Kakashi-Hatake-Shura.zip) |
+| Kakashi Hatake Spacetime Shadow | [Hayabusa-Kakashi-Hatake-Spacetime-Shadow.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Kakashi-Hatake-Spacetime-Shadow.zip) |
+| Kakashi Hatake Sushi Master Purple | [Hayabusa-Kakashi-Hatake-Sushi-Master-Purple.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Kakashi-Hatake-Sushi-Master-Purple.zip) |
+| Kakashi Hatake Sushi Master | [Hayabusa-Kakashi-Hatake-Sushi-Master.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Kakashi-Hatake-Sushi-Master.zip) |
+| Kakashi Hatake Techie Ninja | [Hayabusa-Kakashi-Hatake-Techie-Ninja.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Kakashi-Hatake-Techie-Ninja.zip) |
 | Shadow of Obscurity Backup | [Hayabusa-Shadow-of-Obscurity-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Shadow-of-Obscurity-Backup.zip) |
+| Shadow of Obscurity Biological Weapon | [Hayabusa-Shadow-of-Obscurity-Biological-Weapon.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Shadow-of-Obscurity-Biological-Weapon.zip) |
+| Shadow of Obscurity Exorcist Hayabusa | [Hayabusa-Shadow-of-Obscurity-Exorcist-Hayabusa.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Shadow-of-Obscurity-Exorcist-Hayabusa.zip) |
+| Shadow of Obscurity Experiment 21 | [Hayabusa-Shadow-of-Obscurity-Experiment-21.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Shadow-of-Obscurity-Experiment-21.zip) |
+| Shadow of Obscurity Future Enforcer Iron | [Hayabusa-Shadow-of-Obscurity-Future-Enforcer-Iron.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Shadow-of-Obscurity-Future-Enforcer-Iron.zip) |
+| Shadow of Obscurity Future Enforcer | [Hayabusa-Shadow-of-Obscurity-Future-Enforcer.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Shadow-of-Obscurity-Future-Enforcer.zip) |
 | Shadow of Obscurity Kakashi Hatake | [Hayabusa-Shadow-of-Obscurity-Kakashi-Hatake.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Shadow-of-Obscurity-Kakashi-Hatake.zip) |
 | Shadow of Obscurity Shura | [Hayabusa-Shadow-of-Obscurity-Shura.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Shadow-of-Obscurity-Shura.zip) |
+| Shadow of Obscurity Spacetime Shadow | [Hayabusa-Shadow-of-Obscurity-Spacetime-Shadow.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Shadow-of-Obscurity-Spacetime-Shadow.zip) |
+| Shadow of Obscurity Sushi Master Purple | [Hayabusa-Shadow-of-Obscurity-Sushi-Master-Purple.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Shadow-of-Obscurity-Sushi-Master-Purple.zip) |
+| Shadow of Obscurity Sushi Master | [Hayabusa-Shadow-of-Obscurity-Sushi-Master.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Shadow-of-Obscurity-Sushi-Master.zip) |
+| Shadow of Obscurity Techie Ninja | [Hayabusa-Shadow-of-Obscurity-Techie-Ninja.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Shadow-of-Obscurity-Techie-Ninja.zip) |
+| Shura Backup | [Hayabusa-Shura-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Shura-Backup.zip) |
+| Shura Biological Weapon | [Hayabusa-Shura-Biological-Weapon.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Shura-Biological-Weapon.zip) |
+| Shura Exorcist Hayabusa | [Hayabusa-Shura-Exorcist-Hayabusa.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Shura-Exorcist-Hayabusa.zip) |
+| Shura Experiment 21 | [Hayabusa-Shura-Experiment-21.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Shura-Experiment-21.zip) |
+| Shura Future Enforcer Iron | [Hayabusa-Shura-Future-Enforcer-Iron.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Shura-Future-Enforcer-Iron.zip) |
+| Shura Future Enforcer | [Hayabusa-Shura-Future-Enforcer.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Shura-Future-Enforcer.zip) |
+| Shura Kakashi Hatake | [Hayabusa-Shura-Kakashi-Hatake.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Shura-Kakashi-Hatake.zip) |
+| Shura Shadow of Obscurity | [Hayabusa-Shura-Shadow-of-Obscurity.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Shura-Shadow-of-Obscurity.zip) |
+| Shura Spacetime Shadow | [Hayabusa-Shura-Spacetime-Shadow.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Shura-Spacetime-Shadow.zip) |
+| Shura Sushi Master Purple | [Hayabusa-Shura-Sushi-Master-Purple.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Shura-Sushi-Master-Purple.zip) |
+| Shura Sushi Master | [Hayabusa-Shura-Sushi-Master.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Shura-Sushi-Master.zip) |
+| Shura Techie Ninja | [Hayabusa-Shura-Techie-Ninja.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Shura-Techie-Ninja.zip) |
 | Spacetime Shadow Backup | [Hayabusa-Spacetime-Shadow-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Spacetime-Shadow-Backup.zip) |
+| Spacetime Shadow Biological Weapon | [Hayabusa-Spacetime-Shadow-Biological-Weapon.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Spacetime-Shadow-Biological-Weapon.zip) |
 | Spacetime Shadow Exorcist Hayabusa | [Hayabusa-Spacetime-Shadow-Exorcist-Hayabusa.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Spacetime-Shadow-Exorcist-Hayabusa.zip) |
-| Spacetime Shadow Exorcist | [Hayabusa-Spacetime-Shadow-Exorcist.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Spacetime-Shadow-Exorcist.zip) |
 | Spacetime Shadow Experiment 21 | [Hayabusa-Spacetime-Shadow-Experiment-21.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Spacetime-Shadow-Experiment-21.zip) |
+| Spacetime Shadow Future Enforcer Iron | [Hayabusa-Spacetime-Shadow-Future-Enforcer-Iron.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Spacetime-Shadow-Future-Enforcer-Iron.zip) |
+| Spacetime Shadow Future Enforcer | [Hayabusa-Spacetime-Shadow-Future-Enforcer.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Spacetime-Shadow-Future-Enforcer.zip) |
 | Spacetime Shadow Kakashi Hatake | [Hayabusa-Spacetime-Shadow-Kakashi-Hatake.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Spacetime-Shadow-Kakashi-Hatake.zip) |
 | Spacetime Shadow Shadow of Obscurity | [Hayabusa-Spacetime-Shadow-Shadow-of-Obscurity.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Spacetime-Shadow-Shadow-of-Obscurity.zip) |
 | Spacetime Shadow Shura | [Hayabusa-Spacetime-Shadow-Shura.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Spacetime-Shadow-Shura.zip) |
-| Spacetime Shadow Summer Festival | [Hayabusa-Spacetime-Shadow-Summer-Festival.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Spacetime-Shadow-Summer-Festival.zip) |
-| Starlight 2020 11 11 | [Hayabusa-Starlight-2020-11-11.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Starlight-2020-11-11.zip) |
-| Starlight 2020 Annual Starlight | [Hayabusa-Starlight-2020-Annual-Starlight.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Starlight-2020-Annual-Starlight.zip) |
-| Starlight 2020 Exorcist | [Hayabusa-Starlight-2020-Exorcist.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Starlight-2020-Exorcist.zip) |
-| Starlight 2020 Luckybox | [Hayabusa-Starlight-2020-Luckybox.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Starlight-2020-Luckybox.zip) |
-| Starlight 2020 Naruto | [Hayabusa-Starlight-2020-Naruto.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Starlight-2020-Naruto.zip) |
-| Starlight Kakashi Hatake | [Hayabusa-Starlight-Kakashi-Hatake.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Starlight-Kakashi-Hatake.zip) |
-| Starlight Shadow of Obscurity | [Hayabusa-Starlight-Shadow-of-Obscurity.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Starlight-Shadow-of-Obscurity.zip) |
-| Starlight Shura | [Hayabusa-Starlight-Shura.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Starlight-Shura.zip) |
-| Summer 11 11 | [Hayabusa-Summer-11-11.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Summer-11-11.zip) |
-| Summer Annual Starlight | [Hayabusa-Summer-Annual-Starlight.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Summer-Annual-Starlight.zip) |
-| Summer Exorcist Hayabusa | [Hayabusa-Summer-Exorcist-Hayabusa.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Summer-Exorcist-Hayabusa.zip) |
-| Summer Exorcist | [Hayabusa-Summer-Exorcist.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Summer-Exorcist.zip) |
-| Summer Experiment 21 | [Hayabusa-Summer-Experiment-21.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Summer-Experiment-21.zip) |
-| Summer Festival Backup | [Hayabusa-Summer-Festival-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Summer-Festival-Backup.zip) |
-| Summer Festival Exorcist | [Hayabusa-Summer-Festival-Exorcist.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Summer-Festival-Exorcist.zip) |
-| Summer Festival Experiment 21 | [Hayabusa-Summer-Festival-Experiment-21.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Summer-Festival-Experiment-21.zip) |
-| Summer Festival Kakashi Hatake | [Hayabusa-Summer-Festival-Kakashi-Hatake.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Summer-Festival-Kakashi-Hatake.zip) |
-| Summer Festival Kakashi | [Hayabusa-Summer-Festival-Kakashi.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Summer-Festival-Kakashi.zip) |
-| Summer Festival Shadow of Obscurity | [Hayabusa-Summer-Festival-Shadow-of-Obscurity.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Summer-Festival-Shadow-of-Obscurity.zip) |
-| Summer Festival Shura | [Hayabusa-Summer-Festival-Shura.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Summer-Festival-Shura.zip) |
-| Summer Kakashi Hatake | [Hayabusa-Summer-Kakashi-Hatake.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Summer-Kakashi-Hatake.zip) |
-| Summer Luckybox | [Hayabusa-Summer-Luckybox.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Summer-Luckybox.zip) |
-| Summer Naruto | [Hayabusa-Summer-Naruto.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Summer-Naruto.zip) |
-| Summer Shadow of Obscurity | [Hayabusa-Summer-Shadow-of-Obscurity.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Summer-Shadow-of-Obscurity.zip) |
-| Summer Shura | [Hayabusa-Summer-Shura.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Summer-Shura.zip) |
-| Summer Sushi Master | [Hayabusa-Summer-Sushi-Master.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Summer-Sushi-Master.zip) |
+| Spacetime Shadow Sushi Master Purple | [Hayabusa-Spacetime-Shadow-Sushi-Master-Purple.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Spacetime-Shadow-Sushi-Master-Purple.zip) |
+| Spacetime Shadow Sushi Master | [Hayabusa-Spacetime-Shadow-Sushi-Master.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Spacetime-Shadow-Sushi-Master.zip) |
+| Spacetime Shadow Techie Ninja | [Hayabusa-Spacetime-Shadow-Techie-Ninja.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Spacetime-Shadow-Techie-Ninja.zip) |
 | Sushi Master Backup | [Hayabusa-Sushi-Master-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Sushi-Master-Backup.zip) |
+| Sushi Master Biological Weapon | [Hayabusa-Sushi-Master-Biological-Weapon.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Sushi-Master-Biological-Weapon.zip) |
 | Sushi Master Exorcist Hayabusa | [Hayabusa-Sushi-Master-Exorcist-Hayabusa.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Sushi-Master-Exorcist-Hayabusa.zip) |
+| Sushi Master Experiment 21 | [Hayabusa-Sushi-Master-Experiment-21.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Sushi-Master-Experiment-21.zip) |
+| Sushi Master Future Enforcer Iron | [Hayabusa-Sushi-Master-Future-Enforcer-Iron.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Sushi-Master-Future-Enforcer-Iron.zip) |
+| Sushi Master Future Enforcer | [Hayabusa-Sushi-Master-Future-Enforcer.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Sushi-Master-Future-Enforcer.zip) |
 | Sushi Master Kakashi Hatake | [Hayabusa-Sushi-Master-Kakashi-Hatake.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Sushi-Master-Kakashi-Hatake.zip) |
+| Sushi Master Purple Backup | [Hayabusa-Sushi-Master-Purple-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Sushi-Master-Purple-Backup.zip) |
+| Sushi Master Purple Biological Weapon | [Hayabusa-Sushi-Master-Purple-Biological-Weapon.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Sushi-Master-Purple-Biological-Weapon.zip) |
+| Sushi Master Purple Exorcist Hayabusa | [Hayabusa-Sushi-Master-Purple-Exorcist-Hayabusa.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Sushi-Master-Purple-Exorcist-Hayabusa.zip) |
+| Sushi Master Purple Experiment 21 | [Hayabusa-Sushi-Master-Purple-Experiment-21.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Sushi-Master-Purple-Experiment-21.zip) |
+| Sushi Master Purple Future Enforcer Iron | [Hayabusa-Sushi-Master-Purple-Future-Enforcer-Iron.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Sushi-Master-Purple-Future-Enforcer-Iron.zip) |
+| Sushi Master Purple Future Enforcer | [Hayabusa-Sushi-Master-Purple-Future-Enforcer.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Sushi-Master-Purple-Future-Enforcer.zip) |
+| Sushi Master Purple Kakashi Hatake | [Hayabusa-Sushi-Master-Purple-Kakashi-Hatake.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Sushi-Master-Purple-Kakashi-Hatake.zip) |
+| Sushi Master Purple Shadow of Obscurity | [Hayabusa-Sushi-Master-Purple-Shadow-of-Obscurity.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Sushi-Master-Purple-Shadow-of-Obscurity.zip) |
+| Sushi Master Purple Shura | [Hayabusa-Sushi-Master-Purple-Shura.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Sushi-Master-Purple-Shura.zip) |
+| Sushi Master Purple Spacetime Shadow | [Hayabusa-Sushi-Master-Purple-Spacetime-Shadow.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Sushi-Master-Purple-Spacetime-Shadow.zip) |
+| Sushi Master Purple Techie Ninja | [Hayabusa-Sushi-Master-Purple-Techie-Ninja.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Sushi-Master-Purple-Techie-Ninja.zip) |
 | Sushi Master Shadow of Obscurity | [Hayabusa-Sushi-Master-Shadow-of-Obscurity.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Sushi-Master-Shadow-of-Obscurity.zip) |
 | Sushi Master Shura | [Hayabusa-Sushi-Master-Shura.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Sushi-Master-Shura.zip) |
+| Sushi Master Spacetime Shadow | [Hayabusa-Sushi-Master-Spacetime-Shadow.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Sushi-Master-Spacetime-Shadow.zip) |
+| Sushi Master Techie Ninja | [Hayabusa-Sushi-Master-Techie-Ninja.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Sushi-Master-Techie-Ninja.zip) |
 | Techie Ninja Backup | [Hayabusa-Techie-Ninja-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Techie-Ninja-Backup.zip) |
+| Techie Ninja Biological Weapon | [Hayabusa-Techie-Ninja-Biological-Weapon.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Techie-Ninja-Biological-Weapon.zip) |
 | Techie Ninja Exorcist Hayabusa | [Hayabusa-Techie-Ninja-Exorcist-Hayabusa.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Techie-Ninja-Exorcist-Hayabusa.zip) |
-| Techie Ninja Exorcist | [Hayabusa-Techie-Ninja-Exorcist.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Techie-Ninja-Exorcist.zip) |
+| Techie Ninja Experiment 21 | [Hayabusa-Techie-Ninja-Experiment-21.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Techie-Ninja-Experiment-21.zip) |
+| Techie Ninja Future Enforcer Iron | [Hayabusa-Techie-Ninja-Future-Enforcer-Iron.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Techie-Ninja-Future-Enforcer-Iron.zip) |
+| Techie Ninja Future Enforcer | [Hayabusa-Techie-Ninja-Future-Enforcer.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Techie-Ninja-Future-Enforcer.zip) |
 | Techie Ninja Kakashi Hatake | [Hayabusa-Techie-Ninja-Kakashi-Hatake.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Techie-Ninja-Kakashi-Hatake.zip) |
-| Techie Ninja Kakashi | [Hayabusa-Techie-Ninja-Kakashi.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Techie-Ninja-Kakashi.zip) |
 | Techie Ninja Shadow of Obscurity | [Hayabusa-Techie-Ninja-Shadow-of-Obscurity.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Techie-Ninja-Shadow-of-Obscurity.zip) |
 | Techie Ninja Shura | [Hayabusa-Techie-Ninja-Shura.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Techie-Ninja-Shura.zip) |
+| Techie Ninja Spacetime Shadow | [Hayabusa-Techie-Ninja-Spacetime-Shadow.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Techie-Ninja-Spacetime-Shadow.zip) |
+| Techie Ninja Sushi Master Purple | [Hayabusa-Techie-Ninja-Sushi-Master-Purple.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Techie-Ninja-Sushi-Master-Purple.zip) |
+| Techie Ninja Sushi Master | [Hayabusa-Techie-Ninja-Sushi-Master.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hayabusa/Hayabusa-Techie-Ninja-Sushi-Master.zip) |
