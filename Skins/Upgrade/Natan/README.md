@@ -5,64 +5,52 @@ Validated upgrade-skin packages. All downloads are published in the
 
 | Package | Download |
 | --- | --- |
-| Basic Archon of Knowledge | [Natan-Basic-Archon-of-Knowledge.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-natan/Natan-Basic-Archon-of-Knowledge.zip) |
-| Basic Captain Chrono | [Natan-Basic-Captain-Chrono.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-natan/Natan-Basic-Captain-Chrono.zip) |
-| Basic Collector | [Natan-Basic-Collector.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-natan/Natan-Basic-Collector.zip) |
-| Basic Covenant | [Natan-Basic-Covenant.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-natan/Natan-Basic-Covenant.zip) |
-| Basic MSC 2024 | [Natan-Basic-MSC-2024.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-natan/Natan-Basic-MSC-2024.zip) |
-| Basic Tidal Lord | [Natan-Basic-Tidal-Lord.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-natan/Natan-Basic-Tidal-Lord.zip) |
-| Basic Time Wielder | [Natan-Basic-Time-Wielder.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-natan/Natan-Basic-Time-Wielder.zip) |
+| Archon of Knowledge Backup | [Natan-Archon-of-Knowledge-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-natan/Natan-Archon-of-Knowledge-Backup.zip) |
+| Archon of Knowledge Captain Chrono | [Natan-Archon-of-Knowledge-Captain-Chrono.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-natan/Natan-Archon-of-Knowledge-Captain-Chrono.zip) |
+| Archon of Knowledge Chaos Hunter | [Natan-Archon-of-Knowledge-Chaos-Hunter.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-natan/Natan-Archon-of-Knowledge-Chaos-Hunter.zip) |
+| Archon of Knowledge Sanguine Steward | [Natan-Archon-of-Knowledge-Sanguine-Steward.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-natan/Natan-Archon-of-Knowledge-Sanguine-Steward.zip) |
+| Archon of Knowledge Temporal Vortex | [Natan-Archon-of-Knowledge-Temporal-Vortex.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-natan/Natan-Archon-of-Knowledge-Temporal-Vortex.zip) |
+| Archon of Knowledge Tidal Lord | [Natan-Archon-of-Knowledge-Tidal-Lord.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-natan/Natan-Archon-of-Knowledge-Tidal-Lord.zip) |
+| Archon of Knowledge Time Wielder | [Natan-Archon-of-Knowledge-Time-Wielder.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-natan/Natan-Archon-of-Knowledge-Time-Wielder.zip) |
+| Captain Chrono Archon of Knowledge | [Natan-Captain-Chrono-Archon-of-Knowledge.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-natan/Natan-Captain-Chrono-Archon-of-Knowledge.zip) |
 | Captain Chrono Backup | [Natan-Captain-Chrono-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-natan/Natan-Captain-Chrono-Backup.zip) |
-| Captain Chrono Saguine Steward | [Natan-Captain-Chrono-Saguine-Steward.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-natan/Natan-Captain-Chrono-Saguine-Steward.zip) |
+| Captain Chrono Chaos Hunter | [Natan-Captain-Chrono-Chaos-Hunter.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-natan/Natan-Captain-Chrono-Chaos-Hunter.zip) |
 | Captain Chrono Sanguine Steward | [Natan-Captain-Chrono-Sanguine-Steward.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-natan/Natan-Captain-Chrono-Sanguine-Steward.zip) |
+| Captain Chrono Temporal Vortex | [Natan-Captain-Chrono-Temporal-Vortex.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-natan/Natan-Captain-Chrono-Temporal-Vortex.zip) |
 | Captain Chrono Tidal Lord | [Natan-Captain-Chrono-Tidal-Lord.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-natan/Natan-Captain-Chrono-Tidal-Lord.zip) |
-| Captain Chrono Tital Loard | [Natan-Captain-Chrono-Tital-Loard.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-natan/Natan-Captain-Chrono-Tital-Loard.zip) |
+| Captain Chrono Time Wielder | [Natan-Captain-Chrono-Time-Wielder.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-natan/Natan-Captain-Chrono-Time-Wielder.zip) |
 | Chaos Hunter Archon of Knowledge | [Natan-Chaos-Hunter-Archon-of-Knowledge.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-natan/Natan-Chaos-Hunter-Archon-of-Knowledge.zip) |
 | Chaos Hunter Backup | [Natan-Chaos-Hunter-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-natan/Natan-Chaos-Hunter-Backup.zip) |
 | Chaos Hunter Captain Chrono | [Natan-Chaos-Hunter-Captain-Chrono.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-natan/Natan-Chaos-Hunter-Captain-Chrono.zip) |
-| Chaos Hunter Saguine Steward | [Natan-Chaos-Hunter-Saguine-Steward.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-natan/Natan-Chaos-Hunter-Saguine-Steward.zip) |
 | Chaos Hunter Sanguine Steward | [Natan-Chaos-Hunter-Sanguine-Steward.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-natan/Natan-Chaos-Hunter-Sanguine-Steward.zip) |
+| Chaos Hunter Temporal Vortex | [Natan-Chaos-Hunter-Temporal-Vortex.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-natan/Natan-Chaos-Hunter-Temporal-Vortex.zip) |
 | Chaos Hunter Tidal Lord | [Natan-Chaos-Hunter-Tidal-Lord.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-natan/Natan-Chaos-Hunter-Tidal-Lord.zip) |
-| Chaos Hunter Tital Loard | [Natan-Chaos-Hunter-Tital-Loard.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-natan/Natan-Chaos-Hunter-Tital-Loard.zip) |
-| Collector Covenant | [Natan-Collector-Covenant.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-natan/Natan-Collector-Covenant.zip) |
-| Collector MSC 2024 | [Natan-Collector-MSC-2024.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-natan/Natan-Collector-MSC-2024.zip) |
-| Default Collector | [Natan-Default-Collector.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-natan/Natan-Default-Collector.zip) |
-| Default Covenant | [Natan-Default-Covenant.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-natan/Natan-Default-Covenant.zip) |
-| Default MSC 2024 | [Natan-Default-MSC-2024.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-natan/Natan-Default-MSC-2024.zip) |
-| Elite Archon of Knowledge | [Natan-Elite-Archon-of-Knowledge.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-natan/Natan-Elite-Archon-of-Knowledge.zip) |
-| Elite Captain Chrono | [Natan-Elite-Captain-Chrono.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-natan/Natan-Elite-Captain-Chrono.zip) |
-| Elite Chaos Hunter | [Natan-Elite-Chaos-Hunter.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-natan/Natan-Elite-Chaos-Hunter.zip) |
-| Elite Collector | [Natan-Elite-Collector.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-natan/Natan-Elite-Collector.zip) |
-| Elite Covenant | [Natan-Elite-Covenant.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-natan/Natan-Elite-Covenant.zip) |
-| Elite MSC 2024 | [Natan-Elite-MSC-2024.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-natan/Natan-Elite-MSC-2024.zip) |
-| Elite Tidal Lord | [Natan-Elite-Tidal-Lord.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-natan/Natan-Elite-Tidal-Lord.zip) |
-| MSC 2024 Collector | [Natan-MSC-2024-Collector.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-natan/Natan-MSC-2024-Collector.zip) |
-| Spacetime Walker Archon of Knowledge | [Natan-Spacetime-Walker-Archon-of-Knowledge.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-natan/Natan-Spacetime-Walker-Archon-of-Knowledge.zip) |
-| Spacetime Walker Backup | [Natan-Spacetime-Walker-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-natan/Natan-Spacetime-Walker-Backup.zip) |
-| Spacetime Walker Captain Chrono | [Natan-Spacetime-Walker-Captain-Chrono.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-natan/Natan-Spacetime-Walker-Captain-Chrono.zip) |
-| Spacetime Walker Chaos Hunter | [Natan-Spacetime-Walker-Chaos-Hunter.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-natan/Natan-Spacetime-Walker-Chaos-Hunter.zip) |
-| Spacetime Walker Saguine Steward | [Natan-Spacetime-Walker-Saguine-Steward.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-natan/Natan-Spacetime-Walker-Saguine-Steward.zip) |
-| Spacetime Walker Temporal Vortex | [Natan-Spacetime-Walker-Temporal-Vortex.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-natan/Natan-Spacetime-Walker-Temporal-Vortex.zip) |
-| Spacetime Walker Tidal Lord | [Natan-Spacetime-Walker-Tidal-Lord.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-natan/Natan-Spacetime-Walker-Tidal-Lord.zip) |
-| Special Archon of Knowledge | [Natan-Special-Archon-of-Knowledge.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-natan/Natan-Special-Archon-of-Knowledge.zip) |
-| Special Collector | [Natan-Special-Collector.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-natan/Natan-Special-Collector.zip) |
-| Special Covenant | [Natan-Special-Covenant.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-natan/Natan-Special-Covenant.zip) |
-| Special MSC 2024 | [Natan-Special-MSC-2024.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-natan/Natan-Special-MSC-2024.zip) |
-| Special Temporal Vortex | [Natan-Special-Temporal-Vortex.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-natan/Natan-Special-Temporal-Vortex.zip) |
-| Special Tidal Lord | [Natan-Special-Tidal-Lord.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-natan/Natan-Special-Tidal-Lord.zip) |
-| Starlight 2022 Collector | [Natan-Starlight-2022-Collector.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-natan/Natan-Starlight-2022-Collector.zip) |
-| Starlight 2022 Covenant | [Natan-Starlight-2022-Covenant.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-natan/Natan-Starlight-2022-Covenant.zip) |
-| Starlight 2022 MSC 2024 | [Natan-Starlight-2022-MSC-2024.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-natan/Natan-Starlight-2022-MSC-2024.zip) |
+| Chaos Hunter Time Wielder | [Natan-Chaos-Hunter-Time-Wielder.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-natan/Natan-Chaos-Hunter-Time-Wielder.zip) |
+| Sanguine Steward Archon of Knowledge | [Natan-Sanguine-Steward-Archon-of-Knowledge.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-natan/Natan-Sanguine-Steward-Archon-of-Knowledge.zip) |
+| Sanguine Steward Backup | [Natan-Sanguine-Steward-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-natan/Natan-Sanguine-Steward-Backup.zip) |
+| Sanguine Steward Captain Chrono | [Natan-Sanguine-Steward-Captain-Chrono.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-natan/Natan-Sanguine-Steward-Captain-Chrono.zip) |
+| Sanguine Steward Chaos Hunter | [Natan-Sanguine-Steward-Chaos-Hunter.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-natan/Natan-Sanguine-Steward-Chaos-Hunter.zip) |
+| Sanguine Steward Temporal Vortex | [Natan-Sanguine-Steward-Temporal-Vortex.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-natan/Natan-Sanguine-Steward-Temporal-Vortex.zip) |
+| Sanguine Steward Tidal Lord | [Natan-Sanguine-Steward-Tidal-Lord.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-natan/Natan-Sanguine-Steward-Tidal-Lord.zip) |
+| Sanguine Steward Time Wielder | [Natan-Sanguine-Steward-Time-Wielder.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-natan/Natan-Sanguine-Steward-Time-Wielder.zip) |
 | Temporal Vortex Archon of Knowledge | [Natan-Temporal-Vortex-Archon-of-Knowledge.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-natan/Natan-Temporal-Vortex-Archon-of-Knowledge.zip) |
 | Temporal Vortex Backup | [Natan-Temporal-Vortex-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-natan/Natan-Temporal-Vortex-Backup.zip) |
-| Temporal Vortex Saguine Steward | [Natan-Temporal-Vortex-Saguine-Steward.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-natan/Natan-Temporal-Vortex-Saguine-Steward.zip) |
+| Temporal Vortex Captain Chrono | [Natan-Temporal-Vortex-Captain-Chrono.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-natan/Natan-Temporal-Vortex-Captain-Chrono.zip) |
+| Temporal Vortex Chaos Hunter | [Natan-Temporal-Vortex-Chaos-Hunter.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-natan/Natan-Temporal-Vortex-Chaos-Hunter.zip) |
 | Temporal Vortex Sanguine Steward | [Natan-Temporal-Vortex-Sanguine-Steward.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-natan/Natan-Temporal-Vortex-Sanguine-Steward.zip) |
 | Temporal Vortex Tidal Lord | [Natan-Temporal-Vortex-Tidal-Lord.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-natan/Natan-Temporal-Vortex-Tidal-Lord.zip) |
+| Temporal Vortex Time Wielder | [Natan-Temporal-Vortex-Time-Wielder.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-natan/Natan-Temporal-Vortex-Time-Wielder.zip) |
+| Tidal Lord Archon of Knowledge | [Natan-Tidal-Lord-Archon-of-Knowledge.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-natan/Natan-Tidal-Lord-Archon-of-Knowledge.zip) |
+| Tidal Lord Backup | [Natan-Tidal-Lord-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-natan/Natan-Tidal-Lord-Backup.zip) |
+| Tidal Lord Captain Chrono | [Natan-Tidal-Lord-Captain-Chrono.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-natan/Natan-Tidal-Lord-Captain-Chrono.zip) |
+| Tidal Lord Chaos Hunter | [Natan-Tidal-Lord-Chaos-Hunter.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-natan/Natan-Tidal-Lord-Chaos-Hunter.zip) |
+| Tidal Lord Sanguine Steward | [Natan-Tidal-Lord-Sanguine-Steward.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-natan/Natan-Tidal-Lord-Sanguine-Steward.zip) |
+| Tidal Lord Temporal Vortex | [Natan-Tidal-Lord-Temporal-Vortex.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-natan/Natan-Tidal-Lord-Temporal-Vortex.zip) |
+| Tidal Lord Time Wielder | [Natan-Tidal-Lord-Time-Wielder.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-natan/Natan-Tidal-Lord-Time-Wielder.zip) |
 | Time Wielder Archon of Knowledge | [Natan-Time-Wielder-Archon-of-Knowledge.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-natan/Natan-Time-Wielder-Archon-of-Knowledge.zip) |
 | Time Wielder Backup | [Natan-Time-Wielder-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-natan/Natan-Time-Wielder-Backup.zip) |
 | Time Wielder Captain Chrono | [Natan-Time-Wielder-Captain-Chrono.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-natan/Natan-Time-Wielder-Captain-Chrono.zip) |
-| Time Wielder Saguine Steward | [Natan-Time-Wielder-Saguine-Steward.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-natan/Natan-Time-Wielder-Saguine-Steward.zip) |
+| Time Wielder Chaos Hunter | [Natan-Time-Wielder-Chaos-Hunter.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-natan/Natan-Time-Wielder-Chaos-Hunter.zip) |
 | Time Wielder Sanguine Steward | [Natan-Time-Wielder-Sanguine-Steward.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-natan/Natan-Time-Wielder-Sanguine-Steward.zip) |
 | Time Wielder Temporal Vortex | [Natan-Time-Wielder-Temporal-Vortex.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-natan/Natan-Time-Wielder-Temporal-Vortex.zip) |
 | Time Wielder Tidal Lord | [Natan-Time-Wielder-Tidal-Lord.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-natan/Natan-Time-Wielder-Tidal-Lord.zip) |
-| Time Wielder Tital Lord | [Natan-Time-Wielder-Tital-Lord.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-natan/Natan-Time-Wielder-Tital-Lord.zip) |
