@@ -5,139 +5,160 @@ Validated upgrade-skin packages. All downloads are published in the
 
 | Package | Download |
 | --- | --- |
+| Agent Z Alluring Enigma | [Granger-Agent-Z-Alluring-Enigma.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Agent-Z-Alluring-Enigma.zip) |
 | Agent Z Backup | [Granger-Agent-Z-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Agent-Z-Backup.zip) |
+| Agent Z Bardic Whisper | [Granger-Agent-Z-Bardic-Whisper.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Agent-Z-Bardic-Whisper.zip) |
+| Agent Z Biosoldier | [Granger-Agent-Z-Biosoldier.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Agent-Z-Biosoldier.zip) |
+| Agent Z Doomsday Punisher | [Granger-Agent-Z-Doomsday-Punisher.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Agent-Z-Doomsday-Punisher.zip) |
+| Agent Z Doomsday Terminator | [Granger-Agent-Z-Doomsday-Terminator.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Agent-Z-Doomsday-Terminator.zip) |
+| Agent Z Exorcist Granger | [Granger-Agent-Z-Exorcist-Granger.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Agent-Z-Exorcist-Granger.zip) |
+| Agent Z Hellbringer | [Granger-Agent-Z-Hellbringer.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Agent-Z-Hellbringer.zip) |
+| Agent Z Lightborn Overrider | [Granger-Agent-Z-Lightborn-Overrider.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Agent-Z-Lightborn-Overrider.zip) |
+| Agent Z Megatron | [Granger-Agent-Z-Megatron.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Agent-Z-Megatron.zip) |
 | Agent Z Starfall Knight | [Granger-Agent-Z-Starfall-Knight.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Agent-Z-Starfall-Knight.zip) |
+| Agent Z Thunder Ascendant | [Granger-Agent-Z-Thunder-Ascendant.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Agent-Z-Thunder-Ascendant.zip) |
+| Alluring Enigma Agent Z | [Granger-Alluring-Enigma-Agent-Z.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Alluring-Enigma-Agent-Z.zip) |
 | Alluring Enigma Backup | [Granger-Alluring-Enigma-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Alluring-Enigma-Backup.zip) |
-| Alluring Enigma Cosmic Finality | [Granger-Alluring-Enigma-Cosmic-Finality.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Alluring-Enigma-Cosmic-Finality.zip) |
+| Alluring Enigma Bardic Whisper | [Granger-Alluring-Enigma-Bardic-Whisper.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Alluring-Enigma-Bardic-Whisper.zip) |
+| Alluring Enigma Biosoldier | [Granger-Alluring-Enigma-Biosoldier.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Alluring-Enigma-Biosoldier.zip) |
+| Alluring Enigma Doomsday Punisher | [Granger-Alluring-Enigma-Doomsday-Punisher.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Alluring-Enigma-Doomsday-Punisher.zip) |
+| Alluring Enigma Doomsday Terminator | [Granger-Alluring-Enigma-Doomsday-Terminator.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Alluring-Enigma-Doomsday-Terminator.zip) |
 | Alluring Enigma Exorcist Granger | [Granger-Alluring-Enigma-Exorcist-Granger.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Alluring-Enigma-Exorcist-Granger.zip) |
-| Alluring Enigma Exorcist | [Granger-Alluring-Enigma-Exorcist.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Alluring-Enigma-Exorcist.zip) |
+| Alluring Enigma Hellbringer | [Granger-Alluring-Enigma-Hellbringer.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Alluring-Enigma-Hellbringer.zip) |
+| Alluring Enigma Lightborn Overrider | [Granger-Alluring-Enigma-Lightborn-Overrider.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Alluring-Enigma-Lightborn-Overrider.zip) |
+| Alluring Enigma Megatron | [Granger-Alluring-Enigma-Megatron.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Alluring-Enigma-Megatron.zip) |
+| Alluring Enigma Starfall Knight | [Granger-Alluring-Enigma-Starfall-Knight.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Alluring-Enigma-Starfall-Knight.zip) |
+| Alluring Enigma Thunder Ascendant | [Granger-Alluring-Enigma-Thunder-Ascendant.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Alluring-Enigma-Thunder-Ascendant.zip) |
 | Bardic Whisper Agent Z | [Granger-Bardic-Whisper-Agent-Z.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Bardic-Whisper-Agent-Z.zip) |
 | Bardic Whisper Alluring Enigma | [Granger-Bardic-Whisper-Alluring-Enigma.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Bardic-Whisper-Alluring-Enigma.zip) |
 | Bardic Whisper Backup | [Granger-Bardic-Whisper-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Bardic-Whisper-Backup.zip) |
-| Bardic Whisper Cosmic Finality | [Granger-Bardic-Whisper-Cosmic-Finality.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Bardic-Whisper-Cosmic-Finality.zip) |
+| Bardic Whisper Biosoldier | [Granger-Bardic-Whisper-Biosoldier.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Bardic-Whisper-Biosoldier.zip) |
+| Bardic Whisper Doomsday Punisher | [Granger-Bardic-Whisper-Doomsday-Punisher.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Bardic-Whisper-Doomsday-Punisher.zip) |
+| Bardic Whisper Doomsday Terminator | [Granger-Bardic-Whisper-Doomsday-Terminator.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Bardic-Whisper-Doomsday-Terminator.zip) |
 | Bardic Whisper Exorcist Granger | [Granger-Bardic-Whisper-Exorcist-Granger.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Bardic-Whisper-Exorcist-Granger.zip) |
-| Bardic Whisper Lightborn Override | [Granger-Bardic-Whisper-Lightborn-Override.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Bardic-Whisper-Lightborn-Override.zip) |
+| Bardic Whisper Hellbringer | [Granger-Bardic-Whisper-Hellbringer.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Bardic-Whisper-Hellbringer.zip) |
 | Bardic Whisper Lightborn Overrider | [Granger-Bardic-Whisper-Lightborn-Overrider.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Bardic-Whisper-Lightborn-Overrider.zip) |
 | Bardic Whisper Megatron | [Granger-Bardic-Whisper-Megatron.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Bardic-Whisper-Megatron.zip) |
-| Bardic Whisper Soul Vessels | [Granger-Bardic-Whisper-Soul-Vessels.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Bardic-Whisper-Soul-Vessels.zip) |
 | Bardic Whisper Starfall Knight | [Granger-Bardic-Whisper-Starfall-Knight.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Bardic-Whisper-Starfall-Knight.zip) |
-| Bardic Whisper Starfall Night | [Granger-Bardic-Whisper-Starfall-Night.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Bardic-Whisper-Starfall-Night.zip) |
-| Basic Agent Z | [Granger-Basic-Agent-Z.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Basic-Agent-Z.zip) |
-| Basic Alluring Enigma | [Granger-Basic-Alluring-Enigma.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Basic-Alluring-Enigma.zip) |
-| Basic Bardic Whisper | [Granger-Basic-Bardic-Whisper.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Basic-Bardic-Whisper.zip) |
-| Basic Collector | [Granger-Basic-Collector.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Basic-Collector.zip) |
-| Basic Exorcist Granger | [Granger-Basic-Exorcist-Granger.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Basic-Exorcist-Granger.zip) |
-| Basic Exorcist | [Granger-Basic-Exorcist.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Basic-Exorcist.zip) |
-| Basic Legend | [Granger-Basic-Legend.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Basic-Legend.zip) |
-| Basic Lightborn Overrider | [Granger-Basic-Lightborn-Overrider.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Basic-Lightborn-Overrider.zip) |
-| Basic M7 | [Granger-Basic-M7.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Basic-M7.zip) |
-| Basic Megatron | [Granger-Basic-Megatron.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Basic-Megatron.zip) |
-| Basic Prime | [Granger-Basic-Prime.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Basic-Prime.zip) |
-| Basic Starfall Knight | [Granger-Basic-Starfall-Knight.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Basic-Starfall-Knight.zip) |
-| Basic Transformers | [Granger-Basic-Transformers.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Basic-Transformers.zip) |
+| Bardic Whisper Thunder Ascendant | [Granger-Bardic-Whisper-Thunder-Ascendant.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Bardic-Whisper-Thunder-Ascendant.zip) |
 | Biosoldier Agent Z | [Granger-Biosoldier-Agent-Z.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Biosoldier-Agent-Z.zip) |
+| Biosoldier Alluring Enigma | [Granger-Biosoldier-Alluring-Enigma.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Biosoldier-Alluring-Enigma.zip) |
 | Biosoldier Backup | [Granger-Biosoldier-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Biosoldier-Backup.zip) |
-| Biosoldier Cosmic Finality | [Granger-Biosoldier-Cosmic-Finality.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Biosoldier-Cosmic-Finality.zip) |
+| Biosoldier Bardic Whisper | [Granger-Biosoldier-Bardic-Whisper.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Biosoldier-Bardic-Whisper.zip) |
+| Biosoldier Doomsday Punisher | [Granger-Biosoldier-Doomsday-Punisher.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Biosoldier-Doomsday-Punisher.zip) |
+| Biosoldier Doomsday Terminator | [Granger-Biosoldier-Doomsday-Terminator.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Biosoldier-Doomsday-Terminator.zip) |
 | Biosoldier Exorcist Granger | [Granger-Biosoldier-Exorcist-Granger.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Biosoldier-Exorcist-Granger.zip) |
-| Biosoldier Exorcist | [Granger-Biosoldier-Exorcist.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Biosoldier-Exorcist.zip) |
+| Biosoldier Hellbringer | [Granger-Biosoldier-Hellbringer.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Biosoldier-Hellbringer.zip) |
+| Biosoldier Lightborn Overrider | [Granger-Biosoldier-Lightborn-Overrider.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Biosoldier-Lightborn-Overrider.zip) |
+| Biosoldier Megatron | [Granger-Biosoldier-Megatron.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Biosoldier-Megatron.zip) |
 | Biosoldier Starfall Knight | [Granger-Biosoldier-Starfall-Knight.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Biosoldier-Starfall-Knight.zip) |
-| Collector Exorcist | [Granger-Collector-Exorcist.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Collector-Exorcist.zip) |
-| Collector Legend | [Granger-Collector-Legend.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Collector-Legend.zip) |
-| Collector Prime | [Granger-Collector-Prime.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Collector-Prime.zip) |
-| Collector Transformers | [Granger-Collector-Transformers.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Collector-Transformers.zip) |
-| Create Collector | [Granger-Create-Collector.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Create-Collector.zip) |
-| Create Exorcist Granger | [Granger-Create-Exorcist-Granger.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Create-Exorcist-Granger.zip) |
-| Create Hellbringer | [Granger-Create-Hellbringer.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Create-Hellbringer.zip) |
-| Create Legend | [Granger-Create-Legend.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Create-Legend.zip) |
-| Create M7 | [Granger-Create-M7.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Create-M7.zip) |
-| Create Prime | [Granger-Create-Prime.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Create-Prime.zip) |
-| Create Transformers | [Granger-Create-Transformers.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Create-Transformers.zip) |
-| Death Chanter Agent Z | [Granger-Death-Chanter-Agent-Z.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Death-Chanter-Agent-Z.zip) |
-| Death Chanter Alluring Enigma | [Granger-Death-Chanter-Alluring-Enigma.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Death-Chanter-Alluring-Enigma.zip) |
-| Death Chanter Alluring Enignlma | [Granger-Death-Chanter-Alluring-Enignlma.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Death-Chanter-Alluring-Enignlma.zip) |
-| Death Chanter Backup | [Granger-Death-Chanter-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Death-Chanter-Backup.zip) |
-| Death Chanter Biosoldier | [Granger-Death-Chanter-Biosoldier.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Death-Chanter-Biosoldier.zip) |
-| Death Chanter Cosmic Finality | [Granger-Death-Chanter-Cosmic-Finality.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Death-Chanter-Cosmic-Finality.zip) |
-| Death Chanter Doomsday Terminator | [Granger-Death-Chanter-Doomsday-Terminator.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Death-Chanter-Doomsday-Terminator.zip) |
-| Death Chanter Exorcist Granger | [Granger-Death-Chanter-Exorcist-Granger.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Death-Chanter-Exorcist-Granger.zip) |
-| Death Chanter Hellbringer | [Granger-Death-Chanter-Hellbringer.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Death-Chanter-Hellbringer.zip) |
-| Death Chanter Lightborn Override | [Granger-Death-Chanter-Lightborn-Override.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Death-Chanter-Lightborn-Override.zip) |
-| Death Chanter Megatron | [Granger-Death-Chanter-Megatron.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Death-Chanter-Megatron.zip) |
-| Death Chanter Overrider | [Granger-Death-Chanter-Overrider.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Death-Chanter-Overrider.zip) |
-| Death Chanter Soul Vessels | [Granger-Death-Chanter-Soul-Vessels.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Death-Chanter-Soul-Vessels.zip) |
-| Death Chanter Starfall Knight | [Granger-Death-Chanter-Starfall-Knight.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Death-Chanter-Starfall-Knight.zip) |
-| Death Chanter Starfall Night | [Granger-Death-Chanter-Starfall-Night.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Death-Chanter-Starfall-Night.zip) |
-| Death Chanter Thunder Ascendant | [Granger-Death-Chanter-Thunder-Ascendant.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Death-Chanter-Thunder-Ascendant.zip) |
-| Default Collector | [Granger-Default-Collector.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Default-Collector.zip) |
-| Default Exorcist | [Granger-Default-Exorcist.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Default-Exorcist.zip) |
-| Default Legend | [Granger-Default-Legend.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Default-Legend.zip) |
-| Default M7 | [Granger-Default-M7.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Default-M7.zip) |
-| Default Prime | [Granger-Default-Prime.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Default-Prime.zip) |
-| Default Transformers | [Granger-Default-Transformers.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Default-Transformers.zip) |
+| Biosoldier Thunder Ascendant | [Granger-Biosoldier-Thunder-Ascendant.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Biosoldier-Thunder-Ascendant.zip) |
+| Cosmic Finality Agent Z | [Granger-Cosmic-Finality-Agent-Z.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Cosmic-Finality-Agent-Z.zip) |
+| Cosmic Finality Alluring Enigma | [Granger-Cosmic-Finality-Alluring-Enigma.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Cosmic-Finality-Alluring-Enigma.zip) |
+| Cosmic Finality Backup | [Granger-Cosmic-Finality-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Cosmic-Finality-Backup.zip) |
+| Cosmic Finality Bardic Whisper | [Granger-Cosmic-Finality-Bardic-Whisper.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Cosmic-Finality-Bardic-Whisper.zip) |
+| Cosmic Finality Biosoldier | [Granger-Cosmic-Finality-Biosoldier.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Cosmic-Finality-Biosoldier.zip) |
+| Cosmic Finality Doomsday Punisher | [Granger-Cosmic-Finality-Doomsday-Punisher.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Cosmic-Finality-Doomsday-Punisher.zip) |
+| Cosmic Finality Doomsday Terminator | [Granger-Cosmic-Finality-Doomsday-Terminator.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Cosmic-Finality-Doomsday-Terminator.zip) |
+| Cosmic Finality Exorcist Granger | [Granger-Cosmic-Finality-Exorcist-Granger.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Cosmic-Finality-Exorcist-Granger.zip) |
+| Cosmic Finality Hellbringer | [Granger-Cosmic-Finality-Hellbringer.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Cosmic-Finality-Hellbringer.zip) |
+| Cosmic Finality Lightborn Overrider | [Granger-Cosmic-Finality-Lightborn-Overrider.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Cosmic-Finality-Lightborn-Overrider.zip) |
+| Cosmic Finality Megatron | [Granger-Cosmic-Finality-Megatron.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Cosmic-Finality-Megatron.zip) |
+| Cosmic Finality Starfall Knight | [Granger-Cosmic-Finality-Starfall-Knight.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Cosmic-Finality-Starfall-Knight.zip) |
+| Cosmic Finality Thunder Ascendant | [Granger-Cosmic-Finality-Thunder-Ascendant.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Cosmic-Finality-Thunder-Ascendant.zip) |
+| Doomsday Punisher Agent Z | [Granger-Doomsday-Punisher-Agent-Z.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Doomsday-Punisher-Agent-Z.zip) |
+| Doomsday Punisher Alluring Enigma | [Granger-Doomsday-Punisher-Alluring-Enigma.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Doomsday-Punisher-Alluring-Enigma.zip) |
+| Doomsday Punisher Backup | [Granger-Doomsday-Punisher-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Doomsday-Punisher-Backup.zip) |
+| Doomsday Punisher Bardic Whisper | [Granger-Doomsday-Punisher-Bardic-Whisper.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Doomsday-Punisher-Bardic-Whisper.zip) |
+| Doomsday Punisher Biosoldier | [Granger-Doomsday-Punisher-Biosoldier.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Doomsday-Punisher-Biosoldier.zip) |
+| Doomsday Punisher Doomsday Punisher | [Granger-Doomsday-Punisher-Doomsday-Punisher.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Doomsday-Punisher-Doomsday-Punisher.zip) |
+| Doomsday Punisher Doomsday Terminator | [Granger-Doomsday-Punisher-Doomsday-Terminator.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Doomsday-Punisher-Doomsday-Terminator.zip) |
+| Doomsday Punisher Exorcist Granger | [Granger-Doomsday-Punisher-Exorcist-Granger.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Doomsday-Punisher-Exorcist-Granger.zip) |
+| Doomsday Punisher Hellbringer | [Granger-Doomsday-Punisher-Hellbringer.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Doomsday-Punisher-Hellbringer.zip) |
+| Doomsday Punisher Lightborn Overrider | [Granger-Doomsday-Punisher-Lightborn-Overrider.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Doomsday-Punisher-Lightborn-Overrider.zip) |
+| Doomsday Punisher Megatron | [Granger-Doomsday-Punisher-Megatron.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Doomsday-Punisher-Megatron.zip) |
+| Doomsday Punisher Starfall Knight | [Granger-Doomsday-Punisher-Starfall-Knight.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Doomsday-Punisher-Starfall-Knight.zip) |
+| Doomsday Punisher Thunder Ascendant | [Granger-Doomsday-Punisher-Thunder-Ascendant.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Doomsday-Punisher-Thunder-Ascendant.zip) |
 | Doomsday Terminator Agent Z | [Granger-Doomsday-Terminator-Agent-Z.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Doomsday-Terminator-Agent-Z.zip) |
+| Doomsday Terminator Alluring Enigma | [Granger-Doomsday-Terminator-Alluring-Enigma.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Doomsday-Terminator-Alluring-Enigma.zip) |
 | Doomsday Terminator Backup | [Granger-Doomsday-Terminator-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Doomsday-Terminator-Backup.zip) |
-| Doomsday Terminator Cosmic Finality | [Granger-Doomsday-Terminator-Cosmic-Finality.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Doomsday-Terminator-Cosmic-Finality.zip) |
+| Doomsday Terminator Bardic Whisper | [Granger-Doomsday-Terminator-Bardic-Whisper.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Doomsday-Terminator-Bardic-Whisper.zip) |
+| Doomsday Terminator Biosoldier | [Granger-Doomsday-Terminator-Biosoldier.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Doomsday-Terminator-Biosoldier.zip) |
+| Doomsday Terminator Doomsday Punisher | [Granger-Doomsday-Terminator-Doomsday-Punisher.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Doomsday-Terminator-Doomsday-Punisher.zip) |
 | Doomsday Terminator Exorcist Granger | [Granger-Doomsday-Terminator-Exorcist-Granger.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Doomsday-Terminator-Exorcist-Granger.zip) |
-| Doomsday Terminator Exorcist | [Granger-Doomsday-Terminator-Exorcist.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Doomsday-Terminator-Exorcist.zip) |
+| Doomsday Terminator Hellbringer | [Granger-Doomsday-Terminator-Hellbringer.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Doomsday-Terminator-Hellbringer.zip) |
 | Doomsday Terminator Lightborn Overrider | [Granger-Doomsday-Terminator-Lightborn-Overrider.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Doomsday-Terminator-Lightborn-Overrider.zip) |
 | Doomsday Terminator Megatron | [Granger-Doomsday-Terminator-Megatron.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Doomsday-Terminator-Megatron.zip) |
-| Doomsday Terminator Overrider | [Granger-Doomsday-Terminator-Overrider.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Doomsday-Terminator-Overrider.zip) |
-| Doomsday Terminator Soul Vessels | [Granger-Doomsday-Terminator-Soul-Vessels.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Doomsday-Terminator-Soul-Vessels.zip) |
 | Doomsday Terminator Starfall Knight | [Granger-Doomsday-Terminator-Starfall-Knight.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Doomsday-Terminator-Starfall-Knight.zip) |
-| Elite Collector | [Granger-Elite-Collector.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Elite-Collector.zip) |
-| Elite Doomsday Terminator | [Granger-Elite-Doomsday-Terminator.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Elite-Doomsday-Terminator.zip) |
-| Elite Exorcist Granger | [Granger-Elite-Exorcist-Granger.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Elite-Exorcist-Granger.zip) |
-| Elite Exorcist | [Granger-Elite-Exorcist.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Elite-Exorcist.zip) |
-| Elite Legend | [Granger-Elite-Legend.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Elite-Legend.zip) |
-| Elite M7 | [Granger-Elite-M7.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Elite-M7.zip) |
-| Elite Megatron | [Granger-Elite-Megatron.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Elite-Megatron.zip) |
-| Elite Prime | [Granger-Elite-Prime.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Elite-Prime.zip) |
-| Elite Starfall Knight | [Granger-Elite-Starfall-Knight.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Elite-Starfall-Knight.zip) |
-| Elite Transformers | [Granger-Elite-Transformers.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Elite-Transformers.zip) |
-| Exorcist Collector | [Granger-Exorcist-Collector.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Exorcist-Collector.zip) |
-| Exorcist Legend | [Granger-Exorcist-Legend.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Exorcist-Legend.zip) |
-| Exorcist M7 | [Granger-Exorcist-M7.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Exorcist-M7.zip) |
-| Exorcist Prime | [Granger-Exorcist-Prime.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Exorcist-Prime.zip) |
-| Exorcist Transformers | [Granger-Exorcist-Transformers.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Exorcist-Transformers.zip) |
+| Doomsday Terminator Thunder Ascendant | [Granger-Doomsday-Terminator-Thunder-Ascendant.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Doomsday-Terminator-Thunder-Ascendant.zip) |
+| Exorcist Granger Agent Z | [Granger-Exorcist-Granger-Agent-Z.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Exorcist-Granger-Agent-Z.zip) |
+| Exorcist Granger Alluring Enigma | [Granger-Exorcist-Granger-Alluring-Enigma.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Exorcist-Granger-Alluring-Enigma.zip) |
+| Exorcist Granger Backup | [Granger-Exorcist-Granger-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Exorcist-Granger-Backup.zip) |
+| Exorcist Granger Bardic Whisper | [Granger-Exorcist-Granger-Bardic-Whisper.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Exorcist-Granger-Bardic-Whisper.zip) |
+| Exorcist Granger Biosoldier | [Granger-Exorcist-Granger-Biosoldier.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Exorcist-Granger-Biosoldier.zip) |
+| Exorcist Granger Doomsday Punisher | [Granger-Exorcist-Granger-Doomsday-Punisher.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Exorcist-Granger-Doomsday-Punisher.zip) |
+| Exorcist Granger Doomsday Terminator | [Granger-Exorcist-Granger-Doomsday-Terminator.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Exorcist-Granger-Doomsday-Terminator.zip) |
+| Exorcist Granger Hellbringer | [Granger-Exorcist-Granger-Hellbringer.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Exorcist-Granger-Hellbringer.zip) |
+| Exorcist Granger Lightborn Overrider | [Granger-Exorcist-Granger-Lightborn-Overrider.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Exorcist-Granger-Lightborn-Overrider.zip) |
+| Exorcist Granger Megatron | [Granger-Exorcist-Granger-Megatron.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Exorcist-Granger-Megatron.zip) |
+| Exorcist Granger Starfall Knight | [Granger-Exorcist-Granger-Starfall-Knight.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Exorcist-Granger-Starfall-Knight.zip) |
+| Exorcist Granger Thunder Ascendant | [Granger-Exorcist-Granger-Thunder-Ascendant.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Exorcist-Granger-Thunder-Ascendant.zip) |
+| Hellbringer Agent Z | [Granger-Hellbringer-Agent-Z.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Hellbringer-Agent-Z.zip) |
+| Hellbringer Alluring Enigma | [Granger-Hellbringer-Alluring-Enigma.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Hellbringer-Alluring-Enigma.zip) |
 | Hellbringer Backup | [Granger-Hellbringer-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Hellbringer-Backup.zip) |
-| Hellbringer Cosmic Finality | [Granger-Hellbringer-Cosmic-Finality.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Hellbringer-Cosmic-Finality.zip) |
+| Hellbringer Bardic Whisper | [Granger-Hellbringer-Bardic-Whisper.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Hellbringer-Bardic-Whisper.zip) |
+| Hellbringer Biosoldier | [Granger-Hellbringer-Biosoldier.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Hellbringer-Biosoldier.zip) |
+| Hellbringer Doomsday Terminator | [Granger-Hellbringer-Doomsday-Terminator.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Hellbringer-Doomsday-Terminator.zip) |
 | Hellbringer Exorcist Granger | [Granger-Hellbringer-Exorcist-Granger.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Hellbringer-Exorcist-Granger.zip) |
-| Hellbringer Exorcist | [Granger-Hellbringer-Exorcist.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Hellbringer-Exorcist.zip) |
+| Hellbringer Lightborn Overrider | [Granger-Hellbringer-Lightborn-Overrider.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Hellbringer-Lightborn-Overrider.zip) |
+| Hellbringer Megatron | [Granger-Hellbringer-Megatron.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Hellbringer-Megatron.zip) |
 | Hellbringer Starfall Knight | [Granger-Hellbringer-Starfall-Knight.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Hellbringer-Starfall-Knight.zip) |
-| Legend Collector | [Granger-Legend-Collector.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Legend-Collector.zip) |
-| Legend Exorcist | [Granger-Legend-Exorcist.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Legend-Exorcist.zip) |
-| Legend M7 | [Granger-Legend-M7.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Legend-M7.zip) |
-| Legend Prime | [Granger-Legend-Prime.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Legend-Prime.zip) |
-| Legend Transformers | [Granger-Legend-Transformers.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Legend-Transformers.zip) |
-| Lightborn Collector | [Granger-Lightborn-Collector.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Lightborn-Collector.zip) |
-| Lightborn Exorcist | [Granger-Lightborn-Exorcist.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Lightborn-Exorcist.zip) |
-| Lightborn Legend | [Granger-Lightborn-Legend.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Lightborn-Legend.zip) |
-| Lightborn M7 | [Granger-Lightborn-M7.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Lightborn-M7.zip) |
-| Lightborn Override Backup | [Granger-Lightborn-Override-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Lightborn-Override-Backup.zip) |
-| Lightborn Override Cosmic Finality | [Granger-Lightborn-Override-Cosmic-Finality.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Lightborn-Override-Cosmic-Finality.zip) |
-| Lightborn Override Exorcist | [Granger-Lightborn-Override-Exorcist.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Lightborn-Override-Exorcist.zip) |
-| Lightborn Override Megatron | [Granger-Lightborn-Override-Megatron.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Lightborn-Override-Megatron.zip) |
-| Lightborn Override Starfall Knight | [Granger-Lightborn-Override-Starfall-Knight.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Lightborn-Override-Starfall-Knight.zip) |
+| Hellbringer Thunder Ascendant | [Granger-Hellbringer-Thunder-Ascendant.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Hellbringer-Thunder-Ascendant.zip) |
+| Lightborn Overrider Agent Z | [Granger-Lightborn-Overrider-Agent-Z.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Lightborn-Overrider-Agent-Z.zip) |
+| Lightborn Overrider Alluring Enigma | [Granger-Lightborn-Overrider-Alluring-Enigma.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Lightborn-Overrider-Alluring-Enigma.zip) |
 | Lightborn Overrider Backup | [Granger-Lightborn-Overrider-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Lightborn-Overrider-Backup.zip) |
-| Lightborn Overrider Cosmic Finality | [Granger-Lightborn-Overrider-Cosmic-Finality.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Lightborn-Overrider-Cosmic-Finality.zip) |
-| Lightborn Prime | [Granger-Lightborn-Prime.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Lightborn-Prime.zip) |
-| Lightborn Transformers | [Granger-Lightborn-Transformers.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Lightborn-Transformers.zip) |
-| Starlight 2020 Collector | [Granger-Starlight-2020-Collector.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Starlight-2020-Collector.zip) |
-| Starlight 2020 Exorcist | [Granger-Starlight-2020-Exorcist.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Starlight-2020-Exorcist.zip) |
-| Starlight 2020 Legend | [Granger-Starlight-2020-Legend.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Starlight-2020-Legend.zip) |
-| Starlight 2020 M7 | [Granger-Starlight-2020-M7.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Starlight-2020-M7.zip) |
-| Starlight 2020 Prime | [Granger-Starlight-2020-Prime.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Starlight-2020-Prime.zip) |
-| Starlight 2020 Transformers | [Granger-Starlight-2020-Transformers.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Starlight-2020-Transformers.zip) |
-| Starlight Biosoldier | [Granger-Starlight-Biosoldier.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Starlight-Biosoldier.zip) |
-| Starlight Exorcist Granger | [Granger-Starlight-Exorcist-Granger.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Starlight-Exorcist-Granger.zip) |
-| Starlight Starfall Knight | [Granger-Starlight-Starfall-Knight.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Starlight-Starfall-Knight.zip) |
-| Transformers Collector | [Granger-Transformers-Collector.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Transformers-Collector.zip) |
-| Transformers Legend | [Granger-Transformers-Legend.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Transformers-Legend.zip) |
-| Transformers M7 | [Granger-Transformers-M7.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Transformers-M7.zip) |
-| Transformers Prime | [Granger-Transformers-Prime.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Transformers-Prime.zip) |
-| Valentine Alluring Enigma | [Granger-Valentine-Alluring-Enigma.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Valentine-Alluring-Enigma.zip) |
-| Valentine Collector | [Granger-Valentine-Collector.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Valentine-Collector.zip) |
-| Valentine Exorcist Granger | [Granger-Valentine-Exorcist-Granger.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Valentine-Exorcist-Granger.zip) |
-| Valentine Legend | [Granger-Valentine-Legend.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Valentine-Legend.zip) |
-| Valentine Prime | [Granger-Valentine-Prime.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Valentine-Prime.zip) |
-| Valentine Transformers | [Granger-Valentine-Transformers.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Valentine-Transformers.zip) |
+| Lightborn Overrider Bardic Whisper | [Granger-Lightborn-Overrider-Bardic-Whisper.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Lightborn-Overrider-Bardic-Whisper.zip) |
+| Lightborn Overrider Biosoldier | [Granger-Lightborn-Overrider-Biosoldier.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Lightborn-Overrider-Biosoldier.zip) |
+| Lightborn Overrider Doomsday Punisher | [Granger-Lightborn-Overrider-Doomsday-Punisher.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Lightborn-Overrider-Doomsday-Punisher.zip) |
+| Lightborn Overrider Doomsday Terminator | [Granger-Lightborn-Overrider-Doomsday-Terminator.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Lightborn-Overrider-Doomsday-Terminator.zip) |
+| Lightborn Overrider Exorcist Granger | [Granger-Lightborn-Overrider-Exorcist-Granger.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Lightborn-Overrider-Exorcist-Granger.zip) |
+| Lightborn Overrider Hellbringer | [Granger-Lightborn-Overrider-Hellbringer.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Lightborn-Overrider-Hellbringer.zip) |
+| Lightborn Overrider Megatron | [Granger-Lightborn-Overrider-Megatron.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Lightborn-Overrider-Megatron.zip) |
+| Lightborn Overrider Starfall Knight | [Granger-Lightborn-Overrider-Starfall-Knight.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Lightborn-Overrider-Starfall-Knight.zip) |
+| Lightborn Overrider Thunder Ascendant | [Granger-Lightborn-Overrider-Thunder-Ascendant.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Lightborn-Overrider-Thunder-Ascendant.zip) |
+| Megatron Agent Z | [Granger-Megatron-Agent-Z.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Megatron-Agent-Z.zip) |
+| Megatron Alluring Enigma | [Granger-Megatron-Alluring-Enigma.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Megatron-Alluring-Enigma.zip) |
+| Megatron Backup | [Granger-Megatron-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Megatron-Backup.zip) |
+| Megatron Bardic Whisper | [Granger-Megatron-Bardic-Whisper.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Megatron-Bardic-Whisper.zip) |
+| Megatron Biosoldier | [Granger-Megatron-Biosoldier.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Megatron-Biosoldier.zip) |
+| Megatron Doomsday Punisher | [Granger-Megatron-Doomsday-Punisher.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Megatron-Doomsday-Punisher.zip) |
+| Megatron Doomsday Terminator | [Granger-Megatron-Doomsday-Terminator.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Megatron-Doomsday-Terminator.zip) |
+| Megatron Exorcist Granger | [Granger-Megatron-Exorcist-Granger.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Megatron-Exorcist-Granger.zip) |
+| Megatron Hellbringer | [Granger-Megatron-Hellbringer.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Megatron-Hellbringer.zip) |
+| Megatron Lightborn Overrider | [Granger-Megatron-Lightborn-Overrider.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Megatron-Lightborn-Overrider.zip) |
+| Megatron Starfall Knight | [Granger-Megatron-Starfall-Knight.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Megatron-Starfall-Knight.zip) |
+| Megatron Thunder Ascendant | [Granger-Megatron-Thunder-Ascendant.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Megatron-Thunder-Ascendant.zip) |
+| Starfall Knight Agent Z | [Granger-Starfall-Knight-Agent-Z.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Starfall-Knight-Agent-Z.zip) |
+| Starfall Knight Alluring Enigma | [Granger-Starfall-Knight-Alluring-Enigma.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Starfall-Knight-Alluring-Enigma.zip) |
+| Starfall Knight Backup | [Granger-Starfall-Knight-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Starfall-Knight-Backup.zip) |
+| Starfall Knight Bardic Whisper | [Granger-Starfall-Knight-Bardic-Whisper.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Starfall-Knight-Bardic-Whisper.zip) |
+| Starfall Knight Biosoldier | [Granger-Starfall-Knight-Biosoldier.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Starfall-Knight-Biosoldier.zip) |
+| Starfall Knight Doomsday Punisher | [Granger-Starfall-Knight-Doomsday-Punisher.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Starfall-Knight-Doomsday-Punisher.zip) |
+| Starfall Knight Doomsday Terminator | [Granger-Starfall-Knight-Doomsday-Terminator.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Starfall-Knight-Doomsday-Terminator.zip) |
+| Starfall Knight Exorcist Granger | [Granger-Starfall-Knight-Exorcist-Granger.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Starfall-Knight-Exorcist-Granger.zip) |
+| Starfall Knight Hellbringer | [Granger-Starfall-Knight-Hellbringer.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Starfall-Knight-Hellbringer.zip) |
+| Starfall Knight Lightborn Overrider | [Granger-Starfall-Knight-Lightborn-Overrider.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Starfall-Knight-Lightborn-Overrider.zip) |
+| Starfall Knight Megatron | [Granger-Starfall-Knight-Megatron.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Starfall-Knight-Megatron.zip) |
+| Starfall Knight Thunder Ascendant | [Granger-Starfall-Knight-Thunder-Ascendant.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Starfall-Knight-Thunder-Ascendant.zip) |
+| Thunder Ascendant Agent Z | [Granger-Thunder-Ascendant-Agent-Z.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Thunder-Ascendant-Agent-Z.zip) |
+| Thunder Ascendant Alluring Enigma | [Granger-Thunder-Ascendant-Alluring-Enigma.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Thunder-Ascendant-Alluring-Enigma.zip) |
+| Thunder Ascendant Backup | [Granger-Thunder-Ascendant-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Thunder-Ascendant-Backup.zip) |
+| Thunder Ascendant Bardic Whisper | [Granger-Thunder-Ascendant-Bardic-Whisper.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Thunder-Ascendant-Bardic-Whisper.zip) |
+| Thunder Ascendant Biosoldier | [Granger-Thunder-Ascendant-Biosoldier.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Thunder-Ascendant-Biosoldier.zip) |
+| Thunder Ascendant Doomsday Punisher | [Granger-Thunder-Ascendant-Doomsday-Punisher.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Thunder-Ascendant-Doomsday-Punisher.zip) |
+| Thunder Ascendant Doomsday Terminator | [Granger-Thunder-Ascendant-Doomsday-Terminator.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Thunder-Ascendant-Doomsday-Terminator.zip) |
+| Thunder Ascendant Exorcist Granger | [Granger-Thunder-Ascendant-Exorcist-Granger.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Thunder-Ascendant-Exorcist-Granger.zip) |
+| Thunder Ascendant Hellbringer | [Granger-Thunder-Ascendant-Hellbringer.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Thunder-Ascendant-Hellbringer.zip) |
+| Thunder Ascendant Lightborn Overrider | [Granger-Thunder-Ascendant-Lightborn-Overrider.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Thunder-Ascendant-Lightborn-Overrider.zip) |
+| Thunder Ascendant Megatron | [Granger-Thunder-Ascendant-Megatron.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Thunder-Ascendant-Megatron.zip) |
+| Thunder Ascendant Starfall Knight | [Granger-Thunder-Ascendant-Starfall-Knight.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Thunder-Ascendant-Starfall-Knight.zip) |
