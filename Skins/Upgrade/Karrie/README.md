@@ -65,6 +65,7 @@ Validated upgrade-skin packages. All downloads are published in the
 | Hawkwatch Bladed Mantis | [Karrie-Hawkwatch-Bladed-Mantis.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-karrie/Karrie-Hawkwatch-Bladed-Mantis.zip) |
 | Hawkwatch Breath of Naraka | [Karrie-Hawkwatch-Breath-of-Naraka.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-karrie/Karrie-Hawkwatch-Breath-of-Naraka.zip) |
 | Hawkwatch Dragon Queen | [Karrie-Hawkwatch-Dragon-Queen.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-karrie/Karrie-Hawkwatch-Dragon-Queen.zip) |
+| Hawkwatch Fool | [Karrie-Hawkwatch-Fool.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-karrie/Karrie-Hawkwatch-Fool.zip) |
 | Hawkwatch Gill Girl | [Karrie-Hawkwatch-Gill-Girl.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-karrie/Karrie-Hawkwatch-Gill-Girl.zip) |
 | Hawkwatch Ice Talon | [Karrie-Hawkwatch-Ice-Talon.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-karrie/Karrie-Hawkwatch-Ice-Talon.zip) |
 | Hawkwatch Jester | [Karrie-Hawkwatch-Jester.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-karrie/Karrie-Hawkwatch-Jester.zip) |
@@ -104,6 +105,7 @@ Validated upgrade-skin packages. All downloads are published in the
 | Neon Lightwheel Jester | [Karrie-Neon-Lightwheel-Jester.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-karrie/Karrie-Neon-Lightwheel-Jester.zip) |
 | Neon Lightwheel Rising Star | [Karrie-Neon-Lightwheel-Rising-Star.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-karrie/Karrie-Neon-Lightwheel-Rising-Star.zip) |
 | Neon Lightwheel Wheel of Justice | [Karrie-Neon-Lightwheel-Wheel-of-Justice.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-karrie/Karrie-Neon-Lightwheel-Wheel-of-Justice.zip) |
+| Quantum Razor Backup | [Karrie-Quantum-Razor-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-karrie/Karrie-Quantum-Razor-Backup.zip) |
 | Quantum Razor Bladed Mantis | [Karrie-Quantum-Razor-Bladed-Mantis.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-karrie/Karrie-Quantum-Razor-Bladed-Mantis.zip) |
 | Quantum Razor Breath of Naraka | [Karrie-Quantum-Razor-Breath-of-Naraka.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-karrie/Karrie-Quantum-Razor-Breath-of-Naraka.zip) |
 | Quantum Razor Dragon Queen | [Karrie-Quantum-Razor-Dragon-Queen.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-karrie/Karrie-Quantum-Razor-Dragon-Queen.zip) |
