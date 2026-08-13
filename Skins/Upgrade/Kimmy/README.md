@@ -68,6 +68,7 @@ Validated upgrade-skin packages. All downloads are published in the
 | Rising Nova Frost Wing | [Kimmy-Rising-Nova-Frost-Wing.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-kimmy/Kimmy-Rising-Nova-Frost-Wing.zip) |
 | Rising Nova High Seas Cadet | [Kimmy-Rising-Nova-High-Seas-Cadet.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-kimmy/Kimmy-Rising-Nova-High-Seas-Cadet.zip) |
 | Starbound Sentry Astrocat | [Kimmy-Starbound-Sentry-Astrocat.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-kimmy/Kimmy-Starbound-Sentry-Astrocat.zip) |
+| Starbound Sentry Backup | [Kimmy-Starbound-Sentry-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-kimmy/Kimmy-Starbound-Sentry-Backup.zip) |
 | Starbound Sentry Bio Frontier | [Kimmy-Starbound-Sentry-Bio-Frontier.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-kimmy/Kimmy-Starbound-Sentry-Bio-Frontier.zip) |
 | Starbound Sentry Charge Leader | [Kimmy-Starbound-Sentry-Charge-Leader.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-kimmy/Kimmy-Starbound-Sentry-Charge-Leader.zip) |
 | Starbound Sentry Detonated Fuse | [Kimmy-Starbound-Sentry-Detonated-Fuse.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-kimmy/Kimmy-Starbound-Sentry-Detonated-Fuse.zip) |
