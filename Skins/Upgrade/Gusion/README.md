@@ -5,220 +5,217 @@ Validated upgrade-skin packages. All downloads are published in the
 
 | Package | Download |
 | --- | --- |
-| 11 11 KOF | [Gusion-11-11-KOF.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-11-11-KOF.zip) |
-| 11 11 Legend | [Gusion-11-11-Legend.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-11-11-Legend.zip) |
-| 11 11 Naruto | [Gusion-11-11-Naruto.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-11-11-Naruto.zip) |
-| 11 11 Old Collector | [Gusion-11-11-Old-Collector.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-11-11-Old-Collector.zip) |
-| 1111 Dimension Walker | [Gusion-1111-Dimension-Walker.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-1111-Dimension-Walker.zip) |
-| 1111 K | [Gusion-1111-K.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-1111-K.zip) |
-| 1111 Night Owl | [Gusion-1111-Night-Owl.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-1111-Night-Owl.zip) |
-| Basic 11 11 | [Gusion-Basic-11-11.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Basic-11-11.zip) |
-| Basic Collector | [Gusion-Basic-Collector.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Basic-Collector.zip) |
-| Basic Cosmic Gleam | [Gusion-Basic-Cosmic-Gleam.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Basic-Cosmic-Gleam.zip) |
-| Basic Desert Spider | [Gusion-Basic-Desert-Spider.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Basic-Desert-Spider.zip) |
-| Basic Dimension Walker | [Gusion-Basic-Dimension-Walker.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Basic-Dimension-Walker.zip) |
-| Basic K | [Gusion-Basic-K.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Basic-K.zip) |
-| Basic KOF | [Gusion-Basic-KOF.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Basic-KOF.zip) |
-| Basic Legend | [Gusion-Basic-Legend.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Basic-Legend.zip) |
-| Basic Moonlight Sonata | [Gusion-Basic-Moonlight-Sonata.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Basic-Moonlight-Sonata.zip) |
-| Basic Naruto | [Gusion-Basic-Naruto.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Basic-Naruto.zip) |
-| Basic Night Owl | [Gusion-Basic-Night-Owl.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Basic-Night-Owl.zip) |
-| Basic Old Collector | [Gusion-Basic-Old-Collector.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Basic-Old-Collector.zip) |
-| Basic Soul Revelation | [Gusion-Basic-Soul-Revelation.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Basic-Soul-Revelation.zip) |
-| Basic Starlight 2018 | [Gusion-Basic-Starlight-2018.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Basic-Starlight-2018.zip) |
-| Basic Starlight 2024 | [Gusion-Basic-Starlight-2024.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Basic-Starlight-2024.zip) |
-| Basic V E N O M Emperor Scorpion | [Gusion-Basic-V-E-N-O-M-Emperor-Scorpion.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Basic-V-E-N-O-M-Emperor-Scorpion.zip) |
-| Collector 11 11 | [Gusion-Collector-11-11.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Collector-11-11.zip) |
-| Collector KOF | [Gusion-Collector-KOF.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Collector-KOF.zip) |
-| Collector Legend | [Gusion-Collector-Legend.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Collector-Legend.zip) |
-| Collector Naruto | [Gusion-Collector-Naruto.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Collector-Naruto.zip) |
+| Cosmic Gleam Backup | [Gusion-Cosmic-Gleam-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Cosmic-Gleam-Backup.zip) |
+| Cosmic Gleam Cyber Ops | [Gusion-Cosmic-Gleam-Cyber-Ops.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Cosmic-Gleam-Cyber-Ops.zip) |
+| Cosmic Gleam Dangerous Liaison | [Gusion-Cosmic-Gleam-Dangerous-Liaison.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Cosmic-Gleam-Dangerous-Liaison.zip) |
+| Cosmic Gleam Desert Spider | [Gusion-Cosmic-Gleam-Desert-Spider.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Cosmic-Gleam-Desert-Spider.zip) |
+| Cosmic Gleam Dimension Walker | [Gusion-Cosmic-Gleam-Dimension-Walker.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Cosmic-Gleam-Dimension-Walker.zip) |
+| Cosmic Gleam Emerald Spider | [Gusion-Cosmic-Gleam-Emerald-Spider.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Cosmic-Gleam-Emerald-Spider.zip) |
+| Cosmic Gleam Gothic Hairstylist | [Gusion-Cosmic-Gleam-Gothic-Hairstylist.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Cosmic-Gleam-Gothic-Hairstylist.zip) |
+| Cosmic Gleam Hairstylist | [Gusion-Cosmic-Gleam-Hairstylist.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Cosmic-Gleam-Hairstylist.zip) |
+| Cosmic Gleam K | [Gusion-Cosmic-Gleam-K.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Cosmic-Gleam-K.zip) |
+| Cosmic Gleam Moonlight Sonata | [Gusion-Cosmic-Gleam-Moonlight-Sonata.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Cosmic-Gleam-Moonlight-Sonata.zip) |
+| Cosmic Gleam Night Owl | [Gusion-Cosmic-Gleam-Night-Owl.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Cosmic-Gleam-Night-Owl.zip) |
+| Cosmic Gleam Romantic Liaison | [Gusion-Cosmic-Gleam-Romantic-Liaison.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Cosmic-Gleam-Romantic-Liaison.zip) |
+| Cosmic Gleam Royal Spider | [Gusion-Cosmic-Gleam-Royal-Spider.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Cosmic-Gleam-Royal-Spider.zip) |
+| Cosmic Gleam Soul Revelation | [Gusion-Cosmic-Gleam-Soul-Revelation.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Cosmic-Gleam-Soul-Revelation.zip) |
+| Cosmic Gleam V E N O M Emperor Scorpion | [Gusion-Cosmic-Gleam-V-E-N-O-M-Emperor-Scorpion.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Cosmic-Gleam-V-E-N-O-M-Emperor-Scorpion.zip) |
 | Cyber Ops Backup | [Gusion-Cyber-Ops-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Cyber-Ops-Backup.zip) |
 | Cyber Ops Cosmic Gleam | [Gusion-Cyber-Ops-Cosmic-Gleam.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Cyber-Ops-Cosmic-Gleam.zip) |
+| Cyber Ops Dangerous Liaison | [Gusion-Cyber-Ops-Dangerous-Liaison.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Cyber-Ops-Dangerous-Liaison.zip) |
+| Cyber Ops Desert Spider | [Gusion-Cyber-Ops-Desert-Spider.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Cyber-Ops-Desert-Spider.zip) |
 | Cyber Ops Dimension Walker | [Gusion-Cyber-Ops-Dimension-Walker.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Cyber-Ops-Dimension-Walker.zip) |
-| Cyber Ops K Dash | [Gusion-Cyber-Ops-K-Dash.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Cyber-Ops-K-Dash.zip) |
+| Cyber Ops Emerald Spider | [Gusion-Cyber-Ops-Emerald-Spider.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Cyber-Ops-Emerald-Spider.zip) |
+| Cyber Ops Gothic Hairstylist | [Gusion-Cyber-Ops-Gothic-Hairstylist.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Cyber-Ops-Gothic-Hairstylist.zip) |
+| Cyber Ops Hairstylist | [Gusion-Cyber-Ops-Hairstylist.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Cyber-Ops-Hairstylist.zip) |
 | Cyber Ops K | [Gusion-Cyber-Ops-K.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Cyber-Ops-K.zip) |
-| Cyber Ops Minato Kamikaze | [Gusion-Cyber-Ops-Minato-Kamikaze.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Cyber-Ops-Minato-Kamikaze.zip) |
-| Cyber Ops Minato Namikaze | [Gusion-Cyber-Ops-Minato-Namikaze.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Cyber-Ops-Minato-Namikaze.zip) |
-| Cyber Ops Minato | [Gusion-Cyber-Ops-Minato.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Cyber-Ops-Minato.zip) |
+| Cyber Ops Moonlight Sonata | [Gusion-Cyber-Ops-Moonlight-Sonata.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Cyber-Ops-Moonlight-Sonata.zip) |
 | Cyber Ops Night Owl | [Gusion-Cyber-Ops-Night-Owl.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Cyber-Ops-Night-Owl.zip) |
+| Cyber Ops Romantic Liaison | [Gusion-Cyber-Ops-Romantic-Liaison.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Cyber-Ops-Romantic-Liaison.zip) |
+| Cyber Ops Royal Spider | [Gusion-Cyber-Ops-Royal-Spider.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Cyber-Ops-Royal-Spider.zip) |
 | Cyber Ops Soul Revelation | [Gusion-Cyber-Ops-Soul-Revelation.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Cyber-Ops-Soul-Revelation.zip) |
-| Cyber Ops V E N O M Emperror | [Gusion-Cyber-Ops-V-E-N-O-M-Emperror.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Cyber-Ops-V-E-N-O-M-Emperror.zip) |
-| Cyber Ops Venom | [Gusion-Cyber-Ops-Venom.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Cyber-Ops-Venom.zip) |
+| Cyber Ops V E N O M Emperor Scorpion | [Gusion-Cyber-Ops-V-E-N-O-M-Emperor-Scorpion.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Cyber-Ops-V-E-N-O-M-Emperor-Scorpion.zip) |
 | Dangerous Liaison Backup | [Gusion-Dangerous-Liaison-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Dangerous-Liaison-Backup.zip) |
 | Dangerous Liaison Cosmic Gleam | [Gusion-Dangerous-Liaison-Cosmic-Gleam.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Dangerous-Liaison-Cosmic-Gleam.zip) |
-| Dangerous Liaison Cosmic | [Gusion-Dangerous-Liaison-Cosmic.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Dangerous-Liaison-Cosmic.zip) |
+| Dangerous Liaison Cyber Ops | [Gusion-Dangerous-Liaison-Cyber-Ops.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Dangerous-Liaison-Cyber-Ops.zip) |
+| Dangerous Liaison Desert Spider | [Gusion-Dangerous-Liaison-Desert-Spider.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Dangerous-Liaison-Desert-Spider.zip) |
 | Dangerous Liaison Dimension Walker | [Gusion-Dangerous-Liaison-Dimension-Walker.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Dangerous-Liaison-Dimension-Walker.zip) |
+| Dangerous Liaison Emerald Spider | [Gusion-Dangerous-Liaison-Emerald-Spider.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Dangerous-Liaison-Emerald-Spider.zip) |
+| Dangerous Liaison Hairstylist | [Gusion-Dangerous-Liaison-Hairstylist.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Dangerous-Liaison-Hairstylist.zip) |
 | Dangerous Liaison K | [Gusion-Dangerous-Liaison-K.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Dangerous-Liaison-K.zip) |
-| Dangerous Liaison Minato | [Gusion-Dangerous-Liaison-Minato.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Dangerous-Liaison-Minato.zip) |
+| Dangerous Liaison Moonlight Sonata | [Gusion-Dangerous-Liaison-Moonlight-Sonata.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Dangerous-Liaison-Moonlight-Sonata.zip) |
 | Dangerous Liaison Night Owl | [Gusion-Dangerous-Liaison-Night-Owl.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Dangerous-Liaison-Night-Owl.zip) |
+| Dangerous Liaison Romantic Liaison | [Gusion-Dangerous-Liaison-Romantic-Liaison.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Dangerous-Liaison-Romantic-Liaison.zip) |
+| Dangerous Liaison Royal Spider | [Gusion-Dangerous-Liaison-Royal-Spider.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Dangerous-Liaison-Royal-Spider.zip) |
 | Dangerous Liaison Soul Revelation | [Gusion-Dangerous-Liaison-Soul-Revelation.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Dangerous-Liaison-Soul-Revelation.zip) |
-| Dangerous Liaison V E N O M Emperor | [Gusion-Dangerous-Liaison-V-E-N-O-M-Emperor.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Dangerous-Liaison-V-E-N-O-M-Emperor.zip) |
-| Dangerous Liaison Venom | [Gusion-Dangerous-Liaison-Venom.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Dangerous-Liaison-Venom.zip) |
-| Dangerous Liason Backup | [Gusion-Dangerous-Liason-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Dangerous-Liason-Backup.zip) |
-| Dangerous Liason Cosmic Gleam | [Gusion-Dangerous-Liason-Cosmic-Gleam.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Dangerous-Liason-Cosmic-Gleam.zip) |
-| Dangerous Liason Dimension Walker | [Gusion-Dangerous-Liason-Dimension-Walker.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Dangerous-Liason-Dimension-Walker.zip) |
-| Dangerous Liason K Dash | [Gusion-Dangerous-Liason-K-Dash.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Dangerous-Liason-K-Dash.zip) |
-| Dangerous Liason Minato Namikaze | [Gusion-Dangerous-Liason-Minato-Namikaze.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Dangerous-Liason-Minato-Namikaze.zip) |
-| Dangerous Liason Night Owl | [Gusion-Dangerous-Liason-Night-Owl.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Dangerous-Liason-Night-Owl.zip) |
-| Dangerous Liason Soul Revelation | [Gusion-Dangerous-Liason-Soul-Revelation.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Dangerous-Liason-Soul-Revelation.zip) |
-| Dangerous Liason V E N O M Emperror | [Gusion-Dangerous-Liason-V-E-N-O-M-Emperror.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Dangerous-Liason-V-E-N-O-M-Emperror.zip) |
-| Default 11 11 | [Gusion-Default-11-11.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Default-11-11.zip) |
-| Default Collector | [Gusion-Default-Collector.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Default-Collector.zip) |
-| Default KOF | [Gusion-Default-KOF.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Default-KOF.zip) |
-| Default Legend | [Gusion-Default-Legend.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Default-Legend.zip) |
-| Default Naruto | [Gusion-Default-Naruto.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Default-Naruto.zip) |
-| Default Old Collector | [Gusion-Default-Old-Collector.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Default-Old-Collector.zip) |
-| Default Starlight 2018 | [Gusion-Default-Starlight-2018.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Default-Starlight-2018.zip) |
-| Default Starlight 2024 | [Gusion-Default-Starlight-2024.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Default-Starlight-2024.zip) |
-| Demension Walker K Dash | [Gusion-Demension-Walker-K-Dash.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Demension-Walker-K-Dash.zip) |
-| Demension Walker Minato Namikaze | [Gusion-Demension-Walker-Minato-Namikaze.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Demension-Walker-Minato-Namikaze.zip) |
-| Demension Walker Night Owl | [Gusion-Demension-Walker-Night-Owl.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Demension-Walker-Night-Owl.zip) |
+| Dangerous Liaison V E N O M Emperor Scorpion | [Gusion-Dangerous-Liaison-V-E-N-O-M-Emperor-Scorpion.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Dangerous-Liaison-V-E-N-O-M-Emperor-Scorpion.zip) |
 | Desert Spider Backup | [Gusion-Desert-Spider-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Desert-Spider-Backup.zip) |
 | Desert Spider Cosmic Gleam | [Gusion-Desert-Spider-Cosmic-Gleam.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Desert-Spider-Cosmic-Gleam.zip) |
+| Desert Spider Cyber Ops | [Gusion-Desert-Spider-Cyber-Ops.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Desert-Spider-Cyber-Ops.zip) |
+| Desert Spider Dangerous Liaison | [Gusion-Desert-Spider-Dangerous-Liaison.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Desert-Spider-Dangerous-Liaison.zip) |
 | Desert Spider Dimension Walker | [Gusion-Desert-Spider-Dimension-Walker.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Desert-Spider-Dimension-Walker.zip) |
-| Desert Spider K Dash | [Gusion-Desert-Spider-K-Dash.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Desert-Spider-K-Dash.zip) |
+| Desert Spider Hairstylist | [Gusion-Desert-Spider-Hairstylist.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Desert-Spider-Hairstylist.zip) |
 | Desert Spider K | [Gusion-Desert-Spider-K.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Desert-Spider-K.zip) |
-| Desert Spider Minato Namikaze | [Gusion-Desert-Spider-Minato-Namikaze.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Desert-Spider-Minato-Namikaze.zip) |
+| Desert Spider Moonlight Sonata | [Gusion-Desert-Spider-Moonlight-Sonata.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Desert-Spider-Moonlight-Sonata.zip) |
 | Desert Spider Night Owl | [Gusion-Desert-Spider-Night-Owl.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Desert-Spider-Night-Owl.zip) |
-| Elite Collector | [Gusion-Elite-Collector.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Elite-Collector.zip) |
-| Elite Cosmic Gleam | [Gusion-Elite-Cosmic-Gleam.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Elite-Cosmic-Gleam.zip) |
-| Elite Dimension Walker | [Gusion-Elite-Dimension-Walker.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Elite-Dimension-Walker.zip) |
-| Elite Hairstylist | [Gusion-Elite-Hairstylist.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Elite-Hairstylist.zip) |
-| Elite K | [Gusion-Elite-K.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Elite-K.zip) |
-| Elite KOF | [Gusion-Elite-KOF.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Elite-KOF.zip) |
-| Elite Legend | [Gusion-Elite-Legend.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Elite-Legend.zip) |
-| Elite Naruto | [Gusion-Elite-Naruto.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Elite-Naruto.zip) |
-| Elite Night Owl | [Gusion-Elite-Night-Owl.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Elite-Night-Owl.zip) |
-| Elite Old Collector | [Gusion-Elite-Old-Collector.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Elite-Old-Collector.zip) |
-| Elite V E N O M Emperor Scorpion | [Gusion-Elite-V-E-N-O-M-Emperor-Scorpion.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Elite-V-E-N-O-M-Emperor-Scorpion.zip) |
-| Epic 11 11 | [Gusion-Epic-11-11.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Epic-11-11.zip) |
-| Epic Collector | [Gusion-Epic-Collector.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Epic-Collector.zip) |
-| Epic Cosmic Gleam | [Gusion-Epic-Cosmic-Gleam.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Epic-Cosmic-Gleam.zip) |
-| Epic Dimension Walker | [Gusion-Epic-Dimension-Walker.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Epic-Dimension-Walker.zip) |
-| Epic K | [Gusion-Epic-K.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Epic-K.zip) |
-| Epic KOF | [Gusion-Epic-KOF.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Epic-KOF.zip) |
-| Epic Legend | [Gusion-Epic-Legend.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Epic-Legend.zip) |
-| Epic Naruto | [Gusion-Epic-Naruto.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Epic-Naruto.zip) |
-| Epic Night Owl | [Gusion-Epic-Night-Owl.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Epic-Night-Owl.zip) |
-| Epic Old Collector | [Gusion-Epic-Old-Collector.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Epic-Old-Collector.zip) |
-| Epic Soul Revelation | [Gusion-Epic-Soul-Revelation.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Epic-Soul-Revelation.zip) |
+| Desert Spider Romantic Liaison | [Gusion-Desert-Spider-Romantic-Liaison.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Desert-Spider-Romantic-Liaison.zip) |
+| Desert Spider Soul Revelation | [Gusion-Desert-Spider-Soul-Revelation.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Desert-Spider-Soul-Revelation.zip) |
+| Desert Spider V E N O M Emperor Scorpion | [Gusion-Desert-Spider-V-E-N-O-M-Emperor-Scorpion.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Desert-Spider-V-E-N-O-M-Emperor-Scorpion.zip) |
+| Dimension Walker Backup | [Gusion-Dimension-Walker-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Dimension-Walker-Backup.zip) |
+| Dimension Walker Cosmic Gleam | [Gusion-Dimension-Walker-Cosmic-Gleam.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Dimension-Walker-Cosmic-Gleam.zip) |
+| Dimension Walker Cyber Ops | [Gusion-Dimension-Walker-Cyber-Ops.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Dimension-Walker-Cyber-Ops.zip) |
+| Dimension Walker Dangerous Liaison | [Gusion-Dimension-Walker-Dangerous-Liaison.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Dimension-Walker-Dangerous-Liaison.zip) |
+| Dimension Walker Desert Spider | [Gusion-Dimension-Walker-Desert-Spider.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Dimension-Walker-Desert-Spider.zip) |
+| Dimension Walker Emerald Spider | [Gusion-Dimension-Walker-Emerald-Spider.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Dimension-Walker-Emerald-Spider.zip) |
+| Dimension Walker Hairstylist | [Gusion-Dimension-Walker-Hairstylist.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Dimension-Walker-Hairstylist.zip) |
+| Dimension Walker K | [Gusion-Dimension-Walker-K.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Dimension-Walker-K.zip) |
+| Dimension Walker Moonlight Sonata | [Gusion-Dimension-Walker-Moonlight-Sonata.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Dimension-Walker-Moonlight-Sonata.zip) |
+| Dimension Walker Night Owl | [Gusion-Dimension-Walker-Night-Owl.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Dimension-Walker-Night-Owl.zip) |
+| Dimension Walker Romantic Liaison | [Gusion-Dimension-Walker-Romantic-Liaison.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Dimension-Walker-Romantic-Liaison.zip) |
+| Dimension Walker Royal Spider | [Gusion-Dimension-Walker-Royal-Spider.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Dimension-Walker-Royal-Spider.zip) |
+| Dimension Walker Soul Revelation | [Gusion-Dimension-Walker-Soul-Revelation.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Dimension-Walker-Soul-Revelation.zip) |
+| Dimension Walker V E N O M Emperor Scorpion | [Gusion-Dimension-Walker-V-E-N-O-M-Emperor-Scorpion.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Dimension-Walker-V-E-N-O-M-Emperor-Scorpion.zip) |
+| Emerald Spider Backup | [Gusion-Emerald-Spider-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Emerald-Spider-Backup.zip) |
+| Emerald Spider Cosmic Gleam | [Gusion-Emerald-Spider-Cosmic-Gleam.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Emerald-Spider-Cosmic-Gleam.zip) |
+| Emerald Spider Cyber Ops | [Gusion-Emerald-Spider-Cyber-Ops.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Emerald-Spider-Cyber-Ops.zip) |
+| Emerald Spider Dangerous Liaison | [Gusion-Emerald-Spider-Dangerous-Liaison.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Emerald-Spider-Dangerous-Liaison.zip) |
+| Emerald Spider Dimension Walker | [Gusion-Emerald-Spider-Dimension-Walker.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Emerald-Spider-Dimension-Walker.zip) |
+| Emerald Spider Gothic Hairstylist | [Gusion-Emerald-Spider-Gothic-Hairstylist.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Emerald-Spider-Gothic-Hairstylist.zip) |
+| Emerald Spider Hairstylist | [Gusion-Emerald-Spider-Hairstylist.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Emerald-Spider-Hairstylist.zip) |
+| Emerald Spider K | [Gusion-Emerald-Spider-K.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Emerald-Spider-K.zip) |
+| Emerald Spider Moonlight Sonata | [Gusion-Emerald-Spider-Moonlight-Sonata.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Emerald-Spider-Moonlight-Sonata.zip) |
+| Emerald Spider Night Owl | [Gusion-Emerald-Spider-Night-Owl.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Emerald-Spider-Night-Owl.zip) |
+| Emerald Spider Romantic Liaison | [Gusion-Emerald-Spider-Romantic-Liaison.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Emerald-Spider-Romantic-Liaison.zip) |
+| Emerald Spider Soul Revelation | [Gusion-Emerald-Spider-Soul-Revelation.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Emerald-Spider-Soul-Revelation.zip) |
+| Emerald Spider V E N O M Emperor Scorpion | [Gusion-Emerald-Spider-V-E-N-O-M-Emperor-Scorpion.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Emerald-Spider-V-E-N-O-M-Emperor-Scorpion.zip) |
+| Gothic Hairstylist Backup | [Gusion-Gothic-Hairstylist-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Gothic-Hairstylist-Backup.zip) |
+| Gothic Hairstylist Cosmic Gleam | [Gusion-Gothic-Hairstylist-Cosmic-Gleam.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Gothic-Hairstylist-Cosmic-Gleam.zip) |
+| Gothic Hairstylist Cyber Ops | [Gusion-Gothic-Hairstylist-Cyber-Ops.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Gothic-Hairstylist-Cyber-Ops.zip) |
+| Gothic Hairstylist Dangerous Liaison | [Gusion-Gothic-Hairstylist-Dangerous-Liaison.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Gothic-Hairstylist-Dangerous-Liaison.zip) |
+| Gothic Hairstylist Desert Spider | [Gusion-Gothic-Hairstylist-Desert-Spider.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Gothic-Hairstylist-Desert-Spider.zip) |
+| Gothic Hairstylist Dimension Walker | [Gusion-Gothic-Hairstylist-Dimension-Walker.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Gothic-Hairstylist-Dimension-Walker.zip) |
+| Gothic Hairstylist Emerald Spider | [Gusion-Gothic-Hairstylist-Emerald-Spider.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Gothic-Hairstylist-Emerald-Spider.zip) |
+| Gothic Hairstylist K | [Gusion-Gothic-Hairstylist-K.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Gothic-Hairstylist-K.zip) |
+| Gothic Hairstylist Moonlight Sonata | [Gusion-Gothic-Hairstylist-Moonlight-Sonata.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Gothic-Hairstylist-Moonlight-Sonata.zip) |
+| Gothic Hairstylist Night Owl | [Gusion-Gothic-Hairstylist-Night-Owl.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Gothic-Hairstylist-Night-Owl.zip) |
+| Gothic Hairstylist Romantic Liaison | [Gusion-Gothic-Hairstylist-Romantic-Liaison.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Gothic-Hairstylist-Romantic-Liaison.zip) |
+| Gothic Hairstylist Royal Spider | [Gusion-Gothic-Hairstylist-Royal-Spider.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Gothic-Hairstylist-Royal-Spider.zip) |
+| Gothic Hairstylist Soul Revelation | [Gusion-Gothic-Hairstylist-Soul-Revelation.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Gothic-Hairstylist-Soul-Revelation.zip) |
+| Gothic Hairstylist V E N O M Emperor Scorpion | [Gusion-Gothic-Hairstylist-V-E-N-O-M-Emperor-Scorpion.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Gothic-Hairstylist-V-E-N-O-M-Emperor-Scorpion.zip) |
 | Hairstylist Backup | [Gusion-Hairstylist-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Hairstylist-Backup.zip) |
 | Hairstylist Cosmic Gleam | [Gusion-Hairstylist-Cosmic-Gleam.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Hairstylist-Cosmic-Gleam.zip) |
+| Hairstylist Cyber Ops | [Gusion-Hairstylist-Cyber-Ops.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Hairstylist-Cyber-Ops.zip) |
+| Hairstylist Dangerous Liaison | [Gusion-Hairstylist-Dangerous-Liaison.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Hairstylist-Dangerous-Liaison.zip) |
+| Hairstylist Desert Spider | [Gusion-Hairstylist-Desert-Spider.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Hairstylist-Desert-Spider.zip) |
 | Hairstylist Dimension Walker | [Gusion-Hairstylist-Dimension-Walker.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Hairstylist-Dimension-Walker.zip) |
-| Hairstylist K Dash | [Gusion-Hairstylist-K-Dash.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Hairstylist-K-Dash.zip) |
+| Hairstylist Emerald Spider | [Gusion-Hairstylist-Emerald-Spider.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Hairstylist-Emerald-Spider.zip) |
 | Hairstylist K | [Gusion-Hairstylist-K.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Hairstylist-K.zip) |
-| Hairstylist Minato Kamikaze | [Gusion-Hairstylist-Minato-Kamikaze.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Hairstylist-Minato-Kamikaze.zip) |
-| Hairstylist Minato Namikaze | [Gusion-Hairstylist-Minato-Namikaze.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Hairstylist-Minato-Namikaze.zip) |
-| Hairstylist Minato | [Gusion-Hairstylist-Minato.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Hairstylist-Minato.zip) |
+| Hairstylist Moonlight Sonata | [Gusion-Hairstylist-Moonlight-Sonata.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Hairstylist-Moonlight-Sonata.zip) |
 | Hairstylist Night Owl | [Gusion-Hairstylist-Night-Owl.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Hairstylist-Night-Owl.zip) |
-| Hairstylist V E N O M Emperor | [Gusion-Hairstylist-V-E-N-O-M-Emperor.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Hairstylist-V-E-N-O-M-Emperor.zip) |
-| Hairstylist V E N O M Emperror | [Gusion-Hairstylist-V-E-N-O-M-Emperror.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Hairstylist-V-E-N-O-M-Emperror.zip) |
-| Hairstylist Venom | [Gusion-Hairstylist-Venom.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Hairstylist-Venom.zip) |
-| Holy Blade Backup | [Gusion-Holy-Blade-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Holy-Blade-Backup.zip) |
-| Holy Blade Cosmic Gleam | [Gusion-Holy-Blade-Cosmic-Gleam.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Holy-Blade-Cosmic-Gleam.zip) |
-| Holy Blade Cyber Ops | [Gusion-Holy-Blade-Cyber-Ops.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Holy-Blade-Cyber-Ops.zip) |
-| Holy Blade Dangerous Liason | [Gusion-Holy-Blade-Dangerous-Liason.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Holy-Blade-Dangerous-Liason.zip) |
-| Holy Blade Desert Spider | [Gusion-Holy-Blade-Desert-Spider.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Holy-Blade-Desert-Spider.zip) |
-| Holy Blade Dimension Walker | [Gusion-Holy-Blade-Dimension-Walker.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Holy-Blade-Dimension-Walker.zip) |
-| Holy Blade K Dash | [Gusion-Holy-Blade-K-Dash.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Holy-Blade-K-Dash.zip) |
-| Holy Blade Minato Namikaze | [Gusion-Holy-Blade-Minato-Namikaze.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Holy-Blade-Minato-Namikaze.zip) |
-| Holy Blade Night Owl | [Gusion-Holy-Blade-Night-Owl.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Holy-Blade-Night-Owl.zip) |
-| Holy Blade Soul Revelation | [Gusion-Holy-Blade-Soul-Revelation.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Holy-Blade-Soul-Revelation.zip) |
-| Holy Blade V E N O M Emperror | [Gusion-Holy-Blade-V-E-N-O-M-Emperror.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Holy-Blade-V-E-N-O-M-Emperror.zip) |
-| KOF 11 11 | [Gusion-KOF-11-11.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-KOF-11-11.zip) |
-| KOF Legend | [Gusion-KOF-Legend.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-KOF-Legend.zip) |
-| KOF Naruto | [Gusion-KOF-Naruto.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-KOF-Naruto.zip) |
-| KOF Old Collector | [Gusion-KOF-Old-Collector.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-KOF-Old-Collector.zip) |
-| Legend 11 11 | [Gusion-Legend-11-11.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Legend-11-11.zip) |
-| Legend KOF | [Gusion-Legend-KOF.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Legend-KOF.zip) |
-| Legend Naruto | [Gusion-Legend-Naruto.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Legend-Naruto.zip) |
-| Legend Old Collector | [Gusion-Legend-Old-Collector.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Legend-Old-Collector.zip) |
+| Hairstylist Romantic Liaison | [Gusion-Hairstylist-Romantic-Liaison.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Hairstylist-Romantic-Liaison.zip) |
+| Hairstylist Royal Spider | [Gusion-Hairstylist-Royal-Spider.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Hairstylist-Royal-Spider.zip) |
+| Hairstylist Soul Revelation | [Gusion-Hairstylist-Soul-Revelation.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Hairstylist-Soul-Revelation.zip) |
+| Hairstylist V E N O M Emperor Scorpion | [Gusion-Hairstylist-V-E-N-O-M-Emperor-Scorpion.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Hairstylist-V-E-N-O-M-Emperor-Scorpion.zip) |
+| K Backup | [Gusion-K-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-K-Backup.zip) |
+| K Cosmic Gleam | [Gusion-K-Cosmic-Gleam.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-K-Cosmic-Gleam.zip) |
+| K Cyber Ops | [Gusion-K-Cyber-Ops.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-K-Cyber-Ops.zip) |
+| K Dangerous Liaison | [Gusion-K-Dangerous-Liaison.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-K-Dangerous-Liaison.zip) |
+| K Desert Spider | [Gusion-K-Desert-Spider.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-K-Desert-Spider.zip) |
+| K Dimension Walker | [Gusion-K-Dimension-Walker.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-K-Dimension-Walker.zip) |
+| K Emerald Spider | [Gusion-K-Emerald-Spider.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-K-Emerald-Spider.zip) |
+| K Gothic Hairstylist | [Gusion-K-Gothic-Hairstylist.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-K-Gothic-Hairstylist.zip) |
+| K Hairstylist | [Gusion-K-Hairstylist.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-K-Hairstylist.zip) |
+| K Moonlight Sonata | [Gusion-K-Moonlight-Sonata.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-K-Moonlight-Sonata.zip) |
+| K Night Owl | [Gusion-K-Night-Owl.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-K-Night-Owl.zip) |
+| K Romantic Liaison | [Gusion-K-Romantic-Liaison.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-K-Romantic-Liaison.zip) |
+| K Royal Spider | [Gusion-K-Royal-Spider.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-K-Royal-Spider.zip) |
+| K Soul Revelation | [Gusion-K-Soul-Revelation.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-K-Soul-Revelation.zip) |
+| K V E N O M Emperor Scorpion | [Gusion-K-V-E-N-O-M-Emperor-Scorpion.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-K-V-E-N-O-M-Emperor-Scorpion.zip) |
 | Moonlight Sonata Backup | [Gusion-Moonlight-Sonata-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Moonlight-Sonata-Backup.zip) |
 | Moonlight Sonata Cosmic Gleam | [Gusion-Moonlight-Sonata-Cosmic-Gleam.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Moonlight-Sonata-Cosmic-Gleam.zip) |
 | Moonlight Sonata Cyber Ops | [Gusion-Moonlight-Sonata-Cyber-Ops.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Moonlight-Sonata-Cyber-Ops.zip) |
-| Moonlight Sonata Dangerous | [Gusion-Moonlight-Sonata-Dangerous.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Moonlight-Sonata-Dangerous.zip) |
+| Moonlight Sonata Dangerous Liaison | [Gusion-Moonlight-Sonata-Dangerous-Liaison.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Moonlight-Sonata-Dangerous-Liaison.zip) |
 | Moonlight Sonata Desert Spider | [Gusion-Moonlight-Sonata-Desert-Spider.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Moonlight-Sonata-Desert-Spider.zip) |
 | Moonlight Sonata Dimension Walker | [Gusion-Moonlight-Sonata-Dimension-Walker.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Moonlight-Sonata-Dimension-Walker.zip) |
+| Moonlight Sonata Emerald Spider | [Gusion-Moonlight-Sonata-Emerald-Spider.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Moonlight-Sonata-Emerald-Spider.zip) |
+| Moonlight Sonata Gothic Hairstylist | [Gusion-Moonlight-Sonata-Gothic-Hairstylist.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Moonlight-Sonata-Gothic-Hairstylist.zip) |
 | Moonlight Sonata Hairstylist | [Gusion-Moonlight-Sonata-Hairstylist.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Moonlight-Sonata-Hairstylist.zip) |
-| Moonlight Sonata K Dash | [Gusion-Moonlight-Sonata-K-Dash.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Moonlight-Sonata-K-Dash.zip) |
 | Moonlight Sonata K | [Gusion-Moonlight-Sonata-K.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Moonlight-Sonata-K.zip) |
-| Moonlight Sonata Minato Kamikaze | [Gusion-Moonlight-Sonata-Minato-Kamikaze.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Moonlight-Sonata-Minato-Kamikaze.zip) |
-| Moonlight Sonata Minato | [Gusion-Moonlight-Sonata-Minato.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Moonlight-Sonata-Minato.zip) |
-| Moonlight Sonata Naruto Shippuden | [Gusion-Moonlight-Sonata-Naruto-Shippuden.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Moonlight-Sonata-Naruto-Shippuden.zip) |
 | Moonlight Sonata Night Owl | [Gusion-Moonlight-Sonata-Night-Owl.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Moonlight-Sonata-Night-Owl.zip) |
+| Moonlight Sonata Romantic Liaison | [Gusion-Moonlight-Sonata-Romantic-Liaison.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Moonlight-Sonata-Romantic-Liaison.zip) |
+| Moonlight Sonata Royal Spider | [Gusion-Moonlight-Sonata-Royal-Spider.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Moonlight-Sonata-Royal-Spider.zip) |
 | Moonlight Sonata Soul Revelation | [Gusion-Moonlight-Sonata-Soul-Revelation.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Moonlight-Sonata-Soul-Revelation.zip) |
-| Moonlight Sonata V E N O M Emperor | [Gusion-Moonlight-Sonata-V-E-N-O-M-Emperor.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Moonlight-Sonata-V-E-N-O-M-Emperor.zip) |
-| Moonlight Sonata V E N O M Emperror | [Gusion-Moonlight-Sonata-V-E-N-O-M-Emperror.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Moonlight-Sonata-V-E-N-O-M-Emperror.zip) |
-| Moonlight Sonata Venom | [Gusion-Moonlight-Sonata-Venom.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Moonlight-Sonata-Venom.zip) |
+| Moonlight Sonata V E N O M Emperor Scorpion | [Gusion-Moonlight-Sonata-V-E-N-O-M-Emperor-Scorpion.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Moonlight-Sonata-V-E-N-O-M-Emperor-Scorpion.zip) |
 | Night Owl Backup | [Gusion-Night-Owl-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Night-Owl-Backup.zip) |
 | Night Owl Cosmic Gleam | [Gusion-Night-Owl-Cosmic-Gleam.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Night-Owl-Cosmic-Gleam.zip) |
+| Night Owl Cyber Ops | [Gusion-Night-Owl-Cyber-Ops.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Night-Owl-Cyber-Ops.zip) |
+| Night Owl Dangerous Liaison | [Gusion-Night-Owl-Dangerous-Liaison.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Night-Owl-Dangerous-Liaison.zip) |
+| Night Owl Desert Spider | [Gusion-Night-Owl-Desert-Spider.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Night-Owl-Desert-Spider.zip) |
+| Night Owl Dimension Walker | [Gusion-Night-Owl-Dimension-Walker.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Night-Owl-Dimension-Walker.zip) |
+| Night Owl Emerald Spider | [Gusion-Night-Owl-Emerald-Spider.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Night-Owl-Emerald-Spider.zip) |
+| Night Owl Gothic Hairstylist | [Gusion-Night-Owl-Gothic-Hairstylist.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Night-Owl-Gothic-Hairstylist.zip) |
+| Night Owl Hairstylist | [Gusion-Night-Owl-Hairstylist.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Night-Owl-Hairstylist.zip) |
+| Night Owl K | [Gusion-Night-Owl-K.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Night-Owl-K.zip) |
+| Night Owl Moonlight Sonata | [Gusion-Night-Owl-Moonlight-Sonata.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Night-Owl-Moonlight-Sonata.zip) |
+| Night Owl Romantic Liaison | [Gusion-Night-Owl-Romantic-Liaison.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Night-Owl-Romantic-Liaison.zip) |
+| Night Owl Royal Spider | [Gusion-Night-Owl-Royal-Spider.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Night-Owl-Royal-Spider.zip) |
+| Night Owl Soul Revelation | [Gusion-Night-Owl-Soul-Revelation.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Night-Owl-Soul-Revelation.zip) |
+| Night Owl V E N O M Emperor Scorpion | [Gusion-Night-Owl-V-E-N-O-M-Emperor-Scorpion.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Night-Owl-V-E-N-O-M-Emperor-Scorpion.zip) |
+| Romantic Liaison Backup | [Gusion-Romantic-Liaison-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Romantic-Liaison-Backup.zip) |
+| Romantic Liaison Cosmic Gleam | [Gusion-Romantic-Liaison-Cosmic-Gleam.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Romantic-Liaison-Cosmic-Gleam.zip) |
+| Romantic Liaison Cyber Ops | [Gusion-Romantic-Liaison-Cyber-Ops.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Romantic-Liaison-Cyber-Ops.zip) |
+| Romantic Liaison Dangerous Liaison | [Gusion-Romantic-Liaison-Dangerous-Liaison.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Romantic-Liaison-Dangerous-Liaison.zip) |
+| Romantic Liaison Desert Spider | [Gusion-Romantic-Liaison-Desert-Spider.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Romantic-Liaison-Desert-Spider.zip) |
+| Romantic Liaison Dimension Walker | [Gusion-Romantic-Liaison-Dimension-Walker.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Romantic-Liaison-Dimension-Walker.zip) |
+| Romantic Liaison Emerald Spider | [Gusion-Romantic-Liaison-Emerald-Spider.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Romantic-Liaison-Emerald-Spider.zip) |
+| Romantic Liaison Gothic Hairstylist | [Gusion-Romantic-Liaison-Gothic-Hairstylist.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Romantic-Liaison-Gothic-Hairstylist.zip) |
+| Romantic Liaison Hairstylist | [Gusion-Romantic-Liaison-Hairstylist.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Romantic-Liaison-Hairstylist.zip) |
+| Romantic Liaison K | [Gusion-Romantic-Liaison-K.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Romantic-Liaison-K.zip) |
+| Romantic Liaison Moonlight Sonata | [Gusion-Romantic-Liaison-Moonlight-Sonata.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Romantic-Liaison-Moonlight-Sonata.zip) |
+| Romantic Liaison Night Owl | [Gusion-Romantic-Liaison-Night-Owl.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Romantic-Liaison-Night-Owl.zip) |
+| Romantic Liaison Romantic Liaison | [Gusion-Romantic-Liaison-Romantic-Liaison.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Romantic-Liaison-Romantic-Liaison.zip) |
+| Romantic Liaison Royal Spider | [Gusion-Romantic-Liaison-Royal-Spider.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Romantic-Liaison-Royal-Spider.zip) |
+| Romantic Liaison Soul Revelation | [Gusion-Romantic-Liaison-Soul-Revelation.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Romantic-Liaison-Soul-Revelation.zip) |
+| Romantic Liaison V E N O M Emperor Scorpion | [Gusion-Romantic-Liaison-V-E-N-O-M-Emperor-Scorpion.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Romantic-Liaison-V-E-N-O-M-Emperor-Scorpion.zip) |
+| Royal Spider Backup | [Gusion-Royal-Spider-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Royal-Spider-Backup.zip) |
+| Royal Spider Cosmic Gleam | [Gusion-Royal-Spider-Cosmic-Gleam.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Royal-Spider-Cosmic-Gleam.zip) |
+| Royal Spider Cyber Ops | [Gusion-Royal-Spider-Cyber-Ops.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Royal-Spider-Cyber-Ops.zip) |
+| Royal Spider Dangerous Liaison | [Gusion-Royal-Spider-Dangerous-Liaison.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Royal-Spider-Dangerous-Liaison.zip) |
+| Royal Spider Dimension Walker | [Gusion-Royal-Spider-Dimension-Walker.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Royal-Spider-Dimension-Walker.zip) |
+| Royal Spider Hairstylist | [Gusion-Royal-Spider-Hairstylist.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Royal-Spider-Hairstylist.zip) |
+| Royal Spider K | [Gusion-Royal-Spider-K.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Royal-Spider-K.zip) |
+| Royal Spider Moonlight Sonata | [Gusion-Royal-Spider-Moonlight-Sonata.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Royal-Spider-Moonlight-Sonata.zip) |
+| Royal Spider Night Owl | [Gusion-Royal-Spider-Night-Owl.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Royal-Spider-Night-Owl.zip) |
+| Royal Spider Romantic Liaison | [Gusion-Royal-Spider-Romantic-Liaison.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Royal-Spider-Romantic-Liaison.zip) |
+| Royal Spider Soul Revelation | [Gusion-Royal-Spider-Soul-Revelation.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Royal-Spider-Soul-Revelation.zip) |
+| Royal Spider V E N O M Emperor Scorpion | [Gusion-Royal-Spider-V-E-N-O-M-Emperor-Scorpion.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Royal-Spider-V-E-N-O-M-Emperor-Scorpion.zip) |
 | Soul Revelation Backup | [Gusion-Soul-Revelation-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Soul-Revelation-Backup.zip) |
 | Soul Revelation Cosmic Gleam | [Gusion-Soul-Revelation-Cosmic-Gleam.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Soul-Revelation-Cosmic-Gleam.zip) |
+| Soul Revelation Cyber Ops | [Gusion-Soul-Revelation-Cyber-Ops.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Soul-Revelation-Cyber-Ops.zip) |
+| Soul Revelation Dangerous Liaison | [Gusion-Soul-Revelation-Dangerous-Liaison.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Soul-Revelation-Dangerous-Liaison.zip) |
+| Soul Revelation Desert Spider | [Gusion-Soul-Revelation-Desert-Spider.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Soul-Revelation-Desert-Spider.zip) |
 | Soul Revelation Dimension Walker | [Gusion-Soul-Revelation-Dimension-Walker.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Soul-Revelation-Dimension-Walker.zip) |
-| Soul Revelation K Dash | [Gusion-Soul-Revelation-K-Dash.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Soul-Revelation-K-Dash.zip) |
+| Soul Revelation Emerald Spider | [Gusion-Soul-Revelation-Emerald-Spider.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Soul-Revelation-Emerald-Spider.zip) |
+| Soul Revelation Gothic Hairstylist | [Gusion-Soul-Revelation-Gothic-Hairstylist.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Soul-Revelation-Gothic-Hairstylist.zip) |
+| Soul Revelation Hairstylist | [Gusion-Soul-Revelation-Hairstylist.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Soul-Revelation-Hairstylist.zip) |
 | Soul Revelation K | [Gusion-Soul-Revelation-K.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Soul-Revelation-K.zip) |
-| Soul Revelation Minato Namikaze | [Gusion-Soul-Revelation-Minato-Namikaze.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Soul-Revelation-Minato-Namikaze.zip) |
-| Soul Revelation Minato | [Gusion-Soul-Revelation-Minato.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Soul-Revelation-Minato.zip) |
+| Soul Revelation Moonlight Sonata | [Gusion-Soul-Revelation-Moonlight-Sonata.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Soul-Revelation-Moonlight-Sonata.zip) |
 | Soul Revelation Night Owl | [Gusion-Soul-Revelation-Night-Owl.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Soul-Revelation-Night-Owl.zip) |
-| Starlight 2018 11 11 | [Gusion-Starlight-2018-11-11.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Starlight-2018-11-11.zip) |
-| Starlight 2018 Collector | [Gusion-Starlight-2018-Collector.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Starlight-2018-Collector.zip) |
-| Starlight 2018 KOF | [Gusion-Starlight-2018-KOF.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Starlight-2018-KOF.zip) |
-| Starlight 2018 Legend | [Gusion-Starlight-2018-Legend.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Starlight-2018-Legend.zip) |
-| Starlight 2018 Naruto | [Gusion-Starlight-2018-Naruto.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Starlight-2018-Naruto.zip) |
-| Starlight 2018 Old Collector | [Gusion-Starlight-2018-Old-Collector.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Starlight-2018-Old-Collector.zip) |
-| Starlight 2024 11 11 | [Gusion-Starlight-2024-11-11.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Starlight-2024-11-11.zip) |
-| Starlight 2024 Collector | [Gusion-Starlight-2024-Collector.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Starlight-2024-Collector.zip) |
-| Starlight 2024 KOF | [Gusion-Starlight-2024-KOF.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Starlight-2024-KOF.zip) |
-| Starlight 2024 Legend | [Gusion-Starlight-2024-Legend.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Starlight-2024-Legend.zip) |
-| Starlight 2024 Naruto | [Gusion-Starlight-2024-Naruto.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Starlight-2024-Naruto.zip) |
-| Starlight 2024 Old Collector | [Gusion-Starlight-2024-Old-Collector.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Starlight-2024-Old-Collector.zip) |
-| Starlight Cosmic Gleam | [Gusion-Starlight-Cosmic-Gleam.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Starlight-Cosmic-Gleam.zip) |
-| Starlight Cyber Ops | [Gusion-Starlight-Cyber-Ops.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Starlight-Cyber-Ops.zip) |
-| Starlight Dimension Walker | [Gusion-Starlight-Dimension-Walker.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Starlight-Dimension-Walker.zip) |
-| Starlight K | [Gusion-Starlight-K.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Starlight-K.zip) |
-| Starlight Night Owl | [Gusion-Starlight-Night-Owl.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Starlight-Night-Owl.zip) |
-| Starlight Soul Revelation | [Gusion-Starlight-Soul-Revelation.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Starlight-Soul-Revelation.zip) |
-| Starlight V E N O M Emperor Scorpion | [Gusion-Starlight-V-E-N-O-M-Emperor-Scorpion.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Starlight-V-E-N-O-M-Emperor-Scorpion.zip) |
-| Starlight2 Cosmic Gleam | [Gusion-Starlight2-Cosmic-Gleam.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Starlight2-Cosmic-Gleam.zip) |
-| Starlight2 Desert Spider | [Gusion-Starlight2-Desert-Spider.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Starlight2-Desert-Spider.zip) |
-| Starlight2 K | [Gusion-Starlight2-K.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Starlight2-K.zip) |
-| Starlight2 Night Owl | [Gusion-Starlight2-Night-Owl.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Starlight2-Night-Owl.zip) |
-| V E N O M 11 11 | [Gusion-V-E-N-O-M-11-11.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-V-E-N-O-M-11-11.zip) |
-| V E N O M Collector | [Gusion-V-E-N-O-M-Collector.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-V-E-N-O-M-Collector.zip) |
-| V E N O M Emperor Backup | [Gusion-V-E-N-O-M-Emperor-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-V-E-N-O-M-Emperor-Backup.zip) |
-| V E N O M Emperor Cosmic Gleam | [Gusion-V-E-N-O-M-Emperor-Cosmic-Gleam.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-V-E-N-O-M-Emperor-Cosmic-Gleam.zip) |
-| V E N O M Emperor K | [Gusion-V-E-N-O-M-Emperor-K.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-V-E-N-O-M-Emperor-K.zip) |
-| V E N O M Emperor Night Owl | [Gusion-V-E-N-O-M-Emperor-Night-Owl.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-V-E-N-O-M-Emperor-Night-Owl.zip) |
+| Soul Revelation Romantic Liaison | [Gusion-Soul-Revelation-Romantic-Liaison.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Soul-Revelation-Romantic-Liaison.zip) |
+| Soul Revelation Royal Spider | [Gusion-Soul-Revelation-Royal-Spider.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Soul-Revelation-Royal-Spider.zip) |
+| Soul Revelation V E N O M Emperor Scorpion | [Gusion-Soul-Revelation-V-E-N-O-M-Emperor-Scorpion.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Soul-Revelation-V-E-N-O-M-Emperor-Scorpion.zip) |
 | V E N O M Emperor Scorpion Backup | [Gusion-V-E-N-O-M-Emperor-Scorpion-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-V-E-N-O-M-Emperor-Scorpion-Backup.zip) |
 | V E N O M Emperor Scorpion Cosmic Gleam | [Gusion-V-E-N-O-M-Emperor-Scorpion-Cosmic-Gleam.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-V-E-N-O-M-Emperor-Scorpion-Cosmic-Gleam.zip) |
+| V E N O M Emperor Scorpion Cyber Ops | [Gusion-V-E-N-O-M-Emperor-Scorpion-Cyber-Ops.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-V-E-N-O-M-Emperor-Scorpion-Cyber-Ops.zip) |
+| V E N O M Emperor Scorpion Dangerous Liaison | [Gusion-V-E-N-O-M-Emperor-Scorpion-Dangerous-Liaison.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-V-E-N-O-M-Emperor-Scorpion-Dangerous-Liaison.zip) |
+| V E N O M Emperor Scorpion Desert Spider | [Gusion-V-E-N-O-M-Emperor-Scorpion-Desert-Spider.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-V-E-N-O-M-Emperor-Scorpion-Desert-Spider.zip) |
 | V E N O M Emperor Scorpion Dimension Walker | [Gusion-V-E-N-O-M-Emperor-Scorpion-Dimension-Walker.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-V-E-N-O-M-Emperor-Scorpion-Dimension-Walker.zip) |
+| V E N O M Emperor Scorpion Emerald Spider | [Gusion-V-E-N-O-M-Emperor-Scorpion-Emerald-Spider.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-V-E-N-O-M-Emperor-Scorpion-Emerald-Spider.zip) |
+| V E N O M Emperor Scorpion Gothic Hairstylist | [Gusion-V-E-N-O-M-Emperor-Scorpion-Gothic-Hairstylist.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-V-E-N-O-M-Emperor-Scorpion-Gothic-Hairstylist.zip) |
+| V E N O M Emperor Scorpion Hairstylist | [Gusion-V-E-N-O-M-Emperor-Scorpion-Hairstylist.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-V-E-N-O-M-Emperor-Scorpion-Hairstylist.zip) |
 | V E N O M Emperor Scorpion K | [Gusion-V-E-N-O-M-Emperor-Scorpion-K.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-V-E-N-O-M-Emperor-Scorpion-K.zip) |
+| V E N O M Emperor Scorpion Moonlight Sonata | [Gusion-V-E-N-O-M-Emperor-Scorpion-Moonlight-Sonata.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-V-E-N-O-M-Emperor-Scorpion-Moonlight-Sonata.zip) |
 | V E N O M Emperor Scorpion Night Owl | [Gusion-V-E-N-O-M-Emperor-Scorpion-Night-Owl.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-V-E-N-O-M-Emperor-Scorpion-Night-Owl.zip) |
-| V E N O M Emperror Backup | [Gusion-V-E-N-O-M-Emperror-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-V-E-N-O-M-Emperror-Backup.zip) |
-| V E N O M Emperror Cosmic Gleam | [Gusion-V-E-N-O-M-Emperror-Cosmic-Gleam.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-V-E-N-O-M-Emperror-Cosmic-Gleam.zip) |
-| V E N O M Emperror Dimension Walker | [Gusion-V-E-N-O-M-Emperror-Dimension-Walker.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-V-E-N-O-M-Emperror-Dimension-Walker.zip) |
-| V E N O M Emperror K Dash | [Gusion-V-E-N-O-M-Emperror-K-Dash.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-V-E-N-O-M-Emperror-K-Dash.zip) |
-| V E N O M Emperror Minato Namikaze | [Gusion-V-E-N-O-M-Emperror-Minato-Namikaze.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-V-E-N-O-M-Emperror-Minato-Namikaze.zip) |
-| V E N O M Emperror Night Owl | [Gusion-V-E-N-O-M-Emperror-Night-Owl.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-V-E-N-O-M-Emperror-Night-Owl.zip) |
-| V E N O M KOF | [Gusion-V-E-N-O-M-KOF.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-V-E-N-O-M-KOF.zip) |
-| V E N O M Legend | [Gusion-V-E-N-O-M-Legend.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-V-E-N-O-M-Legend.zip) |
-| V E N O M Naruto | [Gusion-V-E-N-O-M-Naruto.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-V-E-N-O-M-Naruto.zip) |
-| V E N O M Old Collector | [Gusion-V-E-N-O-M-Old-Collector.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-V-E-N-O-M-Old-Collector.zip) |
-| Valentine 11 11 | [Gusion-Valentine-11-11.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Valentine-11-11.zip) |
-| Valentine Collector | [Gusion-Valentine-Collector.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Valentine-Collector.zip) |
-| Valentine Cosmic Gleam | [Gusion-Valentine-Cosmic-Gleam.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Valentine-Cosmic-Gleam.zip) |
-| Valentine Dangerous Liaison | [Gusion-Valentine-Dangerous-Liaison.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Valentine-Dangerous-Liaison.zip) |
-| Valentine Dimension Walker | [Gusion-Valentine-Dimension-Walker.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Valentine-Dimension-Walker.zip) |
-| Valentine K | [Gusion-Valentine-K.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Valentine-K.zip) |
-| Valentine KOF | [Gusion-Valentine-KOF.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Valentine-KOF.zip) |
-| Valentine Legend | [Gusion-Valentine-Legend.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Valentine-Legend.zip) |
-| Valentine Naruto | [Gusion-Valentine-Naruto.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Valentine-Naruto.zip) |
-| Valentine Night Owl | [Gusion-Valentine-Night-Owl.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Valentine-Night-Owl.zip) |
-| Valentine Old Collector | [Gusion-Valentine-Old-Collector.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Valentine-Old-Collector.zip) |
-| Valentine Soul Revelation | [Gusion-Valentine-Soul-Revelation.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Valentine-Soul-Revelation.zip) |
-| Valentine V E N O M Emperor Scorpion | [Gusion-Valentine-V-E-N-O-M-Emperor-Scorpion.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Valentine-V-E-N-O-M-Emperor-Scorpion.zip) |
-| Venom Cosmic Gleam | [Gusion-Venom-Cosmic-Gleam.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Venom-Cosmic-Gleam.zip) |
-| Venom Dimension Walker | [Gusion-Venom-Dimension-Walker.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Venom-Dimension-Walker.zip) |
-| Venom K | [Gusion-Venom-K.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Venom-K.zip) |
-| Venom Night Owl | [Gusion-Venom-Night-Owl.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Venom-Night-Owl.zip) |
-| Venom V E N O M Emperor Scorpion | [Gusion-Venom-V-E-N-O-M-Emperor-Scorpion.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-Venom-V-E-N-O-M-Emperor-Scorpion.zip) |
+| V E N O M Emperor Scorpion Romantic Liaison | [Gusion-V-E-N-O-M-Emperor-Scorpion-Romantic-Liaison.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-V-E-N-O-M-Emperor-Scorpion-Romantic-Liaison.zip) |
+| V E N O M Emperor Scorpion Royal Spider | [Gusion-V-E-N-O-M-Emperor-Scorpion-Royal-Spider.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-V-E-N-O-M-Emperor-Scorpion-Royal-Spider.zip) |
+| V E N O M Emperor Scorpion Soul Revelation | [Gusion-V-E-N-O-M-Emperor-Scorpion-Soul-Revelation.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gusion/Gusion-V-E-N-O-M-Emperor-Scorpion-Soul-Revelation.zip) |
