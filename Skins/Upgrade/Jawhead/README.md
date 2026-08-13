@@ -5,42 +5,119 @@ Validated upgrade-skin packages. All downloads are published in the
 
 | Package | Download |
 | --- | --- |
-| Basic Cyber Ranger | [Jawhead-Basic-Cyber-Ranger.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Basic-Cyber-Ranger.zip) |
-| Basic Dino Pals | [Jawhead-Basic-Dino-Pals.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Basic-Dino-Pals.zip) |
-| Basic Girl Scout | [Jawhead-Basic-Girl-Scout.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Basic-Girl-Scout.zip) |
-| Basic Proto Guardian | [Jawhead-Basic-Proto-Guardian.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Basic-Proto-Guardian.zip) |
-| Basic Samurai Mech | [Jawhead-Basic-Samurai-Mech.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Basic-Samurai-Mech.zip) |
-| Collector Dino Pals | [Jawhead-Collector-Dino-Pals.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Collector-Dino-Pals.zip) |
-| Default Dino Pals | [Jawhead-Default-Dino-Pals.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Default-Dino-Pals.zip) |
-| Elite Dino Pals | [Jawhead-Elite-Dino-Pals.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Elite-Dino-Pals.zip) |
-| Elite Foo Quarterback | [Jawhead-Elite-Foo-Quarterback.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Elite-Foo-Quarterback.zip) |
-| Elite Proto Guardian | [Jawhead-Elite-Proto-Guardian.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Elite-Proto-Guardian.zip) |
-| Elite Samurai Mech | [Jawhead-Elite-Samurai-Mech.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Elite-Samurai-Mech.zip) |
+| Candy Bear Backup | [Jawhead-Candy-Bear-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Candy-Bear-Backup.zip) |
+| Candy Bear Cyber Ranger | [Jawhead-Candy-Bear-Cyber-Ranger.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Candy-Bear-Cyber-Ranger.zip) |
+| Candy Bear Field Commander | [Jawhead-Candy-Bear-Field-Commander.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Candy-Bear-Field-Commander.zip) |
+| Candy Bear Foo Quarterback | [Jawhead-Candy-Bear-Foo-Quarterback.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Candy-Bear-Foo-Quarterback.zip) |
+| Candy Bear Girl Scout | [Jawhead-Candy-Bear-Girl-Scout.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Candy-Bear-Girl-Scout.zip) |
+| Candy Bear Proto Guardian | [Jawhead-Candy-Bear-Proto-Guardian.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Candy-Bear-Proto-Guardian.zip) |
+| Candy Bear Proto Sentinel | [Jawhead-Candy-Bear-Proto-Sentinel.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Candy-Bear-Proto-Sentinel.zip) |
+| Candy Bear Samurai Mech | [Jawhead-Candy-Bear-Samurai-Mech.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Candy-Bear-Samurai-Mech.zip) |
+| Candy Bear Space Explorer | [Jawhead-Candy-Bear-Space-Explorer.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Candy-Bear-Space-Explorer.zip) |
+| Candy Bear The Nutcracker | [Jawhead-Candy-Bear-The-Nutcracker.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Candy-Bear-The-Nutcracker.zip) |
+| Candy Bear Victory Loader | [Jawhead-Candy-Bear-Victory-Loader.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Candy-Bear-Victory-Loader.zip) |
+| Cyber Ranger Backup | [Jawhead-Cyber-Ranger-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Cyber-Ranger-Backup.zip) |
+| Cyber Ranger Candy Bear | [Jawhead-Cyber-Ranger-Candy-Bear.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Cyber-Ranger-Candy-Bear.zip) |
+| Cyber Ranger Field Commander | [Jawhead-Cyber-Ranger-Field-Commander.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Cyber-Ranger-Field-Commander.zip) |
+| Cyber Ranger Foo Quarterback | [Jawhead-Cyber-Ranger-Foo-Quarterback.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Cyber-Ranger-Foo-Quarterback.zip) |
+| Cyber Ranger Girl Scout | [Jawhead-Cyber-Ranger-Girl-Scout.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Cyber-Ranger-Girl-Scout.zip) |
+| Cyber Ranger Proto Guardian | [Jawhead-Cyber-Ranger-Proto-Guardian.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Cyber-Ranger-Proto-Guardian.zip) |
+| Cyber Ranger Proto Sentinel | [Jawhead-Cyber-Ranger-Proto-Sentinel.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Cyber-Ranger-Proto-Sentinel.zip) |
+| Cyber Ranger Samurai Mech | [Jawhead-Cyber-Ranger-Samurai-Mech.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Cyber-Ranger-Samurai-Mech.zip) |
+| Cyber Ranger Space Explorer | [Jawhead-Cyber-Ranger-Space-Explorer.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Cyber-Ranger-Space-Explorer.zip) |
+| Cyber Ranger The Nutcracker | [Jawhead-Cyber-Ranger-The-Nutcracker.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Cyber-Ranger-The-Nutcracker.zip) |
+| Cyber Ranger Victory Loader | [Jawhead-Cyber-Ranger-Victory-Loader.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Cyber-Ranger-Victory-Loader.zip) |
+| Field Commander Backup | [Jawhead-Field-Commander-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Field-Commander-Backup.zip) |
+| Field Commander Candy Bear | [Jawhead-Field-Commander-Candy-Bear.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Field-Commander-Candy-Bear.zip) |
+| Field Commander Cyber Ranger | [Jawhead-Field-Commander-Cyber-Ranger.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Field-Commander-Cyber-Ranger.zip) |
+| Field Commander Foo Quarterback | [Jawhead-Field-Commander-Foo-Quarterback.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Field-Commander-Foo-Quarterback.zip) |
+| Field Commander Girl Scout | [Jawhead-Field-Commander-Girl-Scout.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Field-Commander-Girl-Scout.zip) |
+| Field Commander Proto Guardian | [Jawhead-Field-Commander-Proto-Guardian.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Field-Commander-Proto-Guardian.zip) |
+| Field Commander Proto Sentinel | [Jawhead-Field-Commander-Proto-Sentinel.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Field-Commander-Proto-Sentinel.zip) |
+| Field Commander Samurai Mech | [Jawhead-Field-Commander-Samurai-Mech.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Field-Commander-Samurai-Mech.zip) |
+| Field Commander Space Explorer | [Jawhead-Field-Commander-Space-Explorer.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Field-Commander-Space-Explorer.zip) |
+| Field Commander Victory Loader | [Jawhead-Field-Commander-Victory-Loader.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Field-Commander-Victory-Loader.zip) |
 | Foo Quarterback Backup | [Jawhead-Foo-Quarterback-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Foo-Quarterback-Backup.zip) |
+| Foo Quarterback Candy Bear | [Jawhead-Foo-Quarterback-Candy-Bear.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Foo-Quarterback-Candy-Bear.zip) |
+| Foo Quarterback Cyber Ranger | [Jawhead-Foo-Quarterback-Cyber-Ranger.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Foo-Quarterback-Cyber-Ranger.zip) |
+| Foo Quarterback Field Commander | [Jawhead-Foo-Quarterback-Field-Commander.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Foo-Quarterback-Field-Commander.zip) |
+| Foo Quarterback Girl Scout | [Jawhead-Foo-Quarterback-Girl-Scout.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Foo-Quarterback-Girl-Scout.zip) |
+| Foo Quarterback Proto Guardian | [Jawhead-Foo-Quarterback-Proto-Guardian.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Foo-Quarterback-Proto-Guardian.zip) |
+| Foo Quarterback Proto Sentinel | [Jawhead-Foo-Quarterback-Proto-Sentinel.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Foo-Quarterback-Proto-Sentinel.zip) |
 | Foo Quarterback Samurai Mech | [Jawhead-Foo-Quarterback-Samurai-Mech.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Foo-Quarterback-Samurai-Mech.zip) |
-| Foo Quaterback Backup | [Jawhead-Foo-Quaterback-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Foo-Quaterback-Backup.zip) |
-| Foo Quaterback Proto Guardian | [Jawhead-Foo-Quaterback-Proto-Guardian.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Foo-Quaterback-Proto-Guardian.zip) |
-| Foo Quaterback Samurai Mech | [Jawhead-Foo-Quaterback-Samurai-Mech.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Foo-Quaterback-Samurai-Mech.zip) |
+| Foo Quarterback Space Explorer | [Jawhead-Foo-Quarterback-Space-Explorer.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Foo-Quarterback-Space-Explorer.zip) |
+| Foo Quarterback The Nutcracker | [Jawhead-Foo-Quarterback-The-Nutcracker.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Foo-Quarterback-The-Nutcracker.zip) |
+| Foo Quarterback Victory Loader | [Jawhead-Foo-Quarterback-Victory-Loader.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Foo-Quarterback-Victory-Loader.zip) |
 | Girl Scout Backup | [Jawhead-Girl-Scout-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Girl-Scout-Backup.zip) |
+| Girl Scout Candy Bear | [Jawhead-Girl-Scout-Candy-Bear.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Girl-Scout-Candy-Bear.zip) |
 | Girl Scout Cyber Ranger | [Jawhead-Girl-Scout-Cyber-Ranger.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Girl-Scout-Cyber-Ranger.zip) |
+| Girl Scout Foo Quarterback | [Jawhead-Girl-Scout-Foo-Quarterback.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Girl-Scout-Foo-Quarterback.zip) |
 | Girl Scout Proto Guardian | [Jawhead-Girl-Scout-Proto-Guardian.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Girl-Scout-Proto-Guardian.zip) |
+| Girl Scout Proto Sentinel | [Jawhead-Girl-Scout-Proto-Sentinel.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Girl-Scout-Proto-Sentinel.zip) |
 | Girl Scout Samurai Mech | [Jawhead-Girl-Scout-Samurai-Mech.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Girl-Scout-Samurai-Mech.zip) |
-| MPL Dino Pals | [Jawhead-MPL-Dino-Pals.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-MPL-Dino-Pals.zip) |
-| MSC 2018 Dino Pals | [Jawhead-MSC-2018-Dino-Pals.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-MSC-2018-Dino-Pals.zip) |
-| Season 33 Dino Pals | [Jawhead-Season-33-Dino-Pals.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Season-33-Dino-Pals.zip) |
-| Special Dino Pals | [Jawhead-Special-Dino-Pals.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Special-Dino-Pals.zip) |
-| Special Proto Guardian | [Jawhead-Special-Proto-Guardian.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Special-Proto-Guardian.zip) |
-| Special Samurai Mech | [Jawhead-Special-Samurai-Mech.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Special-Samurai-Mech.zip) |
-| Starlight 2021 Dino Pals | [Jawhead-Starlight-2021-Dino-Pals.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Starlight-2021-Dino-Pals.zip) |
-| Steel Sweetheart Backup | [Jawhead-Steel-Sweetheart-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Steel-Sweetheart-Backup.zip) |
-| Steel Sweetheart Candy Bear | [Jawhead-Steel-Sweetheart-Candy-Bear.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Steel-Sweetheart-Candy-Bear.zip) |
-| Steel Sweetheart Cyber Ranger | [Jawhead-Steel-Sweetheart-Cyber-Ranger.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Steel-Sweetheart-Cyber-Ranger.zip) |
-| Steel Sweetheart Foo Quarterback | [Jawhead-Steel-Sweetheart-Foo-Quarterback.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Steel-Sweetheart-Foo-Quarterback.zip) |
-| Steel Sweetheart Proto Guardian | [Jawhead-Steel-Sweetheart-Proto-Guardian.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Steel-Sweetheart-Proto-Guardian.zip) |
-| Steel Sweetheart Samurai Mech | [Jawhead-Steel-Sweetheart-Samurai-Mech.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Steel-Sweetheart-Samurai-Mech.zip) |
-| Steel Sweetheart Space Explorer | [Jawhead-Steel-Sweetheart-Space-Explorer.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Steel-Sweetheart-Space-Explorer.zip) |
-| Steel Sweetheart The Nutcracker | [Jawhead-Steel-Sweetheart-The-Nutcracker.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Steel-Sweetheart-The-Nutcracker.zip) |
-| Steel Sweetheart The Nutracker | [Jawhead-Steel-Sweetheart-The-Nutracker.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Steel-Sweetheart-The-Nutracker.zip) |
+| Girl Scout Space Explorer | [Jawhead-Girl-Scout-Space-Explorer.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Girl-Scout-Space-Explorer.zip) |
+| Girl Scout The Nutcracker | [Jawhead-Girl-Scout-The-Nutcracker.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Girl-Scout-The-Nutcracker.zip) |
+| Girl Scout Victory Loader | [Jawhead-Girl-Scout-Victory-Loader.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Girl-Scout-Victory-Loader.zip) |
+| Proto Guardian Backup | [Jawhead-Proto-Guardian-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Proto-Guardian-Backup.zip) |
+| Proto Guardian Candy Bear | [Jawhead-Proto-Guardian-Candy-Bear.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Proto-Guardian-Candy-Bear.zip) |
+| Proto Guardian Cyber Ranger | [Jawhead-Proto-Guardian-Cyber-Ranger.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Proto-Guardian-Cyber-Ranger.zip) |
+| Proto Guardian Field Commander | [Jawhead-Proto-Guardian-Field-Commander.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Proto-Guardian-Field-Commander.zip) |
+| Proto Guardian Foo Quarterback | [Jawhead-Proto-Guardian-Foo-Quarterback.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Proto-Guardian-Foo-Quarterback.zip) |
+| Proto Guardian Girl Scout | [Jawhead-Proto-Guardian-Girl-Scout.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Proto-Guardian-Girl-Scout.zip) |
+| Proto Guardian Samurai Mech | [Jawhead-Proto-Guardian-Samurai-Mech.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Proto-Guardian-Samurai-Mech.zip) |
+| Proto Guardian Space Explorer | [Jawhead-Proto-Guardian-Space-Explorer.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Proto-Guardian-Space-Explorer.zip) |
+| Proto Guardian The Nutcracker | [Jawhead-Proto-Guardian-The-Nutcracker.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Proto-Guardian-The-Nutcracker.zip) |
+| Proto Guardian Victory Loader | [Jawhead-Proto-Guardian-Victory-Loader.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Proto-Guardian-Victory-Loader.zip) |
+| Proto Sentinel Backup | [Jawhead-Proto-Sentinel-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Proto-Sentinel-Backup.zip) |
+| Proto Sentinel Candy Bear | [Jawhead-Proto-Sentinel-Candy-Bear.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Proto-Sentinel-Candy-Bear.zip) |
+| Proto Sentinel Cyber Ranger | [Jawhead-Proto-Sentinel-Cyber-Ranger.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Proto-Sentinel-Cyber-Ranger.zip) |
+| Proto Sentinel Field Commander | [Jawhead-Proto-Sentinel-Field-Commander.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Proto-Sentinel-Field-Commander.zip) |
+| Proto Sentinel Foo Quarterback | [Jawhead-Proto-Sentinel-Foo-Quarterback.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Proto-Sentinel-Foo-Quarterback.zip) |
+| Proto Sentinel Girl Scout | [Jawhead-Proto-Sentinel-Girl-Scout.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Proto-Sentinel-Girl-Scout.zip) |
+| Proto Sentinel Samurai Mech | [Jawhead-Proto-Sentinel-Samurai-Mech.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Proto-Sentinel-Samurai-Mech.zip) |
+| Proto Sentinel Space Explorer | [Jawhead-Proto-Sentinel-Space-Explorer.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Proto-Sentinel-Space-Explorer.zip) |
+| Proto Sentinel The Nutcracker | [Jawhead-Proto-Sentinel-The-Nutcracker.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Proto-Sentinel-The-Nutcracker.zip) |
+| Proto Sentinel Victory Loader | [Jawhead-Proto-Sentinel-Victory-Loader.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Proto-Sentinel-Victory-Loader.zip) |
+| Samurai Mech Backup | [Jawhead-Samurai-Mech-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Samurai-Mech-Backup.zip) |
+| Samurai Mech Candy Bear | [Jawhead-Samurai-Mech-Candy-Bear.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Samurai-Mech-Candy-Bear.zip) |
+| Samurai Mech Cyber Ranger | [Jawhead-Samurai-Mech-Cyber-Ranger.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Samurai-Mech-Cyber-Ranger.zip) |
+| Samurai Mech Field Commander | [Jawhead-Samurai-Mech-Field-Commander.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Samurai-Mech-Field-Commander.zip) |
+| Samurai Mech Foo Quarterback | [Jawhead-Samurai-Mech-Foo-Quarterback.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Samurai-Mech-Foo-Quarterback.zip) |
+| Samurai Mech Girl Scout | [Jawhead-Samurai-Mech-Girl-Scout.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Samurai-Mech-Girl-Scout.zip) |
+| Samurai Mech Proto Guardian | [Jawhead-Samurai-Mech-Proto-Guardian.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Samurai-Mech-Proto-Guardian.zip) |
+| Samurai Mech Proto Sentinel | [Jawhead-Samurai-Mech-Proto-Sentinel.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Samurai-Mech-Proto-Sentinel.zip) |
+| Samurai Mech Space Explorer | [Jawhead-Samurai-Mech-Space-Explorer.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Samurai-Mech-Space-Explorer.zip) |
+| Samurai Mech The Nutcracker | [Jawhead-Samurai-Mech-The-Nutcracker.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Samurai-Mech-The-Nutcracker.zip) |
+| Samurai Mech Victory Loader | [Jawhead-Samurai-Mech-Victory-Loader.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Samurai-Mech-Victory-Loader.zip) |
+| Space Explorer Backup | [Jawhead-Space-Explorer-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Space-Explorer-Backup.zip) |
+| Space Explorer Candy Bear | [Jawhead-Space-Explorer-Candy-Bear.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Space-Explorer-Candy-Bear.zip) |
+| Space Explorer Cyber Ranger | [Jawhead-Space-Explorer-Cyber-Ranger.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Space-Explorer-Cyber-Ranger.zip) |
+| Space Explorer Field Commander | [Jawhead-Space-Explorer-Field-Commander.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Space-Explorer-Field-Commander.zip) |
+| Space Explorer Foo Quarterback | [Jawhead-Space-Explorer-Foo-Quarterback.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Space-Explorer-Foo-Quarterback.zip) |
+| Space Explorer Girl Scout | [Jawhead-Space-Explorer-Girl-Scout.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Space-Explorer-Girl-Scout.zip) |
+| Space Explorer Proto Guardian | [Jawhead-Space-Explorer-Proto-Guardian.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Space-Explorer-Proto-Guardian.zip) |
+| Space Explorer Proto Sentinel | [Jawhead-Space-Explorer-Proto-Sentinel.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Space-Explorer-Proto-Sentinel.zip) |
+| Space Explorer Samurai Mech | [Jawhead-Space-Explorer-Samurai-Mech.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Space-Explorer-Samurai-Mech.zip) |
+| Space Explorer The Nutcracker | [Jawhead-Space-Explorer-The-Nutcracker.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Space-Explorer-The-Nutcracker.zip) |
+| Space Explorer Victory Loader | [Jawhead-Space-Explorer-Victory-Loader.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Space-Explorer-Victory-Loader.zip) |
 | The Nutcracker Backup | [Jawhead-The-Nutcracker-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-The-Nutcracker-Backup.zip) |
+| The Nutcracker Candy Bear | [Jawhead-The-Nutcracker-Candy-Bear.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-The-Nutcracker-Candy-Bear.zip) |
+| The Nutcracker Cyber Ranger | [Jawhead-The-Nutcracker-Cyber-Ranger.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-The-Nutcracker-Cyber-Ranger.zip) |
+| The Nutcracker Foo Quarterback | [Jawhead-The-Nutcracker-Foo-Quarterback.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-The-Nutcracker-Foo-Quarterback.zip) |
+| The Nutcracker Girl Scout | [Jawhead-The-Nutcracker-Girl-Scout.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-The-Nutcracker-Girl-Scout.zip) |
 | The Nutcracker Proto Guardian | [Jawhead-The-Nutcracker-Proto-Guardian.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-The-Nutcracker-Proto-Guardian.zip) |
+| The Nutcracker Proto Sentinel | [Jawhead-The-Nutcracker-Proto-Sentinel.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-The-Nutcracker-Proto-Sentinel.zip) |
 | The Nutcracker Samurai Mech | [Jawhead-The-Nutcracker-Samurai-Mech.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-The-Nutcracker-Samurai-Mech.zip) |
+| The Nutcracker Space Explorer | [Jawhead-The-Nutcracker-Space-Explorer.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-The-Nutcracker-Space-Explorer.zip) |
+| The Nutcracker Victory Loader | [Jawhead-The-Nutcracker-Victory-Loader.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-The-Nutcracker-Victory-Loader.zip) |
+| Victory Loader Backup | [Jawhead-Victory-Loader-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Victory-Loader-Backup.zip) |
+| Victory Loader Candy Bear | [Jawhead-Victory-Loader-Candy-Bear.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Victory-Loader-Candy-Bear.zip) |
+| Victory Loader Cyber Ranger | [Jawhead-Victory-Loader-Cyber-Ranger.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Victory-Loader-Cyber-Ranger.zip) |
+| Victory Loader Field Commander | [Jawhead-Victory-Loader-Field-Commander.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Victory-Loader-Field-Commander.zip) |
+| Victory Loader Foo Quarterback | [Jawhead-Victory-Loader-Foo-Quarterback.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Victory-Loader-Foo-Quarterback.zip) |
+| Victory Loader Girl Scout | [Jawhead-Victory-Loader-Girl-Scout.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Victory-Loader-Girl-Scout.zip) |
+| Victory Loader Proto Guardian | [Jawhead-Victory-Loader-Proto-Guardian.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Victory-Loader-Proto-Guardian.zip) |
+| Victory Loader Proto Sentinel | [Jawhead-Victory-Loader-Proto-Sentinel.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Victory-Loader-Proto-Sentinel.zip) |
+| Victory Loader Samurai Mech | [Jawhead-Victory-Loader-Samurai-Mech.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Victory-Loader-Samurai-Mech.zip) |
+| Victory Loader Space Explorer | [Jawhead-Victory-Loader-Space-Explorer.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Victory-Loader-Space-Explorer.zip) |
+| Victory Loader The Nutcracker | [Jawhead-Victory-Loader-The-Nutcracker.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Victory-Loader-The-Nutcracker.zip) |
