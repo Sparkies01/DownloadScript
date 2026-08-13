@@ -5,10 +5,13 @@ Validated upgrade-skin packages. All downloads are published in the
 
 | Package | Download |
 | --- | --- |
-| Basic Matrix Maverick | [Phoveus-Basic-Matrix-Maverick.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-phoveus/Phoveus-Basic-Matrix-Maverick.zip) |
-| Basic Starlight 2025 | [Phoveus-Basic-Starlight-2025.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-phoveus/Phoveus-Basic-Starlight-2025.zip) |
-| Chains of Sin Jiraiya Customized | [Phoveus-Chains-of-Sin-Jiraiya-Customized.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-phoveus/Phoveus-Chains-of-Sin-Jiraiya-Customized.zip) |
-| Chains of Sin Yashiro Customized | [Phoveus-Chains-of-Sin-Yashiro-Customized.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-phoveus/Phoveus-Chains-of-Sin-Yashiro-Customized.zip) |
-| Default Starlight 2025 | [Phoveus-Default-Starlight-2025.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-phoveus/Phoveus-Default-Starlight-2025.zip) |
-| Monolith Watcher Jiraiya | [Phoveus-Monolith-Watcher-Jiraiya.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-phoveus/Phoveus-Monolith-Watcher-Jiraiya.zip) |
+| Matrix Marauder Backup | [Phoveus-Matrix-Marauder-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-phoveus/Phoveus-Matrix-Marauder-Backup.zip) |
+| Matrix Marauder Monolith Watcher | [Phoveus-Matrix-Marauder-Monolith-Watcher.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-phoveus/Phoveus-Matrix-Marauder-Monolith-Watcher.zip) |
+| Matrix Maverick Backup | [Phoveus-Matrix-Maverick-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-phoveus/Phoveus-Matrix-Maverick-Backup.zip) |
+| Matrix Maverick Monolith Watcher | [Phoveus-Matrix-Maverick-Monolith-Watcher.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-phoveus/Phoveus-Matrix-Maverick-Monolith-Watcher.zip) |
+| Matrix Raider Backup | [Phoveus-Matrix-Raider-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-phoveus/Phoveus-Matrix-Raider-Backup.zip) |
+| Matrix Raider Monolith Watcher | [Phoveus-Matrix-Raider-Monolith-Watcher.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-phoveus/Phoveus-Matrix-Raider-Monolith-Watcher.zip) |
+| Monolith Watcher Backup | [Phoveus-Monolith-Watcher-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-phoveus/Phoveus-Monolith-Watcher-Backup.zip) |
+| Monolith Watcher Matrix Marauder | [Phoveus-Monolith-Watcher-Matrix-Marauder.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-phoveus/Phoveus-Monolith-Watcher-Matrix-Marauder.zip) |
 | Monolith Watcher Matrix Maverick | [Phoveus-Monolith-Watcher-Matrix-Maverick.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-phoveus/Phoveus-Monolith-Watcher-Matrix-Maverick.zip) |
+| Monolith Watcher Matrix Raider | [Phoveus-Monolith-Watcher-Matrix-Raider.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-phoveus/Phoveus-Monolith-Watcher-Matrix-Raider.zip) |
