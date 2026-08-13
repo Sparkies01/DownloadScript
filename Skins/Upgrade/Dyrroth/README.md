@@ -5,82 +5,60 @@ Validated upgrade-skin packages. All downloads are published in the
 
 | Package | Download |
 | --- | --- |
-| Basic Collector | [Dyrroth-Basic-Collector.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-dyrroth/Dyrroth-Basic-Collector.zip) |
-| Basic Gon | [Dyrroth-Basic-Gon.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-dyrroth/Dyrroth-Basic-Gon.zip) |
-| Basic Hunter X Hunter | [Dyrroth-Basic-Hunter-X-Hunter.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-dyrroth/Dyrroth-Basic-Hunter-X-Hunter.zip) |
-| Basic KOF | [Dyrroth-Basic-KOF.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-dyrroth/Dyrroth-Basic-KOF.zip) |
-| Basic Naraka Flame | [Dyrroth-Basic-Naraka-Flame.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-dyrroth/Dyrroth-Basic-Naraka-Flame.zip) |
-| Basic Orochi Chris | [Dyrroth-Basic-Orochi-Chris.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-dyrroth/Dyrroth-Basic-Orochi-Chris.zip) |
-| Basic Scalebore | [Dyrroth-Basic-Scalebore.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-dyrroth/Dyrroth-Basic-Scalebore.zip) |
-| Basic Street Fighter 1 | [Dyrroth-Basic-Street-Fighter-1.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-dyrroth/Dyrroth-Basic-Street-Fighter-1.zip) |
-| Basic Street Fighter 2 | [Dyrroth-Basic-Street-Fighter-2.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-dyrroth/Dyrroth-Basic-Street-Fighter-2.zip) |
-| Basic V E N O M Cobra | [Dyrroth-Basic-V-E-N-O-M-Cobra.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-dyrroth/Dyrroth-Basic-V-E-N-O-M-Cobra.zip) |
-| Basic V E N O M | [Dyrroth-Basic-V-E-N-O-M.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-dyrroth/Dyrroth-Basic-V-E-N-O-M.zip) |
-| Collector Hunter X Hunter | [Dyrroth-Collector-Hunter-X-Hunter.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-dyrroth/Dyrroth-Collector-Hunter-X-Hunter.zip) |
-| Collector KOF | [Dyrroth-Collector-KOF.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-dyrroth/Dyrroth-Collector-KOF.zip) |
-| Collector Street Fighter 1 | [Dyrroth-Collector-Street-Fighter-1.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-dyrroth/Dyrroth-Collector-Street-Fighter-1.zip) |
-| Collector Street Fighter 2 | [Dyrroth-Collector-Street-Fighter-2.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-dyrroth/Dyrroth-Collector-Street-Fighter-2.zip) |
-| Default Collector | [Dyrroth-Default-Collector.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-dyrroth/Dyrroth-Default-Collector.zip) |
-| Default Hunter X Hunter | [Dyrroth-Default-Hunter-X-Hunter.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-dyrroth/Dyrroth-Default-Hunter-X-Hunter.zip) |
-| Default KOF | [Dyrroth-Default-KOF.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-dyrroth/Dyrroth-Default-KOF.zip) |
-| Default Street Fighter 1 | [Dyrroth-Default-Street-Fighter-1.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-dyrroth/Dyrroth-Default-Street-Fighter-1.zip) |
-| Default Street Fighter 2 | [Dyrroth-Default-Street-Fighter-2.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-dyrroth/Dyrroth-Default-Street-Fighter-2.zip) |
-| Default V E N O M | [Dyrroth-Default-V-E-N-O-M.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-dyrroth/Dyrroth-Default-V-E-N-O-M.zip) |
-| Hunter X Hunter Collector | [Dyrroth-Hunter-X-Hunter-Collector.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-dyrroth/Dyrroth-Hunter-X-Hunter-Collector.zip) |
-| Hunter X Hunter KOF | [Dyrroth-Hunter-X-Hunter-KOF.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-dyrroth/Dyrroth-Hunter-X-Hunter-KOF.zip) |
-| Hunter X Hunter Street Fighter 1 | [Dyrroth-Hunter-X-Hunter-Street-Fighter-1.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-dyrroth/Dyrroth-Hunter-X-Hunter-Street-Fighter-1.zip) |
-| Hunter X Hunter Street Fighter 2 | [Dyrroth-Hunter-X-Hunter-Street-Fighter-2.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-dyrroth/Dyrroth-Hunter-X-Hunter-Street-Fighter-2.zip) |
-| KOF Collector | [Dyrroth-KOF-Collector.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-dyrroth/Dyrroth-KOF-Collector.zip) |
-| KOF Hunter X Hunter | [Dyrroth-KOF-Hunter-X-Hunter.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-dyrroth/Dyrroth-KOF-Hunter-X-Hunter.zip) |
-| KOF Street Fighter 1 | [Dyrroth-KOF-Street-Fighter-1.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-dyrroth/Dyrroth-KOF-Street-Fighter-1.zip) |
-| KOF Street Fighter 2 | [Dyrroth-KOF-Street-Fighter-2.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-dyrroth/Dyrroth-KOF-Street-Fighter-2.zip) |
-| Orochi Chris Naraka flame | [Dyrroth-Orochi-Chris-Naraka-flame.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-dyrroth/Dyrroth-Orochi-Chris-Naraka-flame.zip) |
-| Prince of the Abyss Backup | [Dyrroth-Prince-of-the-Abyss-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-dyrroth/Dyrroth-Prince-of-the-Abyss-Backup.zip) |
-| Prince of the Abyss Gon Freecss | [Dyrroth-Prince-of-the-Abyss-Gon-Freecss.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-dyrroth/Dyrroth-Prince-of-the-Abyss-Gon-Freecss.zip) |
-| Prince of the Abyss Guile Outfit 1 | [Dyrroth-Prince-of-the-Abyss-Guile-Outfit-1.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-dyrroth/Dyrroth-Prince-of-the-Abyss-Guile-Outfit-1.zip) |
-| Prince of the Abyss Guile Outfit 2 | [Dyrroth-Prince-of-the-Abyss-Guile-Outfit-2.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-dyrroth/Dyrroth-Prince-of-the-Abyss-Guile-Outfit-2.zip) |
-| Prince of the Abyss Naraka Flame | [Dyrroth-Prince-of-the-Abyss-Naraka-Flame.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-dyrroth/Dyrroth-Prince-of-the-Abyss-Naraka-Flame.zip) |
-| Prince of the Abyss Orochi Chris | [Dyrroth-Prince-of-the-Abyss-Orochi-Chris.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-dyrroth/Dyrroth-Prince-of-the-Abyss-Orochi-Chris.zip) |
-| Prince of the Abyss Prince of Light | [Dyrroth-Prince-of-the-Abyss-Prince-of-Light.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-dyrroth/Dyrroth-Prince-of-the-Abyss-Prince-of-Light.zip) |
-| Prince of the Abyss Prince of the Moniyan | [Dyrroth-Prince-of-the-Abyss-Prince-of-the-Moniyan.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-dyrroth/Dyrroth-Prince-of-the-Abyss-Prince-of-the-Moniyan.zip) |
-| Prince of the Abyss Ruins Scavenger | [Dyrroth-Prince-of-the-Abyss-Ruins-Scavenger.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-dyrroth/Dyrroth-Prince-of-the-Abyss-Ruins-Scavenger.zip) |
-| Prince of the Abyss V E N O M Cobra | [Dyrroth-Prince-of-the-Abyss-V-E-N-O-M-Cobra.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-dyrroth/Dyrroth-Prince-of-the-Abyss-V-E-N-O-M-Cobra.zip) |
+| Dyrroth Unreleased Skin 07 Backup | [Dyrroth-Dyrroth-Unreleased-Skin-07-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-dyrroth/Dyrroth-Dyrroth-Unreleased-Skin-07-Backup.zip) |
+| Dyrroth Unreleased Skin 07 Gon | [Dyrroth-Dyrroth-Unreleased-Skin-07-Gon.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-dyrroth/Dyrroth-Dyrroth-Unreleased-Skin-07-Gon.zip) |
+| Dyrroth Unreleased Skin 07 Guile | [Dyrroth-Dyrroth-Unreleased-Skin-07-Guile.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-dyrroth/Dyrroth-Dyrroth-Unreleased-Skin-07-Guile.zip) |
+| Dyrroth Unreleased Skin 07 Naraka Flame | [Dyrroth-Dyrroth-Unreleased-Skin-07-Naraka-Flame.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-dyrroth/Dyrroth-Dyrroth-Unreleased-Skin-07-Naraka-Flame.zip) |
+| Dyrroth Unreleased Skin 07 Orochi Chris | [Dyrroth-Dyrroth-Unreleased-Skin-07-Orochi-Chris.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-dyrroth/Dyrroth-Dyrroth-Unreleased-Skin-07-Orochi-Chris.zip) |
+| Dyrroth Unreleased Skin 07 Ruins Scavenger | [Dyrroth-Dyrroth-Unreleased-Skin-07-Ruins-Scavenger.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-dyrroth/Dyrroth-Dyrroth-Unreleased-Skin-07-Ruins-Scavenger.zip) |
+| Dyrroth Unreleased Skin 07 Scalebore | [Dyrroth-Dyrroth-Unreleased-Skin-07-Scalebore.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-dyrroth/Dyrroth-Dyrroth-Unreleased-Skin-07-Scalebore.zip) |
+| Gon Backup | [Dyrroth-Gon-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-dyrroth/Dyrroth-Gon-Backup.zip) |
+| Gon Dyrroth Unreleased Skin 07 | [Dyrroth-Gon-Dyrroth-Unreleased-Skin-07.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-dyrroth/Dyrroth-Gon-Dyrroth-Unreleased-Skin-07.zip) |
+| Gon Guile | [Dyrroth-Gon-Guile.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-dyrroth/Dyrroth-Gon-Guile.zip) |
+| Gon Naraka Flame | [Dyrroth-Gon-Naraka-Flame.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-dyrroth/Dyrroth-Gon-Naraka-Flame.zip) |
+| Gon Orochi Chris | [Dyrroth-Gon-Orochi-Chris.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-dyrroth/Dyrroth-Gon-Orochi-Chris.zip) |
+| Gon Ruins Scavenger | [Dyrroth-Gon-Ruins-Scavenger.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-dyrroth/Dyrroth-Gon-Ruins-Scavenger.zip) |
+| Gon Scalebore | [Dyrroth-Gon-Scalebore.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-dyrroth/Dyrroth-Gon-Scalebore.zip) |
+| Guile Backup | [Dyrroth-Guile-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-dyrroth/Dyrroth-Guile-Backup.zip) |
+| Guile Dyrroth Unreleased Skin 07 | [Dyrroth-Guile-Dyrroth-Unreleased-Skin-07.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-dyrroth/Dyrroth-Guile-Dyrroth-Unreleased-Skin-07.zip) |
+| Guile Gon | [Dyrroth-Guile-Gon.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-dyrroth/Dyrroth-Guile-Gon.zip) |
+| Guile Naraka Flame | [Dyrroth-Guile-Naraka-Flame.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-dyrroth/Dyrroth-Guile-Naraka-Flame.zip) |
+| Guile Orochi Chris | [Dyrroth-Guile-Orochi-Chris.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-dyrroth/Dyrroth-Guile-Orochi-Chris.zip) |
+| Guile Ruins Scavenger | [Dyrroth-Guile-Ruins-Scavenger.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-dyrroth/Dyrroth-Guile-Ruins-Scavenger.zip) |
+| Guile Scalebore | [Dyrroth-Guile-Scalebore.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-dyrroth/Dyrroth-Guile-Scalebore.zip) |
+| Naraka Flame Backup | [Dyrroth-Naraka-Flame-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-dyrroth/Dyrroth-Naraka-Flame-Backup.zip) |
+| Naraka Flame Dyrroth Unreleased Skin 07 | [Dyrroth-Naraka-Flame-Dyrroth-Unreleased-Skin-07.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-dyrroth/Dyrroth-Naraka-Flame-Dyrroth-Unreleased-Skin-07.zip) |
+| Naraka Flame Gon | [Dyrroth-Naraka-Flame-Gon.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-dyrroth/Dyrroth-Naraka-Flame-Gon.zip) |
+| Naraka Flame Guile | [Dyrroth-Naraka-Flame-Guile.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-dyrroth/Dyrroth-Naraka-Flame-Guile.zip) |
+| Naraka Flame Orochi Chris | [Dyrroth-Naraka-Flame-Orochi-Chris.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-dyrroth/Dyrroth-Naraka-Flame-Orochi-Chris.zip) |
+| Naraka Flame Ruins Scavenger | [Dyrroth-Naraka-Flame-Ruins-Scavenger.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-dyrroth/Dyrroth-Naraka-Flame-Ruins-Scavenger.zip) |
+| Naraka Flame Scalebore | [Dyrroth-Naraka-Flame-Scalebore.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-dyrroth/Dyrroth-Naraka-Flame-Scalebore.zip) |
+| Orochi Chris Backup | [Dyrroth-Orochi-Chris-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-dyrroth/Dyrroth-Orochi-Chris-Backup.zip) |
+| Orochi Chris Dyrroth Unreleased Skin 07 | [Dyrroth-Orochi-Chris-Dyrroth-Unreleased-Skin-07.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-dyrroth/Dyrroth-Orochi-Chris-Dyrroth-Unreleased-Skin-07.zip) |
+| Orochi Chris Gon | [Dyrroth-Orochi-Chris-Gon.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-dyrroth/Dyrroth-Orochi-Chris-Gon.zip) |
+| Orochi Chris Guile | [Dyrroth-Orochi-Chris-Guile.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-dyrroth/Dyrroth-Orochi-Chris-Guile.zip) |
+| Orochi Chris Naraka Flame | [Dyrroth-Orochi-Chris-Naraka-Flame.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-dyrroth/Dyrroth-Orochi-Chris-Naraka-Flame.zip) |
+| Orochi Chris Ruins Scavenger | [Dyrroth-Orochi-Chris-Ruins-Scavenger.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-dyrroth/Dyrroth-Orochi-Chris-Ruins-Scavenger.zip) |
+| Orochi Chris Scalebore | [Dyrroth-Orochi-Chris-Scalebore.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-dyrroth/Dyrroth-Orochi-Chris-Scalebore.zip) |
 | Ruins Scavenger Backup | [Dyrroth-Ruins-Scavenger-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-dyrroth/Dyrroth-Ruins-Scavenger-Backup.zip) |
+| Ruins Scavenger Dyrroth Unreleased Skin 07 | [Dyrroth-Ruins-Scavenger-Dyrroth-Unreleased-Skin-07.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-dyrroth/Dyrroth-Ruins-Scavenger-Dyrroth-Unreleased-Skin-07.zip) |
 | Ruins Scavenger Gon | [Dyrroth-Ruins-Scavenger-Gon.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-dyrroth/Dyrroth-Ruins-Scavenger-Gon.zip) |
 | Ruins Scavenger Guile | [Dyrroth-Ruins-Scavenger-Guile.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-dyrroth/Dyrroth-Ruins-Scavenger-Guile.zip) |
 | Ruins Scavenger Naraka Flame | [Dyrroth-Ruins-Scavenger-Naraka-Flame.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-dyrroth/Dyrroth-Ruins-Scavenger-Naraka-Flame.zip) |
 | Ruins Scavenger Orochi Chris | [Dyrroth-Ruins-Scavenger-Orochi-Chris.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-dyrroth/Dyrroth-Ruins-Scavenger-Orochi-Chris.zip) |
-| Ruins Scavenger V E N O M Cobra | [Dyrroth-Ruins-Scavenger-V-E-N-O-M-Cobra.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-dyrroth/Dyrroth-Ruins-Scavenger-V-E-N-O-M-Cobra.zip) |
-| Ruins Scavenger V E N O M | [Dyrroth-Ruins-Scavenger-V-E-N-O-M.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-dyrroth/Dyrroth-Ruins-Scavenger-V-E-N-O-M.zip) |
-| Ruins Scavenger Venom cobra | [Dyrroth-Ruins-Scavenger-Venom-cobra.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-dyrroth/Dyrroth-Ruins-Scavenger-Venom-cobra.zip) |
+| Ruins Scavenger Scalebore | [Dyrroth-Ruins-Scavenger-Scalebore.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-dyrroth/Dyrroth-Ruins-Scavenger-Scalebore.zip) |
 | Scalebore Backup | [Dyrroth-Scalebore-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-dyrroth/Dyrroth-Scalebore-Backup.zip) |
+| Scalebore Dyrroth Unreleased Skin 07 | [Dyrroth-Scalebore-Dyrroth-Unreleased-Skin-07.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-dyrroth/Dyrroth-Scalebore-Dyrroth-Unreleased-Skin-07.zip) |
 | Scalebore Gon | [Dyrroth-Scalebore-Gon.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-dyrroth/Dyrroth-Scalebore-Gon.zip) |
 | Scalebore Guile | [Dyrroth-Scalebore-Guile.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-dyrroth/Dyrroth-Scalebore-Guile.zip) |
 | Scalebore Naraka Flame | [Dyrroth-Scalebore-Naraka-Flame.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-dyrroth/Dyrroth-Scalebore-Naraka-Flame.zip) |
 | Scalebore Orochi Chris | [Dyrroth-Scalebore-Orochi-Chris.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-dyrroth/Dyrroth-Scalebore-Orochi-Chris.zip) |
 | Scalebore Ruins Scavenger | [Dyrroth-Scalebore-Ruins-Scavenger.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-dyrroth/Dyrroth-Scalebore-Ruins-Scavenger.zip) |
-| Scalebore V E N O M Cobra | [Dyrroth-Scalebore-V-E-N-O-M-Cobra.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-dyrroth/Dyrroth-Scalebore-V-E-N-O-M-Cobra.zip) |
-| Scalebore V E N O M | [Dyrroth-Scalebore-V-E-N-O-M.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-dyrroth/Dyrroth-Scalebore-V-E-N-O-M.zip) |
-| Scalebore Venom Cobra | [Dyrroth-Scalebore-Venom-Cobra.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-dyrroth/Dyrroth-Scalebore-Venom-Cobra.zip) |
-| Starlight 2019 Collector | [Dyrroth-Starlight-2019-Collector.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-dyrroth/Dyrroth-Starlight-2019-Collector.zip) |
-| Starlight 2019 Hunter X Hunter | [Dyrroth-Starlight-2019-Hunter-X-Hunter.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-dyrroth/Dyrroth-Starlight-2019-Hunter-X-Hunter.zip) |
-| Starlight 2019 KOF | [Dyrroth-Starlight-2019-KOF.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-dyrroth/Dyrroth-Starlight-2019-KOF.zip) |
-| Starlight 2019 Street Fighter 1 | [Dyrroth-Starlight-2019-Street-Fighter-1.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-dyrroth/Dyrroth-Starlight-2019-Street-Fighter-1.zip) |
-| Starlight 2019 Street Fighter 2 | [Dyrroth-Starlight-2019-Street-Fighter-2.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-dyrroth/Dyrroth-Starlight-2019-Street-Fighter-2.zip) |
-| Starlight Gon | [Dyrroth-Starlight-Gon.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-dyrroth/Dyrroth-Starlight-Gon.zip) |
-| Starlight Naraka Flame | [Dyrroth-Starlight-Naraka-Flame.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-dyrroth/Dyrroth-Starlight-Naraka-Flame.zip) |
-| Starlight Orochi Chris | [Dyrroth-Starlight-Orochi-Chris.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-dyrroth/Dyrroth-Starlight-Orochi-Chris.zip) |
-| Starlight Scavenger | [Dyrroth-Starlight-Scavenger.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-dyrroth/Dyrroth-Starlight-Scavenger.zip) |
-| Starlight V E N O M Cobra | [Dyrroth-Starlight-V-E-N-O-M-Cobra.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-dyrroth/Dyrroth-Starlight-V-E-N-O-M-Cobra.zip) |
 | V E N O M Cobra Backup | [Dyrroth-V-E-N-O-M-Cobra-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-dyrroth/Dyrroth-V-E-N-O-M-Cobra-Backup.zip) |
+| V E N O M Cobra Dyrroth Unreleased Skin 07 | [Dyrroth-V-E-N-O-M-Cobra-Dyrroth-Unreleased-Skin-07.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-dyrroth/Dyrroth-V-E-N-O-M-Cobra-Dyrroth-Unreleased-Skin-07.zip) |
 | V E N O M Cobra Gon | [Dyrroth-V-E-N-O-M-Cobra-Gon.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-dyrroth/Dyrroth-V-E-N-O-M-Cobra-Gon.zip) |
+| V E N O M Cobra Guile | [Dyrroth-V-E-N-O-M-Cobra-Guile.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-dyrroth/Dyrroth-V-E-N-O-M-Cobra-Guile.zip) |
 | V E N O M Cobra Naraka Flame | [Dyrroth-V-E-N-O-M-Cobra-Naraka-Flame.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-dyrroth/Dyrroth-V-E-N-O-M-Cobra-Naraka-Flame.zip) |
 | V E N O M Cobra Orochi Chris | [Dyrroth-V-E-N-O-M-Cobra-Orochi-Chris.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-dyrroth/Dyrroth-V-E-N-O-M-Cobra-Orochi-Chris.zip) |
-| V E N O M Collector | [Dyrroth-V-E-N-O-M-Collector.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-dyrroth/Dyrroth-V-E-N-O-M-Collector.zip) |
-| V E N O M Hunter X Hunter | [Dyrroth-V-E-N-O-M-Hunter-X-Hunter.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-dyrroth/Dyrroth-V-E-N-O-M-Hunter-X-Hunter.zip) |
-| V E N O M KOF | [Dyrroth-V-E-N-O-M-KOF.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-dyrroth/Dyrroth-V-E-N-O-M-KOF.zip) |
-| V E N O M Street Fighter 1 | [Dyrroth-V-E-N-O-M-Street-Fighter-1.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-dyrroth/Dyrroth-V-E-N-O-M-Street-Fighter-1.zip) |
-| V E N O M Street Fighter 2 | [Dyrroth-V-E-N-O-M-Street-Fighter-2.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-dyrroth/Dyrroth-V-E-N-O-M-Street-Fighter-2.zip) |
-| Venom Naraka Flame | [Dyrroth-Venom-Naraka-Flame.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-dyrroth/Dyrroth-Venom-Naraka-Flame.zip) |
-| Venom Orochi Chris | [Dyrroth-Venom-Orochi-Chris.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-dyrroth/Dyrroth-Venom-Orochi-Chris.zip) |
-| Venom V E N O M Cobra | [Dyrroth-Venom-V-E-N-O-M-Cobra.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-dyrroth/Dyrroth-Venom-V-E-N-O-M-Cobra.zip) |
+| V E N O M Cobra Ruins Scavenger | [Dyrroth-V-E-N-O-M-Cobra-Ruins-Scavenger.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-dyrroth/Dyrroth-V-E-N-O-M-Cobra-Ruins-Scavenger.zip) |
+| V E N O M Cobra Scalebore | [Dyrroth-V-E-N-O-M-Cobra-Scalebore.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-dyrroth/Dyrroth-V-E-N-O-M-Cobra-Scalebore.zip) |
