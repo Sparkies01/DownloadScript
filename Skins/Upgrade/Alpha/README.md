@@ -5,99 +5,85 @@ Validated upgrade-skin packages. All downloads are published in the
 
 | Package | Download |
 | --- | --- |
-| Abyss Collector | [Alpha-Abyss-Collector.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-alpha/Alpha-Abyss-Collector.zip) |
-| Abyss General Void | [Alpha-Abyss-General-Void.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-alpha/Alpha-Abyss-General-Void.zip) |
-| Abyss Legend | [Alpha-Abyss-Legend.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-alpha/Alpha-Abyss-Legend.zip) |
-| Abyss Luckybox | [Alpha-Abyss-Luckybox.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-alpha/Alpha-Abyss-Luckybox.zip) |
-| Abyss Revenant of Roses | [Alpha-Abyss-Revenant-of-Roses.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-alpha/Alpha-Abyss-Revenant-of-Roses.zip) |
-| Basic Abyss | [Alpha-Basic-Abyss.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-alpha/Alpha-Basic-Abyss.zip) |
-| Basic Collector | [Alpha-Basic-Collector.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-alpha/Alpha-Basic-Collector.zip) |
-| Basic Fierce Dragon | [Alpha-Basic-Fierce-Dragon.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-alpha/Alpha-Basic-Fierce-Dragon.zip) |
-| Basic General Void | [Alpha-Basic-General-Void.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-alpha/Alpha-Basic-General-Void.zip) |
-| Basic Legend | [Alpha-Basic-Legend.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-alpha/Alpha-Basic-Legend.zip) |
-| Basic Luckybox | [Alpha-Basic-Luckybox.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-alpha/Alpha-Basic-Luckybox.zip) |
-| Basic Mecha King Perseus | [Alpha-Basic-Mecha-King-Perseus.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-alpha/Alpha-Basic-Mecha-King-Perseus.zip) |
-| Basic Onimusha Commander | [Alpha-Basic-Onimusha-Commander.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-alpha/Alpha-Basic-Onimusha-Commander.zip) |
-| Basic Revenant of Roses | [Alpha-Basic-Revenant-of-Roses.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-alpha/Alpha-Basic-Revenant-of-Roses.zip) |
-| Basic Star Enforcer | [Alpha-Basic-Star-Enforcer.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-alpha/Alpha-Basic-Star-Enforcer.zip) |
-| Basic Starlight 2023 | [Alpha-Basic-Starlight-2023.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-alpha/Alpha-Basic-Starlight-2023.zip) |
-| Blade of Enmity Backup | [Alpha-Blade-of-Enmity-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-alpha/Alpha-Blade-of-Enmity-Backup.zip) |
-| Blade of Enmity Crimson Warrior | [Alpha-Blade-of-Enmity-Crimson-Warrior.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-alpha/Alpha-Blade-of-Enmity-Crimson-Warrior.zip) |
-| Blade of Enmity Edict of Sands | [Alpha-Blade-of-Enmity-Edict-of-Sands.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-alpha/Alpha-Blade-of-Enmity-Edict-of-Sands.zip) |
-| Blade of Enmity Epic | [Alpha-Blade-of-Enmity-Epic.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-alpha/Alpha-Blade-of-Enmity-Epic.zip) |
-| Blade of Enmity General Void | [Alpha-Blade-of-Enmity-General-Void.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-alpha/Alpha-Blade-of-Enmity-General-Void.zip) |
-| Blade of Enmity Legend | [Alpha-Blade-of-Enmity-Legend.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-alpha/Alpha-Blade-of-Enmity-Legend.zip) |
-| Blade of Enmity Mecha King Perseus | [Alpha-Blade-of-Enmity-Mecha-King-Perseus.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-alpha/Alpha-Blade-of-Enmity-Mecha-King-Perseus.zip) |
-| Blade of Enmity Mecha King | [Alpha-Blade-of-Enmity-Mecha-King.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-alpha/Alpha-Blade-of-Enmity-Mecha-King.zip) |
-| Blade of Enmity Onimusha Commander | [Alpha-Blade-of-Enmity-Onimusha-Commander.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-alpha/Alpha-Blade-of-Enmity-Onimusha-Commander.zip) |
-| Blade of Enmity Revenant of Roses | [Alpha-Blade-of-Enmity-Revenant-of-Roses.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-alpha/Alpha-Blade-of-Enmity-Revenant-of-Roses.zip) |
-| Blade of Enmity Star Enforcer | [Alpha-Blade-of-Enmity-Star-Enforcer.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-alpha/Alpha-Blade-of-Enmity-Star-Enforcer.zip) |
-| Collector Abyss | [Alpha-Collector-Abyss.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-alpha/Alpha-Collector-Abyss.zip) |
-| Collector Legend | [Alpha-Collector-Legend.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-alpha/Alpha-Collector-Legend.zip) |
-| Collector Luckybox | [Alpha-Collector-Luckybox.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-alpha/Alpha-Collector-Luckybox.zip) |
-| Collector Mecha King Perseus | [Alpha-Collector-Mecha-King-Perseus.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-alpha/Alpha-Collector-Mecha-King-Perseus.zip) |
-| Collector Revenant of Roses | [Alpha-Collector-Revenant-of-Roses.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-alpha/Alpha-Collector-Revenant-of-Roses.zip) |
 | Crimson Warrior Backup | [Alpha-Crimson-Warrior-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-alpha/Alpha-Crimson-Warrior-Backup.zip) |
+| Crimson Warrior Fierce Dragon | [Alpha-Crimson-Warrior-Fierce-Dragon.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-alpha/Alpha-Crimson-Warrior-Fierce-Dragon.zip) |
+| Crimson Warrior Galactic Enforcer | [Alpha-Crimson-Warrior-Galactic-Enforcer.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-alpha/Alpha-Crimson-Warrior-Galactic-Enforcer.zip) |
 | Crimson Warrior General Void | [Alpha-Crimson-Warrior-General-Void.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-alpha/Alpha-Crimson-Warrior-General-Void.zip) |
 | Crimson Warrior Mecha King Perseus | [Alpha-Crimson-Warrior-Mecha-King-Perseus.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-alpha/Alpha-Crimson-Warrior-Mecha-King-Perseus.zip) |
-| Crimson Warrior Mecha King | [Alpha-Crimson-Warrior-Mecha-King.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-alpha/Alpha-Crimson-Warrior-Mecha-King.zip) |
-| Crimson Warrior Revenant of Rose | [Alpha-Crimson-Warrior-Revenant-of-Rose.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-alpha/Alpha-Crimson-Warrior-Revenant-of-Rose.zip) |
+| Crimson Warrior Onimusha Commander | [Alpha-Crimson-Warrior-Onimusha-Commander.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-alpha/Alpha-Crimson-Warrior-Onimusha-Commander.zip) |
 | Crimson Warrior Revenant of Roses | [Alpha-Crimson-Warrior-Revenant-of-Roses.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-alpha/Alpha-Crimson-Warrior-Revenant-of-Roses.zip) |
-| Default Abyss | [Alpha-Default-Abyss.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-alpha/Alpha-Default-Abyss.zip) |
-| Default Collector | [Alpha-Default-Collector.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-alpha/Alpha-Default-Collector.zip) |
-| Default Legend | [Alpha-Default-Legend.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-alpha/Alpha-Default-Legend.zip) |
-| Default Luckybox | [Alpha-Default-Luckybox.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-alpha/Alpha-Default-Luckybox.zip) |
-| Default Starlight 2023 | [Alpha-Default-Starlight-2023.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-alpha/Alpha-Default-Starlight-2023.zip) |
+| Crimson Warrior Sea Gladiator | [Alpha-Crimson-Warrior-Sea-Gladiator.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-alpha/Alpha-Crimson-Warrior-Sea-Gladiator.zip) |
+| Crimson Warrior Star Enforcer | [Alpha-Crimson-Warrior-Star-Enforcer.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-alpha/Alpha-Crimson-Warrior-Star-Enforcer.zip) |
 | Fierce Dragon Backup | [Alpha-Fierce-Dragon-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-alpha/Alpha-Fierce-Dragon-Backup.zip) |
+| Fierce Dragon Crimson Warrior | [Alpha-Fierce-Dragon-Crimson-Warrior.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-alpha/Alpha-Fierce-Dragon-Crimson-Warrior.zip) |
+| Fierce Dragon Galactic Enforcer | [Alpha-Fierce-Dragon-Galactic-Enforcer.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-alpha/Alpha-Fierce-Dragon-Galactic-Enforcer.zip) |
 | Fierce Dragon General Void | [Alpha-Fierce-Dragon-General-Void.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-alpha/Alpha-Fierce-Dragon-General-Void.zip) |
 | Fierce Dragon Mecha King Perseus | [Alpha-Fierce-Dragon-Mecha-King-Perseus.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-alpha/Alpha-Fierce-Dragon-Mecha-King-Perseus.zip) |
 | Fierce Dragon Onimusha Commander | [Alpha-Fierce-Dragon-Onimusha-Commander.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-alpha/Alpha-Fierce-Dragon-Onimusha-Commander.zip) |
 | Fierce Dragon Revenant of Roses | [Alpha-Fierce-Dragon-Revenant-of-Roses.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-alpha/Alpha-Fierce-Dragon-Revenant-of-Roses.zip) |
+| Fierce Dragon Sea Gladiator | [Alpha-Fierce-Dragon-Sea-Gladiator.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-alpha/Alpha-Fierce-Dragon-Sea-Gladiator.zip) |
 | Fierce Dragon Star Enforcer | [Alpha-Fierce-Dragon-Star-Enforcer.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-alpha/Alpha-Fierce-Dragon-Star-Enforcer.zip) |
-| Fierce of Dragon Backup | [Alpha-Fierce-of-Dragon-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-alpha/Alpha-Fierce-of-Dragon-Backup.zip) |
-| Fierce of Dragon Dreaming Monarch | [Alpha-Fierce-of-Dragon-Dreaming-Monarch.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-alpha/Alpha-Fierce-of-Dragon-Dreaming-Monarch.zip) |
-| Fierce of Dragon General Void | [Alpha-Fierce-of-Dragon-General-Void.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-alpha/Alpha-Fierce-of-Dragon-General-Void.zip) |
-| Fierce of Dragon Mecha King Perseus | [Alpha-Fierce-of-Dragon-Mecha-King-Perseus.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-alpha/Alpha-Fierce-of-Dragon-Mecha-King-Perseus.zip) |
-| Fierce of Dragon Onimusha Commander | [Alpha-Fierce-of-Dragon-Onimusha-Commander.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-alpha/Alpha-Fierce-of-Dragon-Onimusha-Commander.zip) |
-| Fierce of Dragon Revenant of Roses | [Alpha-Fierce-of-Dragon-Revenant-of-Roses.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-alpha/Alpha-Fierce-of-Dragon-Revenant-of-Roses.zip) |
-| Fierce of Dragon Star Enforcer | [Alpha-Fierce-of-Dragon-Star-Enforcer.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-alpha/Alpha-Fierce-of-Dragon-Star-Enforcer.zip) |
-| General Void Revenant of Rose | [Alpha-General-Void-Revenant-of-Rose.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-alpha/Alpha-General-Void-Revenant-of-Rose.zip) |
-| Lucky Box Onimusha Commander | [Alpha-Lucky-Box-Onimusha-Commander.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-alpha/Alpha-Lucky-Box-Onimusha-Commander.zip) |
-| Lucky Box Revenant of Roses | [Alpha-Lucky-Box-Revenant-of-Roses.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-alpha/Alpha-Lucky-Box-Revenant-of-Roses.zip) |
-| Luckybox Abyss | [Alpha-Luckybox-Abyss.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-alpha/Alpha-Luckybox-Abyss.zip) |
-| Luckybox Collector | [Alpha-Luckybox-Collector.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-alpha/Alpha-Luckybox-Collector.zip) |
-| Luckybox Legend | [Alpha-Luckybox-Legend.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-alpha/Alpha-Luckybox-Legend.zip) |
-| Mecha King Perseus Revenant of Rose | [Alpha-Mecha-King-Perseus-Revenant-of-Rose.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-alpha/Alpha-Mecha-King-Perseus-Revenant-of-Rose.zip) |
-| Onimusha Commander Revenant of Rose | [Alpha-Onimusha-Commander-Revenant-of-Rose.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-alpha/Alpha-Onimusha-Commander-Revenant-of-Rose.zip) |
-| S6 General Void | [Alpha-S6-General-Void.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-alpha/Alpha-S6-General-Void.zip) |
-| S6 Mecha King Perseus | [Alpha-S6-Mecha-King-Perseus.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-alpha/Alpha-S6-Mecha-King-Perseus.zip) |
-| S6 Revenant of Roses | [Alpha-S6-Revenant-of-Roses.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-alpha/Alpha-S6-Revenant-of-Roses.zip) |
-| S6 Sea Gladiator | [Alpha-S6-Sea-Gladiator.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-alpha/Alpha-S6-Sea-Gladiator.zip) |
+| Galactic Enforcer Backup | [Alpha-Galactic-Enforcer-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-alpha/Alpha-Galactic-Enforcer-Backup.zip) |
+| Galactic Enforcer Crimson Warrior | [Alpha-Galactic-Enforcer-Crimson-Warrior.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-alpha/Alpha-Galactic-Enforcer-Crimson-Warrior.zip) |
+| Galactic Enforcer Fierce Dragon | [Alpha-Galactic-Enforcer-Fierce-Dragon.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-alpha/Alpha-Galactic-Enforcer-Fierce-Dragon.zip) |
+| Galactic Enforcer Galactic Enforcer | [Alpha-Galactic-Enforcer-Galactic-Enforcer.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-alpha/Alpha-Galactic-Enforcer-Galactic-Enforcer.zip) |
+| Galactic Enforcer General Void | [Alpha-Galactic-Enforcer-General-Void.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-alpha/Alpha-Galactic-Enforcer-General-Void.zip) |
+| Galactic Enforcer Mecha King Perseus | [Alpha-Galactic-Enforcer-Mecha-King-Perseus.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-alpha/Alpha-Galactic-Enforcer-Mecha-King-Perseus.zip) |
+| Galactic Enforcer Onimusha Commander | [Alpha-Galactic-Enforcer-Onimusha-Commander.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-alpha/Alpha-Galactic-Enforcer-Onimusha-Commander.zip) |
+| Galactic Enforcer Revenant of Roses | [Alpha-Galactic-Enforcer-Revenant-of-Roses.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-alpha/Alpha-Galactic-Enforcer-Revenant-of-Roses.zip) |
+| Galactic Enforcer Sea Gladiator | [Alpha-Galactic-Enforcer-Sea-Gladiator.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-alpha/Alpha-Galactic-Enforcer-Sea-Gladiator.zip) |
+| Galactic Enforcer Star Enforcer | [Alpha-Galactic-Enforcer-Star-Enforcer.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-alpha/Alpha-Galactic-Enforcer-Star-Enforcer.zip) |
+| General Void Backup | [Alpha-General-Void-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-alpha/Alpha-General-Void-Backup.zip) |
+| General Void Crimson Warrior | [Alpha-General-Void-Crimson-Warrior.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-alpha/Alpha-General-Void-Crimson-Warrior.zip) |
+| General Void Fierce Dragon | [Alpha-General-Void-Fierce-Dragon.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-alpha/Alpha-General-Void-Fierce-Dragon.zip) |
+| General Void Galactic Enforcer | [Alpha-General-Void-Galactic-Enforcer.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-alpha/Alpha-General-Void-Galactic-Enforcer.zip) |
+| General Void Mecha King Perseus | [Alpha-General-Void-Mecha-King-Perseus.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-alpha/Alpha-General-Void-Mecha-King-Perseus.zip) |
+| General Void Onimusha Commander | [Alpha-General-Void-Onimusha-Commander.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-alpha/Alpha-General-Void-Onimusha-Commander.zip) |
+| General Void Revenant of Roses | [Alpha-General-Void-Revenant-of-Roses.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-alpha/Alpha-General-Void-Revenant-of-Roses.zip) |
+| General Void Sea Gladiator | [Alpha-General-Void-Sea-Gladiator.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-alpha/Alpha-General-Void-Sea-Gladiator.zip) |
+| General Void Star Enforcer | [Alpha-General-Void-Star-Enforcer.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-alpha/Alpha-General-Void-Star-Enforcer.zip) |
+| Mecha King Perseus Backup | [Alpha-Mecha-King-Perseus-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-alpha/Alpha-Mecha-King-Perseus-Backup.zip) |
+| Mecha King Perseus Crimson Warrior | [Alpha-Mecha-King-Perseus-Crimson-Warrior.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-alpha/Alpha-Mecha-King-Perseus-Crimson-Warrior.zip) |
+| Mecha King Perseus Fierce Dragon | [Alpha-Mecha-King-Perseus-Fierce-Dragon.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-alpha/Alpha-Mecha-King-Perseus-Fierce-Dragon.zip) |
+| Mecha King Perseus Galactic Enforcer | [Alpha-Mecha-King-Perseus-Galactic-Enforcer.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-alpha/Alpha-Mecha-King-Perseus-Galactic-Enforcer.zip) |
+| Mecha King Perseus General Void | [Alpha-Mecha-King-Perseus-General-Void.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-alpha/Alpha-Mecha-King-Perseus-General-Void.zip) |
+| Mecha King Perseus Onimusha Commander | [Alpha-Mecha-King-Perseus-Onimusha-Commander.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-alpha/Alpha-Mecha-King-Perseus-Onimusha-Commander.zip) |
+| Mecha King Perseus Revenant of Roses | [Alpha-Mecha-King-Perseus-Revenant-of-Roses.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-alpha/Alpha-Mecha-King-Perseus-Revenant-of-Roses.zip) |
+| Mecha King Perseus Sea Gladiator | [Alpha-Mecha-King-Perseus-Sea-Gladiator.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-alpha/Alpha-Mecha-King-Perseus-Sea-Gladiator.zip) |
+| Mecha King Perseus Star Enforcer | [Alpha-Mecha-King-Perseus-Star-Enforcer.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-alpha/Alpha-Mecha-King-Perseus-Star-Enforcer.zip) |
+| Onimusha Commander Backup | [Alpha-Onimusha-Commander-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-alpha/Alpha-Onimusha-Commander-Backup.zip) |
+| Onimusha Commander Crimson Warrior | [Alpha-Onimusha-Commander-Crimson-Warrior.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-alpha/Alpha-Onimusha-Commander-Crimson-Warrior.zip) |
+| Onimusha Commander Fierce Dragon | [Alpha-Onimusha-Commander-Fierce-Dragon.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-alpha/Alpha-Onimusha-Commander-Fierce-Dragon.zip) |
+| Onimusha Commander Galactic Enforcer | [Alpha-Onimusha-Commander-Galactic-Enforcer.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-alpha/Alpha-Onimusha-Commander-Galactic-Enforcer.zip) |
+| Onimusha Commander General Void | [Alpha-Onimusha-Commander-General-Void.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-alpha/Alpha-Onimusha-Commander-General-Void.zip) |
+| Onimusha Commander Mecha King Perseus | [Alpha-Onimusha-Commander-Mecha-King-Perseus.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-alpha/Alpha-Onimusha-Commander-Mecha-King-Perseus.zip) |
+| Onimusha Commander Revenant of Roses | [Alpha-Onimusha-Commander-Revenant-of-Roses.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-alpha/Alpha-Onimusha-Commander-Revenant-of-Roses.zip) |
+| Onimusha Commander Sea Gladiator | [Alpha-Onimusha-Commander-Sea-Gladiator.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-alpha/Alpha-Onimusha-Commander-Sea-Gladiator.zip) |
+| Onimusha Commander Star Enforcer | [Alpha-Onimusha-Commander-Star-Enforcer.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-alpha/Alpha-Onimusha-Commander-Star-Enforcer.zip) |
+| Revenant of Roses Backup | [Alpha-Revenant-of-Roses-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-alpha/Alpha-Revenant-of-Roses-Backup.zip) |
+| Revenant of Roses Crimson Warrior | [Alpha-Revenant-of-Roses-Crimson-Warrior.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-alpha/Alpha-Revenant-of-Roses-Crimson-Warrior.zip) |
+| Revenant of Roses Fierce Dragon | [Alpha-Revenant-of-Roses-Fierce-Dragon.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-alpha/Alpha-Revenant-of-Roses-Fierce-Dragon.zip) |
+| Revenant of Roses Galactic Enforcer | [Alpha-Revenant-of-Roses-Galactic-Enforcer.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-alpha/Alpha-Revenant-of-Roses-Galactic-Enforcer.zip) |
+| Revenant of Roses General Void | [Alpha-Revenant-of-Roses-General-Void.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-alpha/Alpha-Revenant-of-Roses-General-Void.zip) |
+| Revenant of Roses Mecha King Perseus | [Alpha-Revenant-of-Roses-Mecha-King-Perseus.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-alpha/Alpha-Revenant-of-Roses-Mecha-King-Perseus.zip) |
+| Revenant of Roses Onimusha Commander | [Alpha-Revenant-of-Roses-Onimusha-Commander.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-alpha/Alpha-Revenant-of-Roses-Onimusha-Commander.zip) |
+| Revenant of Roses Sea Gladiator | [Alpha-Revenant-of-Roses-Sea-Gladiator.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-alpha/Alpha-Revenant-of-Roses-Sea-Gladiator.zip) |
+| Revenant of Roses Star Enforcer | [Alpha-Revenant-of-Roses-Star-Enforcer.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-alpha/Alpha-Revenant-of-Roses-Star-Enforcer.zip) |
 | Sea Gladiator Backup | [Alpha-Sea-Gladiator-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-alpha/Alpha-Sea-Gladiator-Backup.zip) |
+| Sea Gladiator Crimson Warrior | [Alpha-Sea-Gladiator-Crimson-Warrior.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-alpha/Alpha-Sea-Gladiator-Crimson-Warrior.zip) |
+| Sea Gladiator Fierce Dragon | [Alpha-Sea-Gladiator-Fierce-Dragon.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-alpha/Alpha-Sea-Gladiator-Fierce-Dragon.zip) |
+| Sea Gladiator Galactic Enforcer | [Alpha-Sea-Gladiator-Galactic-Enforcer.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-alpha/Alpha-Sea-Gladiator-Galactic-Enforcer.zip) |
 | Sea Gladiator General Void | [Alpha-Sea-Gladiator-General-Void.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-alpha/Alpha-Sea-Gladiator-General-Void.zip) |
-| Sea Gladiator Mecha King Pereus | [Alpha-Sea-Gladiator-Mecha-King-Pereus.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-alpha/Alpha-Sea-Gladiator-Mecha-King-Pereus.zip) |
 | Sea Gladiator Mecha King Perseus | [Alpha-Sea-Gladiator-Mecha-King-Perseus.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-alpha/Alpha-Sea-Gladiator-Mecha-King-Perseus.zip) |
-| Sea Gladiator Mecha King | [Alpha-Sea-Gladiator-Mecha-King.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-alpha/Alpha-Sea-Gladiator-Mecha-King.zip) |
-| Sea Gladiator Revenant of Rose | [Alpha-Sea-Gladiator-Revenant-of-Rose.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-alpha/Alpha-Sea-Gladiator-Revenant-of-Rose.zip) |
+| Sea Gladiator Onimusha Commander | [Alpha-Sea-Gladiator-Onimusha-Commander.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-alpha/Alpha-Sea-Gladiator-Onimusha-Commander.zip) |
 | Sea Gladiator Revenant of Roses | [Alpha-Sea-Gladiator-Revenant-of-Roses.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-alpha/Alpha-Sea-Gladiator-Revenant-of-Roses.zip) |
-| Season 6 Abyss | [Alpha-Season-6-Abyss.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-alpha/Alpha-Season-6-Abyss.zip) |
-| Season 6 Collector | [Alpha-Season-6-Collector.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-alpha/Alpha-Season-6-Collector.zip) |
-| Season 6 Legend | [Alpha-Season-6-Legend.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-alpha/Alpha-Season-6-Legend.zip) |
-| Season 6 Luckybox | [Alpha-Season-6-Luckybox.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-alpha/Alpha-Season-6-Luckybox.zip) |
-| Special Abyss | [Alpha-Special-Abyss.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-alpha/Alpha-Special-Abyss.zip) |
-| Special Collector | [Alpha-Special-Collector.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-alpha/Alpha-Special-Collector.zip) |
-| Special Crimson Warrior | [Alpha-Special-Crimson-Warrior.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-alpha/Alpha-Special-Crimson-Warrior.zip) |
-| Special General Void | [Alpha-Special-General-Void.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-alpha/Alpha-Special-General-Void.zip) |
-| Special Legend | [Alpha-Special-Legend.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-alpha/Alpha-Special-Legend.zip) |
-| Special Luckybox | [Alpha-Special-Luckybox.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-alpha/Alpha-Special-Luckybox.zip) |
-| Special Mecha King Perseus | [Alpha-Special-Mecha-King-Perseus.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-alpha/Alpha-Special-Mecha-King-Perseus.zip) |
-| Special Revenant of Roses | [Alpha-Special-Revenant-of-Roses.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-alpha/Alpha-Special-Revenant-of-Roses.zip) |
+| Sea Gladiator Star Enforcer | [Alpha-Sea-Gladiator-Star-Enforcer.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-alpha/Alpha-Sea-Gladiator-Star-Enforcer.zip) |
 | Star Enforcer Backup | [Alpha-Star-Enforcer-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-alpha/Alpha-Star-Enforcer-Backup.zip) |
-| Star Enforcer Revenant of Rose | [Alpha-Star-Enforcer-Revenant-of-Rose.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-alpha/Alpha-Star-Enforcer-Revenant-of-Rose.zip) |
+| Star Enforcer Crimson Warrior | [Alpha-Star-Enforcer-Crimson-Warrior.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-alpha/Alpha-Star-Enforcer-Crimson-Warrior.zip) |
+| Star Enforcer Fierce Dragon | [Alpha-Star-Enforcer-Fierce-Dragon.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-alpha/Alpha-Star-Enforcer-Fierce-Dragon.zip) |
+| Star Enforcer Galactic Enforcer | [Alpha-Star-Enforcer-Galactic-Enforcer.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-alpha/Alpha-Star-Enforcer-Galactic-Enforcer.zip) |
+| Star Enforcer General Void | [Alpha-Star-Enforcer-General-Void.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-alpha/Alpha-Star-Enforcer-General-Void.zip) |
+| Star Enforcer Mecha King Perseus | [Alpha-Star-Enforcer-Mecha-King-Perseus.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-alpha/Alpha-Star-Enforcer-Mecha-King-Perseus.zip) |
+| Star Enforcer Onimusha Commander | [Alpha-Star-Enforcer-Onimusha-Commander.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-alpha/Alpha-Star-Enforcer-Onimusha-Commander.zip) |
 | Star Enforcer Revenant of Roses | [Alpha-Star-Enforcer-Revenant-of-Roses.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-alpha/Alpha-Star-Enforcer-Revenant-of-Roses.zip) |
-| Starlight 2023 Abyss | [Alpha-Starlight-2023-Abyss.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-alpha/Alpha-Starlight-2023-Abyss.zip) |
-| Starlight 2023 Collector | [Alpha-Starlight-2023-Collector.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-alpha/Alpha-Starlight-2023-Collector.zip) |
-| Starlight 2023 Legend | [Alpha-Starlight-2023-Legend.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-alpha/Alpha-Starlight-2023-Legend.zip) |
-| Starlight 2023 Luckybox | [Alpha-Starlight-2023-Luckybox.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-alpha/Alpha-Starlight-2023-Luckybox.zip) |
-| Starlight Revenant of Roses | [Alpha-Starlight-Revenant-of-Roses.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-alpha/Alpha-Starlight-Revenant-of-Roses.zip) |
-| Starlight Star Enforcer | [Alpha-Starlight-Star-Enforcer.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-alpha/Alpha-Starlight-Star-Enforcer.zip) |
+| Star Enforcer Sea Gladiator | [Alpha-Star-Enforcer-Sea-Gladiator.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-alpha/Alpha-Star-Enforcer-Sea-Gladiator.zip) |
