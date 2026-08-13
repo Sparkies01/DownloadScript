@@ -108,6 +108,7 @@ Validated upgrade-skin packages. All downloads are published in the
 | Hellbringer Backup | [Granger-Hellbringer-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Hellbringer-Backup.zip) |
 | Hellbringer Bardic Whisper | [Granger-Hellbringer-Bardic-Whisper.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Hellbringer-Bardic-Whisper.zip) |
 | Hellbringer Biosoldier | [Granger-Hellbringer-Biosoldier.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Hellbringer-Biosoldier.zip) |
+| Hellbringer Doomsday Punisher | [Granger-Hellbringer-Doomsday-Punisher.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Hellbringer-Doomsday-Punisher.zip) |
 | Hellbringer Doomsday Terminator | [Granger-Hellbringer-Doomsday-Terminator.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Hellbringer-Doomsday-Terminator.zip) |
 | Hellbringer Exorcist Granger | [Granger-Hellbringer-Exorcist-Granger.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Hellbringer-Exorcist-Granger.zip) |
 | Hellbringer Lightborn Overrider | [Granger-Hellbringer-Lightborn-Overrider.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-granger/Granger-Hellbringer-Lightborn-Overrider.zip) |
