@@ -24,6 +24,7 @@ Validated upgrade-skin packages. All downloads are published in the
 | Force Warrior Silver Edge | [Saber-Force-Warrior-Silver-Edge.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-saber/Saber-Force-Warrior-Silver-Edge.zip) |
 | Force Warrior Steel of Hound | [Saber-Force-Warrior-Steel-of-Hound.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-saber/Saber-Force-Warrior-Steel-of-Hound.zip) |
 | Fullmetal Ronin Backup | [Saber-Fullmetal-Ronin-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-saber/Saber-Fullmetal-Ronin-Backup.zip) |
+| Fullmetal Ronin Codename Storm Verified | [Saber-Fullmetal-Ronin-Codename-Storm-Verified.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-saber/Saber-Fullmetal-Ronin-Codename-Storm-Verified.zip) |
 | Fullmetal Ronin Codename Storm | [Saber-Fullmetal-Ronin-Codename-Storm.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-saber/Saber-Fullmetal-Ronin-Codename-Storm.zip) |
 | Fullmetal Ronin Force Warrior | [Saber-Fullmetal-Ronin-Force-Warrior.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-saber/Saber-Fullmetal-Ronin-Force-Warrior.zip) |
 | Fullmetal Ronin Golden Flash | [Saber-Fullmetal-Ronin-Golden-Flash.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-saber/Saber-Fullmetal-Ronin-Golden-Flash.zip) |
