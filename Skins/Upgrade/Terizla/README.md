@@ -6,43 +6,49 @@ Validated upgrade-skin packages. All downloads are published in the
 | Package | Download |
 | --- | --- |
 | Abyss Guard Backup | [Terizla-Abyss-Guard-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-terizla/Terizla-Abyss-Guard-Backup.zip) |
+| Abyss Guard Ember Flare | [Terizla-Abyss-Guard-Ember-Flare.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-terizla/Terizla-Abyss-Guard-Ember-Flare.zip) |
 | Abyss Guard Flames of Judgement | [Terizla-Abyss-Guard-Flames-of-Judgement.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-terizla/Terizla-Abyss-Guard-Flames-of-Judgement.zip) |
-| Abyss Guard Soul Blight Tyrant | [Terizla-Abyss-Guard-Soul-Blight-Tyrant.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-terizla/Terizla-Abyss-Guard-Soul-Blight-Tyrant.zip) |
+| Abyss Guard Flare | [Terizla-Abyss-Guard-Flare.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-terizla/Terizla-Abyss-Guard-Flare.zip) |
+| Abyss Guard Hammer Giant | [Terizla-Abyss-Guard-Hammer-Giant.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-terizla/Terizla-Abyss-Guard-Hammer-Giant.zip) |
+| Abyss Guard Rustwreck | [Terizla-Abyss-Guard-Rustwreck.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-terizla/Terizla-Abyss-Guard-Rustwreck.zip) |
 | Abyss Guard Soulblight Tyrant | [Terizla-Abyss-Guard-Soulblight-Tyrant.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-terizla/Terizla-Abyss-Guard-Soulblight-Tyrant.zip) |
-| Basic Abyss Guard | [Terizla-Basic-Abyss-Guard.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-terizla/Terizla-Basic-Abyss-Guard.zip) |
-| Basic Collector | [Terizla-Basic-Collector.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-terizla/Terizla-Basic-Collector.zip) |
-| Basic Flames of Judgement | [Terizla-Basic-Flames-of-Judgement.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-terizla/Terizla-Basic-Flames-of-Judgement.zip) |
-| Basic Soulblight Tyrant | [Terizla-Basic-Soulblight-Tyrant.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-terizla/Terizla-Basic-Soulblight-Tyrant.zip) |
-| Default Collector | [Terizla-Default-Collector.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-terizla/Terizla-Default-Collector.zip) |
-| Elite Collector | [Terizla-Elite-Collector.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-terizla/Terizla-Elite-Collector.zip) |
-| Elite Flare | [Terizla-Elite-Flare.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-terizla/Terizla-Elite-Flare.zip) |
-| Elite Soulblight Tyrant | [Terizla-Elite-Soulblight-Tyrant.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-terizla/Terizla-Elite-Soulblight-Tyrant.zip) |
-| Epic Collector | [Terizla-Epic-Collector.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-terizla/Terizla-Epic-Collector.zip) |
-| Epic Flames of Judgement | [Terizla-Epic-Flames-of-Judgement.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-terizla/Terizla-Epic-Flames-of-Judgement.zip) |
-| Epic Soulblight Tyrant | [Terizla-Epic-Soulblight-Tyrant.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-terizla/Terizla-Epic-Soulblight-Tyrant.zip) |
-| Executioner Backup | [Terizla-Executioner-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-terizla/Terizla-Executioner-Backup.zip) |
-| Executioner Collector | [Terizla-Executioner-Collector.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-terizla/Terizla-Executioner-Collector.zip) |
-| Executioner Flames of Judgement | [Terizla-Executioner-Flames-of-Judgement.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-terizla/Terizla-Executioner-Flames-of-Judgement.zip) |
-| Executioner Hammer Giant | [Terizla-Executioner-Hammer-Giant.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-terizla/Terizla-Executioner-Hammer-Giant.zip) |
-| Executioner Soulblight Tyrant | [Terizla-Executioner-Soulblight-Tyrant.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-terizla/Terizla-Executioner-Soulblight-Tyrant.zip) |
+| Ember Flare Abyss Guard | [Terizla-Ember-Flare-Abyss-Guard.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-terizla/Terizla-Ember-Flare-Abyss-Guard.zip) |
+| Ember Flare Backup | [Terizla-Ember-Flare-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-terizla/Terizla-Ember-Flare-Backup.zip) |
+| Ember Flare Flames of Judgement | [Terizla-Ember-Flare-Flames-of-Judgement.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-terizla/Terizla-Ember-Flare-Flames-of-Judgement.zip) |
+| Ember Flare Hammer Giant | [Terizla-Ember-Flare-Hammer-Giant.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-terizla/Terizla-Ember-Flare-Hammer-Giant.zip) |
+| Ember Flare Rustwreck | [Terizla-Ember-Flare-Rustwreck.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-terizla/Terizla-Ember-Flare-Rustwreck.zip) |
+| Ember Flare Soulblight Tyrant | [Terizla-Ember-Flare-Soulblight-Tyrant.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-terizla/Terizla-Ember-Flare-Soulblight-Tyrant.zip) |
+| Flames of Judgement Abyss Guard | [Terizla-Flames-of-Judgement-Abyss-Guard.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-terizla/Terizla-Flames-of-Judgement-Abyss-Guard.zip) |
 | Flames of Judgement Backup | [Terizla-Flames-of-Judgement-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-terizla/Terizla-Flames-of-Judgement-Backup.zip) |
-| Flames of Judgement Soul Blight Tyrant | [Terizla-Flames-of-Judgement-Soul-Blight-Tyrant.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-terizla/Terizla-Flames-of-Judgement-Soul-Blight-Tyrant.zip) |
-| Flames of Judgement Soul Tyrant | [Terizla-Flames-of-Judgement-Soul-Tyrant.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-terizla/Terizla-Flames-of-Judgement-Soul-Tyrant.zip) |
+| Flames of Judgement Ember Flare | [Terizla-Flames-of-Judgement-Ember-Flare.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-terizla/Terizla-Flames-of-Judgement-Ember-Flare.zip) |
+| Flames of Judgement Flare | [Terizla-Flames-of-Judgement-Flare.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-terizla/Terizla-Flames-of-Judgement-Flare.zip) |
+| Flames of Judgement Hammer Giant | [Terizla-Flames-of-Judgement-Hammer-Giant.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-terizla/Terizla-Flames-of-Judgement-Hammer-Giant.zip) |
+| Flames of Judgement Rustwreck | [Terizla-Flames-of-Judgement-Rustwreck.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-terizla/Terizla-Flames-of-Judgement-Rustwreck.zip) |
+| Flames of Judgement Soulblight Tyrant | [Terizla-Flames-of-Judgement-Soulblight-Tyrant.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-terizla/Terizla-Flames-of-Judgement-Soulblight-Tyrant.zip) |
+| Flare Abyss Guard | [Terizla-Flare-Abyss-Guard.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-terizla/Terizla-Flare-Abyss-Guard.zip) |
 | Flare Backup | [Terizla-Flare-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-terizla/Terizla-Flare-Backup.zip) |
-| Flare Soul Blight Tyrant | [Terizla-Flare-Soul-Blight-Tyrant.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-terizla/Terizla-Flare-Soul-Blight-Tyrant.zip) |
-| Flare Soul Tyrant | [Terizla-Flare-Soul-Tyrant.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-terizla/Terizla-Flare-Soul-Tyrant.zip) |
+| Flare Flames of Judgement | [Terizla-Flare-Flames-of-Judgement.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-terizla/Terizla-Flare-Flames-of-Judgement.zip) |
+| Flare Hammer Giant | [Terizla-Flare-Hammer-Giant.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-terizla/Terizla-Flare-Hammer-Giant.zip) |
+| Flare Rustwreck | [Terizla-Flare-Rustwreck.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-terizla/Terizla-Flare-Rustwreck.zip) |
+| Flare Soulblight Tyrant | [Terizla-Flare-Soulblight-Tyrant.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-terizla/Terizla-Flare-Soulblight-Tyrant.zip) |
+| Hammer Giant Abyss Guard | [Terizla-Hammer-Giant-Abyss-Guard.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-terizla/Terizla-Hammer-Giant-Abyss-Guard.zip) |
 | Hammer Giant Backup | [Terizla-Hammer-Giant-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-terizla/Terizla-Hammer-Giant-Backup.zip) |
+| Hammer Giant Ember Flare | [Terizla-Hammer-Giant-Ember-Flare.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-terizla/Terizla-Hammer-Giant-Ember-Flare.zip) |
 | Hammer Giant Flames of Judgement | [Terizla-Hammer-Giant-Flames-of-Judgement.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-terizla/Terizla-Hammer-Giant-Flames-of-Judgement.zip) |
-| Hammer Giant Soul Blight Tyrant | [Terizla-Hammer-Giant-Soul-Blight-Tyrant.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-terizla/Terizla-Hammer-Giant-Soul-Blight-Tyrant.zip) |
-| Hammer Giant Soul Tyrant | [Terizla-Hammer-Giant-Soul-Tyrant.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-terizla/Terizla-Hammer-Giant-Soul-Tyrant.zip) |
+| Hammer Giant Flare | [Terizla-Hammer-Giant-Flare.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-terizla/Terizla-Hammer-Giant-Flare.zip) |
+| Hammer Giant Rustwreck | [Terizla-Hammer-Giant-Rustwreck.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-terizla/Terizla-Hammer-Giant-Rustwreck.zip) |
+| Hammer Giant Soulblight Tyrant | [Terizla-Hammer-Giant-Soulblight-Tyrant.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-terizla/Terizla-Hammer-Giant-Soulblight-Tyrant.zip) |
+| Rustwreck Abyss Guard | [Terizla-Rustwreck-Abyss-Guard.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-terizla/Terizla-Rustwreck-Abyss-Guard.zip) |
 | Rustwreck Backup | [Terizla-Rustwreck-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-terizla/Terizla-Rustwreck-Backup.zip) |
+| Rustwreck Ember Flare | [Terizla-Rustwreck-Ember-Flare.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-terizla/Terizla-Rustwreck-Ember-Flare.zip) |
 | Rustwreck Flames of Judgement | [Terizla-Rustwreck-Flames-of-Judgement.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-terizla/Terizla-Rustwreck-Flames-of-Judgement.zip) |
-| Rustwreck Soul Blight Tyrant | [Terizla-Rustwreck-Soul-Blight-Tyrant.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-terizla/Terizla-Rustwreck-Soul-Blight-Tyrant.zip) |
+| Rustwreck Flare | [Terizla-Rustwreck-Flare.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-terizla/Terizla-Rustwreck-Flare.zip) |
+| Rustwreck Hammer Giant | [Terizla-Rustwreck-Hammer-Giant.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-terizla/Terizla-Rustwreck-Hammer-Giant.zip) |
 | Rustwreck Soulblight Tyrant | [Terizla-Rustwreck-Soulblight-Tyrant.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-terizla/Terizla-Rustwreck-Soulblight-Tyrant.zip) |
-| S22 Flames of Judgement | [Terizla-S22-Flames-of-Judgement.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-terizla/Terizla-S22-Flames-of-Judgement.zip) |
-| S22 Rustwreck | [Terizla-S22-Rustwreck.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-terizla/Terizla-S22-Rustwreck.zip) |
-| S22 Soulblight Tyrant | [Terizla-S22-Soulblight-Tyrant.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-terizla/Terizla-S22-Soulblight-Tyrant.zip) |
-| Season 22 Collector | [Terizla-Season-22-Collector.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-terizla/Terizla-Season-22-Collector.zip) |
-| Special Collector | [Terizla-Special-Collector.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-terizla/Terizla-Special-Collector.zip) |
-| Special Hammer Giant | [Terizla-Special-Hammer-Giant.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-terizla/Terizla-Special-Hammer-Giant.zip) |
-| Special Soulblight Tyrant | [Terizla-Special-Soulblight-Tyrant.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-terizla/Terizla-Special-Soulblight-Tyrant.zip) |
+| Soulblight Tyrant Abyss Guard | [Terizla-Soulblight-Tyrant-Abyss-Guard.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-terizla/Terizla-Soulblight-Tyrant-Abyss-Guard.zip) |
+| Soulblight Tyrant Backup | [Terizla-Soulblight-Tyrant-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-terizla/Terizla-Soulblight-Tyrant-Backup.zip) |
+| Soulblight Tyrant Ember Flare | [Terizla-Soulblight-Tyrant-Ember-Flare.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-terizla/Terizla-Soulblight-Tyrant-Ember-Flare.zip) |
+| Soulblight Tyrant Flames of Judgement | [Terizla-Soulblight-Tyrant-Flames-of-Judgement.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-terizla/Terizla-Soulblight-Tyrant-Flames-of-Judgement.zip) |
+| Soulblight Tyrant Flare | [Terizla-Soulblight-Tyrant-Flare.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-terizla/Terizla-Soulblight-Tyrant-Flare.zip) |
+| Soulblight Tyrant Hammer Giant | [Terizla-Soulblight-Tyrant-Hammer-Giant.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-terizla/Terizla-Soulblight-Tyrant-Hammer-Giant.zip) |
+| Soulblight Tyrant Rustwreck | [Terizla-Soulblight-Tyrant-Rustwreck.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-terizla/Terizla-Soulblight-Tyrant-Rustwreck.zip) |
