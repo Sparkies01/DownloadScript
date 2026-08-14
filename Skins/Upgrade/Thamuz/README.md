@@ -5,46 +5,51 @@ Validated upgrade-skin packages. All downloads are published in the
 
 | Package | Download |
 | --- | --- |
-| Abyssal Reaper Annihilator | [Thamuz-Abyssal-Reaper-Annihilator.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-thamuz/Thamuz-Abyssal-Reaper-Annihilator.zip) |
 | Abyssal Reaper Backup | [Thamuz-Abyssal-Reaper-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-thamuz/Thamuz-Abyssal-Reaper-Backup.zip) |
-| Abyssal Reaper Generai Kai | [Thamuz-Abyssal-Reaper-Generai-Kai.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-thamuz/Thamuz-Abyssal-Reaper-Generai-Kai.zip) |
+| Abyssal Reaper Fire Crystal | [Thamuz-Abyssal-Reaper-Fire-Crystal.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-thamuz/Thamuz-Abyssal-Reaper-Fire-Crystal.zip) |
 | Abyssal Reaper General Kai | [Thamuz-Abyssal-Reaper-General-Kai.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-thamuz/Thamuz-Abyssal-Reaper-General-Kai.zip) |
-| Abyssal Reaper The Annihilator | [Thamuz-Abyssal-Reaper-The-Annihilator.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-thamuz/Thamuz-Abyssal-Reaper-The-Annihilator.zip) |
-| Basic 11 11 | [Thamuz-Basic-11-11.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-thamuz/Thamuz-Basic-11-11.zip) |
-| Basic General Kai | [Thamuz-Basic-General-Kai.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-thamuz/Thamuz-Basic-General-Kai.zip) |
-| Basic Kung Fu Panda | [Thamuz-Basic-Kung-Fu-Panda.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-thamuz/Thamuz-Basic-Kung-Fu-Panda.zip) |
-| Basic Lord of Wraith | [Thamuz-Basic-Lord-of-Wraith.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-thamuz/Thamuz-Basic-Lord-of-Wraith.zip) |
-| Default 11 11 | [Thamuz-Default-11-11.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-thamuz/Thamuz-Default-11-11.zip) |
-| Default Kung Fu Panda | [Thamuz-Default-Kung-Fu-Panda.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-thamuz/Thamuz-Default-Kung-Fu-Panda.zip) |
-| Elite 11 11 | [Thamuz-Elite-11-11.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-thamuz/Thamuz-Elite-11-11.zip) |
-| Elite General Kai | [Thamuz-Elite-General-Kai.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-thamuz/Thamuz-Elite-General-Kai.zip) |
-| Elite Kung Fu Panda | [Thamuz-Elite-Kung-Fu-Panda.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-thamuz/Thamuz-Elite-Kung-Fu-Panda.zip) |
-| Elite Liquid Fire | [Thamuz-Elite-Liquid-Fire.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-thamuz/Thamuz-Elite-Liquid-Fire.zip) |
+| Abyssal Reaper Liquid Fire | [Thamuz-Abyssal-Reaper-Liquid-Fire.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-thamuz/Thamuz-Abyssal-Reaper-Liquid-Fire.zip) |
+| Abyssal Reaper Lord of Wraith | [Thamuz-Abyssal-Reaper-Lord-of-Wraith.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-thamuz/Thamuz-Abyssal-Reaper-Lord-of-Wraith.zip) |
+| Abyssal Reaper Sanctified Flame | [Thamuz-Abyssal-Reaper-Sanctified-Flame.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-thamuz/Thamuz-Abyssal-Reaper-Sanctified-Flame.zip) |
+| Abyssal Reaper Sanctified Inferno | [Thamuz-Abyssal-Reaper-Sanctified-Inferno.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-thamuz/Thamuz-Abyssal-Reaper-Sanctified-Inferno.zip) |
+| Fire Crystal Abyssal Reaper | [Thamuz-Fire-Crystal-Abyssal-Reaper.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-thamuz/Thamuz-Fire-Crystal-Abyssal-Reaper.zip) |
+| Fire Crystal Backup | [Thamuz-Fire-Crystal-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-thamuz/Thamuz-Fire-Crystal-Backup.zip) |
+| Fire Crystal Fire Crystal | [Thamuz-Fire-Crystal-Fire-Crystal.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-thamuz/Thamuz-Fire-Crystal-Fire-Crystal.zip) |
+| Fire Crystal General Kai | [Thamuz-Fire-Crystal-General-Kai.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-thamuz/Thamuz-Fire-Crystal-General-Kai.zip) |
+| Fire Crystal Liquid Fire | [Thamuz-Fire-Crystal-Liquid-Fire.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-thamuz/Thamuz-Fire-Crystal-Liquid-Fire.zip) |
+| Fire Crystal Lord of Wraith | [Thamuz-Fire-Crystal-Lord-of-Wraith.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-thamuz/Thamuz-Fire-Crystal-Lord-of-Wraith.zip) |
+| Fire Crystal Sanctified Flame | [Thamuz-Fire-Crystal-Sanctified-Flame.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-thamuz/Thamuz-Fire-Crystal-Sanctified-Flame.zip) |
+| Fire Crystal Sanctified Inferno | [Thamuz-Fire-Crystal-Sanctified-Inferno.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-thamuz/Thamuz-Fire-Crystal-Sanctified-Inferno.zip) |
+| General Kai Abyssal Reaper | [Thamuz-General-Kai-Abyssal-Reaper.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-thamuz/Thamuz-General-Kai-Abyssal-Reaper.zip) |
 | General Kai Backup | [Thamuz-General-Kai-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-thamuz/Thamuz-General-Kai-Backup.zip) |
-| General Kai The Annihilator | [Thamuz-General-Kai-The-Annihilator.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-thamuz/Thamuz-General-Kai-The-Annihilator.zip) |
-| Kung Fu Panda 11 11 | [Thamuz-Kung-Fu-Panda-11-11.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-thamuz/Thamuz-Kung-Fu-Panda-11-11.zip) |
+| General Kai Fire Crystal | [Thamuz-General-Kai-Fire-Crystal.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-thamuz/Thamuz-General-Kai-Fire-Crystal.zip) |
+| General Kai Liquid Fire | [Thamuz-General-Kai-Liquid-Fire.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-thamuz/Thamuz-General-Kai-Liquid-Fire.zip) |
+| General Kai Lord of Wraith | [Thamuz-General-Kai-Lord-of-Wraith.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-thamuz/Thamuz-General-Kai-Lord-of-Wraith.zip) |
+| General Kai Sanctified Flame | [Thamuz-General-Kai-Sanctified-Flame.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-thamuz/Thamuz-General-Kai-Sanctified-Flame.zip) |
+| General Kai Sanctified Inferno | [Thamuz-General-Kai-Sanctified-Inferno.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-thamuz/Thamuz-General-Kai-Sanctified-Inferno.zip) |
+| Liquid Fire Abyssal Reaper | [Thamuz-Liquid-Fire-Abyssal-Reaper.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-thamuz/Thamuz-Liquid-Fire-Abyssal-Reaper.zip) |
 | Liquid Fire Backup | [Thamuz-Liquid-Fire-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-thamuz/Thamuz-Liquid-Fire-Backup.zip) |
+| Liquid Fire Fire Crystal | [Thamuz-Liquid-Fire-Fire-Crystal.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-thamuz/Thamuz-Liquid-Fire-Fire-Crystal.zip) |
 | Liquid Fire General Kai | [Thamuz-Liquid-Fire-General-Kai.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-thamuz/Thamuz-Liquid-Fire-General-Kai.zip) |
-| Liquid Fire The Annihilator | [Thamuz-Liquid-Fire-The-Annihilator.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-thamuz/Thamuz-Liquid-Fire-The-Annihilator.zip) |
-| Lord Lava Abyssal Reaper | [Thamuz-Lord-Lava-Abyssal-Reaper.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-thamuz/Thamuz-Lord-Lava-Abyssal-Reaper.zip) |
-| Lord Lava Backup | [Thamuz-Lord-Lava-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-thamuz/Thamuz-Lord-Lava-Backup.zip) |
-| Lord Lava General Kai | [Thamuz-Lord-Lava-General-Kai.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-thamuz/Thamuz-Lord-Lava-General-Kai.zip) |
-| Lord Lava Liquid Fire | [Thamuz-Lord-Lava-Liquid-Fire.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-thamuz/Thamuz-Lord-Lava-Liquid-Fire.zip) |
-| Lord Lava Sanctified Flame | [Thamuz-Lord-Lava-Sanctified-Flame.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-thamuz/Thamuz-Lord-Lava-Sanctified-Flame.zip) |
-| Lord Lava The Annihilator | [Thamuz-Lord-Lava-The-Annihilator.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-thamuz/Thamuz-Lord-Lava-The-Annihilator.zip) |
-| Lord of Wraith Annihilator | [Thamuz-Lord-of-Wraith-Annihilator.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-thamuz/Thamuz-Lord-of-Wraith-Annihilator.zip) |
+| Liquid Fire Lord of Wraith | [Thamuz-Liquid-Fire-Lord-of-Wraith.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-thamuz/Thamuz-Liquid-Fire-Lord-of-Wraith.zip) |
+| Liquid Fire Sanctified Flame | [Thamuz-Liquid-Fire-Sanctified-Flame.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-thamuz/Thamuz-Liquid-Fire-Sanctified-Flame.zip) |
+| Liquid Fire Sanctified Inferno | [Thamuz-Liquid-Fire-Sanctified-Inferno.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-thamuz/Thamuz-Liquid-Fire-Sanctified-Inferno.zip) |
+| Lord of Wraith Abyssal Reaper | [Thamuz-Lord-of-Wraith-Abyssal-Reaper.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-thamuz/Thamuz-Lord-of-Wraith-Abyssal-Reaper.zip) |
 | Lord of Wraith Backup | [Thamuz-Lord-of-Wraith-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-thamuz/Thamuz-Lord-of-Wraith-Backup.zip) |
+| Lord of Wraith Fire Crystal | [Thamuz-Lord-of-Wraith-Fire-Crystal.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-thamuz/Thamuz-Lord-of-Wraith-Fire-Crystal.zip) |
 | Lord of Wraith General Kai | [Thamuz-Lord-of-Wraith-General-Kai.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-thamuz/Thamuz-Lord-of-Wraith-General-Kai.zip) |
-| Lord of Wraith The Annihilator | [Thamuz-Lord-of-Wraith-The-Annihilator.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-thamuz/Thamuz-Lord-of-Wraith-The-Annihilator.zip) |
-| Lord Wraith Backup | [Thamuz-Lord-Wraith-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-thamuz/Thamuz-Lord-Wraith-Backup.zip) |
-| Lord Wraith General Kai | [Thamuz-Lord-Wraith-General-Kai.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-thamuz/Thamuz-Lord-Wraith-General-Kai.zip) |
-| Lord Wraith The Annihilator | [Thamuz-Lord-Wraith-The-Annihilator.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-thamuz/Thamuz-Lord-Wraith-The-Annihilator.zip) |
+| Lord of Wraith Liquid Fire | [Thamuz-Lord-of-Wraith-Liquid-Fire.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-thamuz/Thamuz-Lord-of-Wraith-Liquid-Fire.zip) |
+| Lord of Wraith Sanctified Flame | [Thamuz-Lord-of-Wraith-Sanctified-Flame.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-thamuz/Thamuz-Lord-of-Wraith-Sanctified-Flame.zip) |
+| Lord of Wraith Sanctified Inferno | [Thamuz-Lord-of-Wraith-Sanctified-Inferno.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-thamuz/Thamuz-Lord-of-Wraith-Sanctified-Inferno.zip) |
+| Sanctified Flame Abyssal Reaper | [Thamuz-Sanctified-Flame-Abyssal-Reaper.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-thamuz/Thamuz-Sanctified-Flame-Abyssal-Reaper.zip) |
 | Sanctified Flame Backup | [Thamuz-Sanctified-Flame-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-thamuz/Thamuz-Sanctified-Flame-Backup.zip) |
-| Sanctified Flame Generai Kai | [Thamuz-Sanctified-Flame-Generai-Kai.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-thamuz/Thamuz-Sanctified-Flame-Generai-Kai.zip) |
-| Sanctified Flame The Annihilator | [Thamuz-Sanctified-Flame-The-Annihilator.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-thamuz/Thamuz-Sanctified-Flame-The-Annihilator.zip) |
-| Special 11 11 | [Thamuz-Special-11-11.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-thamuz/Thamuz-Special-11-11.zip) |
-| Special Abyssal Reaper | [Thamuz-Special-Abyssal-Reaper.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-thamuz/Thamuz-Special-Abyssal-Reaper.zip) |
-| Special General Kai | [Thamuz-Special-General-Kai.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-thamuz/Thamuz-Special-General-Kai.zip) |
-| Special Kung Fu Panda | [Thamuz-Special-Kung-Fu-Panda.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-thamuz/Thamuz-Special-Kung-Fu-Panda.zip) |
-| Starlight 2023 11 11 | [Thamuz-Starlight-2023-11-11.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-thamuz/Thamuz-Starlight-2023-11-11.zip) |
-| Starlight 2023 Kung Fu Panda | [Thamuz-Starlight-2023-Kung-Fu-Panda.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-thamuz/Thamuz-Starlight-2023-Kung-Fu-Panda.zip) |
+| Sanctified Flame Fire Crystal | [Thamuz-Sanctified-Flame-Fire-Crystal.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-thamuz/Thamuz-Sanctified-Flame-Fire-Crystal.zip) |
+| Sanctified Flame General Kai | [Thamuz-Sanctified-Flame-General-Kai.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-thamuz/Thamuz-Sanctified-Flame-General-Kai.zip) |
+| Sanctified Flame Liquid Fire | [Thamuz-Sanctified-Flame-Liquid-Fire.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-thamuz/Thamuz-Sanctified-Flame-Liquid-Fire.zip) |
+| Sanctified Flame Lord of Wraith | [Thamuz-Sanctified-Flame-Lord-of-Wraith.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-thamuz/Thamuz-Sanctified-Flame-Lord-of-Wraith.zip) |
+| Sanctified Inferno Abyssal Reaper | [Thamuz-Sanctified-Inferno-Abyssal-Reaper.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-thamuz/Thamuz-Sanctified-Inferno-Abyssal-Reaper.zip) |
+| Sanctified Inferno Backup | [Thamuz-Sanctified-Inferno-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-thamuz/Thamuz-Sanctified-Inferno-Backup.zip) |
+| Sanctified Inferno Fire Crystal | [Thamuz-Sanctified-Inferno-Fire-Crystal.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-thamuz/Thamuz-Sanctified-Inferno-Fire-Crystal.zip) |
+| Sanctified Inferno General Kai | [Thamuz-Sanctified-Inferno-General-Kai.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-thamuz/Thamuz-Sanctified-Inferno-General-Kai.zip) |
+| Sanctified Inferno Liquid Fire | [Thamuz-Sanctified-Inferno-Liquid-Fire.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-thamuz/Thamuz-Sanctified-Inferno-Liquid-Fire.zip) |
+| Sanctified Inferno Lord of Wraith | [Thamuz-Sanctified-Inferno-Lord-of-Wraith.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-thamuz/Thamuz-Sanctified-Inferno-Lord-of-Wraith.zip) |
