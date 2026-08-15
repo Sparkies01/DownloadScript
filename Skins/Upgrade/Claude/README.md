@@ -116,8 +116,11 @@ Validated upgrade-skin packages. All downloads are published in the
 | Golden Bullet Backup | [Claude-Golden-Bullet-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-claude/Claude-Golden-Bullet-Backup.zip) |
 | Golden Bullet Bad Bro | [Claude-Golden-Bullet-Bad-Bro.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-claude/Claude-Golden-Bullet-Bad-Bro.zip) |
 | Golden Bullet Blazing Trace | [Claude-Golden-Bullet-Blazing-Trace.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-claude/Claude-Golden-Bullet-Blazing-Trace.zip) |
+| Golden Bullet Challenger s Flare | [Claude-Golden-Bullet-Challenger-s-Flare.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-claude/Claude-Golden-Bullet-Challenger-s-Flare.zip) |
+| Golden Bullet Challenger s Spark | [Claude-Golden-Bullet-Challenger-s-Spark.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-claude/Claude-Golden-Bullet-Challenger-s-Spark.zip) |
 | Golden Bullet Chill Summer | [Claude-Golden-Bullet-Chill-Summer.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-claude/Claude-Golden-Bullet-Chill-Summer.zip) |
 | Golden Bullet Christmas Carnival | [Claude-Golden-Bullet-Christmas-Carnival.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-claude/Claude-Golden-Bullet-Christmas-Carnival.zip) |
+| Golden Bullet Cosmic Blaze | [Claude-Golden-Bullet-Cosmic-Blaze.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-claude/Claude-Golden-Bullet-Cosmic-Blaze.zip) |
 | Golden Bullet Earth s Mightiest | [Claude-Golden-Bullet-Earth-s-Mightiest.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-claude/Claude-Golden-Bullet-Earth-s-Mightiest.zip) |
 | Golden Bullet Heart Aflame | [Claude-Golden-Bullet-Heart-Aflame.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-claude/Claude-Golden-Bullet-Heart-Aflame.zip) |
 | Golden Bullet Mecha Dragon | [Claude-Golden-Bullet-Mecha-Dragon.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-claude/Claude-Golden-Bullet-Mecha-Dragon.zip) |
