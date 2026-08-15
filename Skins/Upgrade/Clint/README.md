@@ -56,6 +56,19 @@ Validated upgrade-skin packages. All downloads are published in the
 | Crimson Blast Summer Blast | [Clint-Crimson-Blast-Summer-Blast.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-clint/Clint-Crimson-Blast-Summer-Blast.zip) |
 | Crimson Blast Vessel of Ruin | [Clint-Crimson-Blast-Vessel-of-Ruin.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-clint/Clint-Crimson-Blast-Vessel-of-Ruin.zip) |
 | Crimson Blast Witch Hunter | [Clint-Crimson-Blast-Witch-Hunter.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-clint/Clint-Crimson-Blast-Witch-Hunter.zip) |
+| Dragon s Maw Backup | [Clint-Dragon-s-Maw-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-clint/Clint-Dragon-s-Maw-Backup.zip) |
+| Dragon s Maw Badminton Champion | [Clint-Dragon-s-Maw-Badminton-Champion.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-clint/Clint-Dragon-s-Maw-Badminton-Champion.zip) |
+| Dragon s Maw Captain of the Reefs | [Clint-Dragon-s-Maw-Captain-of-the-Reefs.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-clint/Clint-Dragon-s-Maw-Captain-of-the-Reefs.zip) |
+| Dragon s Maw Clint Unreleased Skin 11 | [Clint-Dragon-s-Maw-Clint-Unreleased-Skin-11.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-clint/Clint-Dragon-s-Maw-Clint-Unreleased-Skin-11.zip) |
+| Dragon s Maw Crimson Blast | [Clint-Dragon-s-Maw-Crimson-Blast.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-clint/Clint-Dragon-s-Maw-Crimson-Blast.zip) |
+| Dragon s Maw Full Smash | [Clint-Dragon-s-Maw-Full-Smash.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-clint/Clint-Dragon-s-Maw-Full-Smash.zip) |
+| Dragon s Maw Guns and Roses | [Clint-Dragon-s-Maw-Guns-and-Roses.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-clint/Clint-Dragon-s-Maw-Guns-and-Roses.zip) |
+| Dragon s Maw Operator CL | [Clint-Dragon-s-Maw-Operator-CL.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-clint/Clint-Dragon-s-Maw-Operator-CL.zip) |
+| Dragon s Maw Rock and Roll | [Clint-Dragon-s-Maw-Rock-and-Roll.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-clint/Clint-Dragon-s-Maw-Rock-and-Roll.zip) |
+| Dragon s Maw Shadow Omen | [Clint-Dragon-s-Maw-Shadow-Omen.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-clint/Clint-Dragon-s-Maw-Shadow-Omen.zip) |
+| Dragon s Maw Summer Blast | [Clint-Dragon-s-Maw-Summer-Blast.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-clint/Clint-Dragon-s-Maw-Summer-Blast.zip) |
+| Dragon s Maw Vessel of Ruin | [Clint-Dragon-s-Maw-Vessel-of-Ruin.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-clint/Clint-Dragon-s-Maw-Vessel-of-Ruin.zip) |
+| Dragon s Maw Witch Hunter | [Clint-Dragon-s-Maw-Witch-Hunter.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-clint/Clint-Dragon-s-Maw-Witch-Hunter.zip) |
 | Full Smash Backup | [Clint-Full-Smash-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-clint/Clint-Full-Smash-Backup.zip) |
 | Full Smash Captain of the Reefs | [Clint-Full-Smash-Captain-of-the-Reefs.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-clint/Clint-Full-Smash-Captain-of-the-Reefs.zip) |
 | Full Smash Clint Unreleased Skin 11 | [Clint-Full-Smash-Clint-Unreleased-Skin-11.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-clint/Clint-Full-Smash-Clint-Unreleased-Skin-11.zip) |
