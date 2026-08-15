@@ -15,6 +15,7 @@ Validated upgrade-skin packages. All downloads are published in the
 | Chic Glamour Rakshesha | [Hanabi-Chic-Glamour-Rakshesha.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hanabi/Hanabi-Chic-Glamour-Rakshesha.zip) |
 | Chic Glamour Resplendent Iris | [Hanabi-Chic-Glamour-Resplendent-Iris.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hanabi/Hanabi-Chic-Glamour-Resplendent-Iris.zip) |
 | Chic Glamour Riverland Phoenix | [Hanabi-Chic-Glamour-Riverland-Phoenix.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hanabi/Hanabi-Chic-Glamour-Riverland-Phoenix.zip) |
+| Chic Glamour Twin Crescent | [Hanabi-Chic-Glamour-Twin-Crescent.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hanabi/Hanabi-Chic-Glamour-Twin-Crescent.zip) |
 | Chic Glamour V E N O M Nephila | [Hanabi-Chic-Glamour-V-E-N-O-M-Nephila.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hanabi/Hanabi-Chic-Glamour-V-E-N-O-M-Nephila.zip) |
 | Chic Glamour Vessel of Rage | [Hanabi-Chic-Glamour-Vessel-of-Rage.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hanabi/Hanabi-Chic-Glamour-Vessel-of-Rage.zip) |
 | Chic Glamour Viper | [Hanabi-Chic-Glamour-Viper.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hanabi/Hanabi-Chic-Glamour-Viper.zip) |
@@ -28,6 +29,7 @@ Validated upgrade-skin packages. All downloads are published in the
 | Emerald Viper Rakshesha | [Hanabi-Emerald-Viper-Rakshesha.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hanabi/Hanabi-Emerald-Viper-Rakshesha.zip) |
 | Emerald Viper Resplendent Iris | [Hanabi-Emerald-Viper-Resplendent-Iris.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hanabi/Hanabi-Emerald-Viper-Resplendent-Iris.zip) |
 | Emerald Viper Riverland Phoenix | [Hanabi-Emerald-Viper-Riverland-Phoenix.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hanabi/Hanabi-Emerald-Viper-Riverland-Phoenix.zip) |
+| Emerald Viper Twin Crescent | [Hanabi-Emerald-Viper-Twin-Crescent.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hanabi/Hanabi-Emerald-Viper-Twin-Crescent.zip) |
 | Emerald Viper V E N O M Nephila | [Hanabi-Emerald-Viper-V-E-N-O-M-Nephila.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hanabi/Hanabi-Emerald-Viper-V-E-N-O-M-Nephila.zip) |
 | Emerald Viper Vessel of Rage | [Hanabi-Emerald-Viper-Vessel-of-Rage.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hanabi/Hanabi-Emerald-Viper-Vessel-of-Rage.zip) |
 | Field Op Backup | [Hanabi-Field-Op-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hanabi/Hanabi-Field-Op-Backup.zip) |
@@ -40,6 +42,7 @@ Validated upgrade-skin packages. All downloads are published in the
 | Field Op Rakshesha | [Hanabi-Field-Op-Rakshesha.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hanabi/Hanabi-Field-Op-Rakshesha.zip) |
 | Field Op Resplendent Iris | [Hanabi-Field-Op-Resplendent-Iris.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hanabi/Hanabi-Field-Op-Resplendent-Iris.zip) |
 | Field Op Riverland Phoenix | [Hanabi-Field-Op-Riverland-Phoenix.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hanabi/Hanabi-Field-Op-Riverland-Phoenix.zip) |
+| Field Op Twin Crescent | [Hanabi-Field-Op-Twin-Crescent.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hanabi/Hanabi-Field-Op-Twin-Crescent.zip) |
 | Field Op V E N O M Nephila | [Hanabi-Field-Op-V-E-N-O-M-Nephila.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hanabi/Hanabi-Field-Op-V-E-N-O-M-Nephila.zip) |
 | Field Op Vessel of Rage | [Hanabi-Field-Op-Vessel-of-Rage.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hanabi/Hanabi-Field-Op-Vessel-of-Rage.zip) |
 | Field Op Viper | [Hanabi-Field-Op-Viper.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hanabi/Hanabi-Field-Op-Viper.zip) |
@@ -53,6 +56,7 @@ Validated upgrade-skin packages. All downloads are published in the
 | Fiery Moth Rakshesha | [Hanabi-Fiery-Moth-Rakshesha.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hanabi/Hanabi-Fiery-Moth-Rakshesha.zip) |
 | Fiery Moth Resplendent Iris | [Hanabi-Fiery-Moth-Resplendent-Iris.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hanabi/Hanabi-Fiery-Moth-Resplendent-Iris.zip) |
 | Fiery Moth Riverland Phoenix | [Hanabi-Fiery-Moth-Riverland-Phoenix.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hanabi/Hanabi-Fiery-Moth-Riverland-Phoenix.zip) |
+| Fiery Moth Twin Crescent | [Hanabi-Fiery-Moth-Twin-Crescent.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hanabi/Hanabi-Fiery-Moth-Twin-Crescent.zip) |
 | Fiery Moth V E N O M Nephila | [Hanabi-Fiery-Moth-V-E-N-O-M-Nephila.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hanabi/Hanabi-Fiery-Moth-V-E-N-O-M-Nephila.zip) |
 | Fiery Moth Vessel of Rage | [Hanabi-Fiery-Moth-Vessel-of-Rage.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hanabi/Hanabi-Fiery-Moth-Vessel-of-Rage.zip) |
 | Fiery Moth Viper | [Hanabi-Fiery-Moth-Viper.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hanabi/Hanabi-Fiery-Moth-Viper.zip) |
@@ -66,6 +70,7 @@ Validated upgrade-skin packages. All downloads are published in the
 | Hanabi Unreleased Skin 10 Rakshesha | [Hanabi-Hanabi-Unreleased-Skin-10-Rakshesha.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hanabi/Hanabi-Hanabi-Unreleased-Skin-10-Rakshesha.zip) |
 | Hanabi Unreleased Skin 10 Resplendent Iris | [Hanabi-Hanabi-Unreleased-Skin-10-Resplendent-Iris.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hanabi/Hanabi-Hanabi-Unreleased-Skin-10-Resplendent-Iris.zip) |
 | Hanabi Unreleased Skin 10 Riverland Phoenix | [Hanabi-Hanabi-Unreleased-Skin-10-Riverland-Phoenix.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hanabi/Hanabi-Hanabi-Unreleased-Skin-10-Riverland-Phoenix.zip) |
+| Hanabi Unreleased Skin 10 Twin Crescent | [Hanabi-Hanabi-Unreleased-Skin-10-Twin-Crescent.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hanabi/Hanabi-Hanabi-Unreleased-Skin-10-Twin-Crescent.zip) |
 | Hanabi Unreleased Skin 10 V E N O M Nephila | [Hanabi-Hanabi-Unreleased-Skin-10-V-E-N-O-M-Nephila.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hanabi/Hanabi-Hanabi-Unreleased-Skin-10-V-E-N-O-M-Nephila.zip) |
 | Hanabi Unreleased Skin 10 Vessel of Rage | [Hanabi-Hanabi-Unreleased-Skin-10-Vessel-of-Rage.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hanabi/Hanabi-Hanabi-Unreleased-Skin-10-Vessel-of-Rage.zip) |
 | Hanabi Unreleased Skin 10 Viper | [Hanabi-Hanabi-Unreleased-Skin-10-Viper.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hanabi/Hanabi-Hanabi-Unreleased-Skin-10-Viper.zip) |
@@ -79,6 +84,7 @@ Validated upgrade-skin packages. All downloads are published in the
 | Moonlit Ninja Rakshesha | [Hanabi-Moonlit-Ninja-Rakshesha.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hanabi/Hanabi-Moonlit-Ninja-Rakshesha.zip) |
 | Moonlit Ninja Resplendent Iris | [Hanabi-Moonlit-Ninja-Resplendent-Iris.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hanabi/Hanabi-Moonlit-Ninja-Resplendent-Iris.zip) |
 | Moonlit Ninja Riverland Phoenix | [Hanabi-Moonlit-Ninja-Riverland-Phoenix.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hanabi/Hanabi-Moonlit-Ninja-Riverland-Phoenix.zip) |
+| Moonlit Ninja Twin Crescent | [Hanabi-Moonlit-Ninja-Twin-Crescent.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hanabi/Hanabi-Moonlit-Ninja-Twin-Crescent.zip) |
 | Moonlit Ninja V E N O M Nephila | [Hanabi-Moonlit-Ninja-V-E-N-O-M-Nephila.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hanabi/Hanabi-Moonlit-Ninja-V-E-N-O-M-Nephila.zip) |
 | Moonlit Ninja Vessel of Rage | [Hanabi-Moonlit-Ninja-Vessel-of-Rage.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hanabi/Hanabi-Moonlit-Ninja-Vessel-of-Rage.zip) |
 | Moonlit Ninja Viper | [Hanabi-Moonlit-Ninja-Viper.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hanabi/Hanabi-Moonlit-Ninja-Viper.zip) |
@@ -92,6 +98,7 @@ Validated upgrade-skin packages. All downloads are published in the
 | Neonscape Icon Rakshesha | [Hanabi-Neonscape-Icon-Rakshesha.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hanabi/Hanabi-Neonscape-Icon-Rakshesha.zip) |
 | Neonscape Icon Resplendent Iris | [Hanabi-Neonscape-Icon-Resplendent-Iris.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hanabi/Hanabi-Neonscape-Icon-Resplendent-Iris.zip) |
 | Neonscape Icon Riverland Phoenix | [Hanabi-Neonscape-Icon-Riverland-Phoenix.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hanabi/Hanabi-Neonscape-Icon-Riverland-Phoenix.zip) |
+| Neonscape Icon Twin Crescent | [Hanabi-Neonscape-Icon-Twin-Crescent.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hanabi/Hanabi-Neonscape-Icon-Twin-Crescent.zip) |
 | Neonscape Icon V E N O M Nephila | [Hanabi-Neonscape-Icon-V-E-N-O-M-Nephila.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hanabi/Hanabi-Neonscape-Icon-V-E-N-O-M-Nephila.zip) |
 | Neonscape Icon Vessel of Rage | [Hanabi-Neonscape-Icon-Vessel-of-Rage.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hanabi/Hanabi-Neonscape-Icon-Vessel-of-Rage.zip) |
 | Neonscape Icon Viper | [Hanabi-Neonscape-Icon-Viper.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hanabi/Hanabi-Neonscape-Icon-Viper.zip) |
@@ -105,6 +112,7 @@ Validated upgrade-skin packages. All downloads are published in the
 | Rakshesha Neonscape Icon | [Hanabi-Rakshesha-Neonscape-Icon.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hanabi/Hanabi-Rakshesha-Neonscape-Icon.zip) |
 | Rakshesha Resplendent Iris | [Hanabi-Rakshesha-Resplendent-Iris.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hanabi/Hanabi-Rakshesha-Resplendent-Iris.zip) |
 | Rakshesha Riverland Phoenix | [Hanabi-Rakshesha-Riverland-Phoenix.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hanabi/Hanabi-Rakshesha-Riverland-Phoenix.zip) |
+| Rakshesha Twin Crescent | [Hanabi-Rakshesha-Twin-Crescent.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hanabi/Hanabi-Rakshesha-Twin-Crescent.zip) |
 | Rakshesha V E N O M Nephila | [Hanabi-Rakshesha-V-E-N-O-M-Nephila.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hanabi/Hanabi-Rakshesha-V-E-N-O-M-Nephila.zip) |
 | Rakshesha Vessel of Rage | [Hanabi-Rakshesha-Vessel-of-Rage.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hanabi/Hanabi-Rakshesha-Vessel-of-Rage.zip) |
 | Rakshesha Viper | [Hanabi-Rakshesha-Viper.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hanabi/Hanabi-Rakshesha-Viper.zip) |
@@ -118,6 +126,7 @@ Validated upgrade-skin packages. All downloads are published in the
 | Resplendent Iris Neonscape Icon | [Hanabi-Resplendent-Iris-Neonscape-Icon.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hanabi/Hanabi-Resplendent-Iris-Neonscape-Icon.zip) |
 | Resplendent Iris Rakshesha | [Hanabi-Resplendent-Iris-Rakshesha.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hanabi/Hanabi-Resplendent-Iris-Rakshesha.zip) |
 | Resplendent Iris Riverland Phoenix | [Hanabi-Resplendent-Iris-Riverland-Phoenix.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hanabi/Hanabi-Resplendent-Iris-Riverland-Phoenix.zip) |
+| Resplendent Iris Twin Crescent | [Hanabi-Resplendent-Iris-Twin-Crescent.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hanabi/Hanabi-Resplendent-Iris-Twin-Crescent.zip) |
 | Resplendent Iris V E N O M Nephila | [Hanabi-Resplendent-Iris-V-E-N-O-M-Nephila.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hanabi/Hanabi-Resplendent-Iris-V-E-N-O-M-Nephila.zip) |
 | Resplendent Iris Vessel of Rage | [Hanabi-Resplendent-Iris-Vessel-of-Rage.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hanabi/Hanabi-Resplendent-Iris-Vessel-of-Rage.zip) |
 | Resplendent Iris Viper | [Hanabi-Resplendent-Iris-Viper.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hanabi/Hanabi-Resplendent-Iris-Viper.zip) |
@@ -131,9 +140,23 @@ Validated upgrade-skin packages. All downloads are published in the
 | Riverland Phoenix Neonscape Icon | [Hanabi-Riverland-Phoenix-Neonscape-Icon.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hanabi/Hanabi-Riverland-Phoenix-Neonscape-Icon.zip) |
 | Riverland Phoenix Rakshesha | [Hanabi-Riverland-Phoenix-Rakshesha.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hanabi/Hanabi-Riverland-Phoenix-Rakshesha.zip) |
 | Riverland Phoenix Resplendent Iris | [Hanabi-Riverland-Phoenix-Resplendent-Iris.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hanabi/Hanabi-Riverland-Phoenix-Resplendent-Iris.zip) |
+| Riverland Phoenix Twin Crescent | [Hanabi-Riverland-Phoenix-Twin-Crescent.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hanabi/Hanabi-Riverland-Phoenix-Twin-Crescent.zip) |
 | Riverland Phoenix V E N O M Nephila | [Hanabi-Riverland-Phoenix-V-E-N-O-M-Nephila.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hanabi/Hanabi-Riverland-Phoenix-V-E-N-O-M-Nephila.zip) |
 | Riverland Phoenix Vessel of Rage | [Hanabi-Riverland-Phoenix-Vessel-of-Rage.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hanabi/Hanabi-Riverland-Phoenix-Vessel-of-Rage.zip) |
 | Riverland Phoenix Viper | [Hanabi-Riverland-Phoenix-Viper.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hanabi/Hanabi-Riverland-Phoenix-Viper.zip) |
+| Twin Crescent Backup | [Hanabi-Twin-Crescent-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hanabi/Hanabi-Twin-Crescent-Backup.zip) |
+| Twin Crescent Chic Glamour | [Hanabi-Twin-Crescent-Chic-Glamour.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hanabi/Hanabi-Twin-Crescent-Chic-Glamour.zip) |
+| Twin Crescent Emerald Viper | [Hanabi-Twin-Crescent-Emerald-Viper.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hanabi/Hanabi-Twin-Crescent-Emerald-Viper.zip) |
+| Twin Crescent Field Op | [Hanabi-Twin-Crescent-Field-Op.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hanabi/Hanabi-Twin-Crescent-Field-Op.zip) |
+| Twin Crescent Fiery Moth | [Hanabi-Twin-Crescent-Fiery-Moth.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hanabi/Hanabi-Twin-Crescent-Fiery-Moth.zip) |
+| Twin Crescent Hanabi Unreleased Skin 10 | [Hanabi-Twin-Crescent-Hanabi-Unreleased-Skin-10.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hanabi/Hanabi-Twin-Crescent-Hanabi-Unreleased-Skin-10.zip) |
+| Twin Crescent Moonlit Ninja | [Hanabi-Twin-Crescent-Moonlit-Ninja.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hanabi/Hanabi-Twin-Crescent-Moonlit-Ninja.zip) |
+| Twin Crescent Rakshesha | [Hanabi-Twin-Crescent-Rakshesha.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hanabi/Hanabi-Twin-Crescent-Rakshesha.zip) |
+| Twin Crescent Resplendent Iris | [Hanabi-Twin-Crescent-Resplendent-Iris.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hanabi/Hanabi-Twin-Crescent-Resplendent-Iris.zip) |
+| Twin Crescent Riverland Phoenix | [Hanabi-Twin-Crescent-Riverland-Phoenix.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hanabi/Hanabi-Twin-Crescent-Riverland-Phoenix.zip) |
+| Twin Crescent V E N O M Nephila | [Hanabi-Twin-Crescent-V-E-N-O-M-Nephila.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hanabi/Hanabi-Twin-Crescent-V-E-N-O-M-Nephila.zip) |
+| Twin Crescent Vessel of Rage | [Hanabi-Twin-Crescent-Vessel-of-Rage.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hanabi/Hanabi-Twin-Crescent-Vessel-of-Rage.zip) |
+| Twin Crescent Viper | [Hanabi-Twin-Crescent-Viper.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hanabi/Hanabi-Twin-Crescent-Viper.zip) |
 | V E N O M Nephila Backup | [Hanabi-V-E-N-O-M-Nephila-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hanabi/Hanabi-V-E-N-O-M-Nephila-Backup.zip) |
 | V E N O M Nephila Chic Glamour | [Hanabi-V-E-N-O-M-Nephila-Chic-Glamour.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hanabi/Hanabi-V-E-N-O-M-Nephila-Chic-Glamour.zip) |
 | V E N O M Nephila Emerald Viper | [Hanabi-V-E-N-O-M-Nephila-Emerald-Viper.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hanabi/Hanabi-V-E-N-O-M-Nephila-Emerald-Viper.zip) |
@@ -145,6 +168,7 @@ Validated upgrade-skin packages. All downloads are published in the
 | V E N O M Nephila Rakshesha | [Hanabi-V-E-N-O-M-Nephila-Rakshesha.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hanabi/Hanabi-V-E-N-O-M-Nephila-Rakshesha.zip) |
 | V E N O M Nephila Resplendent Iris | [Hanabi-V-E-N-O-M-Nephila-Resplendent-Iris.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hanabi/Hanabi-V-E-N-O-M-Nephila-Resplendent-Iris.zip) |
 | V E N O M Nephila Riverland Phoenix | [Hanabi-V-E-N-O-M-Nephila-Riverland-Phoenix.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hanabi/Hanabi-V-E-N-O-M-Nephila-Riverland-Phoenix.zip) |
+| V E N O M Nephila Twin Crescent | [Hanabi-V-E-N-O-M-Nephila-Twin-Crescent.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hanabi/Hanabi-V-E-N-O-M-Nephila-Twin-Crescent.zip) |
 | V E N O M Nephila Vessel of Rage | [Hanabi-V-E-N-O-M-Nephila-Vessel-of-Rage.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hanabi/Hanabi-V-E-N-O-M-Nephila-Vessel-of-Rage.zip) |
 | V E N O M Nephila Viper | [Hanabi-V-E-N-O-M-Nephila-Viper.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hanabi/Hanabi-V-E-N-O-M-Nephila-Viper.zip) |
 | Vessel of Rage Backup | [Hanabi-Vessel-of-Rage-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hanabi/Hanabi-Vessel-of-Rage-Backup.zip) |
@@ -158,6 +182,7 @@ Validated upgrade-skin packages. All downloads are published in the
 | Vessel of Rage Rakshesha | [Hanabi-Vessel-of-Rage-Rakshesha.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hanabi/Hanabi-Vessel-of-Rage-Rakshesha.zip) |
 | Vessel of Rage Resplendent Iris | [Hanabi-Vessel-of-Rage-Resplendent-Iris.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hanabi/Hanabi-Vessel-of-Rage-Resplendent-Iris.zip) |
 | Vessel of Rage Riverland Phoenix | [Hanabi-Vessel-of-Rage-Riverland-Phoenix.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hanabi/Hanabi-Vessel-of-Rage-Riverland-Phoenix.zip) |
+| Vessel of Rage Twin Crescent | [Hanabi-Vessel-of-Rage-Twin-Crescent.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hanabi/Hanabi-Vessel-of-Rage-Twin-Crescent.zip) |
 | Vessel of Rage V E N O M Nephila | [Hanabi-Vessel-of-Rage-V-E-N-O-M-Nephila.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hanabi/Hanabi-Vessel-of-Rage-V-E-N-O-M-Nephila.zip) |
 | Vessel of Rage Viper | [Hanabi-Vessel-of-Rage-Viper.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hanabi/Hanabi-Vessel-of-Rage-Viper.zip) |
 | Viper Backup | [Hanabi-Viper-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hanabi/Hanabi-Viper-Backup.zip) |
@@ -170,5 +195,6 @@ Validated upgrade-skin packages. All downloads are published in the
 | Viper Rakshesha | [Hanabi-Viper-Rakshesha.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hanabi/Hanabi-Viper-Rakshesha.zip) |
 | Viper Resplendent Iris | [Hanabi-Viper-Resplendent-Iris.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hanabi/Hanabi-Viper-Resplendent-Iris.zip) |
 | Viper Riverland Phoenix | [Hanabi-Viper-Riverland-Phoenix.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hanabi/Hanabi-Viper-Riverland-Phoenix.zip) |
+| Viper Twin Crescent | [Hanabi-Viper-Twin-Crescent.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hanabi/Hanabi-Viper-Twin-Crescent.zip) |
 | Viper V E N O M Nephila | [Hanabi-Viper-V-E-N-O-M-Nephila.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hanabi/Hanabi-Viper-V-E-N-O-M-Nephila.zip) |
 | Viper Vessel of Rage | [Hanabi-Viper-Vessel-of-Rage.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hanabi/Hanabi-Viper-Vessel-of-Rage.zip) |
