@@ -199,14 +199,9 @@ Validated upgrade-skin packages. All downloads are published in the
 | Royal Musketeer Cheergunner | [Lesley-Royal-Musketeer-Cheergunner.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-lesley/Lesley-Royal-Musketeer-Cheergunner.zip) |
 | Royal Musketeer Cheersniper | [Lesley-Royal-Musketeer-Cheersniper.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-lesley/Lesley-Royal-Musketeer-Cheersniper.zip) |
 | Royal Musketeer Dangerous Love | [Lesley-Royal-Musketeer-Dangerous-Love.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-lesley/Lesley-Royal-Musketeer-Dangerous-Love.zip) |
-| Royal Musketeer Deadeye Spectre | [Lesley-Royal-Musketeer-Deadeye-Spectre.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-lesley/Lesley-Royal-Musketeer-Deadeye-Spectre.zip) |
-| Royal Musketeer Duchess of Depths | [Lesley-Royal-Musketeer-Duchess-of-Depths.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-lesley/Lesley-Royal-Musketeer-Duchess-of-Depths.zip) |
-| Royal Musketeer Duchess of Tides | [Lesley-Royal-Musketeer-Duchess-of-Tides.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-lesley/Lesley-Royal-Musketeer-Duchess-of-Tides.zip) |
 | Royal Musketeer Falcon Mistress | [Lesley-Royal-Musketeer-Falcon-Mistress.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-lesley/Lesley-Royal-Musketeer-Falcon-Mistress.zip) |
 | Royal Musketeer General Rosa | [Lesley-Royal-Musketeer-General-Rosa.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-lesley/Lesley-Royal-Musketeer-General-Rosa.zip) |
-| Royal Musketeer Hawk eyed Sniper | [Lesley-Royal-Musketeer-Hawk-eyed-Sniper.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-lesley/Lesley-Royal-Musketeer-Hawk-eyed-Sniper.zip) |
 | Royal Musketeer Lethal Lady | [Lesley-Royal-Musketeer-Lethal-Lady.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-lesley/Lesley-Royal-Musketeer-Lethal-Lady.zip) |
-| Royal Musketeer Meowkin Hunter | [Lesley-Royal-Musketeer-Meowkin-Hunter.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-lesley/Lesley-Royal-Musketeer-Meowkin-Hunter.zip) |
 | Royal Musketeer Romantic Love | [Lesley-Royal-Musketeer-Romantic-Love.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-lesley/Lesley-Royal-Musketeer-Romantic-Love.zip) |
 | Royal Musketeer Stellaris Ghost | [Lesley-Royal-Musketeer-Stellaris-Ghost.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-lesley/Lesley-Royal-Musketeer-Stellaris-Ghost.zip) |
 | Stellaris Ghost Angelic Agent | [Lesley-Stellaris-Ghost-Angelic-Agent.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-lesley/Lesley-Stellaris-Ghost-Angelic-Agent.zip) |
