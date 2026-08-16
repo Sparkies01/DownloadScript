@@ -23,7 +23,6 @@ Validated upgrade-skin packages. All downloads are published in the
 | Campus Youth Christmas Carnival | [Fanny-Campus-Youth-Christmas-Carnival.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-fanny/Fanny-Campus-Youth-Christmas-Carnival.zip) |
 | Campus Youth Galactic Starhawk | [Fanny-Campus-Youth-Galactic-Starhawk.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-fanny/Fanny-Campus-Youth-Galactic-Starhawk.zip) |
 | Campus Youth Heart Afloat | [Fanny-Campus-Youth-Heart-Afloat.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-fanny/Fanny-Campus-Youth-Heart-Afloat.zip) |
-| Campus Youth Imperial Warrior | [Fanny-Campus-Youth-Imperial-Warrior.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-fanny/Fanny-Campus-Youth-Imperial-Warrior.zip) |
 | Campus Youth Lightborn Ranger | [Fanny-Campus-Youth-Lightborn-Ranger.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-fanny/Fanny-Campus-Youth-Lightborn-Ranger.zip) |
 | Campus Youth Mikasa | [Fanny-Campus-Youth-Mikasa.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-fanny/Fanny-Campus-Youth-Mikasa.zip) |
 | Campus Youth P ACE Fanny | [Fanny-Campus-Youth-P-ACE-Fanny.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-fanny/Fanny-Campus-Youth-P-ACE-Fanny.zip) |
