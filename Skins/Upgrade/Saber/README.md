@@ -40,7 +40,6 @@ Validated upgrade-skin packages. All downloads are published in the
 | Golden Flash Iron Hound | [Saber-Golden-Flash-Iron-Hound.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-saber/Saber-Golden-Flash-Iron-Hound.zip) |
 | Golden Flash Onimaru | [Saber-Golden-Flash-Onimaru.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-saber/Saber-Golden-Flash-Onimaru.zip) |
 | Golden Flash S A B E R Regulator | [Saber-Golden-Flash-S-A-B-E-R-Regulator.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-saber/Saber-Golden-Flash-S-A-B-E-R-Regulator.zip) |
-| Golden Flash Silver Edge | [Saber-Golden-Flash-Silver-Edge.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-saber/Saber-Golden-Flash-Silver-Edge.zip) |
 | Golden Flash Steel of Hound | [Saber-Golden-Flash-Steel-of-Hound.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-saber/Saber-Golden-Flash-Steel-of-Hound.zip) |
 | Iron Hound Backup | [Saber-Iron-Hound-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-saber/Saber-Iron-Hound-Backup.zip) |
 | Iron Hound Codename Storm | [Saber-Iron-Hound-Codename-Storm.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-saber/Saber-Iron-Hound-Codename-Storm.zip) |
