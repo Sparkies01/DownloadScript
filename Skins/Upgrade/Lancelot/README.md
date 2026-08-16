@@ -10,7 +10,6 @@ Validated upgrade-skin packages. All downloads are published in the
 | Blade of Devotion Christmas Carnival | [Lancelot-Blade-of-Devotion-Christmas-Carnival.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-lancelot/Lancelot-Blade-of-Devotion-Christmas-Carnival.zip) |
 | Blade of Devotion Dark Earl | [Lancelot-Blade-of-Devotion-Dark-Earl.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-lancelot/Lancelot-Blade-of-Devotion-Dark-Earl.zip) |
 | Blade of Devotion Empyrean Flame | [Lancelot-Blade-of-Devotion-Empyrean-Flame.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-lancelot/Lancelot-Blade-of-Devotion-Empyrean-Flame.zip) |
-| Blade of Devotion Floral Knight | [Lancelot-Blade-of-Devotion-Floral-Knight.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-lancelot/Lancelot-Blade-of-Devotion-Floral-Knight.zip) |
 | Blade of Devotion Guardian of the Shrine | [Lancelot-Blade-of-Devotion-Guardian-of-the-Shrine.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-lancelot/Lancelot-Blade-of-Devotion-Guardian-of-the-Shrine.zip) |
 | Blade of Devotion Marques of Blades | [Lancelot-Blade-of-Devotion-Marques-of-Blades.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-lancelot/Lancelot-Blade-of-Devotion-Marques-of-Blades.zip) |
 | Blade of Devotion Masked Knight | [Lancelot-Blade-of-Devotion-Masked-Knight.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-lancelot/Lancelot-Blade-of-Devotion-Masked-Knight.zip) |
@@ -22,7 +21,6 @@ Validated upgrade-skin packages. All downloads are published in the
 | Bren Esports Christmas Carnival | [Lancelot-Bren-Esports-Christmas-Carnival.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-lancelot/Lancelot-Bren-Esports-Christmas-Carnival.zip) |
 | Bren Esports Dark Earl | [Lancelot-Bren-Esports-Dark-Earl.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-lancelot/Lancelot-Bren-Esports-Dark-Earl.zip) |
 | Bren Esports Empyrean Flame | [Lancelot-Bren-Esports-Empyrean-Flame.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-lancelot/Lancelot-Bren-Esports-Empyrean-Flame.zip) |
-| Bren Esports Floral Knight | [Lancelot-Bren-Esports-Floral-Knight.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-lancelot/Lancelot-Bren-Esports-Floral-Knight.zip) |
 | Bren Esports Guardian of the Shrine | [Lancelot-Bren-Esports-Guardian-of-the-Shrine.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-lancelot/Lancelot-Bren-Esports-Guardian-of-the-Shrine.zip) |
 | Bren Esports Marques of Blades | [Lancelot-Bren-Esports-Marques-of-Blades.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-lancelot/Lancelot-Bren-Esports-Marques-of-Blades.zip) |
 | Bren Esports Masked Knight | [Lancelot-Bren-Esports-Masked-Knight.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-lancelot/Lancelot-Bren-Esports-Masked-Knight.zip) |
@@ -34,7 +32,6 @@ Validated upgrade-skin packages. All downloads are published in the
 | Christmas Carnival Bren Esports | [Lancelot-Christmas-Carnival-Bren-Esports.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-lancelot/Lancelot-Christmas-Carnival-Bren-Esports.zip) |
 | Christmas Carnival Dark Earl | [Lancelot-Christmas-Carnival-Dark-Earl.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-lancelot/Lancelot-Christmas-Carnival-Dark-Earl.zip) |
 | Christmas Carnival Empyrean Flame | [Lancelot-Christmas-Carnival-Empyrean-Flame.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-lancelot/Lancelot-Christmas-Carnival-Empyrean-Flame.zip) |
-| Christmas Carnival Floral Knight | [Lancelot-Christmas-Carnival-Floral-Knight.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-lancelot/Lancelot-Christmas-Carnival-Floral-Knight.zip) |
 | Christmas Carnival Guardian of the Shrine | [Lancelot-Christmas-Carnival-Guardian-of-the-Shrine.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-lancelot/Lancelot-Christmas-Carnival-Guardian-of-the-Shrine.zip) |
 | Christmas Carnival Marques of Blades | [Lancelot-Christmas-Carnival-Marques-of-Blades.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-lancelot/Lancelot-Christmas-Carnival-Marques-of-Blades.zip) |
 | Christmas Carnival Masked Knight | [Lancelot-Christmas-Carnival-Masked-Knight.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-lancelot/Lancelot-Christmas-Carnival-Masked-Knight.zip) |
@@ -46,7 +43,6 @@ Validated upgrade-skin packages. All downloads are published in the
 | Dark Earl Bren Esports | [Lancelot-Dark-Earl-Bren-Esports.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-lancelot/Lancelot-Dark-Earl-Bren-Esports.zip) |
 | Dark Earl Christmas Carnival | [Lancelot-Dark-Earl-Christmas-Carnival.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-lancelot/Lancelot-Dark-Earl-Christmas-Carnival.zip) |
 | Dark Earl Empyrean Flame | [Lancelot-Dark-Earl-Empyrean-Flame.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-lancelot/Lancelot-Dark-Earl-Empyrean-Flame.zip) |
-| Dark Earl Floral Knight | [Lancelot-Dark-Earl-Floral-Knight.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-lancelot/Lancelot-Dark-Earl-Floral-Knight.zip) |
 | Dark Earl Guardian of the Shrine | [Lancelot-Dark-Earl-Guardian-of-the-Shrine.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-lancelot/Lancelot-Dark-Earl-Guardian-of-the-Shrine.zip) |
 | Dark Earl Marques of Blades | [Lancelot-Dark-Earl-Marques-of-Blades.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-lancelot/Lancelot-Dark-Earl-Marques-of-Blades.zip) |
 | Dark Earl Masked Knight | [Lancelot-Dark-Earl-Masked-Knight.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-lancelot/Lancelot-Dark-Earl-Masked-Knight.zip) |
@@ -58,7 +54,6 @@ Validated upgrade-skin packages. All downloads are published in the
 | Empyrean Flame Bren Esports | [Lancelot-Empyrean-Flame-Bren-Esports.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-lancelot/Lancelot-Empyrean-Flame-Bren-Esports.zip) |
 | Empyrean Flame Christmas Carnival | [Lancelot-Empyrean-Flame-Christmas-Carnival.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-lancelot/Lancelot-Empyrean-Flame-Christmas-Carnival.zip) |
 | Empyrean Flame Dark Earl | [Lancelot-Empyrean-Flame-Dark-Earl.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-lancelot/Lancelot-Empyrean-Flame-Dark-Earl.zip) |
-| Empyrean Flame Floral Knight | [Lancelot-Empyrean-Flame-Floral-Knight.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-lancelot/Lancelot-Empyrean-Flame-Floral-Knight.zip) |
 | Empyrean Flame Guardian of the Shrine | [Lancelot-Empyrean-Flame-Guardian-of-the-Shrine.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-lancelot/Lancelot-Empyrean-Flame-Guardian-of-the-Shrine.zip) |
 | Empyrean Flame Marques of Blades | [Lancelot-Empyrean-Flame-Marques-of-Blades.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-lancelot/Lancelot-Empyrean-Flame-Marques-of-Blades.zip) |
 | Empyrean Flame Masked Knight | [Lancelot-Empyrean-Flame-Masked-Knight.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-lancelot/Lancelot-Empyrean-Flame-Masked-Knight.zip) |
@@ -83,7 +78,6 @@ Validated upgrade-skin packages. All downloads are published in the
 | Guardian of the Shrine Christmas Carnival | [Lancelot-Guardian-of-the-Shrine-Christmas-Carnival.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-lancelot/Lancelot-Guardian-of-the-Shrine-Christmas-Carnival.zip) |
 | Guardian of the Shrine Dark Earl | [Lancelot-Guardian-of-the-Shrine-Dark-Earl.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-lancelot/Lancelot-Guardian-of-the-Shrine-Dark-Earl.zip) |
 | Guardian of the Shrine Empyrean Flame | [Lancelot-Guardian-of-the-Shrine-Empyrean-Flame.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-lancelot/Lancelot-Guardian-of-the-Shrine-Empyrean-Flame.zip) |
-| Guardian of the Shrine Floral Knight | [Lancelot-Guardian-of-the-Shrine-Floral-Knight.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-lancelot/Lancelot-Guardian-of-the-Shrine-Floral-Knight.zip) |
 | Guardian of the Shrine Marques of Blades | [Lancelot-Guardian-of-the-Shrine-Marques-of-Blades.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-lancelot/Lancelot-Guardian-of-the-Shrine-Marques-of-Blades.zip) |
 | Guardian of the Shrine Masked Knight | [Lancelot-Guardian-of-the-Shrine-Masked-Knight.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-lancelot/Lancelot-Guardian-of-the-Shrine-Masked-Knight.zip) |
 | Guardian of the Shrine Pisces | [Lancelot-Guardian-of-the-Shrine-Pisces.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-lancelot/Lancelot-Guardian-of-the-Shrine-Pisces.zip) |
@@ -95,7 +89,6 @@ Validated upgrade-skin packages. All downloads are published in the
 | Marques of Blades Christmas Carnival | [Lancelot-Marques-of-Blades-Christmas-Carnival.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-lancelot/Lancelot-Marques-of-Blades-Christmas-Carnival.zip) |
 | Marques of Blades Dark Earl | [Lancelot-Marques-of-Blades-Dark-Earl.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-lancelot/Lancelot-Marques-of-Blades-Dark-Earl.zip) |
 | Marques of Blades Empyrean Flame | [Lancelot-Marques-of-Blades-Empyrean-Flame.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-lancelot/Lancelot-Marques-of-Blades-Empyrean-Flame.zip) |
-| Marques of Blades Floral Knight | [Lancelot-Marques-of-Blades-Floral-Knight.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-lancelot/Lancelot-Marques-of-Blades-Floral-Knight.zip) |
 | Marques of Blades Guardian of the Shrine | [Lancelot-Marques-of-Blades-Guardian-of-the-Shrine.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-lancelot/Lancelot-Marques-of-Blades-Guardian-of-the-Shrine.zip) |
 | Marques of Blades Masked Knight | [Lancelot-Marques-of-Blades-Masked-Knight.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-lancelot/Lancelot-Marques-of-Blades-Masked-Knight.zip) |
 | Marques of Blades Pisces | [Lancelot-Marques-of-Blades-Pisces.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-lancelot/Lancelot-Marques-of-Blades-Pisces.zip) |
@@ -107,7 +100,6 @@ Validated upgrade-skin packages. All downloads are published in the
 | Masked Knight Christmas Carnival | [Lancelot-Masked-Knight-Christmas-Carnival.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-lancelot/Lancelot-Masked-Knight-Christmas-Carnival.zip) |
 | Masked Knight Dark Earl | [Lancelot-Masked-Knight-Dark-Earl.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-lancelot/Lancelot-Masked-Knight-Dark-Earl.zip) |
 | Masked Knight Empyrean Flame | [Lancelot-Masked-Knight-Empyrean-Flame.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-lancelot/Lancelot-Masked-Knight-Empyrean-Flame.zip) |
-| Masked Knight Floral Knight | [Lancelot-Masked-Knight-Floral-Knight.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-lancelot/Lancelot-Masked-Knight-Floral-Knight.zip) |
 | Masked Knight Guardian of the Shrine | [Lancelot-Masked-Knight-Guardian-of-the-Shrine.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-lancelot/Lancelot-Masked-Knight-Guardian-of-the-Shrine.zip) |
 | Masked Knight Marques of Blades | [Lancelot-Masked-Knight-Marques-of-Blades.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-lancelot/Lancelot-Masked-Knight-Marques-of-Blades.zip) |
 | Masked Knight Pisces | [Lancelot-Masked-Knight-Pisces.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-lancelot/Lancelot-Masked-Knight-Pisces.zip) |
@@ -119,7 +111,6 @@ Validated upgrade-skin packages. All downloads are published in the
 | Pisces Christmas Carnival | [Lancelot-Pisces-Christmas-Carnival.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-lancelot/Lancelot-Pisces-Christmas-Carnival.zip) |
 | Pisces Dark Earl | [Lancelot-Pisces-Dark-Earl.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-lancelot/Lancelot-Pisces-Dark-Earl.zip) |
 | Pisces Empyrean Flame | [Lancelot-Pisces-Empyrean-Flame.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-lancelot/Lancelot-Pisces-Empyrean-Flame.zip) |
-| Pisces Floral Knight | [Lancelot-Pisces-Floral-Knight.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-lancelot/Lancelot-Pisces-Floral-Knight.zip) |
 | Pisces Guardian of the Shrine | [Lancelot-Pisces-Guardian-of-the-Shrine.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-lancelot/Lancelot-Pisces-Guardian-of-the-Shrine.zip) |
 | Pisces Marques of Blades | [Lancelot-Pisces-Marques-of-Blades.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-lancelot/Lancelot-Pisces-Marques-of-Blades.zip) |
 | Pisces Masked Knight | [Lancelot-Pisces-Masked-Knight.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-lancelot/Lancelot-Pisces-Masked-Knight.zip) |
@@ -131,7 +122,6 @@ Validated upgrade-skin packages. All downloads are published in the
 | Royal Matador Christmas Carnival | [Lancelot-Royal-Matador-Christmas-Carnival.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-lancelot/Lancelot-Royal-Matador-Christmas-Carnival.zip) |
 | Royal Matador Dark Earl | [Lancelot-Royal-Matador-Dark-Earl.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-lancelot/Lancelot-Royal-Matador-Dark-Earl.zip) |
 | Royal Matador Empyrean Flame | [Lancelot-Royal-Matador-Empyrean-Flame.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-lancelot/Lancelot-Royal-Matador-Empyrean-Flame.zip) |
-| Royal Matador Floral Knight | [Lancelot-Royal-Matador-Floral-Knight.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-lancelot/Lancelot-Royal-Matador-Floral-Knight.zip) |
 | Royal Matador Guardian of the Shrine | [Lancelot-Royal-Matador-Guardian-of-the-Shrine.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-lancelot/Lancelot-Royal-Matador-Guardian-of-the-Shrine.zip) |
 | Royal Matador Marques of Blades | [Lancelot-Royal-Matador-Marques-of-Blades.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-lancelot/Lancelot-Royal-Matador-Marques-of-Blades.zip) |
 | Royal Matador Masked Knight | [Lancelot-Royal-Matador-Masked-Knight.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-lancelot/Lancelot-Royal-Matador-Masked-Knight.zip) |
@@ -143,7 +133,6 @@ Validated upgrade-skin packages. All downloads are published in the
 | Swordmaster Christmas Carnival | [Lancelot-Swordmaster-Christmas-Carnival.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-lancelot/Lancelot-Swordmaster-Christmas-Carnival.zip) |
 | Swordmaster Dark Earl | [Lancelot-Swordmaster-Dark-Earl.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-lancelot/Lancelot-Swordmaster-Dark-Earl.zip) |
 | Swordmaster Empyrean Flame | [Lancelot-Swordmaster-Empyrean-Flame.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-lancelot/Lancelot-Swordmaster-Empyrean-Flame.zip) |
-| Swordmaster Floral Knight | [Lancelot-Swordmaster-Floral-Knight.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-lancelot/Lancelot-Swordmaster-Floral-Knight.zip) |
 | Swordmaster Guardian of the Shrine | [Lancelot-Swordmaster-Guardian-of-the-Shrine.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-lancelot/Lancelot-Swordmaster-Guardian-of-the-Shrine.zip) |
 | Swordmaster Marques of Blades | [Lancelot-Swordmaster-Marques-of-Blades.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-lancelot/Lancelot-Swordmaster-Marques-of-Blades.zip) |
 | Swordmaster Masked Knight | [Lancelot-Swordmaster-Masked-Knight.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-lancelot/Lancelot-Swordmaster-Masked-Knight.zip) |
