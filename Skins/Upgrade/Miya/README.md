@@ -15,7 +15,6 @@ Validated upgrade-skin packages. All downloads are published in the
 | Arrow of Springs Jungle Ranger | [Miya-Arrow-of-Springs-Jungle-Ranger.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-miya/Miya-Arrow-of-Springs-Jungle-Ranger.zip) |
 | Arrow of Springs Modena Butterfly | [Miya-Arrow-of-Springs-Modena-Butterfly.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-miya/Miya-Arrow-of-Springs-Modena-Butterfly.zip) |
 | Arrow of Springs Moon Priestess | [Miya-Arrow-of-Springs-Moon-Priestess.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-miya/Miya-Arrow-of-Springs-Moon-Priestess.zip) |
-| Arrow of Springs Moonlit Arrow | [Miya-Arrow-of-Springs-Moonlit-Arrow.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-miya/Miya-Arrow-of-Springs-Moonlit-Arrow.zip) |
 | Arrow of Springs Nightowl Huntress | [Miya-Arrow-of-Springs-Nightowl-Huntress.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-miya/Miya-Arrow-of-Springs-Nightowl-Huntress.zip) |
 | Arrow of Springs Nightowl Sentinel | [Miya-Arrow-of-Springs-Nightowl-Sentinel.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-miya/Miya-Arrow-of-Springs-Nightowl-Sentinel.zip) |
 | Arrow of Springs Nightowl Warden | [Miya-Arrow-of-Springs-Nightowl-Warden.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-miya/Miya-Arrow-of-Springs-Nightowl-Warden.zip) |
@@ -31,7 +30,6 @@ Validated upgrade-skin packages. All downloads are published in the
 | Atomic Pop Miya Jungle Ranger | [Miya-Atomic-Pop-Miya-Jungle-Ranger.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-miya/Miya-Atomic-Pop-Miya-Jungle-Ranger.zip) |
 | Atomic Pop Miya Modena Butterfly | [Miya-Atomic-Pop-Miya-Modena-Butterfly.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-miya/Miya-Atomic-Pop-Miya-Modena-Butterfly.zip) |
 | Atomic Pop Miya Moon Priestess | [Miya-Atomic-Pop-Miya-Moon-Priestess.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-miya/Miya-Atomic-Pop-Miya-Moon-Priestess.zip) |
-| Atomic Pop Miya Moonlit Arrow | [Miya-Atomic-Pop-Miya-Moonlit-Arrow.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-miya/Miya-Atomic-Pop-Miya-Moonlit-Arrow.zip) |
 | Atomic Pop Miya Nightowl Huntress | [Miya-Atomic-Pop-Miya-Nightowl-Huntress.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-miya/Miya-Atomic-Pop-Miya-Nightowl-Huntress.zip) |
 | Atomic Pop Miya Nightowl Sentinel | [Miya-Atomic-Pop-Miya-Nightowl-Sentinel.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-miya/Miya-Atomic-Pop-Miya-Nightowl-Sentinel.zip) |
 | Atomic Pop Miya Nightowl Warden | [Miya-Atomic-Pop-Miya-Nightowl-Warden.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-miya/Miya-Atomic-Pop-Miya-Nightowl-Warden.zip) |
@@ -43,8 +41,6 @@ Validated upgrade-skin packages. All downloads are published in the
 | Burning Bow Captain Thorns | [Miya-Burning-Bow-Captain-Thorns.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-miya/Miya-Burning-Bow-Captain-Thorns.zip) |
 | Burning Bow Christmas Carnival | [Miya-Burning-Bow-Christmas-Carnival.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-miya/Miya-Burning-Bow-Christmas-Carnival.zip) |
 | Burning Bow Doom Catalyst | [Miya-Burning-Bow-Doom-Catalyst.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-miya/Miya-Burning-Bow-Doom-Catalyst.zip) |
-| Burning Bow Honor | [Miya-Burning-Bow-Honor.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-miya/Miya-Burning-Bow-Honor.zip) |
-| Burning Bow Jungle Ranger | [Miya-Burning-Bow-Jungle-Ranger.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-miya/Miya-Burning-Bow-Jungle-Ranger.zip) |
 | Burning Bow Modena Butterfly | [Miya-Burning-Bow-Modena-Butterfly.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-miya/Miya-Burning-Bow-Modena-Butterfly.zip) |
 | Burning Bow Moon Priestess | [Miya-Burning-Bow-Moon-Priestess.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-miya/Miya-Burning-Bow-Moon-Priestess.zip) |
 | Burning Bow Nightowl Huntress | [Miya-Burning-Bow-Nightowl-Huntress.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-miya/Miya-Burning-Bow-Nightowl-Huntress.zip) |
@@ -62,7 +58,6 @@ Validated upgrade-skin packages. All downloads are published in the
 | Captain Thorns Jungle Ranger | [Miya-Captain-Thorns-Jungle-Ranger.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-miya/Miya-Captain-Thorns-Jungle-Ranger.zip) |
 | Captain Thorns Modena Butterfly | [Miya-Captain-Thorns-Modena-Butterfly.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-miya/Miya-Captain-Thorns-Modena-Butterfly.zip) |
 | Captain Thorns Moon Priestess | [Miya-Captain-Thorns-Moon-Priestess.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-miya/Miya-Captain-Thorns-Moon-Priestess.zip) |
-| Captain Thorns Moonlit Arrow | [Miya-Captain-Thorns-Moonlit-Arrow.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-miya/Miya-Captain-Thorns-Moonlit-Arrow.zip) |
 | Captain Thorns Nightowl Huntress | [Miya-Captain-Thorns-Nightowl-Huntress.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-miya/Miya-Captain-Thorns-Nightowl-Huntress.zip) |
 | Captain Thorns Nightowl Sentinel | [Miya-Captain-Thorns-Nightowl-Sentinel.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-miya/Miya-Captain-Thorns-Nightowl-Sentinel.zip) |
 | Captain Thorns Nightowl Warden | [Miya-Captain-Thorns-Nightowl-Warden.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-miya/Miya-Captain-Thorns-Nightowl-Warden.zip) |
@@ -78,7 +73,6 @@ Validated upgrade-skin packages. All downloads are published in the
 | Christmas Carnival Jungle Ranger | [Miya-Christmas-Carnival-Jungle-Ranger.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-miya/Miya-Christmas-Carnival-Jungle-Ranger.zip) |
 | Christmas Carnival Modena Butterfly | [Miya-Christmas-Carnival-Modena-Butterfly.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-miya/Miya-Christmas-Carnival-Modena-Butterfly.zip) |
 | Christmas Carnival Moon Priestess | [Miya-Christmas-Carnival-Moon-Priestess.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-miya/Miya-Christmas-Carnival-Moon-Priestess.zip) |
-| Christmas Carnival Moonlit Arrow | [Miya-Christmas-Carnival-Moonlit-Arrow.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-miya/Miya-Christmas-Carnival-Moonlit-Arrow.zip) |
 | Christmas Carnival Nightowl Huntress | [Miya-Christmas-Carnival-Nightowl-Huntress.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-miya/Miya-Christmas-Carnival-Nightowl-Huntress.zip) |
 | Christmas Carnival Nightowl Sentinel | [Miya-Christmas-Carnival-Nightowl-Sentinel.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-miya/Miya-Christmas-Carnival-Nightowl-Sentinel.zip) |
 | Christmas Carnival Nightowl Warden | [Miya-Christmas-Carnival-Nightowl-Warden.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-miya/Miya-Christmas-Carnival-Nightowl-Warden.zip) |
@@ -94,7 +88,6 @@ Validated upgrade-skin packages. All downloads are published in the
 | Doom Catalyst Jungle Ranger | [Miya-Doom-Catalyst-Jungle-Ranger.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-miya/Miya-Doom-Catalyst-Jungle-Ranger.zip) |
 | Doom Catalyst Modena Butterfly | [Miya-Doom-Catalyst-Modena-Butterfly.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-miya/Miya-Doom-Catalyst-Modena-Butterfly.zip) |
 | Doom Catalyst Moon Priestess | [Miya-Doom-Catalyst-Moon-Priestess.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-miya/Miya-Doom-Catalyst-Moon-Priestess.zip) |
-| Doom Catalyst Moonlit Arrow | [Miya-Doom-Catalyst-Moonlit-Arrow.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-miya/Miya-Doom-Catalyst-Moonlit-Arrow.zip) |
 | Doom Catalyst Nightowl Huntress | [Miya-Doom-Catalyst-Nightowl-Huntress.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-miya/Miya-Doom-Catalyst-Nightowl-Huntress.zip) |
 | Doom Catalyst Nightowl Sentinel | [Miya-Doom-Catalyst-Nightowl-Sentinel.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-miya/Miya-Doom-Catalyst-Nightowl-Sentinel.zip) |
 | Doom Catalyst Nightowl Warden | [Miya-Doom-Catalyst-Nightowl-Warden.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-miya/Miya-Doom-Catalyst-Nightowl-Warden.zip) |
@@ -110,7 +103,6 @@ Validated upgrade-skin packages. All downloads are published in the
 | Honor Jungle Ranger | [Miya-Honor-Jungle-Ranger.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-miya/Miya-Honor-Jungle-Ranger.zip) |
 | Honor Modena Butterfly | [Miya-Honor-Modena-Butterfly.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-miya/Miya-Honor-Modena-Butterfly.zip) |
 | Honor Moon Priestess | [Miya-Honor-Moon-Priestess.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-miya/Miya-Honor-Moon-Priestess.zip) |
-| Honor Moonlit Arrow | [Miya-Honor-Moonlit-Arrow.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-miya/Miya-Honor-Moonlit-Arrow.zip) |
 | Honor Nightowl Huntress | [Miya-Honor-Nightowl-Huntress.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-miya/Miya-Honor-Nightowl-Huntress.zip) |
 | Honor Nightowl Sentinel | [Miya-Honor-Nightowl-Sentinel.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-miya/Miya-Honor-Nightowl-Sentinel.zip) |
 | Honor Nightowl Warden | [Miya-Honor-Nightowl-Warden.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-miya/Miya-Honor-Nightowl-Warden.zip) |
@@ -126,7 +118,6 @@ Validated upgrade-skin packages. All downloads are published in the
 | Jungle Ranger Honor | [Miya-Jungle-Ranger-Honor.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-miya/Miya-Jungle-Ranger-Honor.zip) |
 | Jungle Ranger Modena Butterfly | [Miya-Jungle-Ranger-Modena-Butterfly.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-miya/Miya-Jungle-Ranger-Modena-Butterfly.zip) |
 | Jungle Ranger Moon Priestess | [Miya-Jungle-Ranger-Moon-Priestess.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-miya/Miya-Jungle-Ranger-Moon-Priestess.zip) |
-| Jungle Ranger Moonlit Arrow | [Miya-Jungle-Ranger-Moonlit-Arrow.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-miya/Miya-Jungle-Ranger-Moonlit-Arrow.zip) |
 | Jungle Ranger Nightowl Huntress | [Miya-Jungle-Ranger-Nightowl-Huntress.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-miya/Miya-Jungle-Ranger-Nightowl-Huntress.zip) |
 | Jungle Ranger Nightowl Sentinel | [Miya-Jungle-Ranger-Nightowl-Sentinel.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-miya/Miya-Jungle-Ranger-Nightowl-Sentinel.zip) |
 | Jungle Ranger Nightowl Warden | [Miya-Jungle-Ranger-Nightowl-Warden.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-miya/Miya-Jungle-Ranger-Nightowl-Warden.zip) |
@@ -142,7 +133,6 @@ Validated upgrade-skin packages. All downloads are published in the
 | Modena Butterfly Honor | [Miya-Modena-Butterfly-Honor.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-miya/Miya-Modena-Butterfly-Honor.zip) |
 | Modena Butterfly Jungle Ranger | [Miya-Modena-Butterfly-Jungle-Ranger.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-miya/Miya-Modena-Butterfly-Jungle-Ranger.zip) |
 | Modena Butterfly Moon Priestess | [Miya-Modena-Butterfly-Moon-Priestess.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-miya/Miya-Modena-Butterfly-Moon-Priestess.zip) |
-| Modena Butterfly Moonlit Arrow | [Miya-Modena-Butterfly-Moonlit-Arrow.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-miya/Miya-Modena-Butterfly-Moonlit-Arrow.zip) |
 | Modena Butterfly Nightowl Huntress | [Miya-Modena-Butterfly-Nightowl-Huntress.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-miya/Miya-Modena-Butterfly-Nightowl-Huntress.zip) |
 | Modena Butterfly Nightowl Sentinel | [Miya-Modena-Butterfly-Nightowl-Sentinel.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-miya/Miya-Modena-Butterfly-Nightowl-Sentinel.zip) |
 | Modena Butterfly Nightowl Warden | [Miya-Modena-Butterfly-Nightowl-Warden.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-miya/Miya-Modena-Butterfly-Nightowl-Warden.zip) |
@@ -158,7 +148,6 @@ Validated upgrade-skin packages. All downloads are published in the
 | Moon Priestess Honor | [Miya-Moon-Priestess-Honor.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-miya/Miya-Moon-Priestess-Honor.zip) |
 | Moon Priestess Jungle Ranger | [Miya-Moon-Priestess-Jungle-Ranger.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-miya/Miya-Moon-Priestess-Jungle-Ranger.zip) |
 | Moon Priestess Modena Butterfly | [Miya-Moon-Priestess-Modena-Butterfly.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-miya/Miya-Moon-Priestess-Modena-Butterfly.zip) |
-| Moon Priestess Moonlit Arrow | [Miya-Moon-Priestess-Moonlit-Arrow.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-miya/Miya-Moon-Priestess-Moonlit-Arrow.zip) |
 | Moon Priestess Nightowl Huntress | [Miya-Moon-Priestess-Nightowl-Huntress.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-miya/Miya-Moon-Priestess-Nightowl-Huntress.zip) |
 | Moon Priestess Nightowl Sentinel | [Miya-Moon-Priestess-Nightowl-Sentinel.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-miya/Miya-Moon-Priestess-Nightowl-Sentinel.zip) |
 | Moon Priestess Nightowl Warden | [Miya-Moon-Priestess-Nightowl-Warden.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-miya/Miya-Moon-Priestess-Nightowl-Warden.zip) |
@@ -170,8 +159,6 @@ Validated upgrade-skin packages. All downloads are published in the
 | Moonlit Arrow Captain Thorns | [Miya-Moonlit-Arrow-Captain-Thorns.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-miya/Miya-Moonlit-Arrow-Captain-Thorns.zip) |
 | Moonlit Arrow Christmas Carnival | [Miya-Moonlit-Arrow-Christmas-Carnival.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-miya/Miya-Moonlit-Arrow-Christmas-Carnival.zip) |
 | Moonlit Arrow Doom Catalyst | [Miya-Moonlit-Arrow-Doom-Catalyst.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-miya/Miya-Moonlit-Arrow-Doom-Catalyst.zip) |
-| Moonlit Arrow Honor | [Miya-Moonlit-Arrow-Honor.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-miya/Miya-Moonlit-Arrow-Honor.zip) |
-| Moonlit Arrow Jungle Ranger | [Miya-Moonlit-Arrow-Jungle-Ranger.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-miya/Miya-Moonlit-Arrow-Jungle-Ranger.zip) |
 | Moonlit Arrow Modena Butterfly | [Miya-Moonlit-Arrow-Modena-Butterfly.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-miya/Miya-Moonlit-Arrow-Modena-Butterfly.zip) |
 | Moonlit Arrow Moon Priestess | [Miya-Moonlit-Arrow-Moon-Priestess.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-miya/Miya-Moonlit-Arrow-Moon-Priestess.zip) |
 | Moonlit Arrow Nightowl Huntress | [Miya-Moonlit-Arrow-Nightowl-Huntress.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-miya/Miya-Moonlit-Arrow-Nightowl-Huntress.zip) |
@@ -190,7 +177,6 @@ Validated upgrade-skin packages. All downloads are published in the
 | Nightowl Huntress Jungle Ranger | [Miya-Nightowl-Huntress-Jungle-Ranger.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-miya/Miya-Nightowl-Huntress-Jungle-Ranger.zip) |
 | Nightowl Huntress Modena Butterfly | [Miya-Nightowl-Huntress-Modena-Butterfly.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-miya/Miya-Nightowl-Huntress-Modena-Butterfly.zip) |
 | Nightowl Huntress Moon Priestess | [Miya-Nightowl-Huntress-Moon-Priestess.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-miya/Miya-Nightowl-Huntress-Moon-Priestess.zip) |
-| Nightowl Huntress Moonlit Arrow | [Miya-Nightowl-Huntress-Moonlit-Arrow.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-miya/Miya-Nightowl-Huntress-Moonlit-Arrow.zip) |
 | Nightowl Huntress Suzuhime | [Miya-Nightowl-Huntress-Suzuhime.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-miya/Miya-Nightowl-Huntress-Suzuhime.zip) |
 | Nightowl Huntress Sweet Fantasy | [Miya-Nightowl-Huntress-Sweet-Fantasy.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-miya/Miya-Nightowl-Huntress-Sweet-Fantasy.zip) |
 | Nightowl Sentinel Arrow of Springs | [Miya-Nightowl-Sentinel-Arrow-of-Springs.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-miya/Miya-Nightowl-Sentinel-Arrow-of-Springs.zip) |
@@ -204,7 +190,6 @@ Validated upgrade-skin packages. All downloads are published in the
 | Nightowl Sentinel Jungle Ranger | [Miya-Nightowl-Sentinel-Jungle-Ranger.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-miya/Miya-Nightowl-Sentinel-Jungle-Ranger.zip) |
 | Nightowl Sentinel Modena Butterfly | [Miya-Nightowl-Sentinel-Modena-Butterfly.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-miya/Miya-Nightowl-Sentinel-Modena-Butterfly.zip) |
 | Nightowl Sentinel Moon Priestess | [Miya-Nightowl-Sentinel-Moon-Priestess.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-miya/Miya-Nightowl-Sentinel-Moon-Priestess.zip) |
-| Nightowl Sentinel Moonlit Arrow | [Miya-Nightowl-Sentinel-Moonlit-Arrow.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-miya/Miya-Nightowl-Sentinel-Moonlit-Arrow.zip) |
 | Nightowl Sentinel Suzuhime | [Miya-Nightowl-Sentinel-Suzuhime.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-miya/Miya-Nightowl-Sentinel-Suzuhime.zip) |
 | Nightowl Sentinel Sweet Fantasy | [Miya-Nightowl-Sentinel-Sweet-Fantasy.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-miya/Miya-Nightowl-Sentinel-Sweet-Fantasy.zip) |
 | Nightowl Warden Arrow of Springs | [Miya-Nightowl-Warden-Arrow-of-Springs.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-miya/Miya-Nightowl-Warden-Arrow-of-Springs.zip) |
@@ -218,7 +203,6 @@ Validated upgrade-skin packages. All downloads are published in the
 | Nightowl Warden Jungle Ranger | [Miya-Nightowl-Warden-Jungle-Ranger.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-miya/Miya-Nightowl-Warden-Jungle-Ranger.zip) |
 | Nightowl Warden Modena Butterfly | [Miya-Nightowl-Warden-Modena-Butterfly.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-miya/Miya-Nightowl-Warden-Modena-Butterfly.zip) |
 | Nightowl Warden Moon Priestess | [Miya-Nightowl-Warden-Moon-Priestess.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-miya/Miya-Nightowl-Warden-Moon-Priestess.zip) |
-| Nightowl Warden Moonlit Arrow | [Miya-Nightowl-Warden-Moonlit-Arrow.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-miya/Miya-Nightowl-Warden-Moonlit-Arrow.zip) |
 | Nightowl Warden Suzuhime | [Miya-Nightowl-Warden-Suzuhime.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-miya/Miya-Nightowl-Warden-Suzuhime.zip) |
 | Nightowl Warden Sweet Fantasy | [Miya-Nightowl-Warden-Sweet-Fantasy.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-miya/Miya-Nightowl-Warden-Sweet-Fantasy.zip) |
 | Suzuhime Arrow of Springs | [Miya-Suzuhime-Arrow-of-Springs.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-miya/Miya-Suzuhime-Arrow-of-Springs.zip) |
@@ -232,7 +216,6 @@ Validated upgrade-skin packages. All downloads are published in the
 | Suzuhime Jungle Ranger | [Miya-Suzuhime-Jungle-Ranger.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-miya/Miya-Suzuhime-Jungle-Ranger.zip) |
 | Suzuhime Modena Butterfly | [Miya-Suzuhime-Modena-Butterfly.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-miya/Miya-Suzuhime-Modena-Butterfly.zip) |
 | Suzuhime Moon Priestess | [Miya-Suzuhime-Moon-Priestess.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-miya/Miya-Suzuhime-Moon-Priestess.zip) |
-| Suzuhime Moonlit Arrow | [Miya-Suzuhime-Moonlit-Arrow.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-miya/Miya-Suzuhime-Moonlit-Arrow.zip) |
 | Suzuhime Nightowl Huntress | [Miya-Suzuhime-Nightowl-Huntress.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-miya/Miya-Suzuhime-Nightowl-Huntress.zip) |
 | Suzuhime Nightowl Sentinel | [Miya-Suzuhime-Nightowl-Sentinel.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-miya/Miya-Suzuhime-Nightowl-Sentinel.zip) |
 | Suzuhime Nightowl Warden | [Miya-Suzuhime-Nightowl-Warden.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-miya/Miya-Suzuhime-Nightowl-Warden.zip) |
@@ -248,7 +231,6 @@ Validated upgrade-skin packages. All downloads are published in the
 | Sweet Fantasy Jungle Ranger | [Miya-Sweet-Fantasy-Jungle-Ranger.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-miya/Miya-Sweet-Fantasy-Jungle-Ranger.zip) |
 | Sweet Fantasy Modena Butterfly | [Miya-Sweet-Fantasy-Modena-Butterfly.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-miya/Miya-Sweet-Fantasy-Modena-Butterfly.zip) |
 | Sweet Fantasy Moon Priestess | [Miya-Sweet-Fantasy-Moon-Priestess.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-miya/Miya-Sweet-Fantasy-Moon-Priestess.zip) |
-| Sweet Fantasy Moonlit Arrow | [Miya-Sweet-Fantasy-Moonlit-Arrow.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-miya/Miya-Sweet-Fantasy-Moonlit-Arrow.zip) |
 | Sweet Fantasy Nightowl Huntress | [Miya-Sweet-Fantasy-Nightowl-Huntress.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-miya/Miya-Sweet-Fantasy-Nightowl-Huntress.zip) |
 | Sweet Fantasy Nightowl Sentinel | [Miya-Sweet-Fantasy-Nightowl-Sentinel.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-miya/Miya-Sweet-Fantasy-Nightowl-Sentinel.zip) |
 | Sweet Fantasy Nightowl Warden | [Miya-Sweet-Fantasy-Nightowl-Warden.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-miya/Miya-Sweet-Fantasy-Nightowl-Warden.zip) |
