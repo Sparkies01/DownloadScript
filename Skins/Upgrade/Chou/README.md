@@ -5,6 +5,20 @@ Validated upgrade-skin packages. All downloads are published in the
 
 | Package | Download |
 | --- | --- |
+| Beta Skin 14 Detected in Beta Mirror Backup | [Chou-Beta-Skin-14-Detected-in-Beta-Mirror-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-chou/Chou-Beta-Skin-14-Detected-in-Beta-Mirror-Backup.zip) |
+| Beta Skin 14 Detected in Beta Mirror Dragon Shiryu | [Chou-Beta-Skin-14-Detected-in-Beta-Mirror-Dragon-Shiryu.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-chou/Chou-Beta-Skin-14-Detected-in-Beta-Mirror-Dragon-Shiryu.zip) |
+| Beta Skin 14 Detected in Beta Mirror ECHO | [Chou-Beta-Skin-14-Detected-in-Beta-Mirror-ECHO.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-chou/Chou-Beta-Skin-14-Detected-in-Beta-Mirror-ECHO.zip) |
+| Beta Skin 14 Detected in Beta Mirror Furious Tiger | [Chou-Beta-Skin-14-Detected-in-Beta-Mirror-Furious-Tiger.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-chou/Chou-Beta-Skin-14-Detected-in-Beta-Mirror-Furious-Tiger.zip) |
+| Beta Skin 14 Detected in Beta Mirror Go Ballistic | [Chou-Beta-Skin-14-Detected-in-Beta-Mirror-Go-Ballistic.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-chou/Chou-Beta-Skin-14-Detected-in-Beta-Mirror-Go-Ballistic.zip) |
+| Beta Skin 14 Detected in Beta Mirror Hip hop Boy | [Chou-Beta-Skin-14-Detected-in-Beta-Mirror-Hip-hop-Boy.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-chou/Chou-Beta-Skin-14-Detected-in-Beta-Mirror-Hip-hop-Boy.zip) |
+| Beta Skin 14 Detected in Beta Mirror Iori Yagami | [Chou-Beta-Skin-14-Detected-in-Beta-Mirror-Iori-Yagami.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-chou/Chou-Beta-Skin-14-Detected-in-Beta-Mirror-Iori-Yagami.zip) |
+| Beta Skin 14 Detected in Beta Mirror Ken Outfit 2 | [Chou-Beta-Skin-14-Detected-in-Beta-Mirror-Ken-Outfit-2.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-chou/Chou-Beta-Skin-14-Detected-in-Beta-Mirror-Ken-Outfit-2.zip) |
+| Beta Skin 14 Detected in Beta Mirror King of Muay Thai | [Chou-Beta-Skin-14-Detected-in-Beta-Mirror-King-of-Muay-Thai.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-chou/Chou-Beta-Skin-14-Detected-in-Beta-Mirror-King-of-Muay-Thai.zip) |
+| Beta Skin 14 Detected in Beta Mirror Libra Shiryu | [Chou-Beta-Skin-14-Detected-in-Beta-Mirror-Libra-Shiryu.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-chou/Chou-Beta-Skin-14-Detected-in-Beta-Mirror-Libra-Shiryu.zip) |
+| Beta Skin 14 Detected in Beta Mirror Red Tiger | [Chou-Beta-Skin-14-Detected-in-Beta-Mirror-Red-Tiger.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-chou/Chou-Beta-Skin-14-Detected-in-Beta-Mirror-Red-Tiger.zip) |
+| Beta Skin 14 Detected in Beta Mirror S T U N Chou | [Chou-Beta-Skin-14-Detected-in-Beta-Mirror-S-T-U-N-Chou.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-chou/Chou-Beta-Skin-14-Detected-in-Beta-Mirror-S-T-U-N-Chou.zip) |
+| Beta Skin 14 Detected in Beta Mirror Thunderfist | [Chou-Beta-Skin-14-Detected-in-Beta-Mirror-Thunderfist.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-chou/Chou-Beta-Skin-14-Detected-in-Beta-Mirror-Thunderfist.zip) |
+| Beta Skin 14 Detected in Beta Mirror Undefeated Champion | [Chou-Beta-Skin-14-Detected-in-Beta-Mirror-Undefeated-Champion.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-chou/Chou-Beta-Skin-14-Detected-in-Beta-Mirror-Undefeated-Champion.zip) |
 | Dragon Boy Backup | [Chou-Dragon-Boy-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-chou/Chou-Dragon-Boy-Backup.zip) |
 | Dragon Boy Dragon Shiryu | [Chou-Dragon-Boy-Dragon-Shiryu.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-chou/Chou-Dragon-Boy-Dragon-Shiryu.zip) |
 | Dragon Boy ECHO | [Chou-Dragon-Boy-ECHO.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-chou/Chou-Dragon-Boy-ECHO.zip) |
