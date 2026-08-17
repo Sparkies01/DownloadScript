@@ -31,6 +31,7 @@ Validated upgrade-skin packages. All downloads are published in the
 | Empire Agent Fiery Inferno | [Alucard-Empire-Agent-Fiery-Inferno.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-alucard/Alucard-Empire-Agent-Fiery-Inferno.zip) |
 | Empire Agent Lightborn Striker | [Alucard-Empire-Agent-Lightborn-Striker.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-alucard/Alucard-Empire-Agent-Lightborn-Striker.zip) |
 | Empire Agent Lone Hero | [Alucard-Empire-Agent-Lone-Hero.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-alucard/Alucard-Empire-Agent-Lone-Hero.zip) |
+| Empire Agent Obi Wan Kenobi | [Alucard-Empire-Agent-Obi-Wan-Kenobi.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-alucard/Alucard-Empire-Agent-Obi-Wan-Kenobi.zip) |
 | Empire Agent Obsidian Blade | [Alucard-Empire-Agent-Obsidian-Blade.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-alucard/Alucard-Empire-Agent-Obsidian-Blade.zip) |
 | Empire Agent Romantic Fantasy | [Alucard-Empire-Agent-Romantic-Fantasy.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-alucard/Alucard-Empire-Agent-Romantic-Fantasy.zip) |
 | Empire Agent Viscount | [Alucard-Empire-Agent-Viscount.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-alucard/Alucard-Empire-Agent-Viscount.zip) |
@@ -57,7 +58,10 @@ Validated upgrade-skin packages. All downloads are published in the
 | Lone Hero Backup | [Alucard-Lone-Hero-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-alucard/Alucard-Lone-Hero-Backup.zip) |
 | Lone Hero Child of the Fall | [Alucard-Lone-Hero-Child-of-the-Fall.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-alucard/Alucard-Lone-Hero-Child-of-the-Fall.zip) |
 | Lone Hero Demon s Bane | [Alucard-Lone-Hero-Demon-s-Bane.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-alucard/Alucard-Lone-Hero-Demon-s-Bane.zip) |
+| Lone Hero Empire Agent | [Alucard-Lone-Hero-Empire-Agent.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-alucard/Alucard-Lone-Hero-Empire-Agent.zip) |
+| Lone Hero Fiery Inferno | [Alucard-Lone-Hero-Fiery-Inferno.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-alucard/Alucard-Lone-Hero-Fiery-Inferno.zip) |
 | Lone Hero Lightborn Striker | [Alucard-Lone-Hero-Lightborn-Striker.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-alucard/Alucard-Lone-Hero-Lightborn-Striker.zip) |
+| Lone Hero Obi Wan Kenobi | [Alucard-Lone-Hero-Obi-Wan-Kenobi.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-alucard/Alucard-Lone-Hero-Obi-Wan-Kenobi.zip) |
 | Lone Hero Obsidian Blade | [Alucard-Lone-Hero-Obsidian-Blade.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-alucard/Alucard-Lone-Hero-Obsidian-Blade.zip) |
 | Lone Hero Romantic Fantasy | [Alucard-Lone-Hero-Romantic-Fantasy.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-alucard/Alucard-Lone-Hero-Romantic-Fantasy.zip) |
 | Lone Hero Viscount | [Alucard-Lone-Hero-Viscount.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-alucard/Alucard-Lone-Hero-Viscount.zip) |
