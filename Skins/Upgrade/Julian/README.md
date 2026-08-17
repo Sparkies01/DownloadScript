@@ -6,6 +6,7 @@ Validated upgrade-skin packages. All downloads are published in the
 | Package | Download |
 | --- | --- |
 | Itachi Uchiha Backup | [Julian-Itachi-Uchiha-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-julian/Julian-Itachi-Uchiha-Backup.zip) |
+| Itachi Uchiha Kurapika | [Julian-Itachi-Uchiha-Kurapika.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-julian/Julian-Itachi-Uchiha-Kurapika.zip) |
 | Itachi Uchiha Megumi Fushiguro | [Julian-Itachi-Uchiha-Megumi-Fushiguro.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-julian/Julian-Itachi-Uchiha-Megumi-Fushiguro.zip) |
 | Itachi Uchiha Meowkin Tracker | [Julian-Itachi-Uchiha-Meowkin-Tracker.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-julian/Julian-Itachi-Uchiha-Meowkin-Tracker.zip) |
 | Itachi Uchiha Silent Edge | [Julian-Itachi-Uchiha-Silent-Edge.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-julian/Julian-Itachi-Uchiha-Silent-Edge.zip) |
@@ -16,13 +17,16 @@ Validated upgrade-skin packages. All downloads are published in the
 | Kurapika Silent Edge | [Julian-Kurapika-Silent-Edge.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-julian/Julian-Kurapika-Silent-Edge.zip) |
 | Megumi Fushiguro Backup | [Julian-Megumi-Fushiguro-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-julian/Julian-Megumi-Fushiguro-Backup.zip) |
 | Megumi Fushiguro Itachi Uchiha | [Julian-Megumi-Fushiguro-Itachi-Uchiha.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-julian/Julian-Megumi-Fushiguro-Itachi-Uchiha.zip) |
+| Megumi Fushiguro Kurapika | [Julian-Megumi-Fushiguro-Kurapika.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-julian/Julian-Megumi-Fushiguro-Kurapika.zip) |
 | Megumi Fushiguro Meowkin Tracker | [Julian-Megumi-Fushiguro-Meowkin-Tracker.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-julian/Julian-Megumi-Fushiguro-Meowkin-Tracker.zip) |
 | Megumi Fushiguro Silent Edge | [Julian-Megumi-Fushiguro-Silent-Edge.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-julian/Julian-Megumi-Fushiguro-Silent-Edge.zip) |
 | Meowkin Tracker Backup | [Julian-Meowkin-Tracker-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-julian/Julian-Meowkin-Tracker-Backup.zip) |
 | Meowkin Tracker Itachi Uchiha | [Julian-Meowkin-Tracker-Itachi-Uchiha.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-julian/Julian-Meowkin-Tracker-Itachi-Uchiha.zip) |
+| Meowkin Tracker Kurapika | [Julian-Meowkin-Tracker-Kurapika.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-julian/Julian-Meowkin-Tracker-Kurapika.zip) |
 | Meowkin Tracker Megumi Fushiguro | [Julian-Meowkin-Tracker-Megumi-Fushiguro.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-julian/Julian-Meowkin-Tracker-Megumi-Fushiguro.zip) |
 | Meowkin Tracker Silent Edge | [Julian-Meowkin-Tracker-Silent-Edge.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-julian/Julian-Meowkin-Tracker-Silent-Edge.zip) |
 | Silent Edge Backup | [Julian-Silent-Edge-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-julian/Julian-Silent-Edge-Backup.zip) |
 | Silent Edge Itachi Uchiha | [Julian-Silent-Edge-Itachi-Uchiha.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-julian/Julian-Silent-Edge-Itachi-Uchiha.zip) |
+| Silent Edge Kurapika | [Julian-Silent-Edge-Kurapika.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-julian/Julian-Silent-Edge-Kurapika.zip) |
 | Silent Edge Megumi Fushiguro | [Julian-Silent-Edge-Megumi-Fushiguro.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-julian/Julian-Silent-Edge-Megumi-Fushiguro.zip) |
 | Silent Edge Meowkin Tracker | [Julian-Silent-Edge-Meowkin-Tracker.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-julian/Julian-Silent-Edge-Meowkin-Tracker.zip) |
