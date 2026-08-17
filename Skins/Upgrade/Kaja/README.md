@@ -7,6 +7,8 @@ Validated upgrade-skin packages. All downloads are published in the
 | --- | --- |
 | Commandment Backup | [Kaja-Commandment-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-kaja/Kaja-Commandment-Backup.zip) |
 | Commandment Crow Magician | [Kaja-Commandment-Crow-Magician.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-kaja/Kaja-Commandment-Crow-Magician.zip) |
+| Commandment Death Whiplash Painted 01 | [Kaja-Commandment-Death-Whiplash-Painted-01.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-kaja/Kaja-Commandment-Death-Whiplash-Painted-01.zip) |
+| Commandment Death Whiplash Painted 02 | [Kaja-Commandment-Death-Whiplash-Painted-02.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-kaja/Kaja-Commandment-Death-Whiplash-Painted-02.zip) |
 | Commandment Death Whiplash | [Kaja-Commandment-Death-Whiplash.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-kaja/Kaja-Commandment-Death-Whiplash.zip) |
 | Commandment Horror Whiplash | [Kaja-Commandment-Horror-Whiplash.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-kaja/Kaja-Commandment-Horror-Whiplash.zip) |
 | Commandment Inferno Taskmaster | [Kaja-Commandment-Inferno-Taskmaster.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-kaja/Kaja-Commandment-Inferno-Taskmaster.zip) |
@@ -14,6 +16,8 @@ Validated upgrade-skin packages. All downloads are published in the
 | Commandment Skyblocker | [Kaja-Commandment-Skyblocker.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-kaja/Kaja-Commandment-Skyblocker.zip) |
 | Crow Magician Backup | [Kaja-Crow-Magician-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-kaja/Kaja-Crow-Magician-Backup.zip) |
 | Crow Magician Commandment | [Kaja-Crow-Magician-Commandment.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-kaja/Kaja-Crow-Magician-Commandment.zip) |
+| Crow Magician Death Whiplash Painted 01 | [Kaja-Crow-Magician-Death-Whiplash-Painted-01.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-kaja/Kaja-Crow-Magician-Death-Whiplash-Painted-01.zip) |
+| Crow Magician Death Whiplash Painted 02 | [Kaja-Crow-Magician-Death-Whiplash-Painted-02.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-kaja/Kaja-Crow-Magician-Death-Whiplash-Painted-02.zip) |
 | Crow Magician Death Whiplash | [Kaja-Crow-Magician-Death-Whiplash.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-kaja/Kaja-Crow-Magician-Death-Whiplash.zip) |
 | Crow Magician Horror Whiplash | [Kaja-Crow-Magician-Horror-Whiplash.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-kaja/Kaja-Crow-Magician-Horror-Whiplash.zip) |
 | Crow Magician Inferno Taskmaster | [Kaja-Crow-Magician-Inferno-Taskmaster.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-kaja/Kaja-Crow-Magician-Inferno-Taskmaster.zip) |
@@ -24,6 +28,18 @@ Validated upgrade-skin packages. All downloads are published in the
 | Death Whiplash Crow Magician | [Kaja-Death-Whiplash-Crow-Magician.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-kaja/Kaja-Death-Whiplash-Crow-Magician.zip) |
 | Death Whiplash Inferno Taskmaster | [Kaja-Death-Whiplash-Inferno-Taskmaster.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-kaja/Kaja-Death-Whiplash-Inferno-Taskmaster.zip) |
 | Death Whiplash Kaminari | [Kaja-Death-Whiplash-Kaminari.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-kaja/Kaja-Death-Whiplash-Kaminari.zip) |
+| Death Whiplash Painted 01 Backup | [Kaja-Death-Whiplash-Painted-01-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-kaja/Kaja-Death-Whiplash-Painted-01-Backup.zip) |
+| Death Whiplash Painted 01 Commandment | [Kaja-Death-Whiplash-Painted-01-Commandment.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-kaja/Kaja-Death-Whiplash-Painted-01-Commandment.zip) |
+| Death Whiplash Painted 01 Crow Magician | [Kaja-Death-Whiplash-Painted-01-Crow-Magician.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-kaja/Kaja-Death-Whiplash-Painted-01-Crow-Magician.zip) |
+| Death Whiplash Painted 01 Inferno Taskmaster | [Kaja-Death-Whiplash-Painted-01-Inferno-Taskmaster.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-kaja/Kaja-Death-Whiplash-Painted-01-Inferno-Taskmaster.zip) |
+| Death Whiplash Painted 01 Kaminari | [Kaja-Death-Whiplash-Painted-01-Kaminari.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-kaja/Kaja-Death-Whiplash-Painted-01-Kaminari.zip) |
+| Death Whiplash Painted 01 Skyblocker | [Kaja-Death-Whiplash-Painted-01-Skyblocker.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-kaja/Kaja-Death-Whiplash-Painted-01-Skyblocker.zip) |
+| Death Whiplash Painted 02 Backup | [Kaja-Death-Whiplash-Painted-02-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-kaja/Kaja-Death-Whiplash-Painted-02-Backup.zip) |
+| Death Whiplash Painted 02 Commandment | [Kaja-Death-Whiplash-Painted-02-Commandment.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-kaja/Kaja-Death-Whiplash-Painted-02-Commandment.zip) |
+| Death Whiplash Painted 02 Crow Magician | [Kaja-Death-Whiplash-Painted-02-Crow-Magician.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-kaja/Kaja-Death-Whiplash-Painted-02-Crow-Magician.zip) |
+| Death Whiplash Painted 02 Inferno Taskmaster | [Kaja-Death-Whiplash-Painted-02-Inferno-Taskmaster.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-kaja/Kaja-Death-Whiplash-Painted-02-Inferno-Taskmaster.zip) |
+| Death Whiplash Painted 02 Kaminari | [Kaja-Death-Whiplash-Painted-02-Kaminari.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-kaja/Kaja-Death-Whiplash-Painted-02-Kaminari.zip) |
+| Death Whiplash Painted 02 Skyblocker | [Kaja-Death-Whiplash-Painted-02-Skyblocker.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-kaja/Kaja-Death-Whiplash-Painted-02-Skyblocker.zip) |
 | Death Whiplash Skyblocker | [Kaja-Death-Whiplash-Skyblocker.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-kaja/Kaja-Death-Whiplash-Skyblocker.zip) |
 | Horror Whiplash Backup | [Kaja-Horror-Whiplash-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-kaja/Kaja-Horror-Whiplash-Backup.zip) |
 | Horror Whiplash Commandment | [Kaja-Horror-Whiplash-Commandment.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-kaja/Kaja-Horror-Whiplash-Commandment.zip) |
@@ -34,6 +50,8 @@ Validated upgrade-skin packages. All downloads are published in the
 | Inferno Taskmaster Backup | [Kaja-Inferno-Taskmaster-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-kaja/Kaja-Inferno-Taskmaster-Backup.zip) |
 | Inferno Taskmaster Commandment | [Kaja-Inferno-Taskmaster-Commandment.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-kaja/Kaja-Inferno-Taskmaster-Commandment.zip) |
 | Inferno Taskmaster Crow Magician | [Kaja-Inferno-Taskmaster-Crow-Magician.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-kaja/Kaja-Inferno-Taskmaster-Crow-Magician.zip) |
+| Inferno Taskmaster Death Whiplash Painted 01 | [Kaja-Inferno-Taskmaster-Death-Whiplash-Painted-01.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-kaja/Kaja-Inferno-Taskmaster-Death-Whiplash-Painted-01.zip) |
+| Inferno Taskmaster Death Whiplash Painted 02 | [Kaja-Inferno-Taskmaster-Death-Whiplash-Painted-02.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-kaja/Kaja-Inferno-Taskmaster-Death-Whiplash-Painted-02.zip) |
 | Inferno Taskmaster Death Whiplash | [Kaja-Inferno-Taskmaster-Death-Whiplash.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-kaja/Kaja-Inferno-Taskmaster-Death-Whiplash.zip) |
 | Inferno Taskmaster Horror Whiplash | [Kaja-Inferno-Taskmaster-Horror-Whiplash.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-kaja/Kaja-Inferno-Taskmaster-Horror-Whiplash.zip) |
 | Inferno Taskmaster Kaminari | [Kaja-Inferno-Taskmaster-Kaminari.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-kaja/Kaja-Inferno-Taskmaster-Kaminari.zip) |
@@ -41,6 +59,8 @@ Validated upgrade-skin packages. All downloads are published in the
 | Kaminari Backup | [Kaja-Kaminari-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-kaja/Kaja-Kaminari-Backup.zip) |
 | Kaminari Commandment | [Kaja-Kaminari-Commandment.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-kaja/Kaja-Kaminari-Commandment.zip) |
 | Kaminari Crow Magician | [Kaja-Kaminari-Crow-Magician.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-kaja/Kaja-Kaminari-Crow-Magician.zip) |
+| Kaminari Death Whiplash Painted 01 | [Kaja-Kaminari-Death-Whiplash-Painted-01.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-kaja/Kaja-Kaminari-Death-Whiplash-Painted-01.zip) |
+| Kaminari Death Whiplash Painted 02 | [Kaja-Kaminari-Death-Whiplash-Painted-02.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-kaja/Kaja-Kaminari-Death-Whiplash-Painted-02.zip) |
 | Kaminari Death Whiplash | [Kaja-Kaminari-Death-Whiplash.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-kaja/Kaja-Kaminari-Death-Whiplash.zip) |
 | Kaminari Horror Whiplash | [Kaja-Kaminari-Horror-Whiplash.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-kaja/Kaja-Kaminari-Horror-Whiplash.zip) |
 | Kaminari Inferno Taskmaster | [Kaja-Kaminari-Inferno-Taskmaster.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-kaja/Kaja-Kaminari-Inferno-Taskmaster.zip) |
@@ -48,6 +68,8 @@ Validated upgrade-skin packages. All downloads are published in the
 | Skyblocker Backup | [Kaja-Skyblocker-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-kaja/Kaja-Skyblocker-Backup.zip) |
 | Skyblocker Commandment | [Kaja-Skyblocker-Commandment.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-kaja/Kaja-Skyblocker-Commandment.zip) |
 | Skyblocker Crow Magician | [Kaja-Skyblocker-Crow-Magician.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-kaja/Kaja-Skyblocker-Crow-Magician.zip) |
+| Skyblocker Death Whiplash Painted 01 | [Kaja-Skyblocker-Death-Whiplash-Painted-01.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-kaja/Kaja-Skyblocker-Death-Whiplash-Painted-01.zip) |
+| Skyblocker Death Whiplash Painted 02 | [Kaja-Skyblocker-Death-Whiplash-Painted-02.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-kaja/Kaja-Skyblocker-Death-Whiplash-Painted-02.zip) |
 | Skyblocker Death Whiplash | [Kaja-Skyblocker-Death-Whiplash.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-kaja/Kaja-Skyblocker-Death-Whiplash.zip) |
 | Skyblocker Horror Whiplash | [Kaja-Skyblocker-Horror-Whiplash.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-kaja/Kaja-Skyblocker-Horror-Whiplash.zip) |
 | Skyblocker Inferno Taskmaster | [Kaja-Skyblocker-Inferno-Taskmaster.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-kaja/Kaja-Skyblocker-Inferno-Taskmaster.zip) |
