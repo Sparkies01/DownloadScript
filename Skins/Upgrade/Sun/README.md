@@ -65,6 +65,7 @@ Validated upgrade-skin packages. All downloads are published in the
 | Spring Blessings Street King Skin 08 | [Sun-Spring-Blessings-Street-King-Skin-08.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-sun/Sun-Spring-Blessings-Street-King-Skin-08.zip) |
 | Spring Blessings Street Legend | [Sun-Spring-Blessings-Street-Legend.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-sun/Sun-Spring-Blessings-Street-Legend.zip) |
 | Spring Blessings Wicked Flames | [Sun-Spring-Blessings-Wicked-Flames.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-sun/Sun-Spring-Blessings-Wicked-Flames.zip) |
+| Street King Backup | [Sun-Street-King-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-sun/Sun-Street-King-Backup.zip) |
 | Street King Painted 01 Backup | [Sun-Street-King-Painted-01-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-sun/Sun-Street-King-Painted-01-Backup.zip) |
 | Street King Painted 01 Battle Buddha | [Sun-Street-King-Painted-01-Battle-Buddha.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-sun/Sun-Street-King-Painted-01-Battle-Buddha.zip) |
 | Street King Painted 01 Celestial Outlaw | [Sun-Street-King-Painted-01-Celestial-Outlaw.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-sun/Sun-Street-King-Painted-01-Celestial-Outlaw.zip) |
