@@ -12,13 +12,11 @@ Validated upgrade-skin packages. All downloads are published in the
 | Argus Unreleased Skin 06 Malediction | [Argus-Argus-Unreleased-Skin-06-Malediction.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-argus/Argus-Argus-Unreleased-Skin-06-Malediction.zip) |
 | Argus Unreleased Skin 06 Raiden Maru | [Argus-Argus-Unreleased-Skin-06-Raiden-Maru.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-argus/Argus-Argus-Unreleased-Skin-06-Raiden-Maru.zip) |
 | Argus Unreleased Skin 06 Winged Nightmare | [Argus-Argus-Unreleased-Skin-06-Winged-Nightmare.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-argus/Argus-Argus-Unreleased-Skin-06-Winged-Nightmare.zip) |
-| Catastrophe Argus Unreleased Skin 06 | [Argus-Catastrophe-Argus-Unreleased-Skin-06.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-argus/Argus-Catastrophe-Argus-Unreleased-Skin-06.zip) |
 | Catastrophe Backup | [Argus-Catastrophe-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-argus/Argus-Catastrophe-Backup.zip) |
 | Catastrophe Dark Draconic | [Argus-Catastrophe-Dark-Draconic.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-argus/Argus-Catastrophe-Dark-Draconic.zip) |
 | Catastrophe Light of Dawn | [Argus-Catastrophe-Light-of-Dawn.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-argus/Argus-Catastrophe-Light-of-Dawn.zip) |
 | Catastrophe Raiden Maru | [Argus-Catastrophe-Raiden-Maru.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-argus/Argus-Catastrophe-Raiden-Maru.zip) |
 | Catastrophe Winged Nightmare | [Argus-Catastrophe-Winged-Nightmare.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-argus/Argus-Catastrophe-Winged-Nightmare.zip) |
-| Dark Draconic Argus Unreleased Skin 06 | [Argus-Dark-Draconic-Argus-Unreleased-Skin-06.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-argus/Argus-Dark-Draconic-Argus-Unreleased-Skin-06.zip) |
 | Dark Draconic Backup | [Argus-Dark-Draconic-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-argus/Argus-Dark-Draconic-Backup.zip) |
 | Dark Draconic Catastrophe | [Argus-Dark-Draconic-Catastrophe.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-argus/Argus-Dark-Draconic-Catastrophe.zip) |
 | Dark Draconic Light of Dawn | [Argus-Dark-Draconic-Light-of-Dawn.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-argus/Argus-Dark-Draconic-Light-of-Dawn.zip) |
@@ -33,27 +31,23 @@ Validated upgrade-skin packages. All downloads are published in the
 | Darth Vader Malediction | [Argus-Darth-Vader-Malediction.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-argus/Argus-Darth-Vader-Malediction.zip) |
 | Darth Vader Raiden Maru | [Argus-Darth-Vader-Raiden-Maru.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-argus/Argus-Darth-Vader-Raiden-Maru.zip) |
 | Darth Vader Winged Nightmare | [Argus-Darth-Vader-Winged-Nightmare.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-argus/Argus-Darth-Vader-Winged-Nightmare.zip) |
-| Light of Dawn Argus Unreleased Skin 06 | [Argus-Light-of-Dawn-Argus-Unreleased-Skin-06.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-argus/Argus-Light-of-Dawn-Argus-Unreleased-Skin-06.zip) |
 | Light of Dawn Backup | [Argus-Light-of-Dawn-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-argus/Argus-Light-of-Dawn-Backup.zip) |
 | Light of Dawn Catastrophe | [Argus-Light-of-Dawn-Catastrophe.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-argus/Argus-Light-of-Dawn-Catastrophe.zip) |
 | Light of Dawn Dark Draconic | [Argus-Light-of-Dawn-Dark-Draconic.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-argus/Argus-Light-of-Dawn-Dark-Draconic.zip) |
 | Light of Dawn Malediction | [Argus-Light-of-Dawn-Malediction.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-argus/Argus-Light-of-Dawn-Malediction.zip) |
 | Light of Dawn Raiden Maru | [Argus-Light-of-Dawn-Raiden-Maru.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-argus/Argus-Light-of-Dawn-Raiden-Maru.zip) |
 | Light of Dawn Winged Nightmare | [Argus-Light-of-Dawn-Winged-Nightmare.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-argus/Argus-Light-of-Dawn-Winged-Nightmare.zip) |
-| Malediction Argus Unreleased Skin 06 | [Argus-Malediction-Argus-Unreleased-Skin-06.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-argus/Argus-Malediction-Argus-Unreleased-Skin-06.zip) |
 | Malediction Backup | [Argus-Malediction-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-argus/Argus-Malediction-Backup.zip) |
 | Malediction Dark Draconic | [Argus-Malediction-Dark-Draconic.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-argus/Argus-Malediction-Dark-Draconic.zip) |
 | Malediction Light of Dawn | [Argus-Malediction-Light-of-Dawn.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-argus/Argus-Malediction-Light-of-Dawn.zip) |
 | Malediction Raiden Maru | [Argus-Malediction-Raiden-Maru.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-argus/Argus-Malediction-Raiden-Maru.zip) |
 | Malediction Winged Nightmare | [Argus-Malediction-Winged-Nightmare.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-argus/Argus-Malediction-Winged-Nightmare.zip) |
-| Raiden Maru Argus Unreleased Skin 06 | [Argus-Raiden-Maru-Argus-Unreleased-Skin-06.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-argus/Argus-Raiden-Maru-Argus-Unreleased-Skin-06.zip) |
 | Raiden Maru Backup | [Argus-Raiden-Maru-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-argus/Argus-Raiden-Maru-Backup.zip) |
 | Raiden Maru Catastrophe | [Argus-Raiden-Maru-Catastrophe.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-argus/Argus-Raiden-Maru-Catastrophe.zip) |
 | Raiden Maru Dark Draconic | [Argus-Raiden-Maru-Dark-Draconic.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-argus/Argus-Raiden-Maru-Dark-Draconic.zip) |
 | Raiden Maru Light of Dawn | [Argus-Raiden-Maru-Light-of-Dawn.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-argus/Argus-Raiden-Maru-Light-of-Dawn.zip) |
 | Raiden Maru Malediction | [Argus-Raiden-Maru-Malediction.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-argus/Argus-Raiden-Maru-Malediction.zip) |
 | Raiden Maru Winged Nightmare | [Argus-Raiden-Maru-Winged-Nightmare.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-argus/Argus-Raiden-Maru-Winged-Nightmare.zip) |
-| Winged Nightmare Argus Unreleased Skin 06 | [Argus-Winged-Nightmare-Argus-Unreleased-Skin-06.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-argus/Argus-Winged-Nightmare-Argus-Unreleased-Skin-06.zip) |
 | Winged Nightmare Backup | [Argus-Winged-Nightmare-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-argus/Argus-Winged-Nightmare-Backup.zip) |
 | Winged Nightmare Catastrophe | [Argus-Winged-Nightmare-Catastrophe.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-argus/Argus-Winged-Nightmare-Catastrophe.zip) |
 | Winged Nightmare Dark Draconic | [Argus-Winged-Nightmare-Dark-Draconic.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-argus/Argus-Winged-Nightmare-Dark-Draconic.zip) |
