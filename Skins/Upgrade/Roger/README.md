@@ -103,6 +103,7 @@ Validated upgrade-skin packages. All downloads are published in the
 | Phantom Ranger Phantom Hunter | [Roger-Phantom-Ranger-Phantom-Hunter.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-roger/Roger-Phantom-Ranger-Phantom-Hunter.zip) |
 | Phantom Ranger Raging Hunter Painted 01 | [Roger-Phantom-Ranger-Raging-Hunter-Painted-01.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-roger/Roger-Phantom-Ranger-Raging-Hunter-Painted-01.zip) |
 | Phantom Ranger Raging Hunter Skin 10 | [Roger-Phantom-Ranger-Raging-Hunter-Skin-10.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-roger/Roger-Phantom-Ranger-Raging-Hunter-Skin-10.zip) |
+| Raging Hunter Backup | [Roger-Raging-Hunter-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-roger/Roger-Raging-Hunter-Backup.zip) |
 | Raging Hunter Painted 01 Anubis | [Roger-Raging-Hunter-Painted-01-Anubis.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-roger/Roger-Raging-Hunter-Painted-01-Anubis.zip) |
 | Raging Hunter Painted 01 Backup | [Roger-Raging-Hunter-Painted-01-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-roger/Roger-Raging-Hunter-Painted-01-Backup.zip) |
 | Raging Hunter Painted 01 Cyborg Werewolf | [Roger-Raging-Hunter-Painted-01-Cyborg-Werewolf.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-roger/Roger-Raging-Hunter-Painted-01-Cyborg-Werewolf.zip) |
