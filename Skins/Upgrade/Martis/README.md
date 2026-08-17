@@ -142,10 +142,15 @@ Validated upgrade-skin packages. All downloads are published in the
 | Searing Maw Nethersea Terror | [Martis-Searing-Maw-Nethersea-Terror.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-martis/Martis-Searing-Maw-Nethersea-Terror.zip) |
 | Searing Maw Tyrant | [Martis-Searing-Maw-Tyrant.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-martis/Martis-Searing-Maw-Tyrant.zip) |
 | Tyrant Backup | [Martis-Tyrant-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-martis/Martis-Tyrant-Backup.zip) |
+| Tyrant Bloodtide Terror Painted 01 | [Martis-Tyrant-Bloodtide-Terror-Painted-01.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-martis/Martis-Tyrant-Bloodtide-Terror-Painted-01.zip) |
+| Tyrant Bloodtide Terror Skin 09 | [Martis-Tyrant-Bloodtide-Terror-Skin-09.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-martis/Martis-Tyrant-Bloodtide-Terror-Skin-09.zip) |
 | Tyrant Bloodtide Terror | [Martis-Tyrant-Bloodtide-Terror.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-martis/Martis-Tyrant-Bloodtide-Terror.zip) |
 | Tyrant Capricorn | [Martis-Tyrant-Capricorn.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-martis/Martis-Tyrant-Capricorn.zip) |
+| Tyrant Darkwater Terror | [Martis-Tyrant-Darkwater-Terror.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-martis/Martis-Tyrant-Darkwater-Terror.zip) |
 | Tyrant Deathrock | [Martis-Tyrant-Deathrock.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-martis/Martis-Tyrant-Deathrock.zip) |
 | Tyrant God of War | [Martis-Tyrant-God-of-War.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-martis/Martis-Tyrant-God-of-War.zip) |
 | Tyrant Levi | [Martis-Tyrant-Levi.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-martis/Martis-Tyrant-Levi.zip) |
+| Tyrant Nethersea Terror Painted 02 | [Martis-Tyrant-Nethersea-Terror-Painted-02.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-martis/Martis-Tyrant-Nethersea-Terror-Painted-02.zip) |
+| Tyrant Nethersea Terror Skin 08 | [Martis-Tyrant-Nethersea-Terror-Skin-08.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-martis/Martis-Tyrant-Nethersea-Terror-Skin-08.zip) |
 | Tyrant Nethersea Terror | [Martis-Tyrant-Nethersea-Terror.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-martis/Martis-Tyrant-Nethersea-Terror.zip) |
 | Tyrant Searing Maw | [Martis-Tyrant-Searing-Maw.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-martis/Martis-Tyrant-Searing-Maw.zip) |
