@@ -5,6 +5,14 @@ Validated upgrade-skin packages. All downloads are published in the
 
 | Package | Download |
 | --- | --- |
+| Beta Skin 08 Detected in Beta Mirror Backup | [Badang-Beta-Skin-08-Detected-in-Beta-Mirror-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-badang/Badang-Beta-Skin-08-Detected-in-Beta-Mirror-Backup.zip) |
+| Beta Skin 08 Detected in Beta Mirror Fist of Zen | [Badang-Beta-Skin-08-Detected-in-Beta-Mirror-Fist-of-Zen.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-badang/Badang-Beta-Skin-08-Detected-in-Beta-Mirror-Fist-of-Zen.zip) |
+| Beta Skin 08 Detected in Beta Mirror Ironfists | [Badang-Beta-Skin-08-Detected-in-Beta-Mirror-Ironfists.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-badang/Badang-Beta-Skin-08-Detected-in-Beta-Mirror-Ironfists.zip) |
+| Beta Skin 08 Detected in Beta Mirror Leo | [Badang-Beta-Skin-08-Detected-in-Beta-Mirror-Leo.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-badang/Badang-Beta-Skin-08-Detected-in-Beta-Mirror-Leo.zip) |
+| Beta Skin 08 Detected in Beta Mirror Pegasus Seiya | [Badang-Beta-Skin-08-Detected-in-Beta-Mirror-Pegasus-Seiya.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-badang/Badang-Beta-Skin-08-Detected-in-Beta-Mirror-Pegasus-Seiya.zip) |
+| Beta Skin 08 Detected in Beta Mirror Sagittarius Seiya | [Badang-Beta-Skin-08-Detected-in-Beta-Mirror-Sagittarius-Seiya.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-badang/Badang-Beta-Skin-08-Detected-in-Beta-Mirror-Sagittarius-Seiya.zip) |
+| Beta Skin 08 Detected in Beta Mirror Steel Arms | [Badang-Beta-Skin-08-Detected-in-Beta-Mirror-Steel-Arms.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-badang/Badang-Beta-Skin-08-Detected-in-Beta-Mirror-Steel-Arms.zip) |
+| Beta Skin 08 Detected in Beta Mirror Susanoo | [Badang-Beta-Skin-08-Detected-in-Beta-Mirror-Susanoo.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-badang/Badang-Beta-Skin-08-Detected-in-Beta-Mirror-Susanoo.zip) |
 | Fist of Zen Backup | [Badang-Fist-of-Zen-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-badang/Badang-Fist-of-Zen-Backup.zip) |
 | Fist of Zen Ironfists | [Badang-Fist-of-Zen-Ironfists.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-badang/Badang-Fist-of-Zen-Ironfists.zip) |
 | Fist of Zen Leo | [Badang-Fist-of-Zen-Leo.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-badang/Badang-Fist-of-Zen-Leo.zip) |
