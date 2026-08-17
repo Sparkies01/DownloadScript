@@ -7,6 +7,8 @@ Validated upgrade-skin packages. All downloads are published in the
 | --- | --- |
 | Candy Bear Backup | [Jawhead-Candy-Bear-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Candy-Bear-Backup.zip) |
 | Candy Bear Cyber Ranger | [Jawhead-Candy-Bear-Cyber-Ranger.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Candy-Bear-Cyber-Ranger.zip) |
+| Candy Bear Field Commander Painted 01 | [Jawhead-Candy-Bear-Field-Commander-Painted-01.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Candy-Bear-Field-Commander-Painted-01.zip) |
+| Candy Bear Field Commander Painted 02 | [Jawhead-Candy-Bear-Field-Commander-Painted-02.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Candy-Bear-Field-Commander-Painted-02.zip) |
 | Candy Bear Field Commander | [Jawhead-Candy-Bear-Field-Commander.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Candy-Bear-Field-Commander.zip) |
 | Candy Bear Foo Quarterback | [Jawhead-Candy-Bear-Foo-Quarterback.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Candy-Bear-Foo-Quarterback.zip) |
 | Candy Bear Girl Scout | [Jawhead-Candy-Bear-Girl-Scout.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Candy-Bear-Girl-Scout.zip) |
@@ -18,6 +20,8 @@ Validated upgrade-skin packages. All downloads are published in the
 | Candy Bear Victory Loader | [Jawhead-Candy-Bear-Victory-Loader.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Candy-Bear-Victory-Loader.zip) |
 | Cyber Ranger Backup | [Jawhead-Cyber-Ranger-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Cyber-Ranger-Backup.zip) |
 | Cyber Ranger Candy Bear | [Jawhead-Cyber-Ranger-Candy-Bear.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Cyber-Ranger-Candy-Bear.zip) |
+| Cyber Ranger Field Commander Painted 01 | [Jawhead-Cyber-Ranger-Field-Commander-Painted-01.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Cyber-Ranger-Field-Commander-Painted-01.zip) |
+| Cyber Ranger Field Commander Painted 02 | [Jawhead-Cyber-Ranger-Field-Commander-Painted-02.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Cyber-Ranger-Field-Commander-Painted-02.zip) |
 | Cyber Ranger Field Commander | [Jawhead-Cyber-Ranger-Field-Commander.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Cyber-Ranger-Field-Commander.zip) |
 | Cyber Ranger Foo Quarterback | [Jawhead-Cyber-Ranger-Foo-Quarterback.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Cyber-Ranger-Foo-Quarterback.zip) |
 | Cyber Ranger Girl Scout | [Jawhead-Cyber-Ranger-Girl-Scout.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Cyber-Ranger-Girl-Scout.zip) |
@@ -32,6 +36,26 @@ Validated upgrade-skin packages. All downloads are published in the
 | Field Commander Cyber Ranger | [Jawhead-Field-Commander-Cyber-Ranger.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Field-Commander-Cyber-Ranger.zip) |
 | Field Commander Foo Quarterback | [Jawhead-Field-Commander-Foo-Quarterback.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Field-Commander-Foo-Quarterback.zip) |
 | Field Commander Girl Scout | [Jawhead-Field-Commander-Girl-Scout.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Field-Commander-Girl-Scout.zip) |
+| Field Commander Painted 01 Backup | [Jawhead-Field-Commander-Painted-01-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Field-Commander-Painted-01-Backup.zip) |
+| Field Commander Painted 01 Candy Bear | [Jawhead-Field-Commander-Painted-01-Candy-Bear.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Field-Commander-Painted-01-Candy-Bear.zip) |
+| Field Commander Painted 01 Cyber Ranger | [Jawhead-Field-Commander-Painted-01-Cyber-Ranger.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Field-Commander-Painted-01-Cyber-Ranger.zip) |
+| Field Commander Painted 01 Foo Quarterback | [Jawhead-Field-Commander-Painted-01-Foo-Quarterback.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Field-Commander-Painted-01-Foo-Quarterback.zip) |
+| Field Commander Painted 01 Girl Scout | [Jawhead-Field-Commander-Painted-01-Girl-Scout.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Field-Commander-Painted-01-Girl-Scout.zip) |
+| Field Commander Painted 01 Proto Guardian | [Jawhead-Field-Commander-Painted-01-Proto-Guardian.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Field-Commander-Painted-01-Proto-Guardian.zip) |
+| Field Commander Painted 01 Proto Sentinel | [Jawhead-Field-Commander-Painted-01-Proto-Sentinel.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Field-Commander-Painted-01-Proto-Sentinel.zip) |
+| Field Commander Painted 01 Samurai Mech | [Jawhead-Field-Commander-Painted-01-Samurai-Mech.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Field-Commander-Painted-01-Samurai-Mech.zip) |
+| Field Commander Painted 01 Space Explorer | [Jawhead-Field-Commander-Painted-01-Space-Explorer.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Field-Commander-Painted-01-Space-Explorer.zip) |
+| Field Commander Painted 01 Victory Loader | [Jawhead-Field-Commander-Painted-01-Victory-Loader.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Field-Commander-Painted-01-Victory-Loader.zip) |
+| Field Commander Painted 02 Backup | [Jawhead-Field-Commander-Painted-02-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Field-Commander-Painted-02-Backup.zip) |
+| Field Commander Painted 02 Candy Bear | [Jawhead-Field-Commander-Painted-02-Candy-Bear.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Field-Commander-Painted-02-Candy-Bear.zip) |
+| Field Commander Painted 02 Cyber Ranger | [Jawhead-Field-Commander-Painted-02-Cyber-Ranger.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Field-Commander-Painted-02-Cyber-Ranger.zip) |
+| Field Commander Painted 02 Foo Quarterback | [Jawhead-Field-Commander-Painted-02-Foo-Quarterback.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Field-Commander-Painted-02-Foo-Quarterback.zip) |
+| Field Commander Painted 02 Girl Scout | [Jawhead-Field-Commander-Painted-02-Girl-Scout.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Field-Commander-Painted-02-Girl-Scout.zip) |
+| Field Commander Painted 02 Proto Guardian | [Jawhead-Field-Commander-Painted-02-Proto-Guardian.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Field-Commander-Painted-02-Proto-Guardian.zip) |
+| Field Commander Painted 02 Proto Sentinel | [Jawhead-Field-Commander-Painted-02-Proto-Sentinel.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Field-Commander-Painted-02-Proto-Sentinel.zip) |
+| Field Commander Painted 02 Samurai Mech | [Jawhead-Field-Commander-Painted-02-Samurai-Mech.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Field-Commander-Painted-02-Samurai-Mech.zip) |
+| Field Commander Painted 02 Space Explorer | [Jawhead-Field-Commander-Painted-02-Space-Explorer.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Field-Commander-Painted-02-Space-Explorer.zip) |
+| Field Commander Painted 02 Victory Loader | [Jawhead-Field-Commander-Painted-02-Victory-Loader.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Field-Commander-Painted-02-Victory-Loader.zip) |
 | Field Commander Proto Guardian | [Jawhead-Field-Commander-Proto-Guardian.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Field-Commander-Proto-Guardian.zip) |
 | Field Commander Proto Sentinel | [Jawhead-Field-Commander-Proto-Sentinel.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Field-Commander-Proto-Sentinel.zip) |
 | Field Commander Samurai Mech | [Jawhead-Field-Commander-Samurai-Mech.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Field-Commander-Samurai-Mech.zip) |
@@ -40,6 +64,8 @@ Validated upgrade-skin packages. All downloads are published in the
 | Foo Quarterback Backup | [Jawhead-Foo-Quarterback-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Foo-Quarterback-Backup.zip) |
 | Foo Quarterback Candy Bear | [Jawhead-Foo-Quarterback-Candy-Bear.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Foo-Quarterback-Candy-Bear.zip) |
 | Foo Quarterback Cyber Ranger | [Jawhead-Foo-Quarterback-Cyber-Ranger.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Foo-Quarterback-Cyber-Ranger.zip) |
+| Foo Quarterback Field Commander Painted 01 | [Jawhead-Foo-Quarterback-Field-Commander-Painted-01.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Foo-Quarterback-Field-Commander-Painted-01.zip) |
+| Foo Quarterback Field Commander Painted 02 | [Jawhead-Foo-Quarterback-Field-Commander-Painted-02.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Foo-Quarterback-Field-Commander-Painted-02.zip) |
 | Foo Quarterback Field Commander | [Jawhead-Foo-Quarterback-Field-Commander.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Foo-Quarterback-Field-Commander.zip) |
 | Foo Quarterback Girl Scout | [Jawhead-Foo-Quarterback-Girl-Scout.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Foo-Quarterback-Girl-Scout.zip) |
 | Foo Quarterback Proto Guardian | [Jawhead-Foo-Quarterback-Proto-Guardian.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Foo-Quarterback-Proto-Guardian.zip) |
@@ -51,6 +77,8 @@ Validated upgrade-skin packages. All downloads are published in the
 | Girl Scout Backup | [Jawhead-Girl-Scout-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Girl-Scout-Backup.zip) |
 | Girl Scout Candy Bear | [Jawhead-Girl-Scout-Candy-Bear.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Girl-Scout-Candy-Bear.zip) |
 | Girl Scout Cyber Ranger | [Jawhead-Girl-Scout-Cyber-Ranger.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Girl-Scout-Cyber-Ranger.zip) |
+| Girl Scout Field Commander Painted 01 | [Jawhead-Girl-Scout-Field-Commander-Painted-01.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Girl-Scout-Field-Commander-Painted-01.zip) |
+| Girl Scout Field Commander Painted 02 | [Jawhead-Girl-Scout-Field-Commander-Painted-02.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Girl-Scout-Field-Commander-Painted-02.zip) |
 | Girl Scout Foo Quarterback | [Jawhead-Girl-Scout-Foo-Quarterback.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Girl-Scout-Foo-Quarterback.zip) |
 | Girl Scout Proto Guardian | [Jawhead-Girl-Scout-Proto-Guardian.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Girl-Scout-Proto-Guardian.zip) |
 | Girl Scout Proto Sentinel | [Jawhead-Girl-Scout-Proto-Sentinel.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Girl-Scout-Proto-Sentinel.zip) |
@@ -61,6 +89,8 @@ Validated upgrade-skin packages. All downloads are published in the
 | Proto Guardian Backup | [Jawhead-Proto-Guardian-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Proto-Guardian-Backup.zip) |
 | Proto Guardian Candy Bear | [Jawhead-Proto-Guardian-Candy-Bear.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Proto-Guardian-Candy-Bear.zip) |
 | Proto Guardian Cyber Ranger | [Jawhead-Proto-Guardian-Cyber-Ranger.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Proto-Guardian-Cyber-Ranger.zip) |
+| Proto Guardian Field Commander Painted 01 | [Jawhead-Proto-Guardian-Field-Commander-Painted-01.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Proto-Guardian-Field-Commander-Painted-01.zip) |
+| Proto Guardian Field Commander Painted 02 | [Jawhead-Proto-Guardian-Field-Commander-Painted-02.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Proto-Guardian-Field-Commander-Painted-02.zip) |
 | Proto Guardian Field Commander | [Jawhead-Proto-Guardian-Field-Commander.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Proto-Guardian-Field-Commander.zip) |
 | Proto Guardian Foo Quarterback | [Jawhead-Proto-Guardian-Foo-Quarterback.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Proto-Guardian-Foo-Quarterback.zip) |
 | Proto Guardian Girl Scout | [Jawhead-Proto-Guardian-Girl-Scout.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Proto-Guardian-Girl-Scout.zip) |
@@ -71,6 +101,8 @@ Validated upgrade-skin packages. All downloads are published in the
 | Proto Sentinel Backup | [Jawhead-Proto-Sentinel-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Proto-Sentinel-Backup.zip) |
 | Proto Sentinel Candy Bear | [Jawhead-Proto-Sentinel-Candy-Bear.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Proto-Sentinel-Candy-Bear.zip) |
 | Proto Sentinel Cyber Ranger | [Jawhead-Proto-Sentinel-Cyber-Ranger.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Proto-Sentinel-Cyber-Ranger.zip) |
+| Proto Sentinel Field Commander Painted 01 | [Jawhead-Proto-Sentinel-Field-Commander-Painted-01.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Proto-Sentinel-Field-Commander-Painted-01.zip) |
+| Proto Sentinel Field Commander Painted 02 | [Jawhead-Proto-Sentinel-Field-Commander-Painted-02.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Proto-Sentinel-Field-Commander-Painted-02.zip) |
 | Proto Sentinel Field Commander | [Jawhead-Proto-Sentinel-Field-Commander.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Proto-Sentinel-Field-Commander.zip) |
 | Proto Sentinel Foo Quarterback | [Jawhead-Proto-Sentinel-Foo-Quarterback.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Proto-Sentinel-Foo-Quarterback.zip) |
 | Proto Sentinel Girl Scout | [Jawhead-Proto-Sentinel-Girl-Scout.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Proto-Sentinel-Girl-Scout.zip) |
@@ -81,6 +113,8 @@ Validated upgrade-skin packages. All downloads are published in the
 | Samurai Mech Backup | [Jawhead-Samurai-Mech-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Samurai-Mech-Backup.zip) |
 | Samurai Mech Candy Bear | [Jawhead-Samurai-Mech-Candy-Bear.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Samurai-Mech-Candy-Bear.zip) |
 | Samurai Mech Cyber Ranger | [Jawhead-Samurai-Mech-Cyber-Ranger.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Samurai-Mech-Cyber-Ranger.zip) |
+| Samurai Mech Field Commander Painted 01 | [Jawhead-Samurai-Mech-Field-Commander-Painted-01.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Samurai-Mech-Field-Commander-Painted-01.zip) |
+| Samurai Mech Field Commander Painted 02 | [Jawhead-Samurai-Mech-Field-Commander-Painted-02.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Samurai-Mech-Field-Commander-Painted-02.zip) |
 | Samurai Mech Field Commander | [Jawhead-Samurai-Mech-Field-Commander.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Samurai-Mech-Field-Commander.zip) |
 | Samurai Mech Foo Quarterback | [Jawhead-Samurai-Mech-Foo-Quarterback.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Samurai-Mech-Foo-Quarterback.zip) |
 | Samurai Mech Girl Scout | [Jawhead-Samurai-Mech-Girl-Scout.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Samurai-Mech-Girl-Scout.zip) |
@@ -92,6 +126,8 @@ Validated upgrade-skin packages. All downloads are published in the
 | Space Explorer Backup | [Jawhead-Space-Explorer-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Space-Explorer-Backup.zip) |
 | Space Explorer Candy Bear | [Jawhead-Space-Explorer-Candy-Bear.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Space-Explorer-Candy-Bear.zip) |
 | Space Explorer Cyber Ranger | [Jawhead-Space-Explorer-Cyber-Ranger.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Space-Explorer-Cyber-Ranger.zip) |
+| Space Explorer Field Commander Painted 01 | [Jawhead-Space-Explorer-Field-Commander-Painted-01.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Space-Explorer-Field-Commander-Painted-01.zip) |
+| Space Explorer Field Commander Painted 02 | [Jawhead-Space-Explorer-Field-Commander-Painted-02.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Space-Explorer-Field-Commander-Painted-02.zip) |
 | Space Explorer Field Commander | [Jawhead-Space-Explorer-Field-Commander.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Space-Explorer-Field-Commander.zip) |
 | Space Explorer Foo Quarterback | [Jawhead-Space-Explorer-Foo-Quarterback.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Space-Explorer-Foo-Quarterback.zip) |
 | Space Explorer Girl Scout | [Jawhead-Space-Explorer-Girl-Scout.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Space-Explorer-Girl-Scout.zip) |
@@ -113,6 +149,8 @@ Validated upgrade-skin packages. All downloads are published in the
 | Victory Loader Backup | [Jawhead-Victory-Loader-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Victory-Loader-Backup.zip) |
 | Victory Loader Candy Bear | [Jawhead-Victory-Loader-Candy-Bear.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Victory-Loader-Candy-Bear.zip) |
 | Victory Loader Cyber Ranger | [Jawhead-Victory-Loader-Cyber-Ranger.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Victory-Loader-Cyber-Ranger.zip) |
+| Victory Loader Field Commander Painted 01 | [Jawhead-Victory-Loader-Field-Commander-Painted-01.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Victory-Loader-Field-Commander-Painted-01.zip) |
+| Victory Loader Field Commander Painted 02 | [Jawhead-Victory-Loader-Field-Commander-Painted-02.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Victory-Loader-Field-Commander-Painted-02.zip) |
 | Victory Loader Field Commander | [Jawhead-Victory-Loader-Field-Commander.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Victory-Loader-Field-Commander.zip) |
 | Victory Loader Foo Quarterback | [Jawhead-Victory-Loader-Foo-Quarterback.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Victory-Loader-Foo-Quarterback.zip) |
 | Victory Loader Girl Scout | [Jawhead-Victory-Loader-Girl-Scout.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-jawhead/Jawhead-Victory-Loader-Girl-Scout.zip) |
