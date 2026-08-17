@@ -41,13 +41,11 @@ Validated upgrade-skin packages. All downloads are published in the
 | Hell Knight Nightmare Count | [Leomord-Hell-Knight-Nightmare-Count.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-leomord/Leomord-Hell-Knight-Nightmare-Count.zip) |
 | Hell Knight Shadow Knight | [Leomord-Hell-Knight-Shadow-Knight.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-leomord/Leomord-Hell-Knight-Shadow-Knight.zip) |
 | Hell Knight Triumph Eagle | [Leomord-Hell-Knight-Triumph-Eagle.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-leomord/Leomord-Hell-Knight-Triumph-Eagle.zip) |
-| Inferno Soul Auspicious Blaze | [Leomord-Inferno-Soul-Auspicious-Blaze.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-leomord/Leomord-Inferno-Soul-Auspicious-Blaze.zip) |
 | Inferno Soul Backup | [Leomord-Inferno-Soul-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-leomord/Leomord-Inferno-Soul-Backup.zip) |
 | Inferno Soul Diavel V4 Rider | [Leomord-Inferno-Soul-Diavel-V4-Rider.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-leomord/Leomord-Inferno-Soul-Diavel-V4-Rider.zip) |
 | Inferno Soul Frostborn Paladin | [Leomord-Inferno-Soul-Frostborn-Paladin.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-leomord/Leomord-Inferno-Soul-Frostborn-Paladin.zip) |
 | Inferno Soul Hell Knight | [Leomord-Inferno-Soul-Hell-Knight.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-leomord/Leomord-Inferno-Soul-Hell-Knight.zip) |
 | Inferno Soul Jack o lantern | [Leomord-Inferno-Soul-Jack-o-lantern.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-leomord/Leomord-Inferno-Soul-Jack-o-lantern.zip) |
-| Inferno Soul Nightmare Count | [Leomord-Inferno-Soul-Nightmare-Count.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-leomord/Leomord-Inferno-Soul-Nightmare-Count.zip) |
 | Inferno Soul Shadow Knight | [Leomord-Inferno-Soul-Shadow-Knight.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-leomord/Leomord-Inferno-Soul-Shadow-Knight.zip) |
 | Inferno Soul Triumph Eagle | [Leomord-Inferno-Soul-Triumph-Eagle.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-leomord/Leomord-Inferno-Soul-Triumph-Eagle.zip) |
 | Jack o lantern Auspicious Blaze | [Leomord-Jack-o-lantern-Auspicious-Blaze.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-leomord/Leomord-Jack-o-lantern-Auspicious-Blaze.zip) |
