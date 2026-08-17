@@ -40,11 +40,13 @@ Validated upgrade-skin packages. All downloads are published in the
 | Ruins Scavenger Gon | [Dyrroth-Ruins-Scavenger-Gon.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-dyrroth/Dyrroth-Ruins-Scavenger-Gon.zip) |
 | Ruins Scavenger Guile | [Dyrroth-Ruins-Scavenger-Guile.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-dyrroth/Dyrroth-Ruins-Scavenger-Guile.zip) |
 | Ruins Scavenger Naraka Flame | [Dyrroth-Ruins-Scavenger-Naraka-Flame.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-dyrroth/Dyrroth-Ruins-Scavenger-Naraka-Flame.zip) |
+| Ruins Scavenger Orochi Chris | [Dyrroth-Ruins-Scavenger-Orochi-Chris.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-dyrroth/Dyrroth-Ruins-Scavenger-Orochi-Chris.zip) |
 | Ruins Scavenger Scalebore | [Dyrroth-Ruins-Scavenger-Scalebore.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-dyrroth/Dyrroth-Ruins-Scavenger-Scalebore.zip) |
 | Scalebore Backup | [Dyrroth-Scalebore-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-dyrroth/Dyrroth-Scalebore-Backup.zip) |
 | Scalebore Gon | [Dyrroth-Scalebore-Gon.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-dyrroth/Dyrroth-Scalebore-Gon.zip) |
 | Scalebore Guile | [Dyrroth-Scalebore-Guile.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-dyrroth/Dyrroth-Scalebore-Guile.zip) |
 | Scalebore Naraka Flame | [Dyrroth-Scalebore-Naraka-Flame.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-dyrroth/Dyrroth-Scalebore-Naraka-Flame.zip) |
+| Scalebore Orochi Chris | [Dyrroth-Scalebore-Orochi-Chris.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-dyrroth/Dyrroth-Scalebore-Orochi-Chris.zip) |
 | Scalebore Ruins Scavenger | [Dyrroth-Scalebore-Ruins-Scavenger.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-dyrroth/Dyrroth-Scalebore-Ruins-Scavenger.zip) |
 | V E N O M Cobra Backup | [Dyrroth-V-E-N-O-M-Cobra-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-dyrroth/Dyrroth-V-E-N-O-M-Cobra-Backup.zip) |
 | V E N O M Cobra Dyrroth Unreleased Skin 07 | [Dyrroth-V-E-N-O-M-Cobra-Dyrroth-Unreleased-Skin-07.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-dyrroth/Dyrroth-V-E-N-O-M-Cobra-Dyrroth-Unreleased-Skin-07.zip) |
