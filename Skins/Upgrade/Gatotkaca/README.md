@@ -25,6 +25,7 @@ Validated upgrade-skin packages. All downloads are published in the
 | Mighty Guardian Nutcracker Earl | [Gatotkaca-Mighty-Guardian-Nutcracker-Earl.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gatotkaca/Gatotkaca-Mighty-Guardian-Nutcracker-Earl.zip) |
 | Mighty Guardian Nutcracker Monarch | [Gatotkaca-Mighty-Guardian-Nutcracker-Monarch.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gatotkaca/Gatotkaca-Mighty-Guardian-Nutcracker-Monarch.zip) |
 | Mighty Guardian Sentinel | [Gatotkaca-Mighty-Guardian-Sentinel.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gatotkaca/Gatotkaca-Mighty-Guardian-Sentinel.zip) |
+| Mighty Guardian Spark | [Gatotkaca-Mighty-Guardian-Spark.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gatotkaca/Gatotkaca-Mighty-Guardian-Spark.zip) |
 | Mighty Guardian Steeler Painted 01 | [Gatotkaca-Mighty-Guardian-Steeler-Painted-01.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gatotkaca/Gatotkaca-Mighty-Guardian-Steeler-Painted-01.zip) |
 | Mighty Guardian Steeler Skin 07 | [Gatotkaca-Mighty-Guardian-Steeler-Skin-07.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gatotkaca/Gatotkaca-Mighty-Guardian-Steeler-Skin-07.zip) |
 | Mighty Guardian Steeler | [Gatotkaca-Mighty-Guardian-Steeler.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gatotkaca/Gatotkaca-Mighty-Guardian-Steeler.zip) |
