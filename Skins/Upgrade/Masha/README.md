@@ -7,13 +7,11 @@ Validated upgrade-skin packages. All downloads are published in the
 | --- | --- |
 | Combat Maiden Backup | [Masha-Combat-Maiden-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-masha/Masha-Combat-Maiden-Backup.zip) |
 | Combat Maiden Dragon Armor | [Masha-Combat-Maiden-Dragon-Armor.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-masha/Masha-Combat-Maiden-Dragon-Armor.zip) |
-| Combat Maiden Mai Shiranui | [Masha-Combat-Maiden-Mai-Shiranui.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-masha/Masha-Combat-Maiden-Mai-Shiranui.zip) |
 | Combat Maiden Rogue Talon | [Masha-Combat-Maiden-Rogue-Talon.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-masha/Masha-Combat-Maiden-Rogue-Talon.zip) |
 | Combat Maiden Spirited Gauntlet | [Masha-Combat-Maiden-Spirited-Gauntlet.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-masha/Masha-Combat-Maiden-Spirited-Gauntlet.zip) |
 | Combat Maiden Winter Guard | [Masha-Combat-Maiden-Winter-Guard.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-masha/Masha-Combat-Maiden-Winter-Guard.zip) |
 | Dragon Armor Backup | [Masha-Dragon-Armor-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-masha/Masha-Dragon-Armor-Backup.zip) |
 | Dragon Armor Combat Maiden | [Masha-Dragon-Armor-Combat-Maiden.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-masha/Masha-Dragon-Armor-Combat-Maiden.zip) |
-| Dragon Armor Mai Shiranui | [Masha-Dragon-Armor-Mai-Shiranui.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-masha/Masha-Dragon-Armor-Mai-Shiranui.zip) |
 | Dragon Armor Rogue Talon | [Masha-Dragon-Armor-Rogue-Talon.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-masha/Masha-Dragon-Armor-Rogue-Talon.zip) |
 | Dragon Armor Spirited Gauntlet | [Masha-Dragon-Armor-Spirited-Gauntlet.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-masha/Masha-Dragon-Armor-Spirited-Gauntlet.zip) |
 | Dragon Armor Winter Guard | [Masha-Dragon-Armor-Winter-Guard.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-masha/Masha-Dragon-Armor-Winter-Guard.zip) |
@@ -26,18 +24,15 @@ Validated upgrade-skin packages. All downloads are published in the
 | Rogue Talon Backup | [Masha-Rogue-Talon-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-masha/Masha-Rogue-Talon-Backup.zip) |
 | Rogue Talon Combat Maiden | [Masha-Rogue-Talon-Combat-Maiden.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-masha/Masha-Rogue-Talon-Combat-Maiden.zip) |
 | Rogue Talon Dragon Armor | [Masha-Rogue-Talon-Dragon-Armor.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-masha/Masha-Rogue-Talon-Dragon-Armor.zip) |
-| Rogue Talon Mai Shiranui | [Masha-Rogue-Talon-Mai-Shiranui.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-masha/Masha-Rogue-Talon-Mai-Shiranui.zip) |
 | Rogue Talon Spirited Gauntlet | [Masha-Rogue-Talon-Spirited-Gauntlet.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-masha/Masha-Rogue-Talon-Spirited-Gauntlet.zip) |
 | Rogue Talon Winter Guard | [Masha-Rogue-Talon-Winter-Guard.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-masha/Masha-Rogue-Talon-Winter-Guard.zip) |
 | Spirited Gauntlet Backup | [Masha-Spirited-Gauntlet-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-masha/Masha-Spirited-Gauntlet-Backup.zip) |
 | Spirited Gauntlet Combat Maiden | [Masha-Spirited-Gauntlet-Combat-Maiden.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-masha/Masha-Spirited-Gauntlet-Combat-Maiden.zip) |
 | Spirited Gauntlet Dragon Armor | [Masha-Spirited-Gauntlet-Dragon-Armor.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-masha/Masha-Spirited-Gauntlet-Dragon-Armor.zip) |
-| Spirited Gauntlet Mai Shiranui | [Masha-Spirited-Gauntlet-Mai-Shiranui.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-masha/Masha-Spirited-Gauntlet-Mai-Shiranui.zip) |
 | Spirited Gauntlet Rogue Talon | [Masha-Spirited-Gauntlet-Rogue-Talon.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-masha/Masha-Spirited-Gauntlet-Rogue-Talon.zip) |
 | Spirited Gauntlet Winter Guard | [Masha-Spirited-Gauntlet-Winter-Guard.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-masha/Masha-Spirited-Gauntlet-Winter-Guard.zip) |
 | Winter Guard Backup | [Masha-Winter-Guard-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-masha/Masha-Winter-Guard-Backup.zip) |
 | Winter Guard Combat Maiden | [Masha-Winter-Guard-Combat-Maiden.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-masha/Masha-Winter-Guard-Combat-Maiden.zip) |
 | Winter Guard Dragon Armor | [Masha-Winter-Guard-Dragon-Armor.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-masha/Masha-Winter-Guard-Dragon-Armor.zip) |
-| Winter Guard Mai Shiranui | [Masha-Winter-Guard-Mai-Shiranui.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-masha/Masha-Winter-Guard-Mai-Shiranui.zip) |
 | Winter Guard Rogue Talon | [Masha-Winter-Guard-Rogue-Talon.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-masha/Masha-Winter-Guard-Rogue-Talon.zip) |
 | Winter Guard Spirited Gauntlet | [Masha-Winter-Guard-Spirited-Gauntlet.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-masha/Masha-Winter-Guard-Spirited-Gauntlet.zip) |
