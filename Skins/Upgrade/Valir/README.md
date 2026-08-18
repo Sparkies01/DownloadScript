@@ -92,6 +92,7 @@ Validated upgrade-skin packages. All downloads are published in the
 | Pale Flame Leo Ikki | [Valir-Pale-Flame-Leo-Ikki.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-valir/Valir-Pale-Flame-Leo-Ikki.zip) |
 | Pale Flame Phoenix Ikki | [Valir-Pale-Flame-Phoenix-Ikki.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-valir/Valir-Pale-Flame-Phoenix-Ikki.zip) |
 | Pale Flame Shikigami Envoy | [Valir-Pale-Flame-Shikigami-Envoy.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-valir/Valir-Pale-Flame-Shikigami-Envoy.zip) |
+| Pale Flame Shikigami Sumonner | [Valir-Pale-Flame-Shikigami-Sumonner.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-valir/Valir-Pale-Flame-Shikigami-Sumonner.zip) |
 | Phoenix Ikki Arcane Seeker | [Valir-Phoenix-Ikki-Arcane-Seeker.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-valir/Valir-Phoenix-Ikki-Arcane-Seeker.zip) |
 | Phoenix Ikki Backup | [Valir-Phoenix-Ikki-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-valir/Valir-Phoenix-Ikki-Backup.zip) |
 | Phoenix Ikki Demonlord | [Valir-Phoenix-Ikki-Demonlord.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-valir/Valir-Phoenix-Ikki-Demonlord.zip) |
