@@ -5,7 +5,17 @@ Validated upgrade-skin packages. All downloads are published in the
 
 | Package | Download |
 | --- | --- |
+| Beta Skin 10 Detected in Beta Mirror Backup | [Johnson-Beta-Skin-10-Detected-in-Beta-Mirror-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-johnson/Johnson-Beta-Skin-10-Detected-in-Beta-Mirror-Backup.zip) |
+| Beta Skin 10 Detected in Beta Mirror Death Ride | [Johnson-Beta-Skin-10-Detected-in-Beta-Mirror-Death-Ride.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-johnson/Johnson-Beta-Skin-10-Detected-in-Beta-Mirror-Death-Ride.zip) |
+| Beta Skin 10 Detected in Beta Mirror Fire Chief | [Johnson-Beta-Skin-10-Detected-in-Beta-Mirror-Fire-Chief.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-johnson/Johnson-Beta-Skin-10-Detected-in-Beta-Mirror-Fire-Chief.zip) |
+| Beta Skin 10 Detected in Beta Mirror Jeepney Racer | [Johnson-Beta-Skin-10-Detected-in-Beta-Mirror-Jeepney-Racer.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-johnson/Johnson-Beta-Skin-10-Detected-in-Beta-Mirror-Jeepney-Racer.zip) |
+| Beta Skin 10 Detected in Beta Mirror Optimus Prime | [Johnson-Beta-Skin-10-Detected-in-Beta-Mirror-Optimus-Prime.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-johnson/Johnson-Beta-Skin-10-Detected-in-Beta-Mirror-Optimus-Prime.zip) |
+| Beta Skin 10 Detected in Beta Mirror S A B E R Automata | [Johnson-Beta-Skin-10-Detected-in-Beta-Mirror-S-A-B-E-R-Automata.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-johnson/Johnson-Beta-Skin-10-Detected-in-Beta-Mirror-S-A-B-E-R-Automata.zip) |
+| Beta Skin 10 Detected in Beta Mirror Sovereign of Realms | [Johnson-Beta-Skin-10-Detected-in-Beta-Mirror-Sovereign-of-Realms.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-johnson/Johnson-Beta-Skin-10-Detected-in-Beta-Mirror-Sovereign-of-Realms.zip) |
+| Beta Skin 10 Detected in Beta Mirror Starblazer | [Johnson-Beta-Skin-10-Detected-in-Beta-Mirror-Starblazer.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-johnson/Johnson-Beta-Skin-10-Detected-in-Beta-Mirror-Starblazer.zip) |
+| Beta Skin 10 Detected in Beta Mirror Wreck King | [Johnson-Beta-Skin-10-Detected-in-Beta-Mirror-Wreck-King.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-johnson/Johnson-Beta-Skin-10-Detected-in-Beta-Mirror-Wreck-King.zip) |
 | Death Ride Backup | [Johnson-Death-Ride-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-johnson/Johnson-Death-Ride-Backup.zip) |
+| Death Ride Beta Skin 10 Detected in Beta Mirror | [Johnson-Death-Ride-Beta-Skin-10-Detected-in-Beta-Mirror.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-johnson/Johnson-Death-Ride-Beta-Skin-10-Detected-in-Beta-Mirror.zip) |
 | Death Ride Fire Chief | [Johnson-Death-Ride-Fire-Chief.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-johnson/Johnson-Death-Ride-Fire-Chief.zip) |
 | Death Ride Jeepney Racer | [Johnson-Death-Ride-Jeepney-Racer.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-johnson/Johnson-Death-Ride-Jeepney-Racer.zip) |
 | Death Ride Optimus Prime | [Johnson-Death-Ride-Optimus-Prime.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-johnson/Johnson-Death-Ride-Optimus-Prime.zip) |
@@ -15,6 +25,7 @@ Validated upgrade-skin packages. All downloads are published in the
 | Death Ride Starblazer | [Johnson-Death-Ride-Starblazer.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-johnson/Johnson-Death-Ride-Starblazer.zip) |
 | Death Ride Wreck King | [Johnson-Death-Ride-Wreck-King.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-johnson/Johnson-Death-Ride-Wreck-King.zip) |
 | Fire Chief Backup | [Johnson-Fire-Chief-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-johnson/Johnson-Fire-Chief-Backup.zip) |
+| Fire Chief Beta Skin 10 Detected in Beta Mirror | [Johnson-Fire-Chief-Beta-Skin-10-Detected-in-Beta-Mirror.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-johnson/Johnson-Fire-Chief-Beta-Skin-10-Detected-in-Beta-Mirror.zip) |
 | Fire Chief Death Ride | [Johnson-Fire-Chief-Death-Ride.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-johnson/Johnson-Fire-Chief-Death-Ride.zip) |
 | Fire Chief Jeepney Racer | [Johnson-Fire-Chief-Jeepney-Racer.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-johnson/Johnson-Fire-Chief-Jeepney-Racer.zip) |
 | Fire Chief Optimus Prime | [Johnson-Fire-Chief-Optimus-Prime.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-johnson/Johnson-Fire-Chief-Optimus-Prime.zip) |
@@ -24,6 +35,7 @@ Validated upgrade-skin packages. All downloads are published in the
 | Fire Chief Starblazer | [Johnson-Fire-Chief-Starblazer.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-johnson/Johnson-Fire-Chief-Starblazer.zip) |
 | Fire Chief Wreck King | [Johnson-Fire-Chief-Wreck-King.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-johnson/Johnson-Fire-Chief-Wreck-King.zip) |
 | Jeepney Racer Backup | [Johnson-Jeepney-Racer-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-johnson/Johnson-Jeepney-Racer-Backup.zip) |
+| Jeepney Racer Beta Skin 10 Detected in Beta Mirror | [Johnson-Jeepney-Racer-Beta-Skin-10-Detected-in-Beta-Mirror.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-johnson/Johnson-Jeepney-Racer-Beta-Skin-10-Detected-in-Beta-Mirror.zip) |
 | Jeepney Racer Death Ride | [Johnson-Jeepney-Racer-Death-Ride.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-johnson/Johnson-Jeepney-Racer-Death-Ride.zip) |
 | Jeepney Racer Fire Chief | [Johnson-Jeepney-Racer-Fire-Chief.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-johnson/Johnson-Jeepney-Racer-Fire-Chief.zip) |
 | Jeepney Racer Optimus Prime | [Johnson-Jeepney-Racer-Optimus-Prime.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-johnson/Johnson-Jeepney-Racer-Optimus-Prime.zip) |
@@ -33,6 +45,7 @@ Validated upgrade-skin packages. All downloads are published in the
 | Jeepney Racer Starblazer | [Johnson-Jeepney-Racer-Starblazer.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-johnson/Johnson-Jeepney-Racer-Starblazer.zip) |
 | Jeepney Racer Wreck King | [Johnson-Jeepney-Racer-Wreck-King.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-johnson/Johnson-Jeepney-Racer-Wreck-King.zip) |
 | Optimus Prime Backup | [Johnson-Optimus-Prime-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-johnson/Johnson-Optimus-Prime-Backup.zip) |
+| Optimus Prime Beta Skin 10 Detected in Beta Mirror | [Johnson-Optimus-Prime-Beta-Skin-10-Detected-in-Beta-Mirror.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-johnson/Johnson-Optimus-Prime-Beta-Skin-10-Detected-in-Beta-Mirror.zip) |
 | Optimus Prime Death Ride | [Johnson-Optimus-Prime-Death-Ride.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-johnson/Johnson-Optimus-Prime-Death-Ride.zip) |
 | Optimus Prime Fire Chief | [Johnson-Optimus-Prime-Fire-Chief.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-johnson/Johnson-Optimus-Prime-Fire-Chief.zip) |
 | Optimus Prime Jeepney Racer | [Johnson-Optimus-Prime-Jeepney-Racer.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-johnson/Johnson-Optimus-Prime-Jeepney-Racer.zip) |
@@ -51,6 +64,7 @@ Validated upgrade-skin packages. All downloads are published in the
 | Pink Jeepney Racer Starblazer | [Johnson-Pink-Jeepney-Racer-Starblazer.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-johnson/Johnson-Pink-Jeepney-Racer-Starblazer.zip) |
 | Pink Jeepney Racer Wreck King | [Johnson-Pink-Jeepney-Racer-Wreck-King.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-johnson/Johnson-Pink-Jeepney-Racer-Wreck-King.zip) |
 | S A B E R Automata Backup | [Johnson-S-A-B-E-R-Automata-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-johnson/Johnson-S-A-B-E-R-Automata-Backup.zip) |
+| S A B E R Automata Beta Skin 10 Detected in Beta Mirror | [Johnson-S-A-B-E-R-Automata-Beta-Skin-10-Detected-in-Beta-Mirror.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-johnson/Johnson-S-A-B-E-R-Automata-Beta-Skin-10-Detected-in-Beta-Mirror.zip) |
 | S A B E R Automata Death Ride | [Johnson-S-A-B-E-R-Automata-Death-Ride.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-johnson/Johnson-S-A-B-E-R-Automata-Death-Ride.zip) |
 | S A B E R Automata Fire Chief | [Johnson-S-A-B-E-R-Automata-Fire-Chief.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-johnson/Johnson-S-A-B-E-R-Automata-Fire-Chief.zip) |
 | S A B E R Automata Jeepney Racer | [Johnson-S-A-B-E-R-Automata-Jeepney-Racer.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-johnson/Johnson-S-A-B-E-R-Automata-Jeepney-Racer.zip) |
@@ -60,6 +74,7 @@ Validated upgrade-skin packages. All downloads are published in the
 | S A B E R Automata Starblazer | [Johnson-S-A-B-E-R-Automata-Starblazer.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-johnson/Johnson-S-A-B-E-R-Automata-Starblazer.zip) |
 | S A B E R Automata Wreck King | [Johnson-S-A-B-E-R-Automata-Wreck-King.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-johnson/Johnson-S-A-B-E-R-Automata-Wreck-King.zip) |
 | Sovereign of Realms Backup | [Johnson-Sovereign-of-Realms-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-johnson/Johnson-Sovereign-of-Realms-Backup.zip) |
+| Sovereign of Realms Beta Skin 10 Detected in Beta Mirror | [Johnson-Sovereign-of-Realms-Beta-Skin-10-Detected-in-Beta-Mirror.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-johnson/Johnson-Sovereign-of-Realms-Beta-Skin-10-Detected-in-Beta-Mirror.zip) |
 | Sovereign of Realms Death Ride | [Johnson-Sovereign-of-Realms-Death-Ride.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-johnson/Johnson-Sovereign-of-Realms-Death-Ride.zip) |
 | Sovereign of Realms Fire Chief | [Johnson-Sovereign-of-Realms-Fire-Chief.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-johnson/Johnson-Sovereign-of-Realms-Fire-Chief.zip) |
 | Sovereign of Realms Jeepney Racer | [Johnson-Sovereign-of-Realms-Jeepney-Racer.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-johnson/Johnson-Sovereign-of-Realms-Jeepney-Racer.zip) |
@@ -69,6 +84,7 @@ Validated upgrade-skin packages. All downloads are published in the
 | Sovereign of Realms Starblazer | [Johnson-Sovereign-of-Realms-Starblazer.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-johnson/Johnson-Sovereign-of-Realms-Starblazer.zip) |
 | Sovereign of Realms Wreck King | [Johnson-Sovereign-of-Realms-Wreck-King.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-johnson/Johnson-Sovereign-of-Realms-Wreck-King.zip) |
 | Starblazer Backup | [Johnson-Starblazer-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-johnson/Johnson-Starblazer-Backup.zip) |
+| Starblazer Beta Skin 10 Detected in Beta Mirror | [Johnson-Starblazer-Beta-Skin-10-Detected-in-Beta-Mirror.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-johnson/Johnson-Starblazer-Beta-Skin-10-Detected-in-Beta-Mirror.zip) |
 | Starblazer Death Ride | [Johnson-Starblazer-Death-Ride.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-johnson/Johnson-Starblazer-Death-Ride.zip) |
 | Starblazer Fire Chief | [Johnson-Starblazer-Fire-Chief.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-johnson/Johnson-Starblazer-Fire-Chief.zip) |
 | Starblazer Jeepney Racer | [Johnson-Starblazer-Jeepney-Racer.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-johnson/Johnson-Starblazer-Jeepney-Racer.zip) |
@@ -78,6 +94,7 @@ Validated upgrade-skin packages. All downloads are published in the
 | Starblazer Sovereign of Realms | [Johnson-Starblazer-Sovereign-of-Realms.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-johnson/Johnson-Starblazer-Sovereign-of-Realms.zip) |
 | Starblazer Wreck King | [Johnson-Starblazer-Wreck-King.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-johnson/Johnson-Starblazer-Wreck-King.zip) |
 | Wreck King Backup | [Johnson-Wreck-King-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-johnson/Johnson-Wreck-King-Backup.zip) |
+| Wreck King Beta Skin 10 Detected in Beta Mirror | [Johnson-Wreck-King-Beta-Skin-10-Detected-in-Beta-Mirror.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-johnson/Johnson-Wreck-King-Beta-Skin-10-Detected-in-Beta-Mirror.zip) |
 | Wreck King Death Ride | [Johnson-Wreck-King-Death-Ride.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-johnson/Johnson-Wreck-King-Death-Ride.zip) |
 | Wreck King Fire Chief | [Johnson-Wreck-King-Fire-Chief.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-johnson/Johnson-Wreck-King-Fire-Chief.zip) |
 | Wreck King Jeepney Racer | [Johnson-Wreck-King-Jeepney-Racer.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-johnson/Johnson-Wreck-King-Jeepney-Racer.zip) |
