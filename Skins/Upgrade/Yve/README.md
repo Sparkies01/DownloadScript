@@ -5,10 +5,12 @@ Validated upgrade-skin packages. All downloads are published in the
 
 | Package | Download |
 | --- | --- |
-| Astrowarden Radiant Lotus | [Yve-Astrowarden-Radiant-Lotus.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-yve/Yve-Astrowarden-Radiant-Lotus.zip) |
-| Basic Ruin Protectress | [Yve-Basic-Ruin-Protectress.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-yve/Yve-Basic-Ruin-Protectress.zip) |
-| Basic Starlight | [Yve-Basic-Starlight.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-yve/Yve-Basic-Starlight.zip) |
-| Default Starlight | [Yve-Default-Starlight.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-yve/Yve-Default-Starlight.zip) |
-| Elite Starlight | [Yve-Elite-Starlight.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-yve/Yve-Elite-Starlight.zip) |
-| Forest Hymn Gradiant Lotus | [Yve-Forest-Hymn-Gradiant-Lotus.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-yve/Yve-Forest-Hymn-Gradiant-Lotus.zip) |
-| Forest Hymn Ruin Orotectress | [Yve-Forest-Hymn-Ruin-Orotectress.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-yve/Yve-Forest-Hymn-Ruin-Orotectress.zip) |
+| Flame Lotus Backup | [Yve-Flame-Lotus-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-yve/Yve-Flame-Lotus-Backup.zip) |
+| Flame Lotus Forest Hymn | [Yve-Flame-Lotus-Forest-Hymn.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-yve/Yve-Flame-Lotus-Forest-Hymn.zip) |
+| Flame Lotus Ruin Protectress | [Yve-Flame-Lotus-Ruin-Protectress.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-yve/Yve-Flame-Lotus-Ruin-Protectress.zip) |
+| Forest Hymn Backup | [Yve-Forest-Hymn-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-yve/Yve-Forest-Hymn-Backup.zip) |
+| Forest Hymn Flame Lotus | [Yve-Forest-Hymn-Flame-Lotus.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-yve/Yve-Forest-Hymn-Flame-Lotus.zip) |
+| Forest Hymn Ruin Protectress | [Yve-Forest-Hymn-Ruin-Protectress.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-yve/Yve-Forest-Hymn-Ruin-Protectress.zip) |
+| Ruin Protectress Backup | [Yve-Ruin-Protectress-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-yve/Yve-Ruin-Protectress-Backup.zip) |
+| Ruin Protectress Flame Lotus | [Yve-Ruin-Protectress-Flame-Lotus.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-yve/Yve-Ruin-Protectress-Flame-Lotus.zip) |
+| Ruin Protectress Forest Hymn | [Yve-Ruin-Protectress-Forest-Hymn.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-yve/Yve-Ruin-Protectress-Forest-Hymn.zip) |
