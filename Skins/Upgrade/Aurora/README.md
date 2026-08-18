@@ -5,49 +5,60 @@ Validated upgrade-skin packages. All downloads are published in the
 
 | Package | Download |
 | --- | --- |
-| Basic Aquarius | [Aurora-Basic-Aquarius.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-aurora/Aurora-Basic-Aquarius.zip) |
-| Basic Collector | [Aurora-Basic-Collector.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-aurora/Aurora-Basic-Collector.zip) |
-| Basic KOF | [Aurora-Basic-KOF.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-aurora/Aurora-Basic-KOF.zip) |
-| Basic Kula Diamond | [Aurora-Basic-Kula-Diamond.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-aurora/Aurora-Basic-Kula-Diamond.zip) |
-| Basic Nature s Throne | [Aurora-Basic-Nature-s-Throne.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-aurora/Aurora-Basic-Nature-s-Throne.zip) |
-| Basic Veil of the Celestials | [Aurora-Basic-Veil-of-the-Celestials.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-aurora/Aurora-Basic-Veil-of-the-Celestials.zip) |
-| Basic Zodiac | [Aurora-Basic-Zodiac.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-aurora/Aurora-Basic-Zodiac.zip) |
-| Collector KOF | [Aurora-Collector-KOF.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-aurora/Aurora-Collector-KOF.zip) |
-| Collector Zodiac | [Aurora-Collector-Zodiac.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-aurora/Aurora-Collector-Zodiac.zip) |
-| Default Collector | [Aurora-Default-Collector.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-aurora/Aurora-Default-Collector.zip) |
-| Default KOF | [Aurora-Default-KOF.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-aurora/Aurora-Default-KOF.zip) |
-| Default Zodiac | [Aurora-Default-Zodiac.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-aurora/Aurora-Default-Zodiac.zip) |
+| Aquarius Backup | [Aurora-Aquarius-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-aurora/Aurora-Aquarius-Backup.zip) |
+| Aquarius Beta Skin 07 Detected in Beta Mirror | [Aurora-Aquarius-Beta-Skin-07-Detected-in-Beta-Mirror.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-aurora/Aurora-Aquarius-Beta-Skin-07-Detected-in-Beta-Mirror.zip) |
+| Aquarius Foxy Lady | [Aurora-Aquarius-Foxy-Lady.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-aurora/Aurora-Aquarius-Foxy-Lady.zip) |
+| Aquarius Heartbreak Empress | [Aurora-Aquarius-Heartbreak-Empress.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-aurora/Aurora-Aquarius-Heartbreak-Empress.zip) |
+| Aquarius Kula Diamond | [Aurora-Aquarius-Kula-Diamond.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-aurora/Aurora-Aquarius-Kula-Diamond.zip) |
+| Aquarius Nature s Throne | [Aurora-Aquarius-Nature-s-Throne.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-aurora/Aurora-Aquarius-Nature-s-Throne.zip) |
+| Aquarius Veil of the Celestials | [Aurora-Aquarius-Veil-of-the-Celestials.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-aurora/Aurora-Aquarius-Veil-of-the-Celestials.zip) |
+| Beta Skin 07 Detected in Beta Mirror Aquarius | [Aurora-Beta-Skin-07-Detected-in-Beta-Mirror-Aquarius.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-aurora/Aurora-Beta-Skin-07-Detected-in-Beta-Mirror-Aquarius.zip) |
+| Beta Skin 07 Detected in Beta Mirror Backup | [Aurora-Beta-Skin-07-Detected-in-Beta-Mirror-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-aurora/Aurora-Beta-Skin-07-Detected-in-Beta-Mirror-Backup.zip) |
+| Beta Skin 07 Detected in Beta Mirror Beta Skin 08 Detected in Beta Mirror | [Aurora-Beta-Skin-07-Detected-in-Beta-Mirror-Beta-Skin-08-Detected-in-Beta-Mirror.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-aurora/Aurora-Beta-Skin-07-Detected-in-Beta-Mirror-Beta-Skin-08-Detected-in-Beta-Mirror.zip) |
+| Beta Skin 07 Detected in Beta Mirror Foxy Lady | [Aurora-Beta-Skin-07-Detected-in-Beta-Mirror-Foxy-Lady.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-aurora/Aurora-Beta-Skin-07-Detected-in-Beta-Mirror-Foxy-Lady.zip) |
+| Beta Skin 07 Detected in Beta Mirror Heartbreak Empress | [Aurora-Beta-Skin-07-Detected-in-Beta-Mirror-Heartbreak-Empress.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-aurora/Aurora-Beta-Skin-07-Detected-in-Beta-Mirror-Heartbreak-Empress.zip) |
+| Beta Skin 07 Detected in Beta Mirror Kula Diamond | [Aurora-Beta-Skin-07-Detected-in-Beta-Mirror-Kula-Diamond.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-aurora/Aurora-Beta-Skin-07-Detected-in-Beta-Mirror-Kula-Diamond.zip) |
+| Beta Skin 07 Detected in Beta Mirror Nature s Throne | [Aurora-Beta-Skin-07-Detected-in-Beta-Mirror-Nature-s-Throne.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-aurora/Aurora-Beta-Skin-07-Detected-in-Beta-Mirror-Nature-s-Throne.zip) |
+| Beta Skin 07 Detected in Beta Mirror Veil of the Celestials | [Aurora-Beta-Skin-07-Detected-in-Beta-Mirror-Veil-of-the-Celestials.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-aurora/Aurora-Beta-Skin-07-Detected-in-Beta-Mirror-Veil-of-the-Celestials.zip) |
+| Beta Skin 08 Detected in Beta Mirror Aquarius | [Aurora-Beta-Skin-08-Detected-in-Beta-Mirror-Aquarius.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-aurora/Aurora-Beta-Skin-08-Detected-in-Beta-Mirror-Aquarius.zip) |
+| Beta Skin 08 Detected in Beta Mirror Backup | [Aurora-Beta-Skin-08-Detected-in-Beta-Mirror-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-aurora/Aurora-Beta-Skin-08-Detected-in-Beta-Mirror-Backup.zip) |
+| Beta Skin 08 Detected in Beta Mirror Beta Skin 07 Detected in Beta Mirror | [Aurora-Beta-Skin-08-Detected-in-Beta-Mirror-Beta-Skin-07-Detected-in-Beta-Mirror.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-aurora/Aurora-Beta-Skin-08-Detected-in-Beta-Mirror-Beta-Skin-07-Detected-in-Beta-Mirror.zip) |
+| Beta Skin 08 Detected in Beta Mirror Foxy Lady | [Aurora-Beta-Skin-08-Detected-in-Beta-Mirror-Foxy-Lady.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-aurora/Aurora-Beta-Skin-08-Detected-in-Beta-Mirror-Foxy-Lady.zip) |
+| Beta Skin 08 Detected in Beta Mirror Heartbreak Empress | [Aurora-Beta-Skin-08-Detected-in-Beta-Mirror-Heartbreak-Empress.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-aurora/Aurora-Beta-Skin-08-Detected-in-Beta-Mirror-Heartbreak-Empress.zip) |
+| Beta Skin 08 Detected in Beta Mirror Kula Diamond | [Aurora-Beta-Skin-08-Detected-in-Beta-Mirror-Kula-Diamond.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-aurora/Aurora-Beta-Skin-08-Detected-in-Beta-Mirror-Kula-Diamond.zip) |
+| Beta Skin 08 Detected in Beta Mirror Nature s Throne | [Aurora-Beta-Skin-08-Detected-in-Beta-Mirror-Nature-s-Throne.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-aurora/Aurora-Beta-Skin-08-Detected-in-Beta-Mirror-Nature-s-Throne.zip) |
+| Beta Skin 08 Detected in Beta Mirror Veil of the Celestials | [Aurora-Beta-Skin-08-Detected-in-Beta-Mirror-Veil-of-the-Celestials.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-aurora/Aurora-Beta-Skin-08-Detected-in-Beta-Mirror-Veil-of-the-Celestials.zip) |
+| Foxy Lady Aquarius | [Aurora-Foxy-Lady-Aquarius.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-aurora/Aurora-Foxy-Lady-Aquarius.zip) |
 | Foxy Lady Backup | [Aurora-Foxy-Lady-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-aurora/Aurora-Foxy-Lady-Backup.zip) |
+| Foxy Lady Heartbreak Empress | [Aurora-Foxy-Lady-Heartbreak-Empress.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-aurora/Aurora-Foxy-Lady-Heartbreak-Empress.zip) |
 | Foxy Lady Kula Diamond | [Aurora-Foxy-Lady-Kula-Diamond.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-aurora/Aurora-Foxy-Lady-Kula-Diamond.zip) |
+| Foxy Lady Nature s Throne | [Aurora-Foxy-Lady-Nature-s-Throne.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-aurora/Aurora-Foxy-Lady-Nature-s-Throne.zip) |
+| Foxy Lady Veil of the Celestials | [Aurora-Foxy-Lady-Veil-of-the-Celestials.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-aurora/Aurora-Foxy-Lady-Veil-of-the-Celestials.zip) |
 | Heartbreak Empress Aquarius | [Aurora-Heartbreak-Empress-Aquarius.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-aurora/Aurora-Heartbreak-Empress-Aquarius.zip) |
 | Heartbreak Empress Backup | [Aurora-Heartbreak-Empress-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-aurora/Aurora-Heartbreak-Empress-Backup.zip) |
+| Heartbreak Empress Foxy Lady | [Aurora-Heartbreak-Empress-Foxy-Lady.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-aurora/Aurora-Heartbreak-Empress-Foxy-Lady.zip) |
 | Heartbreak Empress Kula Diamond | [Aurora-Heartbreak-Empress-Kula-Diamond.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-aurora/Aurora-Heartbreak-Empress-Kula-Diamond.zip) |
-| KOF Collector | [Aurora-KOF-Collector.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-aurora/Aurora-KOF-Collector.zip) |
-| KOF Zodiac | [Aurora-KOF-Zodiac.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-aurora/Aurora-KOF-Zodiac.zip) |
-| Lunar Fest Collector | [Aurora-Lunar-Fest-Collector.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-aurora/Aurora-Lunar-Fest-Collector.zip) |
-| Lunar Fest KOF | [Aurora-Lunar-Fest-KOF.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-aurora/Aurora-Lunar-Fest-KOF.zip) |
-| Lunar Fest Zodiac | [Aurora-Lunar-Fest-Zodiac.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-aurora/Aurora-Lunar-Fest-Zodiac.zip) |
-| Lunar Foxy Lady | [Aurora-Lunar-Foxy-Lady.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-aurora/Aurora-Lunar-Foxy-Lady.zip) |
-| Lunar Kula Diamond | [Aurora-Lunar-Kula-Diamond.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-aurora/Aurora-Lunar-Kula-Diamond.zip) |
-| Maiden of the Glacier Aquarius | [Aurora-Maiden-of-the-Glacier-Aquarius.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-aurora/Aurora-Maiden-of-the-Glacier-Aquarius.zip) |
-| Maiden of the Glacier Foxy Lady | [Aurora-Maiden-of-the-Glacier-Foxy-Lady.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-aurora/Aurora-Maiden-of-the-Glacier-Foxy-Lady.zip) |
-| Maiden of the Glacier Kula Diamond | [Aurora-Maiden-of-the-Glacier-Kula-Diamond.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-aurora/Aurora-Maiden-of-the-Glacier-Kula-Diamond.zip) |
-| Maiden of the Glacier Veil of the Celestials | [Aurora-Maiden-of-the-Glacier-Veil-of-the-Celestials.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-aurora/Aurora-Maiden-of-the-Glacier-Veil-of-the-Celestials.zip) |
+| Heartbreak Empress Nature s Throne | [Aurora-Heartbreak-Empress-Nature-s-Throne.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-aurora/Aurora-Heartbreak-Empress-Nature-s-Throne.zip) |
+| Heartbreak Empress Veil of the Celestials | [Aurora-Heartbreak-Empress-Veil-of-the-Celestials.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-aurora/Aurora-Heartbreak-Empress-Veil-of-the-Celestials.zip) |
+| Kula Diamond Aquarius | [Aurora-Kula-Diamond-Aquarius.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-aurora/Aurora-Kula-Diamond-Aquarius.zip) |
+| Kula Diamond Backup | [Aurora-Kula-Diamond-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-aurora/Aurora-Kula-Diamond-Backup.zip) |
+| Kula Diamond Beta Skin 07 Detected in Beta Mirror | [Aurora-Kula-Diamond-Beta-Skin-07-Detected-in-Beta-Mirror.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-aurora/Aurora-Kula-Diamond-Beta-Skin-07-Detected-in-Beta-Mirror.zip) |
+| Kula Diamond Beta Skin 08 Detected in Beta Mirror | [Aurora-Kula-Diamond-Beta-Skin-08-Detected-in-Beta-Mirror.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-aurora/Aurora-Kula-Diamond-Beta-Skin-08-Detected-in-Beta-Mirror.zip) |
+| Kula Diamond Foxy Lady | [Aurora-Kula-Diamond-Foxy-Lady.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-aurora/Aurora-Kula-Diamond-Foxy-Lady.zip) |
+| Kula Diamond Heartbreak Empress | [Aurora-Kula-Diamond-Heartbreak-Empress.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-aurora/Aurora-Kula-Diamond-Heartbreak-Empress.zip) |
+| Kula Diamond Nature s Throne | [Aurora-Kula-Diamond-Nature-s-Throne.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-aurora/Aurora-Kula-Diamond-Nature-s-Throne.zip) |
+| Kula Diamond Veil of the Celestials | [Aurora-Kula-Diamond-Veil-of-the-Celestials.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-aurora/Aurora-Kula-Diamond-Veil-of-the-Celestials.zip) |
 | Nature s Throne Aquarius | [Aurora-Nature-s-Throne-Aquarius.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-aurora/Aurora-Nature-s-Throne-Aquarius.zip) |
 | Nature s Throne Backup | [Aurora-Nature-s-Throne-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-aurora/Aurora-Nature-s-Throne-Backup.zip) |
-| Nature s Throne Fox Lady | [Aurora-Nature-s-Throne-Fox-Lady.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-aurora/Aurora-Nature-s-Throne-Fox-Lady.zip) |
+| Nature s Throne Foxy Lady | [Aurora-Nature-s-Throne-Foxy-Lady.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-aurora/Aurora-Nature-s-Throne-Foxy-Lady.zip) |
 | Nature s Throne Heartbreak Empress | [Aurora-Nature-s-Throne-Heartbreak-Empress.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-aurora/Aurora-Nature-s-Throne-Heartbreak-Empress.zip) |
 | Nature s Throne Kula Diamond | [Aurora-Nature-s-Throne-Kula-Diamond.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-aurora/Aurora-Nature-s-Throne-Kula-Diamond.zip) |
 | Nature s Throne Veil of the Celestials | [Aurora-Nature-s-Throne-Veil-of-the-Celestials.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-aurora/Aurora-Nature-s-Throne-Veil-of-the-Celestials.zip) |
-| Nature Throne Aquarius | [Aurora-Nature-Throne-Aquarius.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-aurora/Aurora-Nature-Throne-Aquarius.zip) |
-| Nature Throne Backup | [Aurora-Nature-Throne-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-aurora/Aurora-Nature-Throne-Backup.zip) |
-| Nature Throne Kula Diamond | [Aurora-Nature-Throne-Kula-Diamond.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-aurora/Aurora-Nature-Throne-Kula-Diamond.zip) |
-| Nature Throne Veil of the Celestials | [Aurora-Nature-Throne-Veil-of-the-Celestials.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-aurora/Aurora-Nature-Throne-Veil-of-the-Celestials.zip) |
-| Starlight 2017 Collector | [Aurora-Starlight-2017-Collector.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-aurora/Aurora-Starlight-2017-Collector.zip) |
-| Starlight 2017 KOF | [Aurora-Starlight-2017-KOF.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-aurora/Aurora-Starlight-2017-KOF.zip) |
-| Starlight 2017 Zodiac | [Aurora-Starlight-2017-Zodiac.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-aurora/Aurora-Starlight-2017-Zodiac.zip) |
-| Starlight Aquarius | [Aurora-Starlight-Aquarius.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-aurora/Aurora-Starlight-Aquarius.zip) |
-| Starlight Heartbreak Empress | [Aurora-Starlight-Heartbreak-Empress.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-aurora/Aurora-Starlight-Heartbreak-Empress.zip) |
-| Starlight Kula Diamond | [Aurora-Starlight-Kula-Diamond.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-aurora/Aurora-Starlight-Kula-Diamond.zip) |
-| Zodiac Collector | [Aurora-Zodiac-Collector.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-aurora/Aurora-Zodiac-Collector.zip) |
-| Zodiac KOF | [Aurora-Zodiac-KOF.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-aurora/Aurora-Zodiac-KOF.zip) |
+| Veil of the Celestials Aquarius | [Aurora-Veil-of-the-Celestials-Aquarius.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-aurora/Aurora-Veil-of-the-Celestials-Aquarius.zip) |
+| Veil of the Celestials Backup | [Aurora-Veil-of-the-Celestials-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-aurora/Aurora-Veil-of-the-Celestials-Backup.zip) |
+| Veil of the Celestials Beta Skin 07 Detected in Beta Mirror | [Aurora-Veil-of-the-Celestials-Beta-Skin-07-Detected-in-Beta-Mirror.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-aurora/Aurora-Veil-of-the-Celestials-Beta-Skin-07-Detected-in-Beta-Mirror.zip) |
+| Veil of the Celestials Beta Skin 08 Detected in Beta Mirror | [Aurora-Veil-of-the-Celestials-Beta-Skin-08-Detected-in-Beta-Mirror.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-aurora/Aurora-Veil-of-the-Celestials-Beta-Skin-08-Detected-in-Beta-Mirror.zip) |
+| Veil of the Celestials Foxy Lady | [Aurora-Veil-of-the-Celestials-Foxy-Lady.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-aurora/Aurora-Veil-of-the-Celestials-Foxy-Lady.zip) |
+| Veil of the Celestials Heartbreak Empress | [Aurora-Veil-of-the-Celestials-Heartbreak-Empress.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-aurora/Aurora-Veil-of-the-Celestials-Heartbreak-Empress.zip) |
+| Veil of the Celestials Kula Diamond | [Aurora-Veil-of-the-Celestials-Kula-Diamond.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-aurora/Aurora-Veil-of-the-Celestials-Kula-Diamond.zip) |
+| Veil of the Celestials Nature s Throne | [Aurora-Veil-of-the-Celestials-Nature-s-Throne.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-aurora/Aurora-Veil-of-the-Celestials-Nature-s-Throne.zip) |
