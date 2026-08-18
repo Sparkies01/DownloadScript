@@ -5,63 +5,67 @@ Validated upgrade-skin packages. All downloads are published in the
 
 | Package | Download |
 | --- | --- |
-| Atomic Pop Backup | [Eudora-Atomic-Pop-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-eudora/Eudora-Atomic-Pop-Backup.zip) |
-| Atomic Pop Covenant | [Eudora-Atomic-Pop-Covenant.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-eudora/Eudora-Atomic-Pop-Covenant.zip) |
-| Atomic Pop Emerald Enchantress | [Eudora-Atomic-Pop-Emerald-Enchantress.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-eudora/Eudora-Atomic-Pop-Emerald-Enchantress.zip) |
 | Atomic Pop Eudora Backup | [Eudora-Atomic-Pop-Eudora-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-eudora/Eudora-Atomic-Pop-Eudora-Backup.zip) |
+| Atomic Pop Eudora Christmas Carnival | [Eudora-Atomic-Pop-Eudora-Christmas-Carnival.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-eudora/Eudora-Atomic-Pop-Eudora-Christmas-Carnival.zip) |
+| Atomic Pop Eudora Cosmic Voyage | [Eudora-Atomic-Pop-Eudora-Cosmic-Voyage.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-eudora/Eudora-Atomic-Pop-Eudora-Cosmic-Voyage.zip) |
+| Atomic Pop Eudora Countess Scarlet | [Eudora-Atomic-Pop-Eudora-Countess-Scarlet.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-eudora/Eudora-Atomic-Pop-Eudora-Countess-Scarlet.zip) |
 | Atomic Pop Eudora Emerald Enchantress | [Eudora-Atomic-Pop-Eudora-Emerald-Enchantress.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-eudora/Eudora-Atomic-Pop-Eudora-Emerald-Enchantress.zip) |
-| Atomic Pop Luckybox | [Eudora-Atomic-Pop-Luckybox.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-eudora/Eudora-Atomic-Pop-Luckybox.zip) |
-| Basic Atomic Pop | [Eudora-Basic-Atomic-Pop.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-eudora/Eudora-Basic-Atomic-Pop.zip) |
-| Basic Covenant | [Eudora-Basic-Covenant.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-eudora/Eudora-Basic-Covenant.zip) |
-| Basic Luckybox | [Eudora-Basic-Luckybox.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-eudora/Eudora-Basic-Luckybox.zip) |
-| Christmas Atomic Pop | [Eudora-Christmas-Atomic-Pop.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-eudora/Eudora-Christmas-Atomic-Pop.zip) |
+| Atomic Pop Eudora Flame Red Lips | [Eudora-Atomic-Pop-Eudora-Flame-Red-Lips.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-eudora/Eudora-Atomic-Pop-Eudora-Flame-Red-Lips.zip) |
+| Atomic Pop Eudora Midnight s Allure | [Eudora-Atomic-Pop-Eudora-Midnight-s-Allure.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-eudora/Eudora-Atomic-Pop-Eudora-Midnight-s-Allure.zip) |
+| Atomic Pop Eudora Vivo Selfie Goddess | [Eudora-Atomic-Pop-Eudora-Vivo-Selfie-Goddess.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-eudora/Eudora-Atomic-Pop-Eudora-Vivo-Selfie-Goddess.zip) |
 | Christmas Carnival Atomic Pop Eudora | [Eudora-Christmas-Carnival-Atomic-Pop-Eudora.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-eudora/Eudora-Christmas-Carnival-Atomic-Pop-Eudora.zip) |
-| Christmas Carnival Atomic Pop | [Eudora-Christmas-Carnival-Atomic-Pop.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-eudora/Eudora-Christmas-Carnival-Atomic-Pop.zip) |
 | Christmas Carnival Backup | [Eudora-Christmas-Carnival-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-eudora/Eudora-Christmas-Carnival-Backup.zip) |
+| Christmas Carnival Cosmic Voyage | [Eudora-Christmas-Carnival-Cosmic-Voyage.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-eudora/Eudora-Christmas-Carnival-Cosmic-Voyage.zip) |
+| Christmas Carnival Countess Scarlet | [Eudora-Christmas-Carnival-Countess-Scarlet.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-eudora/Eudora-Christmas-Carnival-Countess-Scarlet.zip) |
 | Christmas Carnival Emerald Enchantress | [Eudora-Christmas-Carnival-Emerald-Enchantress.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-eudora/Eudora-Christmas-Carnival-Emerald-Enchantress.zip) |
-| Christmas Carnival eudora Atomic Pop Eudora | [Eudora-Christmas-Carnival-eudora-Atomic-Pop-Eudora.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-eudora/Eudora-Christmas-Carnival-eudora-Atomic-Pop-Eudora.zip) |
-| Christmas Carnival eudora Backup | [Eudora-Christmas-Carnival-eudora-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-eudora/Eudora-Christmas-Carnival-eudora-Backup.zip) |
-| Christmas Carnival eudora Emerald Enchantress | [Eudora-Christmas-Carnival-eudora-Emerald-Enchantress.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-eudora/Eudora-Christmas-Carnival-eudora-Emerald-Enchantress.zip) |
-| Christmas Covenant | [Eudora-Christmas-Covenant.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-eudora/Eudora-Christmas-Covenant.zip) |
-| Christmas Luckybox | [Eudora-Christmas-Luckybox.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-eudora/Eudora-Christmas-Luckybox.zip) |
+| Christmas Carnival Flame Red Lips | [Eudora-Christmas-Carnival-Flame-Red-Lips.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-eudora/Eudora-Christmas-Carnival-Flame-Red-Lips.zip) |
+| Christmas Carnival Midnight s Allure | [Eudora-Christmas-Carnival-Midnight-s-Allure.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-eudora/Eudora-Christmas-Carnival-Midnight-s-Allure.zip) |
+| Christmas Carnival Vivo Selfie Goddess | [Eudora-Christmas-Carnival-Vivo-Selfie-Goddess.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-eudora/Eudora-Christmas-Carnival-Vivo-Selfie-Goddess.zip) |
+| Cosmic Voyage Atomic Pop Eudora | [Eudora-Cosmic-Voyage-Atomic-Pop-Eudora.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-eudora/Eudora-Cosmic-Voyage-Atomic-Pop-Eudora.zip) |
 | Cosmic Voyage Backup | [Eudora-Cosmic-Voyage-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-eudora/Eudora-Cosmic-Voyage-Backup.zip) |
+| Cosmic Voyage Christmas Carnival | [Eudora-Cosmic-Voyage-Christmas-Carnival.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-eudora/Eudora-Cosmic-Voyage-Christmas-Carnival.zip) |
+| Cosmic Voyage Countess Scarlet | [Eudora-Cosmic-Voyage-Countess-Scarlet.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-eudora/Eudora-Cosmic-Voyage-Countess-Scarlet.zip) |
 | Cosmic Voyage Emerald Enchantress | [Eudora-Cosmic-Voyage-Emerald-Enchantress.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-eudora/Eudora-Cosmic-Voyage-Emerald-Enchantress.zip) |
+| Cosmic Voyage Flame Red Lips | [Eudora-Cosmic-Voyage-Flame-Red-Lips.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-eudora/Eudora-Cosmic-Voyage-Flame-Red-Lips.zip) |
+| Cosmic Voyage Midnight s Allure | [Eudora-Cosmic-Voyage-Midnight-s-Allure.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-eudora/Eudora-Cosmic-Voyage-Midnight-s-Allure.zip) |
+| Cosmic Voyage Vivo Selfie Goddess | [Eudora-Cosmic-Voyage-Vivo-Selfie-Goddess.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-eudora/Eudora-Cosmic-Voyage-Vivo-Selfie-Goddess.zip) |
 | Countess Scarlet Atomic Pop Eudora | [Eudora-Countess-Scarlet-Atomic-Pop-Eudora.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-eudora/Eudora-Countess-Scarlet-Atomic-Pop-Eudora.zip) |
-| Countess Scarlet Atomic Pop | [Eudora-Countess-Scarlet-Atomic-Pop.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-eudora/Eudora-Countess-Scarlet-Atomic-Pop.zip) |
 | Countess Scarlet Backup | [Eudora-Countess-Scarlet-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-eudora/Eudora-Countess-Scarlet-Backup.zip) |
-| Countess Scarlet Cosmic | [Eudora-Countess-Scarlet-Cosmic.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-eudora/Eudora-Countess-Scarlet-Cosmic.zip) |
+| Countess Scarlet Christmas Carnival | [Eudora-Countess-Scarlet-Christmas-Carnival.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-eudora/Eudora-Countess-Scarlet-Christmas-Carnival.zip) |
+| Countess Scarlet Cosmic Voyage | [Eudora-Countess-Scarlet-Cosmic-Voyage.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-eudora/Eudora-Countess-Scarlet-Cosmic-Voyage.zip) |
 | Countess Scarlet Emerald Enchantress | [Eudora-Countess-Scarlet-Emerald-Enchantress.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-eudora/Eudora-Countess-Scarlet-Emerald-Enchantress.zip) |
-| Default Atomic Pop | [Eudora-Default-Atomic-Pop.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-eudora/Eudora-Default-Atomic-Pop.zip) |
-| Default Covenant | [Eudora-Default-Covenant.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-eudora/Eudora-Default-Covenant.zip) |
-| Default Luckybox | [Eudora-Default-Luckybox.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-eudora/Eudora-Default-Luckybox.zip) |
+| Countess Scarlet Flame Red Lips | [Eudora-Countess-Scarlet-Flame-Red-Lips.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-eudora/Eudora-Countess-Scarlet-Flame-Red-Lips.zip) |
+| Countess Scarlet Midnight s Allure | [Eudora-Countess-Scarlet-Midnight-s-Allure.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-eudora/Eudora-Countess-Scarlet-Midnight-s-Allure.zip) |
+| Countess Scarlet Vivo Selfie Goddess | [Eudora-Countess-Scarlet-Vivo-Selfie-Goddess.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-eudora/Eudora-Countess-Scarlet-Vivo-Selfie-Goddess.zip) |
+| Emerald Enchantress Atomic Pop Eudora | [Eudora-Emerald-Enchantress-Atomic-Pop-Eudora.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-eudora/Eudora-Emerald-Enchantress-Atomic-Pop-Eudora.zip) |
+| Emerald Enchantress Backup | [Eudora-Emerald-Enchantress-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-eudora/Eudora-Emerald-Enchantress-Backup.zip) |
+| Emerald Enchantress Christmas Carnival | [Eudora-Emerald-Enchantress-Christmas-Carnival.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-eudora/Eudora-Emerald-Enchantress-Christmas-Carnival.zip) |
+| Emerald Enchantress Cosmic Voyage | [Eudora-Emerald-Enchantress-Cosmic-Voyage.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-eudora/Eudora-Emerald-Enchantress-Cosmic-Voyage.zip) |
+| Emerald Enchantress Countess Scarlet | [Eudora-Emerald-Enchantress-Countess-Scarlet.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-eudora/Eudora-Emerald-Enchantress-Countess-Scarlet.zip) |
+| Emerald Enchantress Flame Red Lips | [Eudora-Emerald-Enchantress-Flame-Red-Lips.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-eudora/Eudora-Emerald-Enchantress-Flame-Red-Lips.zip) |
+| Emerald Enchantress Midnight s Allure | [Eudora-Emerald-Enchantress-Midnight-s-Allure.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-eudora/Eudora-Emerald-Enchantress-Midnight-s-Allure.zip) |
+| Emerald Enchantress Vivo Selfie Goddess | [Eudora-Emerald-Enchantress-Vivo-Selfie-Goddess.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-eudora/Eudora-Emerald-Enchantress-Vivo-Selfie-Goddess.zip) |
 | Flame Red Lips Atomic Pop Eudora | [Eudora-Flame-Red-Lips-Atomic-Pop-Eudora.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-eudora/Eudora-Flame-Red-Lips-Atomic-Pop-Eudora.zip) |
-| Flame Red Lips Atomic Pop | [Eudora-Flame-Red-Lips-Atomic-Pop.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-eudora/Eudora-Flame-Red-Lips-Atomic-Pop.zip) |
 | Flame Red Lips Backup | [Eudora-Flame-Red-Lips-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-eudora/Eudora-Flame-Red-Lips-Backup.zip) |
-| Flame Red Lips Christmas Carnaval | [Eudora-Flame-Red-Lips-Christmas-Carnaval.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-eudora/Eudora-Flame-Red-Lips-Christmas-Carnaval.zip) |
+| Flame Red Lips Christmas Carnival | [Eudora-Flame-Red-Lips-Christmas-Carnival.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-eudora/Eudora-Flame-Red-Lips-Christmas-Carnival.zip) |
 | Flame Red Lips Cosmic Voyage | [Eudora-Flame-Red-Lips-Cosmic-Voyage.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-eudora/Eudora-Flame-Red-Lips-Cosmic-Voyage.zip) |
-| Flame Red Lips Cosmic | [Eudora-Flame-Red-Lips-Cosmic.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-eudora/Eudora-Flame-Red-Lips-Cosmic.zip) |
-| Flame Red Lips Countess | [Eudora-Flame-Red-Lips-Countess.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-eudora/Eudora-Flame-Red-Lips-Countess.zip) |
-| Flame Red Lips cove | [Eudora-Flame-Red-Lips-cove.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-eudora/Eudora-Flame-Red-Lips-cove.zip) |
+| Flame Red Lips Countess Scarlet | [Eudora-Flame-Red-Lips-Countess-Scarlet.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-eudora/Eudora-Flame-Red-Lips-Countess-Scarlet.zip) |
 | Flame Red Lips Emerald Enchantress | [Eudora-Flame-Red-Lips-Emerald-Enchantress.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-eudora/Eudora-Flame-Red-Lips-Emerald-Enchantress.zip) |
-| Flame Red Lips Emerald | [Eudora-Flame-Red-Lips-Emerald.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-eudora/Eudora-Flame-Red-Lips-Emerald.zip) |
-| Flame Red Lips Vivo Selfie | [Eudora-Flame-Red-Lips-Vivo-Selfie.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-eudora/Eudora-Flame-Red-Lips-Vivo-Selfie.zip) |
-| Lighting Weaver Atomic Pop | [Eudora-Lighting-Weaver-Atomic-Pop.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-eudora/Eudora-Lighting-Weaver-Atomic-Pop.zip) |
-| Lighting Weaver Backup | [Eudora-Lighting-Weaver-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-eudora/Eudora-Lighting-Weaver-Backup.zip) |
-| Lighting Weaver Christmas Carnival | [Eudora-Lighting-Weaver-Christmas-Carnival.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-eudora/Eudora-Lighting-Weaver-Christmas-Carnival.zip) |
-| Lighting Weaver Cosmic Voyage | [Eudora-Lighting-Weaver-Cosmic-Voyage.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-eudora/Eudora-Lighting-Weaver-Cosmic-Voyage.zip) |
-| Lighting Weaver Emerald Enchantress | [Eudora-Lighting-Weaver-Emerald-Enchantress.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-eudora/Eudora-Lighting-Weaver-Emerald-Enchantress.zip) |
-| Lighting Weaver Midnights Allure | [Eudora-Lighting-Weaver-Midnights-Allure.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-eudora/Eudora-Lighting-Weaver-Midnights-Allure.zip) |
-| Lighting Weaver Selfie Goddess | [Eudora-Lighting-Weaver-Selfie-Goddess.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-eudora/Eudora-Lighting-Weaver-Selfie-Goddess.zip) |
-| Limited Atomic Pop | [Eudora-Limited-Atomic-Pop.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-eudora/Eudora-Limited-Atomic-Pop.zip) |
-| Limited Covenant | [Eudora-Limited-Covenant.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-eudora/Eudora-Limited-Covenant.zip) |
-| Limited Luckybox | [Eudora-Limited-Luckybox.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-eudora/Eudora-Limited-Luckybox.zip) |
-| Luckybox Atomic Pop | [Eudora-Luckybox-Atomic-Pop.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-eudora/Eudora-Luckybox-Atomic-Pop.zip) |
-| Luckybox Covenant | [Eudora-Luckybox-Covenant.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-eudora/Eudora-Luckybox-Covenant.zip) |
-| Season 16 Atomic Pop | [Eudora-Season-16-Atomic-Pop.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-eudora/Eudora-Season-16-Atomic-Pop.zip) |
-| Season 16 Covenant | [Eudora-Season-16-Covenant.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-eudora/Eudora-Season-16-Covenant.zip) |
-| Season 16 Luckybox | [Eudora-Season-16-Luckybox.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-eudora/Eudora-Season-16-Luckybox.zip) |
-| Starlight 2022 Atomic Pop | [Eudora-Starlight-2022-Atomic-Pop.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-eudora/Eudora-Starlight-2022-Atomic-Pop.zip) |
-| Starlight 2022 Covenant | [Eudora-Starlight-2022-Covenant.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-eudora/Eudora-Starlight-2022-Covenant.zip) |
-| Starlight 2022 Luckybox | [Eudora-Starlight-2022-Luckybox.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-eudora/Eudora-Starlight-2022-Luckybox.zip) |
+| Flame Red Lips Midnight s Allure | [Eudora-Flame-Red-Lips-Midnight-s-Allure.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-eudora/Eudora-Flame-Red-Lips-Midnight-s-Allure.zip) |
+| Flame Red Lips Vivo Selfie Goddess | [Eudora-Flame-Red-Lips-Vivo-Selfie-Goddess.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-eudora/Eudora-Flame-Red-Lips-Vivo-Selfie-Goddess.zip) |
+| Midnight s Allure Atomic Pop Eudora | [Eudora-Midnight-s-Allure-Atomic-Pop-Eudora.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-eudora/Eudora-Midnight-s-Allure-Atomic-Pop-Eudora.zip) |
+| Midnight s Allure Backup | [Eudora-Midnight-s-Allure-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-eudora/Eudora-Midnight-s-Allure-Backup.zip) |
+| Midnight s Allure Christmas Carnival | [Eudora-Midnight-s-Allure-Christmas-Carnival.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-eudora/Eudora-Midnight-s-Allure-Christmas-Carnival.zip) |
+| Midnight s Allure Cosmic Voyage | [Eudora-Midnight-s-Allure-Cosmic-Voyage.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-eudora/Eudora-Midnight-s-Allure-Cosmic-Voyage.zip) |
+| Midnight s Allure Countess Scarlet | [Eudora-Midnight-s-Allure-Countess-Scarlet.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-eudora/Eudora-Midnight-s-Allure-Countess-Scarlet.zip) |
+| Midnight s Allure Emerald Enchantress | [Eudora-Midnight-s-Allure-Emerald-Enchantress.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-eudora/Eudora-Midnight-s-Allure-Emerald-Enchantress.zip) |
+| Midnight s Allure Flame Red Lips | [Eudora-Midnight-s-Allure-Flame-Red-Lips.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-eudora/Eudora-Midnight-s-Allure-Flame-Red-Lips.zip) |
+| Midnight s Allure Vivo Selfie Goddess | [Eudora-Midnight-s-Allure-Vivo-Selfie-Goddess.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-eudora/Eudora-Midnight-s-Allure-Vivo-Selfie-Goddess.zip) |
+| Vivo Selfie Goddess Atomic Pop Eudora | [Eudora-Vivo-Selfie-Goddess-Atomic-Pop-Eudora.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-eudora/Eudora-Vivo-Selfie-Goddess-Atomic-Pop-Eudora.zip) |
 | Vivo Selfie Goddess Backup | [Eudora-Vivo-Selfie-Goddess-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-eudora/Eudora-Vivo-Selfie-Goddess-Backup.zip) |
+| Vivo Selfie Goddess Christmas Carnival | [Eudora-Vivo-Selfie-Goddess-Christmas-Carnival.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-eudora/Eudora-Vivo-Selfie-Goddess-Christmas-Carnival.zip) |
+| Vivo Selfie Goddess Cosmic Voyage | [Eudora-Vivo-Selfie-Goddess-Cosmic-Voyage.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-eudora/Eudora-Vivo-Selfie-Goddess-Cosmic-Voyage.zip) |
+| Vivo Selfie Goddess Countess Scarlet | [Eudora-Vivo-Selfie-Goddess-Countess-Scarlet.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-eudora/Eudora-Vivo-Selfie-Goddess-Countess-Scarlet.zip) |
 | Vivo Selfie Goddess Emerald Enchantress | [Eudora-Vivo-Selfie-Goddess-Emerald-Enchantress.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-eudora/Eudora-Vivo-Selfie-Goddess-Emerald-Enchantress.zip) |
+| Vivo Selfie Goddess Flame Red Lips | [Eudora-Vivo-Selfie-Goddess-Flame-Red-Lips.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-eudora/Eudora-Vivo-Selfie-Goddess-Flame-Red-Lips.zip) |
+| Vivo Selfie Goddess Midnight s Allure | [Eudora-Vivo-Selfie-Goddess-Midnight-s-Allure.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-eudora/Eudora-Vivo-Selfie-Goddess-Midnight-s-Allure.zip) |
