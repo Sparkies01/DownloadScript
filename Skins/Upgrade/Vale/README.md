@@ -15,6 +15,7 @@ Validated upgrade-skin packages. All downloads are published in the
 | Beta Skin 09 Detected in Beta Mirror Soaring Devata | [Vale-Beta-Skin-09-Detected-in-Beta-Mirror-Soaring-Devata.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-vale/Vale-Beta-Skin-09-Detected-in-Beta-Mirror-Soaring-Devata.zip) |
 | Beta Skin 09 Detected in Beta Mirror Supernal Tempest | [Vale-Beta-Skin-09-Detected-in-Beta-Mirror-Supernal-Tempest.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-vale/Vale-Beta-Skin-09-Detected-in-Beta-Mirror-Supernal-Tempest.zip) |
 | Blizzard Storm Backup | [Vale-Blizzard-Storm-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-vale/Vale-Blizzard-Storm-Backup.zip) |
+| Blizzard Storm Beta Skin 09 Detected in Beta Mirror | [Vale-Blizzard-Storm-Beta-Skin-09-Detected-in-Beta-Mirror.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-vale/Vale-Blizzard-Storm-Beta-Skin-09-Detected-in-Beta-Mirror.zip) |
 | Blizzard Storm Cerulean Winds | [Vale-Blizzard-Storm-Cerulean-Winds.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-vale/Vale-Blizzard-Storm-Cerulean-Winds.zip) |
 | Blizzard Storm Concerto of Light | [Vale-Blizzard-Storm-Concerto-of-Light.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-vale/Vale-Blizzard-Storm-Concerto-of-Light.zip) |
 | Blizzard Storm Gaara | [Vale-Blizzard-Storm-Gaara.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-vale/Vale-Blizzard-Storm-Gaara.zip) |
@@ -23,6 +24,7 @@ Validated upgrade-skin packages. All downloads are published in the
 | Blizzard Storm Soaring Devata | [Vale-Blizzard-Storm-Soaring-Devata.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-vale/Vale-Blizzard-Storm-Soaring-Devata.zip) |
 | Blizzard Storm Supernal Tempest | [Vale-Blizzard-Storm-Supernal-Tempest.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-vale/Vale-Blizzard-Storm-Supernal-Tempest.zip) |
 | Cerulean Winds Backup | [Vale-Cerulean-Winds-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-vale/Vale-Cerulean-Winds-Backup.zip) |
+| Cerulean Winds Beta Skin 09 Detected in Beta Mirror | [Vale-Cerulean-Winds-Beta-Skin-09-Detected-in-Beta-Mirror.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-vale/Vale-Cerulean-Winds-Beta-Skin-09-Detected-in-Beta-Mirror.zip) |
 | Cerulean Winds Blizzard Storm | [Vale-Cerulean-Winds-Blizzard-Storm.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-vale/Vale-Cerulean-Winds-Blizzard-Storm.zip) |
 | Cerulean Winds Concerto of Light | [Vale-Cerulean-Winds-Concerto-of-Light.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-vale/Vale-Cerulean-Winds-Concerto-of-Light.zip) |
 | Cerulean Winds Gaara | [Vale-Cerulean-Winds-Gaara.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-vale/Vale-Cerulean-Winds-Gaara.zip) |
@@ -49,6 +51,7 @@ Validated upgrade-skin packages. All downloads are published in the
 | Gaara Soaring Devata | [Vale-Gaara-Soaring-Devata.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-vale/Vale-Gaara-Soaring-Devata.zip) |
 | Gaara Supernal Tempest | [Vale-Gaara-Supernal-Tempest.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-vale/Vale-Gaara-Supernal-Tempest.zip) |
 | Kannagi Backup | [Vale-Kannagi-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-vale/Vale-Kannagi-Backup.zip) |
+| Kannagi Beta Skin 09 Detected in Beta Mirror | [Vale-Kannagi-Beta-Skin-09-Detected-in-Beta-Mirror.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-vale/Vale-Kannagi-Beta-Skin-09-Detected-in-Beta-Mirror.zip) |
 | Kannagi Blizzard Storm | [Vale-Kannagi-Blizzard-Storm.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-vale/Vale-Kannagi-Blizzard-Storm.zip) |
 | Kannagi Cerulean Winds | [Vale-Kannagi-Cerulean-Winds.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-vale/Vale-Kannagi-Cerulean-Winds.zip) |
 | Kannagi Concerto of Light | [Vale-Kannagi-Concerto-of-Light.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-vale/Vale-Kannagi-Concerto-of-Light.zip) |
