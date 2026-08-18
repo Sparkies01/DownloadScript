@@ -5,17 +5,16 @@ Validated upgrade-skin packages. All downloads are published in the
 
 | Package | Download |
 | --- | --- |
-| Basic Jellyman | [Gloo-Basic-Jellyman.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gloo/Gloo-Basic-Jellyman.zip) |
-| Basic Special | [Gloo-Basic-Special.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gloo/Gloo-Basic-Special.zip) |
-| Basic SpongeBob | [Gloo-Basic-SpongeBob.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gloo/Gloo-Basic-SpongeBob.zip) |
-| Basic Verdant Enchanter | [Gloo-Basic-Verdant-Enchanter.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gloo/Gloo-Basic-Verdant-Enchanter.zip) |
-| Default Special | [Gloo-Default-Special.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gloo/Gloo-Default-Special.zip) |
-| Default SpongeBob | [Gloo-Default-SpongeBob.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gloo/Gloo-Default-SpongeBob.zip) |
-| Special SpongeBob | [Gloo-Special-SpongeBob.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gloo/Gloo-Special-SpongeBob.zip) |
-| Swamp Spirits Abominable Snowgloo | [Gloo-Swamp-Spirits-Abominable-Snowgloo.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gloo/Gloo-Swamp-Spirits-Abominable-Snowgloo.zip) |
-| Swamp Spirits Backup | [Gloo-Swamp-Spirits-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gloo/Gloo-Swamp-Spirits-Backup.zip) |
-| Swamp Spirits Jellyman | [Gloo-Swamp-Spirits-Jellyman.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gloo/Gloo-Swamp-Spirits-Jellyman.zip) |
-| Swamp Spirits Patrick Star | [Gloo-Swamp-Spirits-Patrick-Star.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gloo/Gloo-Swamp-Spirits-Patrick-Star.zip) |
-| Swamp Spirits Verdant Enchanter | [Gloo-Swamp-Spirits-Verdant-Enchanter.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gloo/Gloo-Swamp-Spirits-Verdant-Enchanter.zip) |
+| Beta Skin 04 Detected in Beta Mirror Backup | [Gloo-Beta-Skin-04-Detected-in-Beta-Mirror-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gloo/Gloo-Beta-Skin-04-Detected-in-Beta-Mirror-Backup.zip) |
+| Beta Skin 04 Detected in Beta Mirror Jellyman | [Gloo-Beta-Skin-04-Detected-in-Beta-Mirror-Jellyman.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gloo/Gloo-Beta-Skin-04-Detected-in-Beta-Mirror-Jellyman.zip) |
+| Beta Skin 04 Detected in Beta Mirror Patrick | [Gloo-Beta-Skin-04-Detected-in-Beta-Mirror-Patrick.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gloo/Gloo-Beta-Skin-04-Detected-in-Beta-Mirror-Patrick.zip) |
+| Beta Skin 04 Detected in Beta Mirror Verdant Enchanter | [Gloo-Beta-Skin-04-Detected-in-Beta-Mirror-Verdant-Enchanter.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gloo/Gloo-Beta-Skin-04-Detected-in-Beta-Mirror-Verdant-Enchanter.zip) |
+| Jellyman Backup | [Gloo-Jellyman-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gloo/Gloo-Jellyman-Backup.zip) |
+| Jellyman Patrick | [Gloo-Jellyman-Patrick.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gloo/Gloo-Jellyman-Patrick.zip) |
+| Jellyman Verdant Enchanter | [Gloo-Jellyman-Verdant-Enchanter.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gloo/Gloo-Jellyman-Verdant-Enchanter.zip) |
+| Patrick Backup | [Gloo-Patrick-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gloo/Gloo-Patrick-Backup.zip) |
+| Patrick Jellyman | [Gloo-Patrick-Jellyman.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gloo/Gloo-Patrick-Jellyman.zip) |
+| Patrick Verdant Enchanter | [Gloo-Patrick-Verdant-Enchanter.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gloo/Gloo-Patrick-Verdant-Enchanter.zip) |
 | Verdant Enchanter Backup | [Gloo-Verdant-Enchanter-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gloo/Gloo-Verdant-Enchanter-Backup.zip) |
 | Verdant Enchanter Jellyman | [Gloo-Verdant-Enchanter-Jellyman.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gloo/Gloo-Verdant-Enchanter-Jellyman.zip) |
+| Verdant Enchanter Patrick | [Gloo-Verdant-Enchanter-Patrick.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-gloo/Gloo-Verdant-Enchanter-Patrick.zip) |
