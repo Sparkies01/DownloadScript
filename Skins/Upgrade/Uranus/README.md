@@ -5,26 +5,39 @@ Validated upgrade-skin packages. All downloads are published in the
 
 | Package | Download |
 | --- | --- |
-| Aethereal Defender Backup | [Uranus-Aethereal-Defender-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-uranus/Uranus-Aethereal-Defender-Backup.zip) |
-| Aethereal Defender Celestial Bastion | [Uranus-Aethereal-Defender-Celestial-Bastion.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-uranus/Uranus-Aethereal-Defender-Celestial-Bastion.zip) |
-| Aethereal Defender Earthen Relic | [Uranus-Aethereal-Defender-Earthen-Relic.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-uranus/Uranus-Aethereal-Defender-Earthen-Relic.zip) |
-| Aethereal Defender Mech Protector | [Uranus-Aethereal-Defender-Mech-Protector.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-uranus/Uranus-Aethereal-Defender-Mech-Protector.zip) |
-| Aethereal Defender Pinball Machine | [Uranus-Aethereal-Defender-Pinball-Machine.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-uranus/Uranus-Aethereal-Defender-Pinball-Machine.zip) |
-| Aethereal Defender Video Game Dominator | [Uranus-Aethereal-Defender-Video-Game-Dominator.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-uranus/Uranus-Aethereal-Defender-Video-Game-Dominator.zip) |
-| Aethereal Defender Video Game | [Uranus-Aethereal-Defender-Video-Game.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-uranus/Uranus-Aethereal-Defender-Video-Game.zip) |
 | Ancient Soul Backup | [Uranus-Ancient-Soul-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-uranus/Uranus-Ancient-Soul-Backup.zip) |
 | Ancient Soul Celestial Bastion | [Uranus-Ancient-Soul-Celestial-Bastion.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-uranus/Uranus-Ancient-Soul-Celestial-Bastion.zip) |
+| Ancient Soul Earthen Relic | [Uranus-Ancient-Soul-Earthen-Relic.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-uranus/Uranus-Ancient-Soul-Earthen-Relic.zip) |
+| Ancient Soul Mech Protector | [Uranus-Ancient-Soul-Mech-Protector.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-uranus/Uranus-Ancient-Soul-Mech-Protector.zip) |
+| Ancient Soul Pinball Machine | [Uranus-Ancient-Soul-Pinball-Machine.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-uranus/Uranus-Ancient-Soul-Pinball-Machine.zip) |
 | Ancient Soul Video Game Dominator | [Uranus-Ancient-Soul-Video-Game-Dominator.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-uranus/Uranus-Ancient-Soul-Video-Game-Dominator.zip) |
-| Basic Ancient Soul | [Uranus-Basic-Ancient-Soul.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-uranus/Uranus-Basic-Ancient-Soul.zip) |
-| Basic Celestial Bastion | [Uranus-Basic-Celestial-Bastion.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-uranus/Uranus-Basic-Celestial-Bastion.zip) |
-| Basic Luckybox | [Uranus-Basic-Luckybox.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-uranus/Uranus-Basic-Luckybox.zip) |
-| Basic Video Game Dominator | [Uranus-Basic-Video-Game-Dominator.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-uranus/Uranus-Basic-Video-Game-Dominator.zip) |
-| Default Luckybox | [Uranus-Default-Luckybox.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-uranus/Uranus-Default-Luckybox.zip) |
+| Celestial Bastion Ancient Soul | [Uranus-Celestial-Bastion-Ancient-Soul.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-uranus/Uranus-Celestial-Bastion-Ancient-Soul.zip) |
+| Celestial Bastion Backup | [Uranus-Celestial-Bastion-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-uranus/Uranus-Celestial-Bastion-Backup.zip) |
+| Celestial Bastion Earthen Relic | [Uranus-Celestial-Bastion-Earthen-Relic.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-uranus/Uranus-Celestial-Bastion-Earthen-Relic.zip) |
+| Celestial Bastion Mech Protector | [Uranus-Celestial-Bastion-Mech-Protector.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-uranus/Uranus-Celestial-Bastion-Mech-Protector.zip) |
+| Celestial Bastion Pinball Machine | [Uranus-Celestial-Bastion-Pinball-Machine.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-uranus/Uranus-Celestial-Bastion-Pinball-Machine.zip) |
+| Celestial Bastion Video Game Dominator | [Uranus-Celestial-Bastion-Video-Game-Dominator.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-uranus/Uranus-Celestial-Bastion-Video-Game-Dominator.zip) |
+| Earthen Relic Ancient Soul | [Uranus-Earthen-Relic-Ancient-Soul.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-uranus/Uranus-Earthen-Relic-Ancient-Soul.zip) |
 | Earthen Relic Backup | [Uranus-Earthen-Relic-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-uranus/Uranus-Earthen-Relic-Backup.zip) |
 | Earthen Relic Celestial Bastion | [Uranus-Earthen-Relic-Celestial-Bastion.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-uranus/Uranus-Earthen-Relic-Celestial-Bastion.zip) |
-| Epic Luckybox | [Uranus-Epic-Luckybox.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-uranus/Uranus-Epic-Luckybox.zip) |
-| Rising Luckybox | [Uranus-Rising-Luckybox.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-uranus/Uranus-Rising-Luckybox.zip) |
-| S25 Celestial Bastion | [Uranus-S25-Celestial-Bastion.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-uranus/Uranus-S25-Celestial-Bastion.zip) |
-| S25 Earthen Relic | [Uranus-S25-Earthen-Relic.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-uranus/Uranus-S25-Earthen-Relic.zip) |
-| Season 25 Luckybox | [Uranus-Season-25-Luckybox.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-uranus/Uranus-Season-25-Luckybox.zip) |
-| Special Luckybox | [Uranus-Special-Luckybox.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-uranus/Uranus-Special-Luckybox.zip) |
+| Earthen Relic Mech Protector | [Uranus-Earthen-Relic-Mech-Protector.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-uranus/Uranus-Earthen-Relic-Mech-Protector.zip) |
+| Earthen Relic Pinball Machine | [Uranus-Earthen-Relic-Pinball-Machine.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-uranus/Uranus-Earthen-Relic-Pinball-Machine.zip) |
+| Earthen Relic Video Game Dominator | [Uranus-Earthen-Relic-Video-Game-Dominator.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-uranus/Uranus-Earthen-Relic-Video-Game-Dominator.zip) |
+| Mech Protector Ancient Soul | [Uranus-Mech-Protector-Ancient-Soul.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-uranus/Uranus-Mech-Protector-Ancient-Soul.zip) |
+| Mech Protector Backup | [Uranus-Mech-Protector-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-uranus/Uranus-Mech-Protector-Backup.zip) |
+| Mech Protector Celestial Bastion | [Uranus-Mech-Protector-Celestial-Bastion.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-uranus/Uranus-Mech-Protector-Celestial-Bastion.zip) |
+| Mech Protector Earthen Relic | [Uranus-Mech-Protector-Earthen-Relic.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-uranus/Uranus-Mech-Protector-Earthen-Relic.zip) |
+| Mech Protector Pinball Machine | [Uranus-Mech-Protector-Pinball-Machine.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-uranus/Uranus-Mech-Protector-Pinball-Machine.zip) |
+| Mech Protector Video Game Dominator | [Uranus-Mech-Protector-Video-Game-Dominator.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-uranus/Uranus-Mech-Protector-Video-Game-Dominator.zip) |
+| Pinball Machine Ancient Soul | [Uranus-Pinball-Machine-Ancient-Soul.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-uranus/Uranus-Pinball-Machine-Ancient-Soul.zip) |
+| Pinball Machine Backup | [Uranus-Pinball-Machine-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-uranus/Uranus-Pinball-Machine-Backup.zip) |
+| Pinball Machine Celestial Bastion | [Uranus-Pinball-Machine-Celestial-Bastion.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-uranus/Uranus-Pinball-Machine-Celestial-Bastion.zip) |
+| Pinball Machine Earthen Relic | [Uranus-Pinball-Machine-Earthen-Relic.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-uranus/Uranus-Pinball-Machine-Earthen-Relic.zip) |
+| Pinball Machine Mech Protector | [Uranus-Pinball-Machine-Mech-Protector.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-uranus/Uranus-Pinball-Machine-Mech-Protector.zip) |
+| Pinball Machine Video Game Dominator | [Uranus-Pinball-Machine-Video-Game-Dominator.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-uranus/Uranus-Pinball-Machine-Video-Game-Dominator.zip) |
+| Video Game Dominator Ancient Soul | [Uranus-Video-Game-Dominator-Ancient-Soul.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-uranus/Uranus-Video-Game-Dominator-Ancient-Soul.zip) |
+| Video Game Dominator Backup | [Uranus-Video-Game-Dominator-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-uranus/Uranus-Video-Game-Dominator-Backup.zip) |
+| Video Game Dominator Celestial Bastion | [Uranus-Video-Game-Dominator-Celestial-Bastion.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-uranus/Uranus-Video-Game-Dominator-Celestial-Bastion.zip) |
+| Video Game Dominator Earthen Relic | [Uranus-Video-Game-Dominator-Earthen-Relic.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-uranus/Uranus-Video-Game-Dominator-Earthen-Relic.zip) |
+| Video Game Dominator Mech Protector | [Uranus-Video-Game-Dominator-Mech-Protector.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-uranus/Uranus-Video-Game-Dominator-Mech-Protector.zip) |
+| Video Game Dominator Pinball Machine | [Uranus-Video-Game-Dominator-Pinball-Machine.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-uranus/Uranus-Video-Game-Dominator-Pinball-Machine.zip) |
