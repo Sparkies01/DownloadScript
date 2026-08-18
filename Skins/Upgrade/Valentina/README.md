@@ -7,33 +7,37 @@ Validated upgrade-skin packages. All downloads are published in the
 | --- | --- |
 | Archmagister Backup | [Valentina-Archmagister-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-valentina/Valentina-Archmagister-Backup.zip) |
 | Archmagister Celestial Judicator | [Valentina-Archmagister-Celestial-Judicator.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-valentina/Valentina-Archmagister-Celestial-Judicator.zip) |
-| Basic Celestial Judicator | [Valentina-Basic-Celestial-Judicator.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-valentina/Valentina-Basic-Celestial-Judicator.zip) |
-| Basic Collector | [Valentina-Basic-Collector.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-valentina/Valentina-Basic-Collector.zip) |
-| Basic Cyber Agent | [Valentina-Basic-Cyber-Agent.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-valentina/Valentina-Basic-Cyber-Agent.zip) |
-| Basic Dark Nexus | [Valentina-Basic-Dark-Nexus.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-valentina/Valentina-Basic-Dark-Nexus.zip) |
-| Basic Twilight Charmer | [Valentina-Basic-Twilight-Charmer.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-valentina/Valentina-Basic-Twilight-Charmer.zip) |
+| Archmagister Cyber Agent | [Valentina-Archmagister-Cyber-Agent.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-valentina/Valentina-Archmagister-Cyber-Agent.zip) |
+| Archmagister Dark Nexus | [Valentina-Archmagister-Dark-Nexus.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-valentina/Valentina-Archmagister-Dark-Nexus.zip) |
+| Archmagister Grand Gala | [Valentina-Archmagister-Grand-Gala.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-valentina/Valentina-Archmagister-Grand-Gala.zip) |
+| Archmagister Twilight Charmer | [Valentina-Archmagister-Twilight-Charmer.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-valentina/Valentina-Archmagister-Twilight-Charmer.zip) |
+| Celestial Judicator Archmagister | [Valentina-Celestial-Judicator-Archmagister.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-valentina/Valentina-Celestial-Judicator-Archmagister.zip) |
+| Celestial Judicator Backup | [Valentina-Celestial-Judicator-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-valentina/Valentina-Celestial-Judicator-Backup.zip) |
+| Celestial Judicator Cyber Agent | [Valentina-Celestial-Judicator-Cyber-Agent.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-valentina/Valentina-Celestial-Judicator-Cyber-Agent.zip) |
+| Celestial Judicator Dark Nexus | [Valentina-Celestial-Judicator-Dark-Nexus.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-valentina/Valentina-Celestial-Judicator-Dark-Nexus.zip) |
+| Celestial Judicator Grand Gala | [Valentina-Celestial-Judicator-Grand-Gala.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-valentina/Valentina-Celestial-Judicator-Grand-Gala.zip) |
+| Celestial Judicator Twilight Charmer | [Valentina-Celestial-Judicator-Twilight-Charmer.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-valentina/Valentina-Celestial-Judicator-Twilight-Charmer.zip) |
+| Cyber Agent Archmagister | [Valentina-Cyber-Agent-Archmagister.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-valentina/Valentina-Cyber-Agent-Archmagister.zip) |
 | Cyber Agent Backup | [Valentina-Cyber-Agent-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-valentina/Valentina-Cyber-Agent-Backup.zip) |
 | Cyber Agent Celestial Judicator | [Valentina-Cyber-Agent-Celestial-Judicator.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-valentina/Valentina-Cyber-Agent-Celestial-Judicator.zip) |
+| Cyber Agent Dark Nexus | [Valentina-Cyber-Agent-Dark-Nexus.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-valentina/Valentina-Cyber-Agent-Dark-Nexus.zip) |
+| Cyber Agent Grand Gala | [Valentina-Cyber-Agent-Grand-Gala.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-valentina/Valentina-Cyber-Agent-Grand-Gala.zip) |
+| Cyber Agent Twilight Charmer | [Valentina-Cyber-Agent-Twilight-Charmer.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-valentina/Valentina-Cyber-Agent-Twilight-Charmer.zip) |
+| Dark Nexus Archmagister | [Valentina-Dark-Nexus-Archmagister.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-valentina/Valentina-Dark-Nexus-Archmagister.zip) |
 | Dark Nexus Backup | [Valentina-Dark-Nexus-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-valentina/Valentina-Dark-Nexus-Backup.zip) |
 | Dark Nexus Celestial Judicator | [Valentina-Dark-Nexus-Celestial-Judicator.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-valentina/Valentina-Dark-Nexus-Celestial-Judicator.zip) |
-| Default Collector | [Valentina-Default-Collector.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-valentina/Valentina-Default-Collector.zip) |
-| Elite Archmagister | [Valentina-Elite-Archmagister.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-valentina/Valentina-Elite-Archmagister.zip) |
-| Elite Celestial Judicator | [Valentina-Elite-Celestial-Judicator.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-valentina/Valentina-Elite-Celestial-Judicator.zip) |
-| Elite Collector | [Valentina-Elite-Collector.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-valentina/Valentina-Elite-Collector.zip) |
-| MSC 2024 Collector | [Valentina-MSC-2024-Collector.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-valentina/Valentina-MSC-2024-Collector.zip) |
-| MSC Celestial Judicator | [Valentina-MSC-Celestial-Judicator.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-valentina/Valentina-MSC-Celestial-Judicator.zip) |
-| MSC Dark Nexus | [Valentina-MSC-Dark-Nexus.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-valentina/Valentina-MSC-Dark-Nexus.zip) |
-| Prophetess of the Night Archmagister | [Valentina-Prophetess-of-the-Night-Archmagister.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-valentina/Valentina-Prophetess-of-the-Night-Archmagister.zip) |
-| Prophetess of the Night Backup | [Valentina-Prophetess-of-the-Night-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-valentina/Valentina-Prophetess-of-the-Night-Backup.zip) |
-| Prophetess of the Night Calestial judicator | [Valentina-Prophetess-of-the-Night-Calestial-judicator.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-valentina/Valentina-Prophetess-of-the-Night-Calestial-judicator.zip) |
-| Prophetess of the Night Celestial Judicator | [Valentina-Prophetess-of-the-Night-Celestial-Judicator.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-valentina/Valentina-Prophetess-of-the-Night-Celestial-Judicator.zip) |
-| Prophetess of the Night Cyber Agent | [Valentina-Prophetess-of-the-Night-Cyber-Agent.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-valentina/Valentina-Prophetess-of-the-Night-Cyber-Agent.zip) |
-| Prophetess of the Night Dark Nexus | [Valentina-Prophetess-of-the-Night-Dark-Nexus.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-valentina/Valentina-Prophetess-of-the-Night-Dark-Nexus.zip) |
-| Prophetess of the Night Grand Gala | [Valentina-Prophetess-of-the-Night-Grand-Gala.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-valentina/Valentina-Prophetess-of-the-Night-Grand-Gala.zip) |
-| Starlight 2023 Collector | [Valentina-Starlight-2023-Collector.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-valentina/Valentina-Starlight-2023-Collector.zip) |
-| Starlight Celestial Judicator | [Valentina-Starlight-Celestial-Judicator.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-valentina/Valentina-Starlight-Celestial-Judicator.zip) |
-| Starlight Cyber Agent | [Valentina-Starlight-Cyber-Agent.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-valentina/Valentina-Starlight-Cyber-Agent.zip) |
+| Dark Nexus Cyber Agent | [Valentina-Dark-Nexus-Cyber-Agent.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-valentina/Valentina-Dark-Nexus-Cyber-Agent.zip) |
+| Dark Nexus Grand Gala | [Valentina-Dark-Nexus-Grand-Gala.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-valentina/Valentina-Dark-Nexus-Grand-Gala.zip) |
+| Dark Nexus Twilight Charmer | [Valentina-Dark-Nexus-Twilight-Charmer.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-valentina/Valentina-Dark-Nexus-Twilight-Charmer.zip) |
+| Grand Gala Archmagister | [Valentina-Grand-Gala-Archmagister.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-valentina/Valentina-Grand-Gala-Archmagister.zip) |
+| Grand Gala Backup | [Valentina-Grand-Gala-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-valentina/Valentina-Grand-Gala-Backup.zip) |
+| Grand Gala Celestial Judicator | [Valentina-Grand-Gala-Celestial-Judicator.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-valentina/Valentina-Grand-Gala-Celestial-Judicator.zip) |
+| Grand Gala Cyber Agent | [Valentina-Grand-Gala-Cyber-Agent.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-valentina/Valentina-Grand-Gala-Cyber-Agent.zip) |
+| Grand Gala Dark Nexus | [Valentina-Grand-Gala-Dark-Nexus.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-valentina/Valentina-Grand-Gala-Dark-Nexus.zip) |
+| Grand Gala Twilight Charmer | [Valentina-Grand-Gala-Twilight-Charmer.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-valentina/Valentina-Grand-Gala-Twilight-Charmer.zip) |
+| Twilight Charmer Archmagister | [Valentina-Twilight-Charmer-Archmagister.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-valentina/Valentina-Twilight-Charmer-Archmagister.zip) |
 | Twilight Charmer Backup | [Valentina-Twilight-Charmer-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-valentina/Valentina-Twilight-Charmer-Backup.zip) |
 | Twilight Charmer Celestial Judicator | [Valentina-Twilight-Charmer-Celestial-Judicator.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-valentina/Valentina-Twilight-Charmer-Celestial-Judicator.zip) |
 | Twilight Charmer Cyber Agent | [Valentina-Twilight-Charmer-Cyber-Agent.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-valentina/Valentina-Twilight-Charmer-Cyber-Agent.zip) |
 | Twilight Charmer Dark Nexus | [Valentina-Twilight-Charmer-Dark-Nexus.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-valentina/Valentina-Twilight-Charmer-Dark-Nexus.zip) |
+| Twilight Charmer Grand Gala | [Valentina-Twilight-Charmer-Grand-Gala.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-valentina/Valentina-Twilight-Charmer-Grand-Gala.zip) |
