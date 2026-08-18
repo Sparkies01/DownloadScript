@@ -20,7 +20,6 @@ Validated upgrade-skin packages. All downloads are published in the
 | Carmine Craze Aries | [Hilda-Carmine-Craze-Aries.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hilda/Hilda-Carmine-Craze-Aries.zip) |
 | Carmine Craze Backup | [Hilda-Carmine-Craze-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hilda/Hilda-Carmine-Craze-Backup.zip) |
 | Carmine Craze Bass Craze | [Hilda-Carmine-Craze-Bass-Craze.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hilda/Hilda-Carmine-Craze-Bass-Craze.zip) |
-| Carmine Craze Carmine Craze | [Hilda-Carmine-Craze-Carmine-Craze.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hilda/Hilda-Carmine-Craze-Carmine-Craze.zip) |
 | Carmine Craze Flower of the Wastes | [Hilda-Carmine-Craze-Flower-of-the-Wastes.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hilda/Hilda-Carmine-Craze-Flower-of-the-Wastes.zip) |
 | Carmine Craze Power of Wildness | [Hilda-Carmine-Craze-Power-of-Wildness.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hilda/Hilda-Carmine-Craze-Power-of-Wildness.zip) |
 | Carmine Craze Sacred Guard | [Hilda-Carmine-Craze-Sacred-Guard.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hilda/Hilda-Carmine-Craze-Sacred-Guard.zip) |
