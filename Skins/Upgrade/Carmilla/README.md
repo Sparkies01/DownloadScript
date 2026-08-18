@@ -5,16 +5,19 @@ Validated upgrade-skin packages. All downloads are published in the
 
 | Package | Download |
 | --- | --- |
-| Basic Epic | [Carmilla-Basic-Epic.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-carmilla/Carmilla-Basic-Epic.zip) |
-| Basic Phantom Countess | [Carmilla-Basic-Phantom-Countess.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-carmilla/Carmilla-Basic-Phantom-Countess.zip) |
-| Basic Wisteria Countess | [Carmilla-Basic-Wisteria-Countess.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-carmilla/Carmilla-Basic-Wisteria-Countess.zip) |
-| Default Epic | [Carmilla-Default-Epic.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-carmilla/Carmilla-Default-Epic.zip) |
-| Shadow of Twilight Astral Arcana | [Carmilla-Shadow-of-Twilight-Astral-Arcana.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-carmilla/Carmilla-Shadow-of-Twilight-Astral-Arcana.zip) |
-| Shadow of Twilight Backup | [Carmilla-Shadow-of-Twilight-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-carmilla/Carmilla-Shadow-of-Twilight-Backup.zip) |
-| Shadow of Twilight Magician Girl | [Carmilla-Shadow-of-Twilight-Magician-Girl.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-carmilla/Carmilla-Shadow-of-Twilight-Magician-Girl.zip) |
-| Shadow of Twilight Magician Gril | [Carmilla-Shadow-of-Twilight-Magician-Gril.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-carmilla/Carmilla-Shadow-of-Twilight-Magician-Gril.zip) |
-| Shadow of Twilight Phantom Countess | [Carmilla-Shadow-of-Twilight-Phantom-Countess.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-carmilla/Carmilla-Shadow-of-Twilight-Phantom-Countess.zip) |
-| Wisteria Count Backup | [Carmilla-Wisteria-Count-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-carmilla/Carmilla-Wisteria-Count-Backup.zip) |
-| Wisteria Count Phantom Countess | [Carmilla-Wisteria-Count-Phantom-Countess.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-carmilla/Carmilla-Wisteria-Count-Phantom-Countess.zip) |
+| Astral Arcana Backup | [Carmilla-Astral-Arcana-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-carmilla/Carmilla-Astral-Arcana-Backup.zip) |
+| Astral Arcana Magician Girl | [Carmilla-Astral-Arcana-Magician-Girl.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-carmilla/Carmilla-Astral-Arcana-Magician-Girl.zip) |
+| Astral Arcana Phantom Countess | [Carmilla-Astral-Arcana-Phantom-Countess.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-carmilla/Carmilla-Astral-Arcana-Phantom-Countess.zip) |
+| Astral Arcana Wisteria Countess | [Carmilla-Astral-Arcana-Wisteria-Countess.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-carmilla/Carmilla-Astral-Arcana-Wisteria-Countess.zip) |
+| Magician Girl Astral Arcana | [Carmilla-Magician-Girl-Astral-Arcana.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-carmilla/Carmilla-Magician-Girl-Astral-Arcana.zip) |
+| Magician Girl Backup | [Carmilla-Magician-Girl-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-carmilla/Carmilla-Magician-Girl-Backup.zip) |
+| Magician Girl Phantom Countess | [Carmilla-Magician-Girl-Phantom-Countess.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-carmilla/Carmilla-Magician-Girl-Phantom-Countess.zip) |
+| Magician Girl Wisteria Countess | [Carmilla-Magician-Girl-Wisteria-Countess.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-carmilla/Carmilla-Magician-Girl-Wisteria-Countess.zip) |
+| Phantom Countess Astral Arcana | [Carmilla-Phantom-Countess-Astral-Arcana.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-carmilla/Carmilla-Phantom-Countess-Astral-Arcana.zip) |
+| Phantom Countess Backup | [Carmilla-Phantom-Countess-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-carmilla/Carmilla-Phantom-Countess-Backup.zip) |
+| Phantom Countess Magician Girl | [Carmilla-Phantom-Countess-Magician-Girl.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-carmilla/Carmilla-Phantom-Countess-Magician-Girl.zip) |
+| Phantom Countess Wisteria Countess | [Carmilla-Phantom-Countess-Wisteria-Countess.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-carmilla/Carmilla-Phantom-Countess-Wisteria-Countess.zip) |
+| Wisteria Countess Astral Arcana | [Carmilla-Wisteria-Countess-Astral-Arcana.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-carmilla/Carmilla-Wisteria-Countess-Astral-Arcana.zip) |
 | Wisteria Countess Backup | [Carmilla-Wisteria-Countess-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-carmilla/Carmilla-Wisteria-Countess-Backup.zip) |
+| Wisteria Countess Magician Girl | [Carmilla-Wisteria-Countess-Magician-Girl.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-carmilla/Carmilla-Wisteria-Countess-Magician-Girl.zip) |
 | Wisteria Countess Phantom Countess | [Carmilla-Wisteria-Countess-Phantom-Countess.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-carmilla/Carmilla-Wisteria-Countess-Phantom-Countess.zip) |
