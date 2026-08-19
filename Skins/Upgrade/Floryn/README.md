@@ -8,16 +8,19 @@ Validated upgrade-skin packages. All downloads are published in the
 | Fluffy Dream Backup | [Floryn-Fluffy-Dream-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-floryn/Floryn-Fluffy-Dream-Backup.zip) |
 | Fluffy Dream Herald of Autumn | [Floryn-Fluffy-Dream-Herald-of-Autumn.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-floryn/Floryn-Fluffy-Dream-Herald-of-Autumn.zip) |
 | Fluffy Dream Melody of Light | [Floryn-Fluffy-Dream-Melody-of-Light.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-floryn/Floryn-Fluffy-Dream-Melody-of-Light.zip) |
+| Fluffy Dream Paw Power | [Floryn-Fluffy-Dream-Paw-Power.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-floryn/Floryn-Fluffy-Dream-Paw-Power.zip) |
 | Fluffy Dream Springtide | [Floryn-Fluffy-Dream-Springtide.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-floryn/Floryn-Fluffy-Dream-Springtide.zip) |
 | Fluffy Dream Yatai Waitress | [Floryn-Fluffy-Dream-Yatai-Waitress.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-floryn/Floryn-Fluffy-Dream-Yatai-Waitress.zip) |
 | Herald of Autumn Backup | [Floryn-Herald-of-Autumn-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-floryn/Floryn-Herald-of-Autumn-Backup.zip) |
 | Herald of Autumn Fluffy Dream | [Floryn-Herald-of-Autumn-Fluffy-Dream.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-floryn/Floryn-Herald-of-Autumn-Fluffy-Dream.zip) |
 | Herald of Autumn Melody of Light | [Floryn-Herald-of-Autumn-Melody-of-Light.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-floryn/Floryn-Herald-of-Autumn-Melody-of-Light.zip) |
+| Herald of Autumn Paw Power | [Floryn-Herald-of-Autumn-Paw-Power.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-floryn/Floryn-Herald-of-Autumn-Paw-Power.zip) |
 | Herald of Autumn Springtide | [Floryn-Herald-of-Autumn-Springtide.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-floryn/Floryn-Herald-of-Autumn-Springtide.zip) |
 | Herald of Autumn Yatai Waitress | [Floryn-Herald-of-Autumn-Yatai-Waitress.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-floryn/Floryn-Herald-of-Autumn-Yatai-Waitress.zip) |
 | Melody of Light Backup | [Floryn-Melody-of-Light-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-floryn/Floryn-Melody-of-Light-Backup.zip) |
 | Melody of Light Fluffy Dream | [Floryn-Melody-of-Light-Fluffy-Dream.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-floryn/Floryn-Melody-of-Light-Fluffy-Dream.zip) |
 | Melody of Light Herald of Autumn | [Floryn-Melody-of-Light-Herald-of-Autumn.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-floryn/Floryn-Melody-of-Light-Herald-of-Autumn.zip) |
+| Melody of Light Paw Power | [Floryn-Melody-of-Light-Paw-Power.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-floryn/Floryn-Melody-of-Light-Paw-Power.zip) |
 | Melody of Light Springtide | [Floryn-Melody-of-Light-Springtide.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-floryn/Floryn-Melody-of-Light-Springtide.zip) |
 | Melody of Light Yatai Waitress | [Floryn-Melody-of-Light-Yatai-Waitress.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-floryn/Floryn-Melody-of-Light-Yatai-Waitress.zip) |
 | Paw Power Backup | [Floryn-Paw-Power-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-floryn/Floryn-Paw-Power-Backup.zip) |
@@ -30,9 +33,11 @@ Validated upgrade-skin packages. All downloads are published in the
 | Springtide Fluffy Dream | [Floryn-Springtide-Fluffy-Dream.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-floryn/Floryn-Springtide-Fluffy-Dream.zip) |
 | Springtide Herald of Autumn | [Floryn-Springtide-Herald-of-Autumn.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-floryn/Floryn-Springtide-Herald-of-Autumn.zip) |
 | Springtide Melody of Light | [Floryn-Springtide-Melody-of-Light.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-floryn/Floryn-Springtide-Melody-of-Light.zip) |
+| Springtide Paw Power | [Floryn-Springtide-Paw-Power.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-floryn/Floryn-Springtide-Paw-Power.zip) |
 | Springtide Yatai Waitress | [Floryn-Springtide-Yatai-Waitress.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-floryn/Floryn-Springtide-Yatai-Waitress.zip) |
 | Yatai Waitress Backup | [Floryn-Yatai-Waitress-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-floryn/Floryn-Yatai-Waitress-Backup.zip) |
 | Yatai Waitress Fluffy Dream | [Floryn-Yatai-Waitress-Fluffy-Dream.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-floryn/Floryn-Yatai-Waitress-Fluffy-Dream.zip) |
 | Yatai Waitress Herald of Autumn | [Floryn-Yatai-Waitress-Herald-of-Autumn.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-floryn/Floryn-Yatai-Waitress-Herald-of-Autumn.zip) |
 | Yatai Waitress Melody of Light | [Floryn-Yatai-Waitress-Melody-of-Light.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-floryn/Floryn-Yatai-Waitress-Melody-of-Light.zip) |
+| Yatai Waitress Paw Power | [Floryn-Yatai-Waitress-Paw-Power.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-floryn/Floryn-Yatai-Waitress-Paw-Power.zip) |
 | Yatai Waitress Springtide | [Floryn-Yatai-Waitress-Springtide.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-floryn/Floryn-Yatai-Waitress-Springtide.zip) |
