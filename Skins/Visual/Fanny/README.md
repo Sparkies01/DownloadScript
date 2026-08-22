@@ -11,7 +11,6 @@ Downloads are published in [`visual-fanny`](https://github.com/Sparkies01/Downlo
 | Galactic Starhawk | [Fanny-Galactic-Starhawk.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-fanny/Fanny-Galactic-Starhawk.zip) |
 | Heart Afloat | [Fanny-Heart-Afloat.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-fanny/Fanny-Heart-Afloat.zip) |
 | Imperial Warrior | [Fanny-Imperial-Warrior.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-fanny/Fanny-Imperial-Warrior.zip) |
-| Lifeguard | [Fanny-Lifeguard.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-fanny/Fanny-Lifeguard.zip) |
 | Lightborn Ranger | [Fanny-Lightborn-Ranger.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-fanny/Fanny-Lightborn-Ranger.zip) |
 | Mikasa | [Fanny-Mikasa.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-fanny/Fanny-Mikasa.zip) |
 | P ACE Fanny | [Fanny-P-ACE-Fanny.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-fanny/Fanny-P-ACE-Fanny.zip) |
