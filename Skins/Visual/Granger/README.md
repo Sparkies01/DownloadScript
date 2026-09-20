@@ -1,9 +1,8 @@
 # Granger Visual Skins
 
-Validated visual-skin packages. All downloads are published in the
-[`visual-granger`](https://github.com/Sparkies01/DownloadScript/releases/tag/visual-granger) release.
+Downloads are published in [`visual-granger`](https://github.com/Sparkies01/DownloadScript/releases/tag/visual-granger).
 
-| Package | Download |
+| Skin | Download |
 | --- | --- |
 | Agent Z | [Granger-Agent-Z.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-granger/Granger-Agent-Z.zip) |
 | Alluring Enigma | [Granger-Alluring-Enigma.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-granger/Granger-Alluring-Enigma.zip) |
@@ -15,7 +14,7 @@ Validated visual-skin packages. All downloads are published in the
 | Doomsday Terminator | [Granger-Doomsday-Terminator.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-granger/Granger-Doomsday-Terminator.zip) |
 | Exorcist Granger | [Granger-Exorcist-Granger.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-granger/Granger-Exorcist-Granger.zip) |
 | Hellbringer | [Granger-Hellbringer.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-granger/Granger-Hellbringer.zip) |
-| Lightborn - Overrider | [Granger-Lightborn-Overrider.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-granger/Granger-Lightborn-Overrider.zip) |
+| Lightborn Overrider | [Granger-Lightborn-Overrider.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-granger/Granger-Lightborn-Overrider.zip) |
 | Megatron | [Granger-Megatron.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-granger/Granger-Megatron.zip) |
 | Starfall Knight | [Granger-Starfall-Knight.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-granger/Granger-Starfall-Knight.zip) |
 | Thunder Ascendant | [Granger-Thunder-Ascendant.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-granger/Granger-Thunder-Ascendant.zip) |
