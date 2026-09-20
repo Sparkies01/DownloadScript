@@ -1,16 +1,15 @@
 # Yu Zhong Visual Skins
 
-Validated visual-skin packages. All downloads are published in the
-[`visual-yu-zhong`](https://github.com/Sparkies01/DownloadScript/releases/tag/visual-yu-zhong) release.
+Downloads are published in [`visual-yu-zhong`](https://github.com/Sparkies01/DownloadScript/releases/tag/visual-yu-zhong).
 
-| Package | Download |
+| Skin | Download |
 | --- | --- |
-| Backup | [Yu-Zhong-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-yu-zhong/Yu-Zhong-Backup.zip) |
-| Biohazard | [Yu-Zhong-Biohazard.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-yu-zhong/Yu-Zhong-Biohazard.zip) |
-| Blood Serpent | [Yu-Zhong-Blood-Serpent.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-yu-zhong/Yu-Zhong-Blood-Serpent.zip) |
-| Cosmic Dragon | [Yu-Zhong-Cosmic-Dragon.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-yu-zhong/Yu-Zhong-Cosmic-Dragon.zip) |
-| Cyber Tyrant | [Yu-Zhong-Cyber-Tyrant.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-yu-zhong/Yu-Zhong-Cyber-Tyrant.zip) |
-| Dragon's Shade | [Yu-Zhong-Dragon-s-Shade.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-yu-zhong/Yu-Zhong-Dragon-s-Shade.zip) |
-| Emerald Dragon | [Yu-Zhong-Emerald-Dragon.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-yu-zhong/Yu-Zhong-Emerald-Dragon.zip) |
-| Exorcist Yu Zhong | [Yu-Zhong-Exorcist-Yu-Zhong.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-yu-zhong/Yu-Zhong-Exorcist-Yu-Zhong.zip) |
-| Tidescale Sealord | [Yu-Zhong-Tidescale-Sealord.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-yu-zhong/Yu-Zhong-Tidescale-Sealord.zip) |
+| Yu Zhong Backup | [Yu-Zhong-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-yu-zhong/Yu-Zhong-Backup.zip) |
+| Yu Zhong Beta Skin 08 Detected in Beta Mirror | [Yu-Zhong-Beta-Skin-08-Detected-in-Beta-Mirror.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-yu-zhong/Yu-Zhong-Beta-Skin-08-Detected-in-Beta-Mirror.zip) |
+| Yu Zhong Blood Serpent | [Yu-Zhong-Blood-Serpent.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-yu-zhong/Yu-Zhong-Blood-Serpent.zip) |
+| Yu Zhong Champion s Spirit | [Yu-Zhong-Champion-s-Spirit.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-yu-zhong/Yu-Zhong-Champion-s-Spirit.zip) |
+| Yu Zhong Cosmic Dragon | [Yu-Zhong-Cosmic-Dragon.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-yu-zhong/Yu-Zhong-Cosmic-Dragon.zip) |
+| Yu Zhong Draco Grip | [Yu-Zhong-Draco-Grip.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-yu-zhong/Yu-Zhong-Draco-Grip.zip) |
+| Yu Zhong Dragon s Shade | [Yu-Zhong-Dragon-s-Shade.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-yu-zhong/Yu-Zhong-Dragon-s-Shade.zip) |
+| Yu Zhong Exorcist Yu Zhong | [Yu-Zhong-Exorcist-Yu-Zhong.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-yu-zhong/Yu-Zhong-Exorcist-Yu-Zhong.zip) |
+| Yu Zhong Yu Zhong Detected Skin 06 | [Yu-Zhong-Yu-Zhong-Detected-Skin-06.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-yu-zhong/Yu-Zhong-Yu-Zhong-Detected-Skin-06.zip) |
