@@ -1,9 +1,8 @@
 # Cecilion Visual Skins
 
-Validated visual-skin packages. All downloads are published in the
-[`visual-cecilion`](https://github.com/Sparkies01/DownloadScript/releases/tag/visual-cecilion) release.
+Downloads are published in [`visual-cecilion`](https://github.com/Sparkies01/DownloadScript/releases/tag/visual-cecilion).
 
-| Package | Download |
+| Skin | Download |
 | --- | --- |
 | Backup | [Cecilion-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-cecilion/Cecilion-Backup.zip) |
 | Crimson Wings | [Cecilion-Crimson-Wings.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-cecilion/Cecilion-Crimson-Wings.zip) |
