@@ -1,9 +1,8 @@
 # Martis Visual Skins
 
-Validated visual-skin packages. All downloads are published in the
-[`visual-martis`](https://github.com/Sparkies01/DownloadScript/releases/tag/visual-martis) release.
+Downloads are published in [`visual-martis`](https://github.com/Sparkies01/DownloadScript/releases/tag/visual-martis).
 
-| Package | Download |
+| Skin | Download |
 | --- | --- |
 | Backup | [Martis-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-martis/Martis-Backup.zip) |
 | Bloodtide Terror | [Martis-Bloodtide-Terror.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-martis/Martis-Bloodtide-Terror.zip) |
@@ -15,5 +14,3 @@ Validated visual-skin packages. All downloads are published in the
 | Nethersea Terror | [Martis-Nethersea-Terror.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-martis/Martis-Nethersea-Terror.zip) |
 | Searing Maw | [Martis-Searing-Maw.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-martis/Martis-Searing-Maw.zip) |
 | Tyrant | [Martis-Tyrant.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-martis/Martis-Tyrant.zip) |
-| Warlord King | [Martis-Warlord-King.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-martis/Martis-Warlord-King.zip) |
-| Wild Renegade | [Martis-Wild-Renegade.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-martis/Martis-Wild-Renegade.zip) |
