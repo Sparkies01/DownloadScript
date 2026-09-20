@@ -1,16 +1,15 @@
 # Yi Sun-shin Visual Skins
 
-Validated visual-skin packages. All downloads are published in the
-[`visual-yi-sun-shin`](https://github.com/Sparkies01/DownloadScript/releases/tag/visual-yi-sun-shin) release.
+Downloads are published in [`visual-yi-sun-shin`](https://github.com/Sparkies01/DownloadScript/releases/tag/visual-yi-sun-shin).
 
-| Package | Download |
+| Skin | Download |
 | --- | --- |
-| Apocalypse Agent | [Yi-Sun-shin-Apocalypse-Agent.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-yi-sun-shin/Yi-Sun-shin-Apocalypse-Agent.zip) |
-| Azure Sentry | [Yi-Sun-shin-Azure-Sentry.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-yi-sun-shin/Yi-Sun-shin-Azure-Sentry.zip) |
-| Backup | [Yi-Sun-shin-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-yi-sun-shin/Yi-Sun-shin-Backup.zip) |
-| Fleet Warden | [Yi-Sun-shin-Fleet-Warden.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-yi-sun-shin/Yi-Sun-shin-Fleet-Warden.zip) |
-| Lone Destructor | [Yi-Sun-shin-Lone-Destructor.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-yi-sun-shin/Yi-Sun-shin-Lone-Destructor.zip) |
-| Major General | [Yi-Sun-shin-Major-General.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-yi-sun-shin/Yi-Sun-shin-Major-General.zip) |
-| Roguish Ranger | [Yi-Sun-shin-Roguish-Ranger.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-yi-sun-shin/Yi-Sun-shin-Roguish-Ranger.zip) |
-| Surging Torrent | [Yi-Sun-shin-Surging-Torrent.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-yi-sun-shin/Yi-Sun-shin-Surging-Torrent.zip) |
-| Tactical Specialist | [Yi-Sun-shin-Tactical-Specialist.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-yi-sun-shin/Yi-Sun-shin-Tactical-Specialist.zip) |
+| Yi Sun shin Apocalypse Agent | [Yi-Sun-shin-Apocalypse-Agent.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-yi-sun-shin/Yi-Sun-shin-Apocalypse-Agent.zip) |
+| Yi Sun shin Astral Wanderer | [Yi-Sun-shin-Astral-Wanderer.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-yi-sun-shin/Yi-Sun-shin-Astral-Wanderer.zip) |
+| Yi Sun shin Azure Sentry | [Yi-Sun-shin-Azure-Sentry.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-yi-sun-shin/Yi-Sun-shin-Azure-Sentry.zip) |
+| Yi Sun shin Backup | [Yi-Sun-shin-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-yi-sun-shin/Yi-Sun-shin-Backup.zip) |
+| Yi Sun shin Fleet Warden | [Yi-Sun-shin-Fleet-Warden.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-yi-sun-shin/Yi-Sun-shin-Fleet-Warden.zip) |
+| Yi Sun shin Major General | [Yi-Sun-shin-Major-General.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-yi-sun-shin/Yi-Sun-shin-Major-General.zip) |
+| Yi Sun shin Roguish Ranger | [Yi-Sun-shin-Roguish-Ranger.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-yi-sun-shin/Yi-Sun-shin-Roguish-Ranger.zip) |
+| Yi Sun shin Surging Torrent | [Yi-Sun-shin-Surging-Torrent.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-yi-sun-shin/Yi-Sun-shin-Surging-Torrent.zip) |
+| Yi Sun shin Tactical Specialist | [Yi-Sun-shin-Tactical-Specialist.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-yi-sun-shin/Yi-Sun-shin-Tactical-Specialist.zip) |
