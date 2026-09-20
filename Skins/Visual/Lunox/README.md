@@ -1,9 +1,8 @@
 # Lunox Visual Skins
 
-Validated visual-skin packages. All downloads are published in the
-[`visual-lunox`](https://github.com/Sparkies01/DownloadScript/releases/tag/visual-lunox) release.
+Downloads are published in [`visual-lunox`](https://github.com/Sparkies01/DownloadScript/releases/tag/visual-lunox).
 
-| Package | Download |
+| Skin | Download |
 | --- | --- |
 | Ash Blossom | [Lunox-Ash-Blossom.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-lunox/Lunox-Ash-Blossom.zip) |
 | Backup | [Lunox-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-lunox/Lunox-Backup.zip) |
@@ -15,5 +14,5 @@ Validated visual-skin packages. All downloads are published in the
 | Eyes of Eternity | [Lunox-Eyes-of-Eternity.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-lunox/Lunox-Eyes-of-Eternity.zip) |
 | Libra | [Lunox-Libra.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-lunox/Lunox-Libra.zip) |
 | Nature Harmony | [Lunox-Nature-Harmony.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-lunox/Lunox-Nature-Harmony.zip) |
-| Nature's Harmony | [Lunox-Nature-s-Harmony.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-lunox/Lunox-Nature-s-Harmony.zip) |
+| Nature s Harmony | [Lunox-Nature-s-Harmony.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-lunox/Lunox-Nature-s-Harmony.zip) |
 | Quantum Polarity | [Lunox-Quantum-Polarity.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-lunox/Lunox-Quantum-Polarity.zip) |
