@@ -1,9 +1,8 @@
 # Chip Visual Skins
 
-Validated visual-skin packages. All downloads are published in the
-[`visual-chip`](https://github.com/Sparkies01/DownloadScript/releases/tag/visual-chip) release.
+Downloads are published in [`visual-chip`](https://github.com/Sparkies01/DownloadScript/releases/tag/visual-chip).
 
-| Package | Download |
+| Skin | Download |
 | --- | --- |
 | Backup | [Chip-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-chip/Chip-Backup.zip) |
 | Badlands Hiatus | [Chip-Badlands-Hiatus.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-chip/Chip-Badlands-Hiatus.zip) |
