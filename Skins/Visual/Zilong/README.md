@@ -1,9 +1,8 @@
 # Zilong Visual Skins
 
-Validated visual-skin packages. All downloads are published in the
-[`visual-zilong`](https://github.com/Sparkies01/DownloadScript/releases/tag/visual-zilong) release.
+Downloads are published in [`visual-zilong`](https://github.com/Sparkies01/DownloadScript/releases/tag/visual-zilong).
 
-| Package | Download |
+| Skin | Download |
 | --- | --- |
 | Argenta Warrior | [Zilong-Argenta-Warrior.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-zilong/Zilong-Argenta-Warrior.zip) |
 | Backup | [Zilong-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-zilong/Zilong-Backup.zip) |
@@ -11,7 +10,6 @@ Validated visual-skin packages. All downloads are published in the
 | Changbanpo Commander | [Zilong-Changbanpo-Commander.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-zilong/Zilong-Changbanpo-Commander.zip) |
 | Christmas Carnival | [Zilong-Christmas-Carnival.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-zilong/Zilong-Christmas-Carnival.zip) |
 | Dragon of Prosperity | [Zilong-Dragon-of-Prosperity.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-zilong/Zilong-Dragon-of-Prosperity.zip) |
-| Dragon Warrior | [Zilong-Dragon-Warrior.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-zilong/Zilong-Dragon-Warrior.zip) |
 | Eastern Warrior | [Zilong-Eastern-Warrior.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-zilong/Zilong-Eastern-Warrior.zip) |
 | Elite Warrior | [Zilong-Elite-Warrior.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-zilong/Zilong-Elite-Warrior.zip) |
 | Empyrean Paladin | [Zilong-Empyrean-Paladin.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-zilong/Zilong-Empyrean-Paladin.zip) |
