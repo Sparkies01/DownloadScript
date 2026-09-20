@@ -1,9 +1,8 @@
 # Carmilla Visual Skins
 
-Validated visual-skin packages. All downloads are published in the
-[`visual-carmilla`](https://github.com/Sparkies01/DownloadScript/releases/tag/visual-carmilla) release.
+Downloads are published in [`visual-carmilla`](https://github.com/Sparkies01/DownloadScript/releases/tag/visual-carmilla).
 
-| Package | Download |
+| Skin | Download |
 | --- | --- |
 | Astral Arcana | [Carmilla-Astral-Arcana.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-carmilla/Carmilla-Astral-Arcana.zip) |
 | Backup | [Carmilla-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-carmilla/Carmilla-Backup.zip) |
