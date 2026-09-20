@@ -1,9 +1,8 @@
 # Vexana Visual Skins
 
-Validated visual-skin packages. All downloads are published in the
-[`visual-vexana`](https://github.com/Sparkies01/DownloadScript/releases/tag/visual-vexana) release.
+Downloads are published in [`visual-vexana`](https://github.com/Sparkies01/DownloadScript/releases/tag/visual-vexana).
 
-| Package | Download |
+| Skin | Download |
 | --- | --- |
 | Backup | [Vexana-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-vexana/Vexana-Backup.zip) |
 | Circus Magician | [Vexana-Circus-Magician.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-vexana/Vexana-Circus-Magician.zip) |
@@ -13,5 +12,4 @@ Validated visual-skin packages. All downloads are published in the
 | Lucent Beacon | [Vexana-Lucent-Beacon.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-vexana/Vexana-Lucent-Beacon.zip) |
 | Sanguine Rose | [Vexana-Sanguine-Rose.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-vexana/Vexana-Sanguine-Rose.zip) |
 | The Sun Empress | [Vexana-The-Sun-Empress.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-vexana/Vexana-The-Sun-Empress.zip) |
-| Twilight Star | [Vexana-Twilight-Star.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-vexana/Vexana-Twilight-Star.zip) |
 | Twisted Fairytale | [Vexana-Twisted-Fairytale.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-vexana/Vexana-Twisted-Fairytale.zip) |
