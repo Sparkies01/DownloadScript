@@ -1,9 +1,8 @@
 # Bruno Visual Skins
 
-Validated visual-skin packages. All downloads are published in the
-[`visual-bruno`](https://github.com/Sparkies01/DownloadScript/releases/tag/visual-bruno) release.
+Downloads are published in [`visual-bruno`](https://github.com/Sparkies01/DownloadScript/releases/tag/visual-bruno).
 
-| Package | Download |
+| Skin | Download |
 | --- | --- |
 | Backup | [Bruno-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-bruno/Bruno-Backup.zip) |
 | Best DJ | [Bruno-Best-DJ.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-bruno/Bruno-Best-DJ.zip) |
@@ -13,6 +12,5 @@ Validated visual-skin packages. All downloads are published in the
 | Street Football | [Bruno-Street-Football.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-bruno/Bruno-Street-Football.zip) |
 | Street Hype | [Bruno-Street-Hype.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-bruno/Bruno-Street-Hype.zip) |
 | The Falcon | [Bruno-The-Falcon.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-bruno/Bruno-The-Falcon.zip) |
-| Tropical DJ | [Bruno-Tropical-DJ.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-bruno/Bruno-Tropical-DJ.zip) |
-| Urban Hype | [Bruno-Urban-Hype.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-bruno/Bruno-Urban-Hype.zip) |
+| The Purifier | [Bruno-The-Purifier.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-bruno/Bruno-The-Purifier.zip) |
 | Vanguard Elite | [Bruno-Vanguard-Elite.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-bruno/Bruno-Vanguard-Elite.zip) |
