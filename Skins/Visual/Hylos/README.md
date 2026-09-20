@@ -1,9 +1,8 @@
 # Hylos Visual Skins
 
-Validated visual-skin packages. All downloads are published in the
-[`visual-hylos`](https://github.com/Sparkies01/DownloadScript/releases/tag/visual-hylos) release.
+Downloads are published in [`visual-hylos`](https://github.com/Sparkies01/DownloadScript/releases/tag/visual-hylos).
 
-| Package | Download |
+| Skin | Download |
 | --- | --- |
 | Abyssal Shaman | [Hylos-Abyssal-Shaman.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-hylos/Hylos-Abyssal-Shaman.zip) |
 | Backup | [Hylos-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-hylos/Hylos-Backup.zip) |
