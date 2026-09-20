@@ -1,9 +1,8 @@
 # Freya Visual Skins
 
-Validated visual-skin packages. All downloads are published in the
-[`visual-freya`](https://github.com/Sparkies01/DownloadScript/releases/tag/visual-freya) release.
+Downloads are published in [`visual-freya`](https://github.com/Sparkies01/DownloadScript/releases/tag/visual-freya).
 
-| Package | Download |
+| Skin | Download |
 | --- | --- |
 | Backup | [Freya-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-freya/Freya-Backup.zip) |
 | Beach Sweetheart | [Freya-Beach-Sweetheart.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-freya/Freya-Beach-Sweetheart.zip) |
@@ -13,7 +12,7 @@ Validated visual-skin packages. All downloads are published in the
 | Galactic Vanquisher | [Freya-Galactic-Vanquisher.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-freya/Freya-Galactic-Vanquisher.zip) |
 | Gladiator | [Freya-Gladiator.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-freya/Freya-Gladiator.zip) |
 | Raven Shogun | [Freya-Raven-Shogun.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-freya/Freya-Raven-Shogun.zip) |
-| S.A.B.E.R Manhunter | [Freya-S-A-B-E-R-Manhunter.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-freya/Freya-S-A-B-E-R-Manhunter.zip) |
+| S A B E R Manhunter | [Freya-S-A-B-E-R-Manhunter.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-freya/Freya-S-A-B-E-R-Manhunter.zip) |
 | Spartan Spirit | [Freya-Spartan-Spirit.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-freya/Freya-Spartan-Spirit.zip) |
 | Starborn Resolve | [Freya-Starborn-Resolve.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-freya/Freya-Starborn-Resolve.zip) |
 | War Angel | [Freya-War-Angel.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-freya/Freya-War-Angel.zip) |
