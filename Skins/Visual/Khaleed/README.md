@@ -1,9 +1,8 @@
 # Khaleed Visual Skins
 
-Validated visual-skin packages. All downloads are published in the
-[`visual-khaleed`](https://github.com/Sparkies01/DownloadScript/releases/tag/visual-khaleed) release.
+Downloads are published in [`visual-khaleed`](https://github.com/Sparkies01/DownloadScript/releases/tag/visual-khaleed).
 
-| Package | Download |
+| Skin | Download |
 | --- | --- |
 | Backup | [Khaleed-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-khaleed/Khaleed-Backup.zip) |
 | Crescent Scimitar | [Khaleed-Crescent-Scimitar.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-khaleed/Khaleed-Crescent-Scimitar.zip) |
