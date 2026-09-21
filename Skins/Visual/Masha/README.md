@@ -4,7 +4,6 @@ Downloads are published in [`visual-masha`](https://github.com/Sparkies01/Downlo
 
 | Skin | Download |
 | --- | --- |
-| Backup | [Masha-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-masha/Masha-Backup.zip) |
 | Combat Maiden | [Masha-Combat-Maiden.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-masha/Masha-Combat-Maiden.zip) |
 | Dragon Armor | [Masha-Dragon-Armor.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-masha/Masha-Dragon-Armor.zip) |
 | Mai Shiranui | [Masha-Mai-Shiranui.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-masha/Masha-Mai-Shiranui.zip) |
