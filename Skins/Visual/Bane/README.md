@@ -4,7 +4,6 @@ Downloads are published in [`visual-bane`](https://github.com/Sparkies01/Downloa
 
 | Skin | Download |
 | --- | --- |
-| Backup | [Bane-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-bane/Bane-Backup.zip) |
 | Castle Master | [Bane-Castle-Master.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-bane/Bane-Castle-Master.zip) |
 | Deep Sea Monster | [Bane-Deep-Sea-Monster.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-bane/Bane-Deep-Sea-Monster.zip) |
 | Lord of Scalding Seas | [Bane-Lord-of-Scalding-Seas.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-bane/Bane-Lord-of-Scalding-Seas.zip) |
