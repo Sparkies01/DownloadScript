@@ -4,7 +4,6 @@ Downloads are published in [`visual-minotaur`](https://github.com/Sparkies01/Dow
 
 | Skin | Download |
 | --- | --- |
-| Backup | [Minotaur-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-minotaur/Minotaur-Backup.zip) |
 | Bursting Yama | [Minotaur-Bursting-Yama.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-minotaur/Minotaur-Bursting-Yama.zip) |
 | Dreadnought | [Minotaur-Dreadnought.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-minotaur/Minotaur-Dreadnought.zip) |
 | Hammer of Despair | [Minotaur-Hammer-of-Despair.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-minotaur/Minotaur-Hammer-of-Despair.zip) |
