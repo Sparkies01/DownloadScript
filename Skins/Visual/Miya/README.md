@@ -6,7 +6,6 @@ Downloads are published in [`visual-miya`](https://github.com/Sparkies01/Downloa
 | --- | --- |
 | Arrow of Springs | [Miya-Arrow-of-Springs.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-miya/Miya-Arrow-of-Springs.zip) |
 | Atomic Pop Miya | [Miya-Atomic-Pop-Miya.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-miya/Miya-Atomic-Pop-Miya.zip) |
-| Backup | [Miya-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-miya/Miya-Backup.zip) |
 | Burning Bow | [Miya-Burning-Bow.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-miya/Miya-Burning-Bow.zip) |
 | Captain Thorns | [Miya-Captain-Thorns.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-miya/Miya-Captain-Thorns.zip) |
 | Christmas Carnival | [Miya-Christmas-Carnival.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-miya/Miya-Christmas-Carnival.zip) |
