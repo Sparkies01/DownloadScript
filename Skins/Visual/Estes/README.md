@@ -5,7 +5,6 @@ Downloads are published in [`visual-estes`](https://github.com/Sparkies01/Downlo
 | Skin | Download |
 | --- | --- |
 | Arcane Magistrate | [Estes-Arcane-Magistrate.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-estes/Estes-Arcane-Magistrate.zip) |
-| Backup | [Estes-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-estes/Estes-Backup.zip) |
 | Blacklist International | [Estes-Blacklist-International.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-estes/Estes-Blacklist-International.zip) |
 | Crow Bishop | [Estes-Crow-Bishop.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-estes/Estes-Crow-Bishop.zip) |
 | Galaxy Dominator | [Estes-Galaxy-Dominator.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-estes/Estes-Galaxy-Dominator.zip) |
