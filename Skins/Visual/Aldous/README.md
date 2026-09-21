@@ -4,7 +4,6 @@ Downloads are published in [`visual-aldous`](https://github.com/Sparkies01/Downl
 
 | Skin | Download |
 | --- | --- |
-| Backup | [Aldous-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-aldous/Aldous-Backup.zip) |
 | Blazing Force | [Aldous-Blazing-Force.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-aldous/Aldous-Blazing-Force.zip) |
 | Death | [Aldous-Death.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-aldous/Aldous-Death.zip) |
 | Fathom Terror | [Aldous-Fathom-Terror.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-aldous/Aldous-Fathom-Terror.zip) |
