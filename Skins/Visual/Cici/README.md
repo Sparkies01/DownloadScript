@@ -5,5 +5,4 @@ Downloads are published in [`visual-cici`](https://github.com/Sparkies01/Downloa
 | Skin | Download |
 | --- | --- |
 | Circus Fantasy | [Cici-Circus-Fantasy.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-cici/Cici-Circus-Fantasy.zip) |
-| Circus Reverie | [Cici-Circus-Reverie.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-cici/Cici-Circus-Reverie.zip) |
-| Whimsical Carnival | [Cici-Whimsical-Carnival.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-cici/Cici-Whimsical-Carnival.zip) |
+| Circus Glamour | [Cici-Circus-Glamour.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-cici/Cici-Circus-Glamour.zip) |
