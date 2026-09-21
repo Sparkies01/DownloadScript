@@ -4,7 +4,6 @@ Downloads are published in [`visual-layla`](https://github.com/Sparkies01/Downlo
 
 | Skin | Download |
 | --- | --- |
-| Backup | [Layla-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-layla/Layla-Backup.zip) |
 | Blazing Gun | [Layla-Blazing-Gun.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-layla/Layla-Blazing-Gun.zip) |
 | Blue Spectre | [Layla-Blue-Spectre.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-layla/Layla-Blue-Spectre.zip) |
 | Bunny Babe | [Layla-Bunny-Babe.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-layla/Layla-Bunny-Babe.zip) |
