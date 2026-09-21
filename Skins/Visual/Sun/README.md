@@ -4,7 +4,6 @@ Downloads are published in [`visual-sun`](https://github.com/Sparkies01/Download
 
 | Skin | Download |
 | --- | --- |
-| Backup | [Sun-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-sun/Sun-Backup.zip) |
 | Battle Buddha | [Sun-Battle-Buddha.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-sun/Sun-Battle-Buddha.zip) |
 | Celestial Outlaw | [Sun-Celestial-Outlaw.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-sun/Sun-Celestial-Outlaw.zip) |
 | Celestial Rebel | [Sun-Celestial-Rebel.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-sun/Sun-Celestial-Rebel.zip) |
