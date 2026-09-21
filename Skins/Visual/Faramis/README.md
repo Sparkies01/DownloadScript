@@ -4,7 +4,6 @@ Downloads are published in [`visual-faramis`](https://github.com/Sparkies01/Down
 
 | Skin | Download |
 | --- | --- |
-| Backup | [Faramis-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-faramis/Faramis-Backup.zip) |
 | Dark Necro | [Faramis-Dark-Necro.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-faramis/Faramis-Dark-Necro.zip) |
 | Enigmatic Wayfarer | [Faramis-Enigmatic-Wayfarer.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-faramis/Faramis-Enigmatic-Wayfarer.zip) |
 | Infernal Magister | [Faramis-Infernal-Magister.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-faramis/Faramis-Infernal-Magister.zip) |
