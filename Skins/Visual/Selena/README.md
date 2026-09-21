@@ -4,7 +4,6 @@ Downloads are published in [`visual-selena`](https://github.com/Sparkies01/Downl
 
 | Skin | Download |
 | --- | --- |
-| Backup | [Selena-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-selena/Selena-Backup.zip) |
 | Beacon of the Dark | [Selena-Beacon-of-the-Dark.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-selena/Selena-Beacon-of-the-Dark.zip) |
 | Curse of Cinder | [Selena-Curse-of-Cinder.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-selena/Selena-Curse-of-Cinder.zip) |
 | Double Identity | [Selena-Double-Identity.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-selena/Selena-Double-Identity.zip) |
