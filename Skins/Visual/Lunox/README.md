@@ -5,7 +5,6 @@ Downloads are published in [`visual-lunox`](https://github.com/Sparkies01/Downlo
 | Skin | Download |
 | --- | --- |
 | Ash Blossom | [Lunox-Ash-Blossom.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-lunox/Lunox-Ash-Blossom.zip) |
-| Backup | [Lunox-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-lunox/Lunox-Backup.zip) |
 | Bloody Mary | [Lunox-Bloody-Mary.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-lunox/Lunox-Bloody-Mary.zip) |
 | Butterfly Seraphim | [Lunox-Butterfly-Seraphim.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-lunox/Lunox-Butterfly-Seraphim.zip) |
 | Cosmic Harmony | [Lunox-Cosmic-Harmony.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-lunox/Lunox-Cosmic-Harmony.zip) |
