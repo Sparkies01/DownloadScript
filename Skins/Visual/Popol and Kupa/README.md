@@ -4,7 +4,6 @@ Downloads are published in [`visual-popol-and-kupa`](https://github.com/Sparkies
 
 | Skin | Download |
 | --- | --- |
-| Popol and Kupa Backup | [Popol-and-Kupa-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-popol-and-kupa/Popol-and-Kupa-Backup.zip) |
 | Popol and Kupa Beta Skin 08 Detected in Beta Mirror | [Popol-and-Kupa-Beta-Skin-08-Detected-in-Beta-Mirror.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-popol-and-kupa/Popol-and-Kupa-Beta-Skin-08-Detected-in-Beta-Mirror.zip) |
 | Popol and Kupa Hunting Pals | [Popol-and-Kupa-Hunting-Pals.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-popol-and-kupa/Popol-and-Kupa-Hunting-Pals.zip) |
 | Popol and Kupa Proto Hunter | [Popol-and-Kupa-Proto-Hunter.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-popol-and-kupa/Popol-and-Kupa-Proto-Hunter.zip) |
