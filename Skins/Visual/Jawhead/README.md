@@ -4,7 +4,6 @@ Downloads are published in [`visual-jawhead`](https://github.com/Sparkies01/Down
 
 | Skin | Download |
 | --- | --- |
-| Backup | [Jawhead-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-jawhead/Jawhead-Backup.zip) |
 | Candy Bear | [Jawhead-Candy-Bear.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-jawhead/Jawhead-Candy-Bear.zip) |
 | Cyber Ranger | [Jawhead-Cyber-Ranger.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-jawhead/Jawhead-Cyber-Ranger.zip) |
 | Foo Quarterback | [Jawhead-Foo-Quarterback.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-jawhead/Jawhead-Foo-Quarterback.zip) |
