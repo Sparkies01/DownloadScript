@@ -5,7 +5,6 @@ Downloads are published in [`visual-leomord`](https://github.com/Sparkies01/Down
 | Skin | Download |
 | --- | --- |
 | Auspicious Blaze | [Leomord-Auspicious-Blaze.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-leomord/Leomord-Auspicious-Blaze.zip) |
-| Backup | [Leomord-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-leomord/Leomord-Backup.zip) |
 | Cavalry Charge | [Leomord-Cavalry-Charge.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-leomord/Leomord-Cavalry-Charge.zip) |
 | Diavel V4 Rider | [Leomord-Diavel-V4-Rider.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-leomord/Leomord-Diavel-V4-Rider.zip) |
 | Frostborn Paladin | [Leomord-Frostborn-Paladin.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-leomord/Leomord-Frostborn-Paladin.zip) |
