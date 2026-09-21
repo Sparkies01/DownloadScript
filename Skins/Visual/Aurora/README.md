@@ -5,7 +5,6 @@ Downloads are published in [`visual-aurora`](https://github.com/Sparkies01/Downl
 | Skin | Download |
 | --- | --- |
 | Aquarius | [Aurora-Aquarius.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-aurora/Aurora-Aquarius.zip) |
-| Backup | [Aurora-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-aurora/Aurora-Backup.zip) |
 | Beta Skin 07 Detected in Beta Mirror | [Aurora-Beta-Skin-07-Detected-in-Beta-Mirror.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-aurora/Aurora-Beta-Skin-07-Detected-in-Beta-Mirror.zip) |
 | Beta Skin 08 Detected in Beta Mirror | [Aurora-Beta-Skin-08-Detected-in-Beta-Mirror.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-aurora/Aurora-Beta-Skin-08-Detected-in-Beta-Mirror.zip) |
 | Foxy Lady | [Aurora-Foxy-Lady.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-aurora/Aurora-Foxy-Lady.zip) |
