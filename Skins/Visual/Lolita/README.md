@@ -5,7 +5,6 @@ Downloads are published in [`visual-lolita`](https://github.com/Sparkies01/Downl
 | Skin | Download |
 | --- | --- |
 | Astro Mallet | [Lolita-Astro-Mallet.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-lolita/Lolita-Astro-Mallet.zip) |
-| Backup | [Lolita-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-lolita/Lolita-Backup.zip) |
 | Genki Slam | [Lolita-Genki-Slam.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-lolita/Lolita-Genki-Slam.zip) |
 | Impish Trickster | [Lolita-Impish-Trickster.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-lolita/Lolita-Impish-Trickster.zip) |
 | Lion Dance | [Lolita-Lion-Dance.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-lolita/Lolita-Lion-Dance.zip) |
