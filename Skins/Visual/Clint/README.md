@@ -4,7 +4,6 @@ Downloads are published in [`visual-clint`](https://github.com/Sparkies01/Downlo
 
 | Skin | Download |
 | --- | --- |
-| Backup | [Clint-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-clint/Clint-Backup.zip) |
 | Badminton Champion | [Clint-Badminton-Champion.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-clint/Clint-Badminton-Champion.zip) |
 | Captain of the Reefs | [Clint-Captain-of-the-Reefs.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-clint/Clint-Captain-of-the-Reefs.zip) |
 | Clint Detected Skin 11 | [Clint-Clint-Detected-Skin-11.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-clint/Clint-Clint-Detected-Skin-11.zip) |
