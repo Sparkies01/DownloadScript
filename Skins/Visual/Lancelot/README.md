@@ -4,7 +4,6 @@ Downloads are published in [`visual-lancelot`](https://github.com/Sparkies01/Dow
 
 | Skin | Download |
 | --- | --- |
-| Backup | [Lancelot-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-lancelot/Lancelot-Backup.zip) |
 | Blade of Devotion | [Lancelot-Blade-of-Devotion.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-lancelot/Lancelot-Blade-of-Devotion.zip) |
 | Bren Esports | [Lancelot-Bren-Esports.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-lancelot/Lancelot-Bren-Esports.zip) |
 | Christmas Carnival | [Lancelot-Christmas-Carnival.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-lancelot/Lancelot-Christmas-Carnival.zip) |
