@@ -4,7 +4,6 @@ Downloads are published in [`visual-vale`](https://github.com/Sparkies01/Downloa
 
 | Skin | Download |
 | --- | --- |
-| Backup | [Vale-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-vale/Vale-Backup.zip) |
 | Beta Skin 09 Detected in Beta Mirror | [Vale-Beta-Skin-09-Detected-in-Beta-Mirror.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-vale/Vale-Beta-Skin-09-Detected-in-Beta-Mirror.zip) |
 | Concerto of Light | [Vale-Concerto-of-Light.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-vale/Vale-Concerto-of-Light.zip) |
 | Gaara | [Vale-Gaara.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-vale/Vale-Gaara.zip) |
