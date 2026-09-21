@@ -5,7 +5,6 @@ Downloads are published in [`visual-irithel`](https://github.com/Sparkies01/Down
 | Skin | Download |
 | --- | --- |
 | Astral Wanderer | [Irithel-Astral-Wanderer.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-irithel/Irithel-Astral-Wanderer.zip) |
-| Backup | [Irithel-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-irithel/Irithel-Backup.zip) |
 | Checkered Knight | [Irithel-Checkered-Knight.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-irithel/Irithel-Checkered-Knight.zip) |
 | Hellfire | [Irithel-Hellfire.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-irithel/Irithel-Hellfire.zip) |
 | Monster SP Rider | [Irithel-Monster-SP-Rider.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-irithel/Irithel-Monster-SP-Rider.zip) |
