@@ -4,7 +4,6 @@ Downloads are published in [`visual-mathilda`](https://github.com/Sparkies01/Dow
 
 | Skin | Download |
 | --- | --- |
-| Backup | [Mathilda-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-mathilda/Mathilda-Backup.zip) |
 | Dream Groove | [Mathilda-Dream-Groove.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-mathilda/Mathilda-Dream-Groove.zip) |
 | Dreambound Pixie | [Mathilda-Dreambound-Pixie.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-mathilda/Mathilda-Dreambound-Pixie.zip) |
 | Floral Crown | [Mathilda-Floral-Crown.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-mathilda/Mathilda-Floral-Crown.zip) |
