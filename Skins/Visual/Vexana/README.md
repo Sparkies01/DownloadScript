@@ -4,7 +4,6 @@ Downloads are published in [`visual-vexana`](https://github.com/Sparkies01/Downl
 
 | Skin | Download |
 | --- | --- |
-| Backup | [Vexana-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-vexana/Vexana-Backup.zip) |
 | Circus Magician | [Vexana-Circus-Magician.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-vexana/Vexana-Circus-Magician.zip) |
 | Cursed Shackle | [Vexana-Cursed-Shackle.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-vexana/Vexana-Cursed-Shackle.zip) |
 | Daybreak Halo | [Vexana-Daybreak-Halo.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-vexana/Vexana-Daybreak-Halo.zip) |
