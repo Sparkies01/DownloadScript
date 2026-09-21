@@ -5,7 +5,6 @@ Downloads are published in [`visual-nana`](https://github.com/Sparkies01/Downloa
 | Skin | Download |
 | --- | --- |
 | Aqua Pura | [Nana-Aqua-Pura.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-nana/Nana-Aqua-Pura.zip) |
-| Backup | [Nana-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-nana/Nana-Backup.zip) |
 | Beta Skin 11 Detected in Beta Mirror | [Nana-Beta-Skin-11-Detected-in-Beta-Mirror.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-nana/Nana-Beta-Skin-11-Detected-in-Beta-Mirror.zip) |
 | Clockwork Maid | [Nana-Clockwork-Maid.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-nana/Nana-Clockwork-Maid.zip) |
 | Cyclone Clash | [Nana-Cyclone-Clash.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-nana/Nana-Cyclone-Clash.zip) |
