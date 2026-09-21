@@ -4,7 +4,6 @@ Downloads are published in [`visual-hayabusa`](https://github.com/Sparkies01/Dow
 
 | Skin | Download |
 | --- | --- |
-| Backup | [Hayabusa-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-hayabusa/Hayabusa-Backup.zip) |
 | Biological Weapon | [Hayabusa-Biological-Weapon.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-hayabusa/Hayabusa-Biological-Weapon.zip) |
 | Exorcist Hayabusa | [Hayabusa-Exorcist-Hayabusa.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-hayabusa/Hayabusa-Exorcist-Hayabusa.zip) |
 | Experiment 21 | [Hayabusa-Experiment-21.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-hayabusa/Hayabusa-Experiment-21.zip) |
