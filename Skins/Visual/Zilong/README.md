@@ -5,7 +5,6 @@ Downloads are published in [`visual-zilong`](https://github.com/Sparkies01/Downl
 | Skin | Download |
 | --- | --- |
 | Argenta Warrior | [Zilong-Argenta-Warrior.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-zilong/Zilong-Argenta-Warrior.zip) |
-| Backup | [Zilong-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-zilong/Zilong-Backup.zip) |
 | Blazing Lancer | [Zilong-Blazing-Lancer.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-zilong/Zilong-Blazing-Lancer.zip) |
 | Changbanpo Commander | [Zilong-Changbanpo-Commander.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-zilong/Zilong-Changbanpo-Commander.zip) |
 | Christmas Carnival | [Zilong-Christmas-Carnival.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-zilong/Zilong-Christmas-Carnival.zip) |
