@@ -4,7 +4,6 @@ Downloads are published in [`visual-natalia`](https://github.com/Sparkies01/Down
 
 | Skin | Download |
 | --- | --- |
-| Backup | [Natalia-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-natalia/Natalia-Backup.zip) |
 | Cyber Spectre | [Natalia-Cyber-Spectre.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-natalia/Natalia-Cyber-Spectre.zip) |
 | Deadly Mamba | [Natalia-Deadly-Mamba.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-natalia/Natalia-Deadly-Mamba.zip) |
 | Glass Blade | [Natalia-Glass-Blade.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-natalia/Natalia-Glass-Blade.zip) |
