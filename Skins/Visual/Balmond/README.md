@@ -4,7 +4,6 @@ Downloads are published in [`visual-balmond`](https://github.com/Sparkies01/Down
 
 | Skin | Download |
 | --- | --- |
-| Backup | [Balmond-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-balmond/Balmond-Backup.zip) |
 | Bioroid | [Balmond-Bioroid.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-balmond/Balmond-Bioroid.zip) |
 | Ghoul s Fury | [Balmond-Ghoul-s-Fury.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-balmond/Balmond-Ghoul-s-Fury.zip) |
 | God of Mountains | [Balmond-God-of-Mountains.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-balmond/Balmond-God-of-Mountains.zip) |
