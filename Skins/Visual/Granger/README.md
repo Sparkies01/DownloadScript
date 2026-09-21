@@ -6,7 +6,6 @@ Downloads are published in [`visual-granger`](https://github.com/Sparkies01/Down
 | --- | --- |
 | Agent Z | [Granger-Agent-Z.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-granger/Granger-Agent-Z.zip) |
 | Alluring Enigma | [Granger-Alluring-Enigma.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-granger/Granger-Alluring-Enigma.zip) |
-| Backup | [Granger-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-granger/Granger-Backup.zip) |
 | Bardic Whisper | [Granger-Bardic-Whisper.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-granger/Granger-Bardic-Whisper.zip) |
 | Biosoldier | [Granger-Biosoldier.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-granger/Granger-Biosoldier.zip) |
 | Cosmic Finality | [Granger-Cosmic-Finality.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-granger/Granger-Cosmic-Finality.zip) |
