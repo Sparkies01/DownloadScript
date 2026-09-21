@@ -4,7 +4,6 @@ Downloads are published in [`visual-cyclops`](https://github.com/Sparkies01/Down
 
 | Skin | Download |
 | --- | --- |
-| Backup | [Cyclops-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-cyclops/Cyclops-Backup.zip) |
 | Deep Sea Rescuer | [Cyclops-Deep-Sea-Rescuer.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-cyclops/Cyclops-Deep-Sea-Rescuer.zip) |
 | Exorcist | [Cyclops-Exorcist.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-cyclops/Cyclops-Exorcist.zip) |
 | Master Yoda | [Cyclops-Master-Yoda.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-cyclops/Cyclops-Master-Yoda.zip) |
