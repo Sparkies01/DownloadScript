@@ -4,7 +4,6 @@ Downloads are published in [`visual-khaleed`](https://github.com/Sparkies01/Down
 
 | Skin | Download |
 | --- | --- |
-| Backup | [Khaleed-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-khaleed/Khaleed-Backup.zip) |
 | Crescent Scimitar | [Khaleed-Crescent-Scimitar.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-khaleed/Khaleed-Crescent-Scimitar.zip) |
 | Desert Salamander | [Khaleed-Desert-Salamander.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-khaleed/Khaleed-Desert-Salamander.zip) |
 | Prince of Sand | [Khaleed-Prince-of-Sand.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-khaleed/Khaleed-Prince-of-Sand.zip) |
