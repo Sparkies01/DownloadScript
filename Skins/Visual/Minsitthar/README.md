@@ -4,7 +4,6 @@ Downloads are published in [`visual-minsitthar`](https://github.com/Sparkies01/D
 
 | Skin | Download |
 | --- | --- |
-| Backup | [Minsitthar-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-minsitthar/Minsitthar-Backup.zip) |
 | Crimson Lion | [Minsitthar-Crimson-Lion.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-minsitthar/Minsitthar-Crimson-Lion.zip) |
 | Gilded King | [Minsitthar-Gilded-King.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-minsitthar/Minsitthar-Gilded-King.zip) |
 | Golden Marshall | [Minsitthar-Golden-Marshall.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-minsitthar/Minsitthar-Golden-Marshall.zip) |
