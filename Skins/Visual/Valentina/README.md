@@ -5,7 +5,6 @@ Downloads are published in [`visual-valentina`](https://github.com/Sparkies01/Do
 | Skin | Download |
 | --- | --- |
 | Archmagister | [Valentina-Archmagister.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-valentina/Valentina-Archmagister.zip) |
-| Backup | [Valentina-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-valentina/Valentina-Backup.zip) |
 | Celestial Judicator | [Valentina-Celestial-Judicator.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-valentina/Valentina-Celestial-Judicator.zip) |
 | Cyber Agent | [Valentina-Cyber-Agent.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-valentina/Valentina-Cyber-Agent.zip) |
 | Dark Nexus | [Valentina-Dark-Nexus.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-valentina/Valentina-Dark-Nexus.zip) |
