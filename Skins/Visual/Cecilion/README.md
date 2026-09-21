@@ -4,7 +4,6 @@ Downloads are published in [`visual-cecilion`](https://github.com/Sparkies01/Dow
 
 | Skin | Download |
 | --- | --- |
-| Backup | [Cecilion-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-cecilion/Cecilion-Backup.zip) |
 | Crimson Wings | [Cecilion-Crimson-Wings.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-cecilion/Cecilion-Crimson-Wings.zip) |
 | Hisoka | [Cecilion-Hisoka.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-cecilion/Cecilion-Hisoka.zip) |
 | Phantom Count | [Cecilion-Phantom-Count.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-cecilion/Cecilion-Phantom-Count.zip) |
