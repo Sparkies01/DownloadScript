@@ -4,7 +4,6 @@ Downloads are published in [`visual-ruby`](https://github.com/Sparkies01/Downloa
 
 | Skin | Download |
 | --- | --- |
-| Backup | [Ruby-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-ruby/Ruby-Backup.zip) |
 | Cat Girl | [Ruby-Cat-Girl.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-ruby/Ruby-Cat-Girl.zip) |
 | Crescent Dervish | [Ruby-Crescent-Dervish.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-ruby/Ruby-Crescent-Dervish.zip) |
 | Edelweiss | [Ruby-Edelweiss.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-ruby/Ruby-Edelweiss.zip) |
