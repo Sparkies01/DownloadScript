@@ -4,7 +4,6 @@ Downloads are published in [`visual-johnson`](https://github.com/Sparkies01/Down
 
 | Skin | Download |
 | --- | --- |
-| Backup | [Johnson-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-johnson/Johnson-Backup.zip) |
 | Beta Skin 10 Detected in Beta Mirror | [Johnson-Beta-Skin-10-Detected-in-Beta-Mirror.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-johnson/Johnson-Beta-Skin-10-Detected-in-Beta-Mirror.zip) |
 | Death Ride | [Johnson-Death-Ride.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-johnson/Johnson-Death-Ride.zip) |
 | Fire Chief | [Johnson-Fire-Chief.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-johnson/Johnson-Fire-Chief.zip) |
