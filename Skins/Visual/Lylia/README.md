@@ -4,7 +4,6 @@ Downloads are published in [`visual-lylia`](https://github.com/Sparkies01/Downlo
 
 | Skin | Download |
 | --- | --- |
-| Backup | [Lylia-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-lylia/Lylia-Backup.zip) |
 | Future Star | [Lylia-Future-Star.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-lylia/Lylia-Future-Star.zip) |
 | Haunted Doll | [Lylia-Haunted-Doll.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-lylia/Lylia-Haunted-Doll.zip) |
 | Magitech Arsenal | [Lylia-Magitech-Arsenal.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-lylia/Lylia-Magitech-Arsenal.zip) |
