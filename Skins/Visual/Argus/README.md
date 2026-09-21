@@ -4,7 +4,6 @@ Downloads are published in [`visual-argus`](https://github.com/Sparkies01/Downlo
 
 | Skin | Download |
 | --- | --- |
-| Backup | [Argus-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-argus/Argus-Backup.zip) |
 | Catastrophe | [Argus-Catastrophe.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-argus/Argus-Catastrophe.zip) |
 | Dark Draconic | [Argus-Dark-Draconic.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-argus/Argus-Dark-Draconic.zip) |
 | Darth Vader | [Argus-Darth-Vader.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-argus/Argus-Darth-Vader.zip) |
