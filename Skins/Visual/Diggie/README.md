@@ -4,7 +4,6 @@ Downloads are published in [`visual-diggie`](https://github.com/Sparkies01/Downl
 
 | Skin | Download |
 | --- | --- |
-| Backup | [Diggie-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-diggie/Diggie-Backup.zip) |
 | Circus Clown | [Diggie-Circus-Clown.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-diggie/Diggie-Circus-Clown.zip) |
 | Constellation | [Diggie-Constellation.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-diggie/Diggie-Constellation.zip) |
 | Fairytaler | [Diggie-Fairytaler.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-diggie/Diggie-Fairytaler.zip) |
