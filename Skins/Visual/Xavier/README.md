@@ -4,7 +4,6 @@ Downloads are published in [`visual-xavier`](https://github.com/Sparkies01/Downl
 
 | Skin | Download |
 | --- | --- |
-| Backup | [Xavier-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-xavier/Xavier-Backup.zip) |
 | Beyond the Clouds Xavier | [Xavier-Beyond-the-Clouds-Xavier.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-xavier/Xavier-Beyond-the-Clouds-Xavier.zip) |
 | Hardlight Artificer | [Xavier-Hardlight-Artificer.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-xavier/Xavier-Hardlight-Artificer.zip) |
 | Lightwave Artificer | [Xavier-Lightwave-Artificer.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-xavier/Xavier-Lightwave-Artificer.zip) |
