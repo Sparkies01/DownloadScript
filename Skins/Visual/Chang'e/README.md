@@ -5,9 +5,6 @@ Downloads are published in [`visual-chang-e`](https://github.com/Sparkies01/Down
 | Skin | Download |
 | --- | --- |
 | Chang e Azure Moon | [Chang-e-Azure-Moon.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-chang-e/Chang-e-Azure-Moon.zip) |
-| Chang e Backup | [Chang-e-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-chang-e/Chang-e-Backup.zip) |
-| Chang e Beta Skin 12 Detected in Beta Mirror | [Chang-e-Beta-Skin-12-Detected-in-Beta-Mirror.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-chang-e/Chang-e-Beta-Skin-12-Detected-in-Beta-Mirror.zip) |
-| Chang e Beta Skin 13 Detected in Beta Mirror | [Chang-e-Beta-Skin-13-Detected-in-Beta-Mirror.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-chang-e/Chang-e-Beta-Skin-13-Detected-in-Beta-Mirror.zip) |
 | Chang e Crimson Moon | [Chang-e-Crimson-Moon.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-chang-e/Chang-e-Crimson-Moon.zip) |
 | Chang e Floral Elfo | [Chang-e-Floral-Elfo.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-chang-e/Chang-e-Floral-Elfo.zip) |
 | Chang e Lunar Magic | [Chang-e-Lunar-Magic.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-chang-e/Chang-e-Lunar-Magic.zip) |
