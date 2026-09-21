@@ -5,7 +5,6 @@ Downloads are published in [`visual-aamon`](https://github.com/Sparkies01/Downlo
 | Skin | Download |
 | --- | --- |
 | Aamon Detected Skin 05 | [Aamon-Aamon-Detected-Skin-05.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-aamon/Aamon-Aamon-Detected-Skin-05.zip) |
-| Backup | [Aamon-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-aamon/Aamon-Backup.zip) |
 | Cyber Assassin | [Aamon-Cyber-Assassin.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-aamon/Aamon-Cyber-Assassin.zip) |
 | Night s Edge | [Aamon-Night-s-Edge.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-aamon/Aamon-Night-s-Edge.zip) |
 | Noble Crest | [Aamon-Noble-Crest.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-aamon/Aamon-Noble-Crest.zip) |
