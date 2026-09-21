@@ -4,7 +4,6 @@ Downloads are published in [`visual-bruno`](https://github.com/Sparkies01/Downlo
 
 | Skin | Download |
 | --- | --- |
-| Backup | [Bruno-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-bruno/Bruno-Backup.zip) |
 | Best DJ | [Bruno-Best-DJ.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-bruno/Bruno-Best-DJ.zip) |
 | Firebolt | [Bruno-Firebolt.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-bruno/Bruno-Firebolt.zip) |
 | Halo Striker | [Bruno-Halo-Striker.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-bruno/Bruno-Halo-Striker.zip) |
