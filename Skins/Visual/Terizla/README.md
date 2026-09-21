@@ -4,9 +4,4 @@ Downloads are published in [`visual-terizla`](https://github.com/Sparkies01/Down
 
 | Skin | Download |
 | --- | --- |
-| Abyss Guard | [Terizla-Abyss-Guard.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-terizla/Terizla-Abyss-Guard.zip) |
-| Flames of Judgement | [Terizla-Flames-of-Judgement.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-terizla/Terizla-Flames-of-Judgement.zip) |
-| Flare | [Terizla-Flare.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-terizla/Terizla-Flare.zip) |
-| Hammer Giant | [Terizla-Hammer-Giant.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-terizla/Terizla-Hammer-Giant.zip) |
-| Rustwreck | [Terizla-Rustwreck.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-terizla/Terizla-Rustwreck.zip) |
-| Soulblight Tyrant | [Terizla-Soulblight-Tyrant.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-terizla/Terizla-Soulblight-Tyrant.zip) |
+| Ember Flare | [Terizla-Ember-Flare.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-terizla/Terizla-Ember-Flare.zip) |
