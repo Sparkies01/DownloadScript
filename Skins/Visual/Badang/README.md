@@ -4,7 +4,6 @@ Downloads are published in [`visual-badang`](https://github.com/Sparkies01/Downl
 
 | Skin | Download |
 | --- | --- |
-| Backup | [Badang-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-badang/Badang-Backup.zip) |
 | Badang Detected Skin 05 | [Badang-Badang-Detected-Skin-05.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-badang/Badang-Badang-Detected-Skin-05.zip) |
 | Beta Skin 08 Detected in Beta Mirror | [Badang-Beta-Skin-08-Detected-in-Beta-Mirror.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-badang/Badang-Beta-Skin-08-Detected-in-Beta-Mirror.zip) |
 | Fist of Zen | [Badang-Fist-of-Zen.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-badang/Badang-Fist-of-Zen.zip) |
