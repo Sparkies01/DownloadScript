@@ -4,7 +4,6 @@ Downloads are published in [`visual-karina`](https://github.com/Sparkies01/Downl
 
 | Skin | Download |
 | --- | --- |
-| Backup | [Karina-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-karina/Karina-Backup.zip) |
 | Black Pearl | [Karina-Black-Pearl.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-karina/Karina-Black-Pearl.zip) |
 | Blood Moon | [Karina-Blood-Moon.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-karina/Karina-Blood-Moon.zip) |
 | Christmas Carnival | [Karina-Christmas-Carnival.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-karina/Karina-Christmas-Carnival.zip) |
