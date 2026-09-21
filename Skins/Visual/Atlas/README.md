@@ -4,7 +4,6 @@ Downloads are published in [`visual-atlas`](https://github.com/Sparkies01/Downlo
 
 | Skin | Download |
 | --- | --- |
-| Backup | [Atlas-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-atlas/Atlas-Backup.zip) |
 | Battle Turbine | [Atlas-Battle-Turbine.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-atlas/Atlas-Battle-Turbine.zip) |
 | Fuel Turbine | [Atlas-Fuel-Turbine.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-atlas/Atlas-Fuel-Turbine.zip) |
 | Mecha Infernus | [Atlas-Mecha-Infernus.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-atlas/Atlas-Mecha-Infernus.zip) |
