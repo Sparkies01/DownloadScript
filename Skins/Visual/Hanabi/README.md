@@ -4,7 +4,6 @@ Downloads are published in [`visual-hanabi`](https://github.com/Sparkies01/Downl
 
 | Skin | Download |
 | --- | --- |
-| Backup | [Hanabi-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-hanabi/Hanabi-Backup.zip) |
 | Chic Glamour | [Hanabi-Chic-Glamour.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-hanabi/Hanabi-Chic-Glamour.zip) |
 | Field Op | [Hanabi-Field-Op.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-hanabi/Hanabi-Field-Op.zip) |
 | Fiery Moth | [Hanabi-Fiery-Moth.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-hanabi/Hanabi-Fiery-Moth.zip) |
