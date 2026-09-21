@@ -4,13 +4,4 @@ Downloads are published in [`visual-tigreal`](https://github.com/Sparkies01/Down
 
 | Skin | Download |
 | --- | --- |
-| Celestial General | [Tigreal-Celestial-General.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-tigreal/Tigreal-Celestial-General.zip) |
-| Dark Guardian | [Tigreal-Dark-Guardian.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-tigreal/Tigreal-Dark-Guardian.zip) |
-| Fallen Guard | [Tigreal-Fallen-Guard.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-tigreal/Tigreal-Fallen-Guard.zip) |
-| Galactic Marshal | [Tigreal-Galactic-Marshal.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-tigreal/Tigreal-Galactic-Marshal.zip) |
-| Gold Baron | [Tigreal-Gold-Baron.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-tigreal/Tigreal-Gold-Baron.zip) |
-| Lightborn Defender | [Tigreal-Lightborn-Defender.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-tigreal/Tigreal-Lightborn-Defender.zip) |
-| Pasha of Justice | [Tigreal-Pasha-of-Justice.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-tigreal/Tigreal-Pasha-of-Justice.zip) |
-| Steel Guardian | [Tigreal-Steel-Guardian.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-tigreal/Tigreal-Steel-Guardian.zip) |
-| Tigreal Detected Skin 06 | [Tigreal-Tigreal-Detected-Skin-06.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-tigreal/Tigreal-Tigreal-Detected-Skin-06.zip) |
-| Wyrmslayer | [Tigreal-Wyrmslayer.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-tigreal/Tigreal-Wyrmslayer.zip) |
+| Fallen Dominator | [Tigreal-Fallen-Dominator.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-tigreal/Tigreal-Fallen-Dominator.zip) |
