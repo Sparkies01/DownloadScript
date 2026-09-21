@@ -5,7 +5,6 @@ Downloads are published in [`visual-natan`](https://github.com/Sparkies01/Downlo
 | Skin | Download |
 | --- | --- |
 | Archon of Knowledge | [Natan-Archon-of-Knowledge.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-natan/Natan-Archon-of-Knowledge.zip) |
-| Backup | [Natan-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-natan/Natan-Backup.zip) |
 | Beta Skin 08 Detected in Beta Mirror | [Natan-Beta-Skin-08-Detected-in-Beta-Mirror.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-natan/Natan-Beta-Skin-08-Detected-in-Beta-Mirror.zip) |
 | Captain Chrono | [Natan-Captain-Chrono.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-natan/Natan-Captain-Chrono.zip) |
 | Chaos Hunter | [Natan-Chaos-Hunter.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-natan/Natan-Chaos-Hunter.zip) |
