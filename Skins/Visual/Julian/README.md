@@ -4,7 +4,6 @@ Downloads are published in [`visual-julian`](https://github.com/Sparkies01/Downl
 
 | Skin | Download |
 | --- | --- |
-| Backup | [Julian-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-julian/Julian-Backup.zip) |
 | Itachi Uchiha | [Julian-Itachi-Uchiha.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-julian/Julian-Itachi-Uchiha.zip) |
 | Kurapika | [Julian-Kurapika.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-julian/Julian-Kurapika.zip) |
 | Megumi Fushiguro | [Julian-Megumi-Fushiguro.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-julian/Julian-Megumi-Fushiguro.zip) |
