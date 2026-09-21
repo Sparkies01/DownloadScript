@@ -5,7 +5,6 @@ Downloads are published in [`visual-lesley`](https://github.com/Sparkies01/Downl
 | Skin | Download |
 | --- | --- |
 | Angelic Agent | [Lesley-Angelic-Agent.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-lesley/Lesley-Angelic-Agent.zip) |
-| Backup | [Lesley-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-lesley/Lesley-Backup.zip) |
 | Cheergunner | [Lesley-Cheergunner.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-lesley/Lesley-Cheergunner.zip) |
 | Dangerous Love | [Lesley-Dangerous-Love.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-lesley/Lesley-Dangerous-Love.zip) |
 | Deadeye Spectre | [Lesley-Deadeye-Spectre.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-lesley/Lesley-Deadeye-Spectre.zip) |
