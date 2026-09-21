@@ -4,7 +4,6 @@ Downloads are published in [`visual-karrie`](https://github.com/Sparkies01/Downl
 
 | Skin | Download |
 | --- | --- |
-| Backup | [Karrie-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-karrie/Karrie-Backup.zip) |
 | Bladed Mantis | [Karrie-Bladed-Mantis.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-karrie/Karrie-Bladed-Mantis.zip) |
 | Breath of Naraka | [Karrie-Breath-of-Naraka.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-karrie/Karrie-Breath-of-Naraka.zip) |
 | Dragon Queen | [Karrie-Dragon-Queen.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-karrie/Karrie-Dragon-Queen.zip) |
