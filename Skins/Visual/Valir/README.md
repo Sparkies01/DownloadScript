@@ -5,7 +5,6 @@ Downloads are published in [`visual-valir`](https://github.com/Sparkies01/Downlo
 | Skin | Download |
 | --- | --- |
 | Arcane Seeker | [Valir-Arcane-Seeker.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-valir/Valir-Arcane-Seeker.zip) |
-| Backup | [Valir-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-valir/Valir-Backup.zip) |
 | Demonlord | [Valir-Demonlord.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-valir/Valir-Demonlord.zip) |
 | Dictator | [Valir-Dictator.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-valir/Valir-Dictator.zip) |
 | Draconic Flame | [Valir-Draconic-Flame.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-valir/Valir-Draconic-Flame.zip) |
