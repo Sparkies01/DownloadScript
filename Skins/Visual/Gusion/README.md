@@ -4,7 +4,6 @@ Downloads are published in [`visual-gusion`](https://github.com/Sparkies01/Downl
 
 | Skin | Download |
 | --- | --- |
-| Backup | [Gusion-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-gusion/Gusion-Backup.zip) |
 | Cosmic Gleam | [Gusion-Cosmic-Gleam.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-gusion/Gusion-Cosmic-Gleam.zip) |
 | Cyber Ops | [Gusion-Cyber-Ops.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-gusion/Gusion-Cyber-Ops.zip) |
 | Dangerous Liaison | [Gusion-Dangerous-Liaison.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-gusion/Gusion-Dangerous-Liaison.zip) |
