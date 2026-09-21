@@ -4,7 +4,6 @@ Downloads are published in [`visual-benedetta`](https://github.com/Sparkies01/Do
 
 | Skin | Download |
 | --- | --- |
-| Backup | [Benedetta-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-benedetta/Benedetta-Backup.zip) |
 | Death Oath | [Benedetta-Death-Oath.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-benedetta/Benedetta-Death-Oath.zip) |
 | Honor Blade | [Benedetta-Honor-Blade.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-benedetta/Benedetta-Honor-Blade.zip) |
 | Moonblade | [Benedetta-Moonblade.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-benedetta/Benedetta-Moonblade.zip) |
