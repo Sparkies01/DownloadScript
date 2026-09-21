@@ -4,7 +4,6 @@ Downloads are published in [`visual-chou`](https://github.com/Sparkies01/Downloa
 
 | Skin | Download |
 | --- | --- |
-| Backup | [Chou-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-chou/Chou-Backup.zip) |
 | Beta Skin 14 Detected in Beta Mirror | [Chou-Beta-Skin-14-Detected-in-Beta-Mirror.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-chou/Chou-Beta-Skin-14-Detected-in-Beta-Mirror.zip) |
 | Dragon Boy | [Chou-Dragon-Boy.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-chou/Chou-Dragon-Boy.zip) |
 | Dragon Shiryu | [Chou-Dragon-Shiryu.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-chou/Chou-Dragon-Shiryu.zip) |
