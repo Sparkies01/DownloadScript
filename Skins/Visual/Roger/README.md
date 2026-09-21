@@ -5,7 +5,6 @@ Downloads are published in [`visual-roger`](https://github.com/Sparkies01/Downlo
 | Skin | Download |
 | --- | --- |
 | Anubis | [Roger-Anubis.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-roger/Roger-Anubis.zip) |
-| Backup | [Roger-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-roger/Roger-Backup.zip) |
 | Cyborg Werewolf | [Roger-Cyborg-Werewolf.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-roger/Roger-Cyborg-Werewolf.zip) |
 | Dark Gent | [Roger-Dark-Gent.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-roger/Roger-Dark-Gent.zip) |
 | Dr Beast | [Roger-Dr-Beast.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-roger/Roger-Dr-Beast.zip) |
