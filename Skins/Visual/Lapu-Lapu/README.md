@@ -4,9 +4,4 @@ Downloads are published in [`visual-lapu-lapu`](https://github.com/Sparkies01/Do
 
 | Skin | Download |
 | --- | --- |
-| Adlaw s Chosen | [Lapu-Lapu-Adlaw-s-Chosen.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-lapu-lapu/Lapu-Lapu-Adlaw-s-Chosen.zip) |
-| Ancestral Blade | [Lapu-Lapu-Ancestral-Blade.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-lapu-lapu/Lapu-Lapu-Ancestral-Blade.zip) |
-| Imperial Champion | [Lapu-Lapu-Imperial-Champion.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-lapu-lapu/Lapu-Lapu-Imperial-Champion.zip) |
-| Son of the Wild | [Lapu-Lapu-Son-of-the-Wild.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-lapu-lapu/Lapu-Lapu-Son-of-the-Wild.zip) |
-| Special Force | [Lapu-Lapu-Special-Force.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-lapu-lapu/Lapu-Lapu-Special-Force.zip) |
-| Vulcan | [Lapu-Lapu-Vulcan.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-lapu-lapu/Lapu-Lapu-Vulcan.zip) |
+| Imperial Soldier | [Lapu-Lapu-Imperial-Soldier.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-lapu-lapu/Lapu-Lapu-Imperial-Soldier.zip) |
