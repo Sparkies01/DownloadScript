@@ -5,7 +5,6 @@ Downloads are published in [`visual-kagura`](https://github.com/Sparkies01/Downl
 | Skin | Download |
 | --- | --- |
 | Amethyst Wizard | [Kagura-Amethyst-Wizard.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-kagura/Kagura-Amethyst-Wizard.zip) |
-| Backup | [Kagura-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-kagura/Kagura-Backup.zip) |
 | Beyond the Clouds Kagura | [Kagura-Beyond-the-Clouds-Kagura.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-kagura/Kagura-Beyond-the-Clouds-Kagura.zip) |
 | Cherry Witch | [Kagura-Cherry-Witch.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-kagura/Kagura-Cherry-Witch.zip) |
 | Dragon Maiden | [Kagura-Dragon-Maiden.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-kagura/Kagura-Dragon-Maiden.zip) |
