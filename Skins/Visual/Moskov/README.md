@@ -4,7 +4,6 @@ Downloads are published in [`visual-moskov`](https://github.com/Sparkies01/Downl
 
 | Skin | Download |
 | --- | --- |
-| Backup | [Moskov-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-moskov/Moskov-Backup.zip) |
 | Blood Spear | [Moskov-Blood-Spear.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-moskov/Moskov-Blood-Spear.zip) |
 | Decapitator | [Moskov-Decapitator.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-moskov/Moskov-Decapitator.zip) |
 | Doom Incarnate | [Moskov-Doom-Incarnate.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-moskov/Moskov-Doom-Incarnate.zip) |
