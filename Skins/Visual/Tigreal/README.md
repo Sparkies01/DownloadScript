@@ -4,7 +4,6 @@ Downloads are published in [`visual-tigreal`](https://github.com/Sparkies01/Down
 
 | Skin | Download |
 | --- | --- |
-| Backup | [Tigreal-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-tigreal/Tigreal-Backup.zip) |
 | Celestial General | [Tigreal-Celestial-General.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-tigreal/Tigreal-Celestial-General.zip) |
 | Dark Guardian | [Tigreal-Dark-Guardian.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-tigreal/Tigreal-Dark-Guardian.zip) |
 | Fallen Guard | [Tigreal-Fallen-Guard.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-tigreal/Tigreal-Fallen-Guard.zip) |
