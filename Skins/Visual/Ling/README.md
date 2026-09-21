@@ -4,7 +4,6 @@ Downloads are published in [`visual-ling`](https://github.com/Sparkies01/Downloa
 
 | Skin | Download |
 | --- | --- |
-| Backup | [Ling-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-ling/Ling-Backup.zip) |
 | Cosmo Guard | [Ling-Cosmo-Guard.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-ling/Ling-Cosmo-Guard.zip) |
 | Fiery Dance | [Ling-Fiery-Dance.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-ling/Ling-Fiery-Dance.zip) |
 | Lord Shen | [Ling-Lord-Shen.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-ling/Ling-Lord-Shen.zip) |
