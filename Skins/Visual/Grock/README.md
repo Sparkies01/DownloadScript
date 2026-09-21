@@ -5,7 +5,6 @@ Downloads are published in [`visual-grock`](https://github.com/Sparkies01/Downlo
 | Skin | Download |
 | --- | --- |
 | Ancient Golem | [Grock-Ancient-Golem.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-grock/Grock-Ancient-Golem.zip) |
-| Backup | [Grock-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-grock/Grock-Backup.zip) |
 | Castle Guard | [Grock-Castle-Guard.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-grock/Grock-Castle-Guard.zip) |
 | Codename Rhino | [Grock-Codename-Rhino.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-grock/Grock-Codename-Rhino.zip) |
 | Grave Guardian | [Grock-Grave-Guardian.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-grock/Grock-Grave-Guardian.zip) |
