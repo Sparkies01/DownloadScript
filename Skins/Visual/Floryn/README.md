@@ -4,7 +4,6 @@ Downloads are published in [`visual-floryn`](https://github.com/Sparkies01/Downl
 
 | Skin | Download |
 | --- | --- |
-| Backup | [Floryn-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-floryn/Floryn-Backup.zip) |
 | Fluffy Dream | [Floryn-Fluffy-Dream.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-floryn/Floryn-Fluffy-Dream.zip) |
 | Herald of Autumn | [Floryn-Herald-of-Autumn.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-floryn/Floryn-Herald-of-Autumn.zip) |
 | Melody of Light | [Floryn-Melody-of-Light.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-floryn/Floryn-Melody-of-Light.zip) |
