@@ -5,7 +5,6 @@ Downloads are published in [`visual-angela`](https://github.com/Sparkies01/Downl
 | Skin | Download |
 | --- | --- |
 | Avatar of Time | [Angela-Avatar-of-Time.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-angela/Angela-Avatar-of-Time.zip) |
-| Backup | [Angela-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-angela/Angela-Backup.zip) |
 | Cyber Cherubin | [Angela-Cyber-Cherubin.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-angela/Angela-Cyber-Cherubin.zip) |
 | Dove Love | [Angela-Dove-Love.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-angela/Angela-Dove-Love.zip) |
 | Floral Elf | [Angela-Floral-Elf.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-angela/Angela-Floral-Elf.zip) |
