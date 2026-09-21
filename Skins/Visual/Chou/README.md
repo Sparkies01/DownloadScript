@@ -4,16 +4,6 @@ Downloads are published in [`visual-chou`](https://github.com/Sparkies01/Downloa
 
 | Skin | Download |
 | --- | --- |
-| Beta Skin 14 Detected in Beta Mirror | [Chou-Beta-Skin-14-Detected-in-Beta-Mirror.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-chou/Chou-Beta-Skin-14-Detected-in-Beta-Mirror.zip) |
-| Dragon Boy | [Chou-Dragon-Boy.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-chou/Chou-Dragon-Boy.zip) |
-| Dragon Shiryu | [Chou-Dragon-Shiryu.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-chou/Chou-Dragon-Shiryu.zip) |
-| ECHO | [Chou-ECHO.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-chou/Chou-ECHO.zip) |
-| Furious Tiger | [Chou-Furious-Tiger.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-chou/Chou-Furious-Tiger.zip) |
-| Go Ballistic | [Chou-Go-Ballistic.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-chou/Chou-Go-Ballistic.zip) |
-| Hip hop Boy | [Chou-Hip-hop-Boy.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-chou/Chou-Hip-hop-Boy.zip) |
-| Iori Yagami | [Chou-Iori-Yagami.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-chou/Chou-Iori-Yagami.zip) |
-| Ken Outfit 2 | [Chou-Ken-Outfit-2.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-chou/Chou-Ken-Outfit-2.zip) |
-| King of Muay Thai | [Chou-King-of-Muay-Thai.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-chou/Chou-King-of-Muay-Thai.zip) |
-| Libra Shiryu | [Chou-Libra-Shiryu.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-chou/Chou-Libra-Shiryu.zip) |
-| S T U N Chou | [Chou-S-T-U-N-Chou.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-chou/Chou-S-T-U-N-Chou.zip) |
-| Thunderfist | [Chou-Thunderfist.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-chou/Chou-Thunderfist.zip) |
+| Ken Outfit 1 | [Chou-Ken-Outfit-1.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-chou/Chou-Ken-Outfit-1.zip) |
+| Red Tiger | [Chou-Red-Tiger.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-chou/Chou-Red-Tiger.zip) |
+| Undefeated Champion | [Chou-Undefeated-Champion.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-chou/Chou-Undefeated-Champion.zip) |
