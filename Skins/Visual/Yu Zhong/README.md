@@ -4,7 +4,6 @@ Downloads are published in [`visual-yu-zhong`](https://github.com/Sparkies01/Dow
 
 | Skin | Download |
 | --- | --- |
-| Yu Zhong Backup | [Yu-Zhong-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-yu-zhong/Yu-Zhong-Backup.zip) |
 | Yu Zhong Beta Skin 08 Detected in Beta Mirror | [Yu-Zhong-Beta-Skin-08-Detected-in-Beta-Mirror.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-yu-zhong/Yu-Zhong-Beta-Skin-08-Detected-in-Beta-Mirror.zip) |
 | Yu Zhong Blood Serpent | [Yu-Zhong-Blood-Serpent.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-yu-zhong/Yu-Zhong-Blood-Serpent.zip) |
 | Yu Zhong Champion s Spirit | [Yu-Zhong-Champion-s-Spirit.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-yu-zhong/Yu-Zhong-Champion-s-Spirit.zip) |
