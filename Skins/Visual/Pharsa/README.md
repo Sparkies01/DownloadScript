@@ -4,7 +4,6 @@ Downloads are published in [`visual-pharsa`](https://github.com/Sparkies01/Downl
 
 | Skin | Download |
 | --- | --- |
-| Backup | [Pharsa-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-pharsa/Pharsa-Backup.zip) |
 | Empress Phoenix | [Pharsa-Empress-Phoenix.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-pharsa/Pharsa-Empress-Phoenix.zip) |
 | Enchanting Witch | [Pharsa-Enchanting-Witch.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-pharsa/Pharsa-Enchanting-Witch.zip) |
 | Hierophant | [Pharsa-Hierophant.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-pharsa/Pharsa-Hierophant.zip) |
