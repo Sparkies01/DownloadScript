@@ -4,7 +4,6 @@ Downloads are published in [`visual-martis`](https://github.com/Sparkies01/Downl
 
 | Skin | Download |
 | --- | --- |
-| Backup | [Martis-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-martis/Martis-Backup.zip) |
 | Bloodtide Terror | [Martis-Bloodtide-Terror.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-martis/Martis-Bloodtide-Terror.zip) |
 | Capricorn | [Martis-Capricorn.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-martis/Martis-Capricorn.zip) |
 | Darkwater Terror | [Martis-Darkwater-Terror.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-martis/Martis-Darkwater-Terror.zip) |
