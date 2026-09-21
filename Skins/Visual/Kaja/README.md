@@ -4,7 +4,6 @@ Downloads are published in [`visual-kaja`](https://github.com/Sparkies01/Downloa
 
 | Skin | Download |
 | --- | --- |
-| Backup | [Kaja-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-kaja/Kaja-Backup.zip) |
 | Commandment | [Kaja-Commandment.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-kaja/Kaja-Commandment.zip) |
 | Crow Magician | [Kaja-Crow-Magician.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-kaja/Kaja-Crow-Magician.zip) |
 | Horror Whiplash | [Kaja-Horror-Whiplash.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-kaja/Kaja-Horror-Whiplash.zip) |
