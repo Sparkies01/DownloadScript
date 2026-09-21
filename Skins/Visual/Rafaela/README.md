@@ -5,10 +5,7 @@ Downloads are published in [`visual-rafaela`](https://github.com/Sparkies01/Down
 | Skin | Download |
 | --- | --- |
 | Angelic Sonata | [Rafaela-Angelic-Sonata.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-rafaela/Rafaela-Angelic-Sonata.zip) |
-| Backup | [Rafaela-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-rafaela/Rafaela-Backup.zip) |
 | Beta Skin 09 Detected in Beta Mirror | [Rafaela-Beta-Skin-09-Detected-in-Beta-Mirror.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-rafaela/Rafaela-Beta-Skin-09-Detected-in-Beta-Mirror.zip) |
-| Beta Skin 10 Detected in Beta Mirror | [Rafaela-Beta-Skin-10-Detected-in-Beta-Mirror.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-rafaela/Rafaela-Beta-Skin-10-Detected-in-Beta-Mirror.zip) |
-| Beta Skin 11 Detected in Beta Mirror | [Rafaela-Beta-Skin-11-Detected-in-Beta-Mirror.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-rafaela/Rafaela-Beta-Skin-11-Detected-in-Beta-Mirror.zip) |
 | Biomedic | [Rafaela-Biomedic.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-rafaela/Rafaela-Biomedic.zip) |
 | Bloom of Abundance | [Rafaela-Bloom-of-Abundance.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-rafaela/Rafaela-Bloom-of-Abundance.zip) |
 | Fertility Goddess | [Rafaela-Fertility-Goddess.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-rafaela/Rafaela-Fertility-Goddess.zip) |
