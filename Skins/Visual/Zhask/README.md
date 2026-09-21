@@ -4,7 +4,6 @@ Downloads are published in [`visual-zhask`](https://github.com/Sparkies01/Downlo
 
 | Skin | Download |
 | --- | --- |
-| Backup | [Zhask-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-zhask/Zhask-Backup.zip) |
 | Bone Flamen | [Zhask-Bone-Flamen.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-zhask/Zhask-Bone-Flamen.zip) |
 | Cancer | [Zhask-Cancer.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-zhask/Zhask-Cancer.zip) |
 | Crystallized Predator | [Zhask-Crystallized-Predator.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-zhask/Zhask-Crystallized-Predator.zip) |
