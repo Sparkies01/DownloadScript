@@ -4,8 +4,4 @@ Downloads are published in [`visual-faramis`](https://github.com/Sparkies01/Down
 
 | Skin | Download |
 | --- | --- |
-| Dark Necro | [Faramis-Dark-Necro.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-faramis/Faramis-Dark-Necro.zip) |
-| Enigmatic Wayfarer | [Faramis-Enigmatic-Wayfarer.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-faramis/Faramis-Enigmatic-Wayfarer.zip) |
-| Infernal Magister | [Faramis-Infernal-Magister.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-faramis/Faramis-Infernal-Magister.zip) |
-| Royal Magus | [Faramis-Royal-Magus.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-faramis/Faramis-Royal-Magus.zip) |
-| Summer Sparks | [Faramis-Summer-Sparks.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-faramis/Faramis-Summer-Sparks.zip) |
+| Enigmatic Wanderer | [Faramis-Enigmatic-Wanderer.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-faramis/Faramis-Enigmatic-Wanderer.zip) |
