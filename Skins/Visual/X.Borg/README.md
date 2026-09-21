@@ -4,7 +4,6 @@ Downloads are published in [`visual-x-borg`](https://github.com/Sparkies01/Downl
 
 | Skin | Download |
 | --- | --- |
-| X Borg Backup | [X-Borg-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-x-borg/X-Borg-Backup.zip) |
 | X Borg Bumblebee | [X-Borg-Bumblebee.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-x-borg/X-Borg-Bumblebee.zip) |
 | X Borg Graffiti Fashion | [X-Borg-Graffiti-Fashion.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-x-borg/X-Borg-Graffiti-Fashion.zip) |
 | X Borg Invoker s Flame | [X-Borg-Invoker-s-Flame.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-x-borg/X-Borg-Invoker-s-Flame.zip) |
