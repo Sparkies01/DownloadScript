@@ -6,8 +6,7 @@ Downloads are published in [`visual-guinevere`](https://github.com/Sparkies01/Do
 | --- | --- |
 | Amethyst Dance | [Guinevere-Amethyst-Dance.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-guinevere/Guinevere-Amethyst-Dance.zip) |
 | Athena Asamiya | [Guinevere-Athena-Asamiya.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-guinevere/Guinevere-Athena-Asamiya.zip) |
-| Backup | [Guinevere-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-guinevere/Guinevere-Backup.zip) |
-| Chun Li | [Guinevere-Chun-Li.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-guinevere/Guinevere-Chun-Li.zip) |
+| Chun Li Outfit 2 | [Guinevere-Chun-Li-Outfit-2.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-guinevere/Guinevere-Chun-Li-Outfit-2.zip) |
 | Elegant Butterfly | [Guinevere-Elegant-Butterfly.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-guinevere/Guinevere-Elegant-Butterfly.zip) |
 | Fleur de Bleau | [Guinevere-Fleur-de-Bleau.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-guinevere/Guinevere-Fleur-de-Bleau.zip) |
 | Lady Crane | [Guinevere-Lady-Crane.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-guinevere/Guinevere-Lady-Crane.zip) |
