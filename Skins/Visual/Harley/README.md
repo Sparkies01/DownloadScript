@@ -4,7 +4,6 @@ Downloads are published in [`visual-harley`](https://github.com/Sparkies01/Downl
 
 | Skin | Download |
 | --- | --- |
-| Backup | [Harley-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-harley/Harley-Backup.zip) |
 | Beta Skin 09 Detected in Beta Mirror | [Harley-Beta-Skin-09-Detected-in-Beta-Mirror.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-harley/Harley-Beta-Skin-09-Detected-in-Beta-Mirror.zip) |
 | Beta Skin 10 Detected in Beta Mirror | [Harley-Beta-Skin-10-Detected-in-Beta-Mirror.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-harley/Harley-Beta-Skin-10-Detected-in-Beta-Mirror.zip) |
 | Dream Caster | [Harley-Dream-Caster.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-harley/Harley-Dream-Caster.zip) |
