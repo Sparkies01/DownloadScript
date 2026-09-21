@@ -5,7 +5,6 @@ Downloads are published in [`visual-esmeralda`](https://github.com/Sparkies01/Do
 | Skin | Download |
 | --- | --- |
 | Astral Muse | [Esmeralda-Astral-Muse.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-esmeralda/Esmeralda-Astral-Muse.zip) |
-| Backup | [Esmeralda-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-esmeralda/Esmeralda-Backup.zip) |
 | Blazing Shadow | [Esmeralda-Blazing-Shadow.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-esmeralda/Esmeralda-Blazing-Shadow.zip) |
 | Cleopatra | [Esmeralda-Cleopatra.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-esmeralda/Esmeralda-Cleopatra.zip) |
 | Lady Thief | [Esmeralda-Lady-Thief.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-esmeralda/Esmeralda-Lady-Thief.zip) |
