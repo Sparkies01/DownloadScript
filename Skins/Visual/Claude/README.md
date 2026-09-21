@@ -4,7 +4,6 @@ Downloads are published in [`visual-claude`](https://github.com/Sparkies01/Downl
 
 | Skin | Download |
 | --- | --- |
-| Backup | [Claude-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-claude/Claude-Backup.zip) |
 | Bad Bro | [Claude-Bad-Bro.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-claude/Claude-Bad-Bro.zip) |
 | Blazing Trace | [Claude-Blazing-Trace.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-claude/Claude-Blazing-Trace.zip) |
 | Challenger s Spark | [Claude-Challenger-s-Spark.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-claude/Claude-Challenger-s-Spark.zip) |
