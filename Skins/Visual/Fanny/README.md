@@ -4,7 +4,6 @@ Downloads are published in [`visual-fanny`](https://github.com/Sparkies01/Downlo
 
 | Skin | Download |
 | --- | --- |
-| Backup | [Fanny-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-fanny/Fanny-Backup.zip) |
 | Blade of Kibou | [Fanny-Blade-of-Kibou.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-fanny/Fanny-Blade-of-Kibou.zip) |
 | Campus Youth | [Fanny-Campus-Youth.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-fanny/Fanny-Campus-Youth.zip) |
 | Christmas Carnival | [Fanny-Christmas-Carnival.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-fanny/Fanny-Christmas-Carnival.zip) |
