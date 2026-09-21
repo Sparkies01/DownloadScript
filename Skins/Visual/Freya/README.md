@@ -4,7 +4,6 @@ Downloads are published in [`visual-freya`](https://github.com/Sparkies01/Downlo
 
 | Skin | Download |
 | --- | --- |
-| Backup | [Freya-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-freya/Freya-Backup.zip) |
 | Beach Sweetheart | [Freya-Beach-Sweetheart.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-freya/Freya-Beach-Sweetheart.zip) |
 | Christmas Carnival | [Freya-Christmas-Carnival.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-freya/Freya-Christmas-Carnival.zip) |
 | Dark Rose | [Freya-Dark-Rose.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-freya/Freya-Dark-Rose.zip) |
