@@ -4,7 +4,6 @@ Downloads are published in [`visual-saber`](https://github.com/Sparkies01/Downlo
 
 | Skin | Download |
 | --- | --- |
-| Backup | [Saber-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-saber/Saber-Backup.zip) |
 | Codename Storm | [Saber-Codename-Storm.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-saber/Saber-Codename-Storm.zip) |
 | Force Warrior | [Saber-Force-Warrior.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-saber/Saber-Force-Warrior.zip) |
 | Fullmetal Ronin | [Saber-Fullmetal-Ronin.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-saber/Saber-Fullmetal-Ronin.zip) |
