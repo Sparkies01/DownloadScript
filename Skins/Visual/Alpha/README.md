@@ -4,7 +4,6 @@ Downloads are published in [`visual-alpha`](https://github.com/Sparkies01/Downlo
 
 | Skin | Download |
 | --- | --- |
-| Backup | [Alpha-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-alpha/Alpha-Backup.zip) |
 | Crimson Warrior | [Alpha-Crimson-Warrior.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-alpha/Alpha-Crimson-Warrior.zip) |
 | Fierce Dragon | [Alpha-Fierce-Dragon.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-alpha/Alpha-Fierce-Dragon.zip) |
 | Galactic Enforcer | [Alpha-Galactic-Enforcer.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-alpha/Alpha-Galactic-Enforcer.zip) |
