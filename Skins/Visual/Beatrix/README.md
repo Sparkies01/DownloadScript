@@ -4,7 +4,6 @@ Downloads are published in [`visual-beatrix`](https://github.com/Sparkies01/Down
 
 | Skin | Download |
 | --- | --- |
-| Backup | [Beatrix-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-beatrix/Beatrix-Backup.zip) |
 | Blitz Attack | [Beatrix-Blitz-Attack.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-beatrix/Beatrix-Blitz-Attack.zip) |
 | Light Chaser | [Beatrix-Light-Chaser.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-beatrix/Beatrix-Light-Chaser.zip) |
 | Sky Force Maverick | [Beatrix-Sky-Force-Maverick.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-beatrix/Beatrix-Sky-Force-Maverick.zip) |
