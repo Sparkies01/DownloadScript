@@ -4,7 +4,6 @@ Downloads are published in [`visual-paquito`](https://github.com/Sparkies01/Down
 
 | Skin | Download |
 | --- | --- |
-| Backup | [Paquito-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-paquito/Paquito-Backup.zip) |
 | Beta Skin 09 Detected in Beta Mirror | [Paquito-Beta-Skin-09-Detected-in-Beta-Mirror.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-paquito/Paquito-Beta-Skin-09-Detected-in-Beta-Mirror.zip) |
 | Blazing Tiger | [Paquito-Blazing-Tiger.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-paquito/Paquito-Blazing-Tiger.zip) |
 | Death Blow | [Paquito-Death-Blow.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-paquito/Paquito-Death-Blow.zip) |
@@ -12,6 +11,6 @@ Downloads are published in [`visual-paquito`](https://github.com/Sparkies01/Down
 | Fist of Light | [Paquito-Fist-of-Light.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-paquito/Paquito-Fist-of-Light.zip) |
 | Fulgent Punch | [Paquito-Fulgent-Punch.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-paquito/Paquito-Fulgent-Punch.zip) |
 | Manny Pacquiao | [Paquito-Manny-Pacquiao.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-paquito/Paquito-Manny-Pacquiao.zip) |
-| Ryu | [Paquito-Ryu.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-paquito/Paquito-Ryu.zip) |
+| Ryu Outfit 2 | [Paquito-Ryu-Outfit-2.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-paquito/Paquito-Ryu-Outfit-2.zip) |
 | Terry Bogard | [Paquito-Terry-Bogard.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-paquito/Paquito-Terry-Bogard.zip) |
 | Underground Boxer | [Paquito-Underground-Boxer.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-paquito/Paquito-Underground-Boxer.zip) |
