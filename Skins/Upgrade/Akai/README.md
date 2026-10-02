@@ -17,7 +17,7 @@ Validated upgrade-skin packages. All downloads are published in the
 | Imperial Assassin Akazonae Samurai | [Akai-Imperial-Assassin-Akazonae-Samurai.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-akai/Akai-Imperial-Assassin-Akazonae-Samurai.zip) |
 | Imperial Assassin Backup | [Akai-Imperial-Assassin-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-akai/Akai-Imperial-Assassin-Backup.zip) |
 | Imperial Assassin Kung Fu Panda | [Akai-Imperial-Assassin-Kung-Fu-Panda.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-akai/Akai-Imperial-Assassin-Kung-Fu-Panda.zip) |
-| Imperial Assassin Marvelous Maestro | [Akai-Imperial-Assassin-Marvelous-Maestro.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-akai/Akai-Imperial-Assassin-Marvelous-Maestro.zip) |
+| Imperial Assassin Marvelous Maestro.dependencies | [Akai-Imperial-Assassin-Marvelous-Maestro.dependencies.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-akai/Akai-Imperial-Assassin-Marvelous-Maestro.dependencies.zip) |
 | Imperial Assassin Monk | [Akai-Imperial-Assassin-Monk.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-akai/Akai-Imperial-Assassin-Monk.zip) |
 | Imperial Assassin Pumpkin Brawler | [Akai-Imperial-Assassin-Pumpkin-Brawler.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-akai/Akai-Imperial-Assassin-Pumpkin-Brawler.zip) |
 | Imperial Assassin Stream Recluse | [Akai-Imperial-Assassin-Stream-Recluse.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-akai/Akai-Imperial-Assassin-Stream-Recluse.zip) |
@@ -44,7 +44,7 @@ Validated upgrade-skin packages. All downloads are published in the
 | Monk Akazonae Samurai | [Akai-Monk-Akazonae-Samurai.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-akai/Akai-Monk-Akazonae-Samurai.zip) |
 | Monk Backup | [Akai-Monk-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-akai/Akai-Monk-Backup.zip) |
 | Monk Imperial Assassin | [Akai-Monk-Imperial-Assassin.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-akai/Akai-Monk-Imperial-Assassin.zip) |
-| Monk Kung Fu Panda | [Akai-Monk-Kung-Fu-Panda.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-akai/Akai-Monk-Kung-Fu-Panda.zip) |
+| Monk Kung Fu Panda.dependencies | [Akai-Monk-Kung-Fu-Panda.dependencies.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-akai/Akai-Monk-Kung-Fu-Panda.dependencies.zip) |
 | Monk Marvelous Maestro | [Akai-Monk-Marvelous-Maestro.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-akai/Akai-Monk-Marvelous-Maestro.zip) |
 | Monk Pumpkin Brawler | [Akai-Monk-Pumpkin-Brawler.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-akai/Akai-Monk-Pumpkin-Brawler.zip) |
 | Monk Stream Recluse | [Akai-Monk-Stream-Recluse.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-akai/Akai-Monk-Stream-Recluse.zip) |
@@ -54,7 +54,7 @@ Validated upgrade-skin packages. All downloads are published in the
 | Pumpkin Brawler Backup | [Akai-Pumpkin-Brawler-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-akai/Akai-Pumpkin-Brawler-Backup.zip) |
 | Pumpkin Brawler Imperial Assassin | [Akai-Pumpkin-Brawler-Imperial-Assassin.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-akai/Akai-Pumpkin-Brawler-Imperial-Assassin.zip) |
 | Pumpkin Brawler Kung Fu Panda | [Akai-Pumpkin-Brawler-Kung-Fu-Panda.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-akai/Akai-Pumpkin-Brawler-Kung-Fu-Panda.zip) |
-| Pumpkin Brawler Marvelous Maestro | [Akai-Pumpkin-Brawler-Marvelous-Maestro.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-akai/Akai-Pumpkin-Brawler-Marvelous-Maestro.zip) |
+| Pumpkin Brawler Marvelous Maestro.dependencies | [Akai-Pumpkin-Brawler-Marvelous-Maestro.dependencies.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-akai/Akai-Pumpkin-Brawler-Marvelous-Maestro.dependencies.zip) |
 | Pumpkin Brawler Monk | [Akai-Pumpkin-Brawler-Monk.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-akai/Akai-Pumpkin-Brawler-Monk.zip) |
 | Pumpkin Brawler Stream Recluse | [Akai-Pumpkin-Brawler-Stream-Recluse.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-akai/Akai-Pumpkin-Brawler-Stream-Recluse.zip) |
 | Pumpkin Brawler Street Enforcer | [Akai-Pumpkin-Brawler-Street-Enforcer.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-akai/Akai-Pumpkin-Brawler-Street-Enforcer.zip) |
@@ -63,7 +63,7 @@ Validated upgrade-skin packages. All downloads are published in the
 | Stream Recluse Backup | [Akai-Stream-Recluse-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-akai/Akai-Stream-Recluse-Backup.zip) |
 | Stream Recluse Imperial Assassin | [Akai-Stream-Recluse-Imperial-Assassin.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-akai/Akai-Stream-Recluse-Imperial-Assassin.zip) |
 | Stream Recluse Kung Fu Panda | [Akai-Stream-Recluse-Kung-Fu-Panda.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-akai/Akai-Stream-Recluse-Kung-Fu-Panda.zip) |
-| Stream Recluse Marvelous Maestro | [Akai-Stream-Recluse-Marvelous-Maestro.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-akai/Akai-Stream-Recluse-Marvelous-Maestro.zip) |
+| Stream Recluse Marvelous Maestro.dependencies | [Akai-Stream-Recluse-Marvelous-Maestro.dependencies.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-akai/Akai-Stream-Recluse-Marvelous-Maestro.dependencies.zip) |
 | Stream Recluse Monk | [Akai-Stream-Recluse-Monk.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-akai/Akai-Stream-Recluse-Monk.zip) |
 | Stream Recluse Pumpkin Brawler | [Akai-Stream-Recluse-Pumpkin-Brawler.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-akai/Akai-Stream-Recluse-Pumpkin-Brawler.zip) |
 | Stream Recluse Street Enforcer | [Akai-Stream-Recluse-Street-Enforcer.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-akai/Akai-Stream-Recluse-Street-Enforcer.zip) |
@@ -72,17 +72,17 @@ Validated upgrade-skin packages. All downloads are published in the
 | Street Enforcer Backup | [Akai-Street-Enforcer-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-akai/Akai-Street-Enforcer-Backup.zip) |
 | Street Enforcer Imperial Assassin | [Akai-Street-Enforcer-Imperial-Assassin.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-akai/Akai-Street-Enforcer-Imperial-Assassin.zip) |
 | Street Enforcer Kung Fu Panda | [Akai-Street-Enforcer-Kung-Fu-Panda.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-akai/Akai-Street-Enforcer-Kung-Fu-Panda.zip) |
-| Street Enforcer Marvelous Maestro | [Akai-Street-Enforcer-Marvelous-Maestro.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-akai/Akai-Street-Enforcer-Marvelous-Maestro.zip) |
+| Street Enforcer Marvelous Maestro.dependencies | [Akai-Street-Enforcer-Marvelous-Maestro.dependencies.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-akai/Akai-Street-Enforcer-Marvelous-Maestro.dependencies.zip) |
 | Street Enforcer Monk | [Akai-Street-Enforcer-Monk.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-akai/Akai-Street-Enforcer-Monk.zip) |
 | Street Enforcer Pumpkin Brawler | [Akai-Street-Enforcer-Pumpkin-Brawler.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-akai/Akai-Street-Enforcer-Pumpkin-Brawler.zip) |
 | Street Enforcer Stream Recluse | [Akai-Street-Enforcer-Stream-Recluse.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-akai/Akai-Street-Enforcer-Stream-Recluse.zip) |
-| Street Enforcer Summer Party | [Akai-Street-Enforcer-Summer-Party.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-akai/Akai-Street-Enforcer-Summer-Party.zip) |
+| Street Enforcer Summer Party.dependencies | [Akai-Street-Enforcer-Summer-Party.dependencies.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-akai/Akai-Street-Enforcer-Summer-Party.dependencies.zip) |
 | Summer Party Akazonae Samurai | [Akai-Summer-Party-Akazonae-Samurai.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-akai/Akai-Summer-Party-Akazonae-Samurai.zip) |
 | Summer Party Backup | [Akai-Summer-Party-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-akai/Akai-Summer-Party-Backup.zip) |
 | Summer Party Imperial Assassin | [Akai-Summer-Party-Imperial-Assassin.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-akai/Akai-Summer-Party-Imperial-Assassin.zip) |
 | Summer Party Kung Fu Panda | [Akai-Summer-Party-Kung-Fu-Panda.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-akai/Akai-Summer-Party-Kung-Fu-Panda.zip) |
-| Summer Party Marvelous Maestro | [Akai-Summer-Party-Marvelous-Maestro.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-akai/Akai-Summer-Party-Marvelous-Maestro.zip) |
-| Summer Party Monk | [Akai-Summer-Party-Monk.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-akai/Akai-Summer-Party-Monk.zip) |
+| Summer Party Marvelous Maestro.dependencies | [Akai-Summer-Party-Marvelous-Maestro.dependencies.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-akai/Akai-Summer-Party-Marvelous-Maestro.dependencies.zip) |
+| Summer Party Monk.dependencies | [Akai-Summer-Party-Monk.dependencies.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-akai/Akai-Summer-Party-Monk.dependencies.zip) |
 | Summer Party Pumpkin Brawler | [Akai-Summer-Party-Pumpkin-Brawler.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-akai/Akai-Summer-Party-Pumpkin-Brawler.zip) |
 | Summer Party Stream Recluse | [Akai-Summer-Party-Stream-Recluse.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-akai/Akai-Summer-Party-Stream-Recluse.zip) |
 | Summer Party Street Enforcer | [Akai-Summer-Party-Street-Enforcer.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-akai/Akai-Summer-Party-Street-Enforcer.zip) |
