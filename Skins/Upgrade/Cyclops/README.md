@@ -9,6 +9,7 @@ Validated upgrade-skin packages. All downloads are published in the
 | Deep Sea Rescuer Exorcist | [Cyclops-Deep-Sea-Rescuer-Exorcist.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-cyclops/Cyclops-Deep-Sea-Rescuer-Exorcist.zip) |
 | Deep Sea Rescuer Master Yoda | [Cyclops-Deep-Sea-Rescuer-Master-Yoda.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-cyclops/Cyclops-Deep-Sea-Rescuer-Master-Yoda.zip) |
 | Deep Sea Rescuer S A B E R Enforcer | [Cyclops-Deep-Sea-Rescuer-S-A-B-E-R-Enforcer.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-cyclops/Cyclops-Deep-Sea-Rescuer-S-A-B-E-R-Enforcer.zip) |
+| Deep Sea Rescuer SpongeBob | [Cyclops-Deep-Sea-Rescuer-SpongeBob.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-cyclops/Cyclops-Deep-Sea-Rescuer-SpongeBob.zip) |
 | Deep Sea Rescuer Straw Doll | [Cyclops-Deep-Sea-Rescuer-Straw-Doll.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-cyclops/Cyclops-Deep-Sea-Rescuer-Straw-Doll.zip) |
 | Deep Sea Rescuer Super Adventurer | [Cyclops-Deep-Sea-Rescuer-Super-Adventurer.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-cyclops/Cyclops-Deep-Sea-Rescuer-Super-Adventurer.zip) |
 | Deep Sea Rescuer Super Sportsman | [Cyclops-Deep-Sea-Rescuer-Super-Sportsman.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-cyclops/Cyclops-Deep-Sea-Rescuer-Super-Sportsman.zip) |
@@ -17,7 +18,8 @@ Validated upgrade-skin packages. All downloads are published in the
 | Exorcist Backup | [Cyclops-Exorcist-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-cyclops/Cyclops-Exorcist-Backup.zip) |
 | Exorcist Deep Sea Rescuer | [Cyclops-Exorcist-Deep-Sea-Rescuer.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-cyclops/Cyclops-Exorcist-Deep-Sea-Rescuer.zip) |
 | Exorcist Master Yoda | [Cyclops-Exorcist-Master-Yoda.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-cyclops/Cyclops-Exorcist-Master-Yoda.zip) |
-| Exorcist S A B E R Enforcer | [Cyclops-Exorcist-S-A-B-E-R-Enforcer.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-cyclops/Cyclops-Exorcist-S-A-B-E-R-Enforcer.zip) |
+| Exorcist S A B E R Enforcer.dependencies | [Cyclops-Exorcist-S-A-B-E-R-Enforcer.dependencies.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-cyclops/Cyclops-Exorcist-S-A-B-E-R-Enforcer.dependencies.zip) |
+| Exorcist SpongeBob | [Cyclops-Exorcist-SpongeBob.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-cyclops/Cyclops-Exorcist-SpongeBob.zip) |
 | Exorcist Straw Doll | [Cyclops-Exorcist-Straw-Doll.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-cyclops/Cyclops-Exorcist-Straw-Doll.zip) |
 | Exorcist Super Adventurer | [Cyclops-Exorcist-Super-Adventurer.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-cyclops/Cyclops-Exorcist-Super-Adventurer.zip) |
 | Exorcist Super Sportsman | [Cyclops-Exorcist-Super-Sportsman.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-cyclops/Cyclops-Exorcist-Super-Sportsman.zip) |
@@ -27,6 +29,7 @@ Validated upgrade-skin packages. All downloads are published in the
 | Master Yoda Deep Sea Rescuer | [Cyclops-Master-Yoda-Deep-Sea-Rescuer.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-cyclops/Cyclops-Master-Yoda-Deep-Sea-Rescuer.zip) |
 | Master Yoda Exorcist | [Cyclops-Master-Yoda-Exorcist.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-cyclops/Cyclops-Master-Yoda-Exorcist.zip) |
 | Master Yoda S A B E R Enforcer | [Cyclops-Master-Yoda-S-A-B-E-R-Enforcer.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-cyclops/Cyclops-Master-Yoda-S-A-B-E-R-Enforcer.zip) |
+| Master Yoda SpongeBob | [Cyclops-Master-Yoda-SpongeBob.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-cyclops/Cyclops-Master-Yoda-SpongeBob.zip) |
 | Master Yoda Straw Doll | [Cyclops-Master-Yoda-Straw-Doll.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-cyclops/Cyclops-Master-Yoda-Straw-Doll.zip) |
 | Master Yoda Super Adventurer | [Cyclops-Master-Yoda-Super-Adventurer.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-cyclops/Cyclops-Master-Yoda-Super-Adventurer.zip) |
 | Master Yoda Super Sportsman | [Cyclops-Master-Yoda-Super-Sportsman.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-cyclops/Cyclops-Master-Yoda-Super-Sportsman.zip) |
@@ -36,16 +39,27 @@ Validated upgrade-skin packages. All downloads are published in the
 | S A B E R Enforcer Deep Sea Rescuer | [Cyclops-S-A-B-E-R-Enforcer-Deep-Sea-Rescuer.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-cyclops/Cyclops-S-A-B-E-R-Enforcer-Deep-Sea-Rescuer.zip) |
 | S A B E R Enforcer Exorcist | [Cyclops-S-A-B-E-R-Enforcer-Exorcist.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-cyclops/Cyclops-S-A-B-E-R-Enforcer-Exorcist.zip) |
 | S A B E R Enforcer Master Yoda | [Cyclops-S-A-B-E-R-Enforcer-Master-Yoda.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-cyclops/Cyclops-S-A-B-E-R-Enforcer-Master-Yoda.zip) |
+| S A B E R Enforcer SpongeBob | [Cyclops-S-A-B-E-R-Enforcer-SpongeBob.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-cyclops/Cyclops-S-A-B-E-R-Enforcer-SpongeBob.zip) |
 | S A B E R Enforcer Straw Doll | [Cyclops-S-A-B-E-R-Enforcer-Straw-Doll.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-cyclops/Cyclops-S-A-B-E-R-Enforcer-Straw-Doll.zip) |
 | S A B E R Enforcer Super Adventurer | [Cyclops-S-A-B-E-R-Enforcer-Super-Adventurer.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-cyclops/Cyclops-S-A-B-E-R-Enforcer-Super-Adventurer.zip) |
 | S A B E R Enforcer Super Sportsman | [Cyclops-S-A-B-E-R-Enforcer-Super-Sportsman.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-cyclops/Cyclops-S-A-B-E-R-Enforcer-Super-Sportsman.zip) |
 | S A B E R Enforcer Yokai Warlock | [Cyclops-S-A-B-E-R-Enforcer-Yokai-Warlock.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-cyclops/Cyclops-S-A-B-E-R-Enforcer-Yokai-Warlock.zip) |
 | S A B E R Enforcer Zombie Bambino | [Cyclops-S-A-B-E-R-Enforcer-Zombie-Bambino.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-cyclops/Cyclops-S-A-B-E-R-Enforcer-Zombie-Bambino.zip) |
+| SpongeBob Backup | [Cyclops-SpongeBob-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-cyclops/Cyclops-SpongeBob-Backup.zip) |
+| SpongeBob Deep Sea Rescuer | [Cyclops-SpongeBob-Deep-Sea-Rescuer.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-cyclops/Cyclops-SpongeBob-Deep-Sea-Rescuer.zip) |
+| SpongeBob Exorcist | [Cyclops-SpongeBob-Exorcist.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-cyclops/Cyclops-SpongeBob-Exorcist.zip) |
+| SpongeBob Master Yoda | [Cyclops-SpongeBob-Master-Yoda.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-cyclops/Cyclops-SpongeBob-Master-Yoda.zip) |
+| SpongeBob S A B E R Enforcer | [Cyclops-SpongeBob-S-A-B-E-R-Enforcer.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-cyclops/Cyclops-SpongeBob-S-A-B-E-R-Enforcer.zip) |
+| SpongeBob Straw Doll | [Cyclops-SpongeBob-Straw-Doll.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-cyclops/Cyclops-SpongeBob-Straw-Doll.zip) |
+| SpongeBob Super Adventurer | [Cyclops-SpongeBob-Super-Adventurer.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-cyclops/Cyclops-SpongeBob-Super-Adventurer.zip) |
+| SpongeBob Yokai Warlock | [Cyclops-SpongeBob-Yokai-Warlock.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-cyclops/Cyclops-SpongeBob-Yokai-Warlock.zip) |
+| SpongeBob Zombie Bambino | [Cyclops-SpongeBob-Zombie-Bambino.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-cyclops/Cyclops-SpongeBob-Zombie-Bambino.zip) |
 | Straw Doll Backup | [Cyclops-Straw-Doll-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-cyclops/Cyclops-Straw-Doll-Backup.zip) |
 | Straw Doll Deep Sea Rescuer | [Cyclops-Straw-Doll-Deep-Sea-Rescuer.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-cyclops/Cyclops-Straw-Doll-Deep-Sea-Rescuer.zip) |
 | Straw Doll Exorcist | [Cyclops-Straw-Doll-Exorcist.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-cyclops/Cyclops-Straw-Doll-Exorcist.zip) |
 | Straw Doll Master Yoda | [Cyclops-Straw-Doll-Master-Yoda.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-cyclops/Cyclops-Straw-Doll-Master-Yoda.zip) |
 | Straw Doll S A B E R Enforcer | [Cyclops-Straw-Doll-S-A-B-E-R-Enforcer.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-cyclops/Cyclops-Straw-Doll-S-A-B-E-R-Enforcer.zip) |
+| Straw Doll SpongeBob | [Cyclops-Straw-Doll-SpongeBob.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-cyclops/Cyclops-Straw-Doll-SpongeBob.zip) |
 | Straw Doll Super Adventurer | [Cyclops-Straw-Doll-Super-Adventurer.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-cyclops/Cyclops-Straw-Doll-Super-Adventurer.zip) |
 | Straw Doll Super Sportsman | [Cyclops-Straw-Doll-Super-Sportsman.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-cyclops/Cyclops-Straw-Doll-Super-Sportsman.zip) |
 | Straw Doll Yokai Warlock | [Cyclops-Straw-Doll-Yokai-Warlock.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-cyclops/Cyclops-Straw-Doll-Yokai-Warlock.zip) |
@@ -55,6 +69,7 @@ Validated upgrade-skin packages. All downloads are published in the
 | Super Adventurer Exorcist | [Cyclops-Super-Adventurer-Exorcist.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-cyclops/Cyclops-Super-Adventurer-Exorcist.zip) |
 | Super Adventurer Master Yoda | [Cyclops-Super-Adventurer-Master-Yoda.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-cyclops/Cyclops-Super-Adventurer-Master-Yoda.zip) |
 | Super Adventurer S A B E R Enforcer | [Cyclops-Super-Adventurer-S-A-B-E-R-Enforcer.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-cyclops/Cyclops-Super-Adventurer-S-A-B-E-R-Enforcer.zip) |
+| Super Adventurer SpongeBob | [Cyclops-Super-Adventurer-SpongeBob.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-cyclops/Cyclops-Super-Adventurer-SpongeBob.zip) |
 | Super Adventurer Straw Doll | [Cyclops-Super-Adventurer-Straw-Doll.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-cyclops/Cyclops-Super-Adventurer-Straw-Doll.zip) |
 | Super Adventurer Super Sportsman | [Cyclops-Super-Adventurer-Super-Sportsman.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-cyclops/Cyclops-Super-Adventurer-Super-Sportsman.zip) |
 | Super Adventurer Yokai Warlock | [Cyclops-Super-Adventurer-Yokai-Warlock.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-cyclops/Cyclops-Super-Adventurer-Yokai-Warlock.zip) |
@@ -73,6 +88,7 @@ Validated upgrade-skin packages. All downloads are published in the
 | Yokai Warlock Exorcist | [Cyclops-Yokai-Warlock-Exorcist.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-cyclops/Cyclops-Yokai-Warlock-Exorcist.zip) |
 | Yokai Warlock Master Yoda | [Cyclops-Yokai-Warlock-Master-Yoda.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-cyclops/Cyclops-Yokai-Warlock-Master-Yoda.zip) |
 | Yokai Warlock S A B E R Enforcer | [Cyclops-Yokai-Warlock-S-A-B-E-R-Enforcer.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-cyclops/Cyclops-Yokai-Warlock-S-A-B-E-R-Enforcer.zip) |
+| Yokai Warlock SpongeBob | [Cyclops-Yokai-Warlock-SpongeBob.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-cyclops/Cyclops-Yokai-Warlock-SpongeBob.zip) |
 | Yokai Warlock Straw Doll | [Cyclops-Yokai-Warlock-Straw-Doll.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-cyclops/Cyclops-Yokai-Warlock-Straw-Doll.zip) |
 | Yokai Warlock Super Adventurer | [Cyclops-Yokai-Warlock-Super-Adventurer.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-cyclops/Cyclops-Yokai-Warlock-Super-Adventurer.zip) |
 | Yokai Warlock Super Sportsman | [Cyclops-Yokai-Warlock-Super-Sportsman.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-cyclops/Cyclops-Yokai-Warlock-Super-Sportsman.zip) |
@@ -82,6 +98,7 @@ Validated upgrade-skin packages. All downloads are published in the
 | Zombie Bambino Exorcist | [Cyclops-Zombie-Bambino-Exorcist.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-cyclops/Cyclops-Zombie-Bambino-Exorcist.zip) |
 | Zombie Bambino Master Yoda | [Cyclops-Zombie-Bambino-Master-Yoda.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-cyclops/Cyclops-Zombie-Bambino-Master-Yoda.zip) |
 | Zombie Bambino S A B E R Enforcer | [Cyclops-Zombie-Bambino-S-A-B-E-R-Enforcer.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-cyclops/Cyclops-Zombie-Bambino-S-A-B-E-R-Enforcer.zip) |
+| Zombie Bambino SpongeBob | [Cyclops-Zombie-Bambino-SpongeBob.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-cyclops/Cyclops-Zombie-Bambino-SpongeBob.zip) |
 | Zombie Bambino Straw Doll | [Cyclops-Zombie-Bambino-Straw-Doll.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-cyclops/Cyclops-Zombie-Bambino-Straw-Doll.zip) |
 | Zombie Bambino Super Adventurer | [Cyclops-Zombie-Bambino-Super-Adventurer.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-cyclops/Cyclops-Zombie-Bambino-Super-Adventurer.zip) |
 | Zombie Bambino Super Sportsman | [Cyclops-Zombie-Bambino-Super-Sportsman.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-cyclops/Cyclops-Zombie-Bambino-Super-Sportsman.zip) |
