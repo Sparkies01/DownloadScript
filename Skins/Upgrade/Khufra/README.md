@@ -10,19 +10,19 @@ Validated upgrade-skin packages. All downloads are published in the
 | Apophis Desert Owl | [Khufra-Apophis-Desert-Owl.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-khufra/Khufra-Apophis-Desert-Owl.zip) |
 | Apophis Dreadful Clown | [Khufra-Apophis-Dreadful-Clown.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-khufra/Khufra-Apophis-Dreadful-Clown.zip) |
 | Apophis Gentleman Thief | [Khufra-Apophis-Gentleman-Thief.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-khufra/Khufra-Apophis-Gentleman-Thief.zip) |
-| Apophis Iron Hook | [Khufra-Apophis-Iron-Hook.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-khufra/Khufra-Apophis-Iron-Hook.zip) |
+| Apophis Iron Hook.dependencies | [Khufra-Apophis-Iron-Hook.dependencies.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-khufra/Khufra-Apophis-Iron-Hook.dependencies.zip) |
 | Apophis Volcanic Overlord | [Khufra-Apophis-Volcanic-Overlord.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-khufra/Khufra-Apophis-Volcanic-Overlord.zip) |
 | Cursed Scroll Apophis | [Khufra-Cursed-Scroll-Apophis.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-khufra/Khufra-Cursed-Scroll-Apophis.zip) |
 | Cursed Scroll Backup | [Khufra-Cursed-Scroll-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-khufra/Khufra-Cursed-Scroll-Backup.zip) |
 | Cursed Scroll Desert Owl | [Khufra-Cursed-Scroll-Desert-Owl.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-khufra/Khufra-Cursed-Scroll-Desert-Owl.zip) |
 | Cursed Scroll Dreadful Clown | [Khufra-Cursed-Scroll-Dreadful-Clown.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-khufra/Khufra-Cursed-Scroll-Dreadful-Clown.zip) |
-| Cursed Scroll Gentleman Thief | [Khufra-Cursed-Scroll-Gentleman-Thief.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-khufra/Khufra-Cursed-Scroll-Gentleman-Thief.zip) |
-| Cursed Scroll Iron Hook | [Khufra-Cursed-Scroll-Iron-Hook.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-khufra/Khufra-Cursed-Scroll-Iron-Hook.zip) |
+| Cursed Scroll Gentleman Thief.dependencies | [Khufra-Cursed-Scroll-Gentleman-Thief.dependencies.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-khufra/Khufra-Cursed-Scroll-Gentleman-Thief.dependencies.zip) |
+| Cursed Scroll Iron Hook.dependencies | [Khufra-Cursed-Scroll-Iron-Hook.dependencies.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-khufra/Khufra-Cursed-Scroll-Iron-Hook.dependencies.zip) |
 | Cursed Scroll Volcanic Overlord | [Khufra-Cursed-Scroll-Volcanic-Overlord.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-khufra/Khufra-Cursed-Scroll-Volcanic-Overlord.zip) |
-| Desert Owl Apophis | [Khufra-Desert-Owl-Apophis.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-khufra/Khufra-Desert-Owl-Apophis.zip) |
+| Desert Owl Apophis.dependencies | [Khufra-Desert-Owl-Apophis.dependencies.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-khufra/Khufra-Desert-Owl-Apophis.dependencies.zip) |
 | Desert Owl Backup | [Khufra-Desert-Owl-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-khufra/Khufra-Desert-Owl-Backup.zip) |
 | Desert Owl Cursed Scroll | [Khufra-Desert-Owl-Cursed-Scroll.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-khufra/Khufra-Desert-Owl-Cursed-Scroll.zip) |
-| Desert Owl Dreadful Clown | [Khufra-Desert-Owl-Dreadful-Clown.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-khufra/Khufra-Desert-Owl-Dreadful-Clown.zip) |
+| Desert Owl Dreadful Clown.dependencies | [Khufra-Desert-Owl-Dreadful-Clown.dependencies.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-khufra/Khufra-Desert-Owl-Dreadful-Clown.dependencies.zip) |
 | Desert Owl Gentleman Thief | [Khufra-Desert-Owl-Gentleman-Thief.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-khufra/Khufra-Desert-Owl-Gentleman-Thief.zip) |
 | Desert Owl Iron Hook | [Khufra-Desert-Owl-Iron-Hook.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-khufra/Khufra-Desert-Owl-Iron-Hook.zip) |
 | Desert Owl Volcanic Overlord | [Khufra-Desert-Owl-Volcanic-Overlord.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-khufra/Khufra-Desert-Owl-Volcanic-Overlord.zip) |
