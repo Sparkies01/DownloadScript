@@ -28,7 +28,7 @@ Validated upgrade-skin packages. All downloads are published in the
 | Daybreak Halo Lucent Beacon | [Vexana-Daybreak-Halo-Lucent-Beacon.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-vexana/Vexana-Daybreak-Halo-Lucent-Beacon.zip) |
 | Daybreak Halo Sanguine Rose | [Vexana-Daybreak-Halo-Sanguine-Rose.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-vexana/Vexana-Daybreak-Halo-Sanguine-Rose.zip) |
 | Daybreak Halo The Sun Empress | [Vexana-Daybreak-Halo-The-Sun-Empress.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-vexana/Vexana-Daybreak-Halo-The-Sun-Empress.zip) |
-| Daybreak Halo Twisted Fairytale | [Vexana-Daybreak-Halo-Twisted-Fairytale.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-vexana/Vexana-Daybreak-Halo-Twisted-Fairytale.zip) |
+| Daybreak Halo Twisted Fairytale.dependencies | [Vexana-Daybreak-Halo-Twisted-Fairytale.dependencies.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-vexana/Vexana-Daybreak-Halo-Twisted-Fairytale.dependencies.zip) |
 | Eternal Vows Backup | [Vexana-Eternal-Vows-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-vexana/Vexana-Eternal-Vows-Backup.zip) |
 | Eternal Vows Circus Magician | [Vexana-Eternal-Vows-Circus-Magician.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-vexana/Vexana-Eternal-Vows-Circus-Magician.zip) |
 | Eternal Vows Cursed Shackle | [Vexana-Eternal-Vows-Cursed-Shackle.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-vexana/Vexana-Eternal-Vows-Cursed-Shackle.zip) |
@@ -38,10 +38,10 @@ Validated upgrade-skin packages. All downloads are published in the
 | Eternal Vows The Sun Empress | [Vexana-Eternal-Vows-The-Sun-Empress.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-vexana/Vexana-Eternal-Vows-The-Sun-Empress.zip) |
 | Eternal Vows Twisted Fairytale | [Vexana-Eternal-Vows-Twisted-Fairytale.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-vexana/Vexana-Eternal-Vows-Twisted-Fairytale.zip) |
 | Lucent Beacon Backup | [Vexana-Lucent-Beacon-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-vexana/Vexana-Lucent-Beacon-Backup.zip) |
-| Lucent Beacon Circus Magician | [Vexana-Lucent-Beacon-Circus-Magician.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-vexana/Vexana-Lucent-Beacon-Circus-Magician.zip) |
-| Lucent Beacon Cursed Shackle | [Vexana-Lucent-Beacon-Cursed-Shackle.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-vexana/Vexana-Lucent-Beacon-Cursed-Shackle.zip) |
+| Lucent Beacon Circus Magician.dependencies | [Vexana-Lucent-Beacon-Circus-Magician.dependencies.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-vexana/Vexana-Lucent-Beacon-Circus-Magician.dependencies.zip) |
+| Lucent Beacon Cursed Shackle.dependencies | [Vexana-Lucent-Beacon-Cursed-Shackle.dependencies.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-vexana/Vexana-Lucent-Beacon-Cursed-Shackle.dependencies.zip) |
 | Lucent Beacon Daybreak Halo | [Vexana-Lucent-Beacon-Daybreak-Halo.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-vexana/Vexana-Lucent-Beacon-Daybreak-Halo.zip) |
-| Lucent Beacon Eternal Vows | [Vexana-Lucent-Beacon-Eternal-Vows.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-vexana/Vexana-Lucent-Beacon-Eternal-Vows.zip) |
+| Lucent Beacon Eternal Vows.dependencies | [Vexana-Lucent-Beacon-Eternal-Vows.dependencies.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-vexana/Vexana-Lucent-Beacon-Eternal-Vows.dependencies.zip) |
 | Lucent Beacon Sanguine Rose | [Vexana-Lucent-Beacon-Sanguine-Rose.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-vexana/Vexana-Lucent-Beacon-Sanguine-Rose.zip) |
 | Lucent Beacon The Sun Empress | [Vexana-Lucent-Beacon-The-Sun-Empress.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-vexana/Vexana-Lucent-Beacon-The-Sun-Empress.zip) |
 | Lucent Beacon Twisted Fairytale | [Vexana-Lucent-Beacon-Twisted-Fairytale.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-vexana/Vexana-Lucent-Beacon-Twisted-Fairytale.zip) |
