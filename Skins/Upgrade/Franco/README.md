@@ -12,7 +12,7 @@ Validated upgrade-skin packages. All downloads are published in the
 | Apocalypse Locomotive | [Franco-Apocalypse-Locomotive.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-franco/Franco-Apocalypse-Locomotive.zip) |
 | Apocalypse Luminous Nightmare | [Franco-Apocalypse-Luminous-Nightmare.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-franco/Franco-Apocalypse-Luminous-Nightmare.zip) |
 | Apocalypse Masterchef | [Franco-Apocalypse-Masterchef.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-franco/Franco-Apocalypse-Masterchef.zip) |
-| Apocalypse Quantum Vanguard | [Franco-Apocalypse-Quantum-Vanguard.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-franco/Franco-Apocalypse-Quantum-Vanguard.zip) |
+| Apocalypse Quantum Vanguard.dependencies | [Franco-Apocalypse-Quantum-Vanguard.dependencies.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-franco/Franco-Apocalypse-Quantum-Vanguard.dependencies.zip) |
 | Apocalypse Valhalla Ruler | [Franco-Apocalypse-Valhalla-Ruler.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-franco/Franco-Apocalypse-Valhalla-Ruler.zip) |
 | Apocalypse Wheatfield Nightmare | [Franco-Apocalypse-Wheatfield-Nightmare.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-franco/Franco-Apocalypse-Wheatfield-Nightmare.zip) |
 | Blazing Axe Apocalypse | [Franco-Blazing-Axe-Apocalypse.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-franco/Franco-Blazing-Axe-Apocalypse.zip) |
@@ -50,7 +50,7 @@ Validated upgrade-skin packages. All downloads are published in the
 | Locomotive Blazing Axe | [Franco-Locomotive-Blazing-Axe.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-franco/Franco-Locomotive-Blazing-Axe.zip) |
 | Locomotive Bone Crusher | [Franco-Locomotive-Bone-Crusher.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-franco/Franco-Locomotive-Bone-Crusher.zip) |
 | Locomotive King of Hell | [Franco-Locomotive-King-of-Hell.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-franco/Franco-Locomotive-King-of-Hell.zip) |
-| Locomotive Luminous Nightmare | [Franco-Locomotive-Luminous-Nightmare.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-franco/Franco-Locomotive-Luminous-Nightmare.zip) |
+| Locomotive Luminous Nightmare.dependencies | [Franco-Locomotive-Luminous-Nightmare.dependencies.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-franco/Franco-Locomotive-Luminous-Nightmare.dependencies.zip) |
 | Locomotive Masterchef | [Franco-Locomotive-Masterchef.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-franco/Franco-Locomotive-Masterchef.zip) |
 | Locomotive Quantum Vanguard | [Franco-Locomotive-Quantum-Vanguard.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-franco/Franco-Locomotive-Quantum-Vanguard.zip) |
 | Locomotive Valhalla Ruler | [Franco-Locomotive-Valhalla-Ruler.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-franco/Franco-Locomotive-Valhalla-Ruler.zip) |
@@ -104,4 +104,4 @@ Validated upgrade-skin packages. All downloads are published in the
 | Wheatfield Nightmare Luminous Nightmare | [Franco-Wheatfield-Nightmare-Luminous-Nightmare.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-franco/Franco-Wheatfield-Nightmare-Luminous-Nightmare.zip) |
 | Wheatfield Nightmare Masterchef | [Franco-Wheatfield-Nightmare-Masterchef.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-franco/Franco-Wheatfield-Nightmare-Masterchef.zip) |
 | Wheatfield Nightmare Quantum Vanguard | [Franco-Wheatfield-Nightmare-Quantum-Vanguard.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-franco/Franco-Wheatfield-Nightmare-Quantum-Vanguard.zip) |
-| Wheatfield Nightmare Valhalla Ruler | [Franco-Wheatfield-Nightmare-Valhalla-Ruler.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-franco/Franco-Wheatfield-Nightmare-Valhalla-Ruler.zip) |
+| Wheatfield Nightmare Valhalla Ruler.dependencies | [Franco-Wheatfield-Nightmare-Valhalla-Ruler.dependencies.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-franco/Franco-Wheatfield-Nightmare-Valhalla-Ruler.dependencies.zip) |
