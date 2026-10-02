@@ -13,7 +13,6 @@ Validated upgrade-skin packages. All downloads are published in the
 | Cat Girl Mecha Maiden | [Ruby-Cat-Girl-Mecha-Maiden.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-ruby/Ruby-Cat-Girl-Mecha-Maiden.zip) |
 | Cat Girl Neon Edge | [Ruby-Cat-Girl-Neon-Edge.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-ruby/Ruby-Cat-Girl-Neon-Edge.zip) |
 | Cat Girl Pirate Parrot | [Ruby-Cat-Girl-Pirate-Parrot.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-ruby/Ruby-Cat-Girl-Pirate-Parrot.zip) |
-| Cat Girl Powderblue Butterfly | [Ruby-Cat-Girl-Powderblue-Butterfly.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-ruby/Ruby-Cat-Girl-Powderblue-Butterfly.zip) |
 | Cat Girl Prismatic Plume | [Ruby-Cat-Girl-Prismatic-Plume.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-ruby/Ruby-Cat-Girl-Prismatic-Plume.zip) |
 | Cat Girl Soul Reaper | [Ruby-Cat-Girl-Soul-Reaper.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-ruby/Ruby-Cat-Girl-Soul-Reaper.zip) |
 | Crescent Dervish Backup | [Ruby-Crescent-Dervish-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-ruby/Ruby-Crescent-Dervish-Backup.zip) |
@@ -24,7 +23,6 @@ Validated upgrade-skin packages. All downloads are published in the
 | Crescent Dervish Mecha Maiden | [Ruby-Crescent-Dervish-Mecha-Maiden.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-ruby/Ruby-Crescent-Dervish-Mecha-Maiden.zip) |
 | Crescent Dervish Neon Edge | [Ruby-Crescent-Dervish-Neon-Edge.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-ruby/Ruby-Crescent-Dervish-Neon-Edge.zip) |
 | Crescent Dervish Pirate Parrot | [Ruby-Crescent-Dervish-Pirate-Parrot.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-ruby/Ruby-Crescent-Dervish-Pirate-Parrot.zip) |
-| Crescent Dervish Powderblue Butterfly | [Ruby-Crescent-Dervish-Powderblue-Butterfly.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-ruby/Ruby-Crescent-Dervish-Powderblue-Butterfly.zip) |
 | Crescent Dervish Prismatic Plume | [Ruby-Crescent-Dervish-Prismatic-Plume.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-ruby/Ruby-Crescent-Dervish-Prismatic-Plume.zip) |
 | Crescent Dervish Soul Reaper | [Ruby-Crescent-Dervish-Soul-Reaper.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-ruby/Ruby-Crescent-Dervish-Soul-Reaper.zip) |
 | Edelweiss Backup | [Ruby-Edelweiss-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-ruby/Ruby-Edelweiss-Backup.zip) |
@@ -35,7 +33,6 @@ Validated upgrade-skin packages. All downloads are published in the
 | Edelweiss Mecha Maiden | [Ruby-Edelweiss-Mecha-Maiden.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-ruby/Ruby-Edelweiss-Mecha-Maiden.zip) |
 | Edelweiss Neon Edge | [Ruby-Edelweiss-Neon-Edge.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-ruby/Ruby-Edelweiss-Neon-Edge.zip) |
 | Edelweiss Pirate Parrot | [Ruby-Edelweiss-Pirate-Parrot.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-ruby/Ruby-Edelweiss-Pirate-Parrot.zip) |
-| Edelweiss Powderblue Butterfly | [Ruby-Edelweiss-Powderblue-Butterfly.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-ruby/Ruby-Edelweiss-Powderblue-Butterfly.zip) |
 | Edelweiss Prismatic Plume | [Ruby-Edelweiss-Prismatic-Plume.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-ruby/Ruby-Edelweiss-Prismatic-Plume.zip) |
 | Edelweiss Soul Reaper | [Ruby-Edelweiss-Soul-Reaper.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-ruby/Ruby-Edelweiss-Soul-Reaper.zip) |
 | Hidden Orchid Butterfly Backup | [Ruby-Hidden-Orchid-Butterfly-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-ruby/Ruby-Hidden-Orchid-Butterfly-Backup.zip) |
@@ -56,7 +53,6 @@ Validated upgrade-skin packages. All downloads are published in the
 | Lady Zombie Mecha Maiden | [Ruby-Lady-Zombie-Mecha-Maiden.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-ruby/Ruby-Lady-Zombie-Mecha-Maiden.zip) |
 | Lady Zombie Neon Edge | [Ruby-Lady-Zombie-Neon-Edge.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-ruby/Ruby-Lady-Zombie-Neon-Edge.zip) |
 | Lady Zombie Pirate Parrot | [Ruby-Lady-Zombie-Pirate-Parrot.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-ruby/Ruby-Lady-Zombie-Pirate-Parrot.zip) |
-| Lady Zombie Powderblue Butterfly | [Ruby-Lady-Zombie-Powderblue-Butterfly.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-ruby/Ruby-Lady-Zombie-Powderblue-Butterfly.zip) |
 | Lady Zombie Prismatic Plume | [Ruby-Lady-Zombie-Prismatic-Plume.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-ruby/Ruby-Lady-Zombie-Prismatic-Plume.zip) |
 | Lady Zombie Soul Reaper | [Ruby-Lady-Zombie-Soul-Reaper.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-ruby/Ruby-Lady-Zombie-Soul-Reaper.zip) |
 | Mecha Maiden Backup | [Ruby-Mecha-Maiden-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-ruby/Ruby-Mecha-Maiden-Backup.zip) |
@@ -67,7 +63,6 @@ Validated upgrade-skin packages. All downloads are published in the
 | Mecha Maiden Lady Zombie | [Ruby-Mecha-Maiden-Lady-Zombie.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-ruby/Ruby-Mecha-Maiden-Lady-Zombie.zip) |
 | Mecha Maiden Neon Edge | [Ruby-Mecha-Maiden-Neon-Edge.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-ruby/Ruby-Mecha-Maiden-Neon-Edge.zip) |
 | Mecha Maiden Pirate Parrot | [Ruby-Mecha-Maiden-Pirate-Parrot.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-ruby/Ruby-Mecha-Maiden-Pirate-Parrot.zip) |
-| Mecha Maiden Powderblue Butterfly | [Ruby-Mecha-Maiden-Powderblue-Butterfly.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-ruby/Ruby-Mecha-Maiden-Powderblue-Butterfly.zip) |
 | Mecha Maiden Prismatic Plume | [Ruby-Mecha-Maiden-Prismatic-Plume.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-ruby/Ruby-Mecha-Maiden-Prismatic-Plume.zip) |
 | Mecha Maiden Soul Reaper | [Ruby-Mecha-Maiden-Soul-Reaper.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-ruby/Ruby-Mecha-Maiden-Soul-Reaper.zip) |
 | Neon Edge Backup | [Ruby-Neon-Edge-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-ruby/Ruby-Neon-Edge-Backup.zip) |
@@ -78,7 +73,6 @@ Validated upgrade-skin packages. All downloads are published in the
 | Neon Edge Lady Zombie | [Ruby-Neon-Edge-Lady-Zombie.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-ruby/Ruby-Neon-Edge-Lady-Zombie.zip) |
 | Neon Edge Mecha Maiden | [Ruby-Neon-Edge-Mecha-Maiden.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-ruby/Ruby-Neon-Edge-Mecha-Maiden.zip) |
 | Neon Edge Pirate Parrot | [Ruby-Neon-Edge-Pirate-Parrot.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-ruby/Ruby-Neon-Edge-Pirate-Parrot.zip) |
-| Neon Edge Powderblue Butterfly | [Ruby-Neon-Edge-Powderblue-Butterfly.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-ruby/Ruby-Neon-Edge-Powderblue-Butterfly.zip) |
 | Neon Edge Prismatic Plume | [Ruby-Neon-Edge-Prismatic-Plume.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-ruby/Ruby-Neon-Edge-Prismatic-Plume.zip) |
 | Neon Edge Soul Reaper | [Ruby-Neon-Edge-Soul-Reaper.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-ruby/Ruby-Neon-Edge-Soul-Reaper.zip) |
 | Pirate Parrot Backup | [Ruby-Pirate-Parrot-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-ruby/Ruby-Pirate-Parrot-Backup.zip) |
@@ -89,19 +83,8 @@ Validated upgrade-skin packages. All downloads are published in the
 | Pirate Parrot Lady Zombie | [Ruby-Pirate-Parrot-Lady-Zombie.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-ruby/Ruby-Pirate-Parrot-Lady-Zombie.zip) |
 | Pirate Parrot Mecha Maiden | [Ruby-Pirate-Parrot-Mecha-Maiden.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-ruby/Ruby-Pirate-Parrot-Mecha-Maiden.zip) |
 | Pirate Parrot Neon Edge | [Ruby-Pirate-Parrot-Neon-Edge.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-ruby/Ruby-Pirate-Parrot-Neon-Edge.zip) |
-| Pirate Parrot Powderblue Butterfly | [Ruby-Pirate-Parrot-Powderblue-Butterfly.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-ruby/Ruby-Pirate-Parrot-Powderblue-Butterfly.zip) |
 | Pirate Parrot Prismatic Plume | [Ruby-Pirate-Parrot-Prismatic-Plume.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-ruby/Ruby-Pirate-Parrot-Prismatic-Plume.zip) |
 | Pirate Parrot Soul Reaper | [Ruby-Pirate-Parrot-Soul-Reaper.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-ruby/Ruby-Pirate-Parrot-Soul-Reaper.zip) |
-| Powderblue Butterfly Backup | [Ruby-Powderblue-Butterfly-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-ruby/Ruby-Powderblue-Butterfly-Backup.zip) |
-| Powderblue Butterfly Cat Girl | [Ruby-Powderblue-Butterfly-Cat-Girl.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-ruby/Ruby-Powderblue-Butterfly-Cat-Girl.zip) |
-| Powderblue Butterfly Crescent Dervish | [Ruby-Powderblue-Butterfly-Crescent-Dervish.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-ruby/Ruby-Powderblue-Butterfly-Crescent-Dervish.zip) |
-| Powderblue Butterfly Edelweiss | [Ruby-Powderblue-Butterfly-Edelweiss.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-ruby/Ruby-Powderblue-Butterfly-Edelweiss.zip) |
-| Powderblue Butterfly Lady Zombie | [Ruby-Powderblue-Butterfly-Lady-Zombie.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-ruby/Ruby-Powderblue-Butterfly-Lady-Zombie.zip) |
-| Powderblue Butterfly Mecha Maiden | [Ruby-Powderblue-Butterfly-Mecha-Maiden.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-ruby/Ruby-Powderblue-Butterfly-Mecha-Maiden.zip) |
-| Powderblue Butterfly Neon Edge | [Ruby-Powderblue-Butterfly-Neon-Edge.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-ruby/Ruby-Powderblue-Butterfly-Neon-Edge.zip) |
-| Powderblue Butterfly Pirate Parrot | [Ruby-Powderblue-Butterfly-Pirate-Parrot.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-ruby/Ruby-Powderblue-Butterfly-Pirate-Parrot.zip) |
-| Powderblue Butterfly Prismatic Plume | [Ruby-Powderblue-Butterfly-Prismatic-Plume.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-ruby/Ruby-Powderblue-Butterfly-Prismatic-Plume.zip) |
-| Powderblue Butterfly Soul Reaper | [Ruby-Powderblue-Butterfly-Soul-Reaper.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-ruby/Ruby-Powderblue-Butterfly-Soul-Reaper.zip) |
 | Prismatic Plume Backup | [Ruby-Prismatic-Plume-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-ruby/Ruby-Prismatic-Plume-Backup.zip) |
 | Prismatic Plume Cat Girl | [Ruby-Prismatic-Plume-Cat-Girl.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-ruby/Ruby-Prismatic-Plume-Cat-Girl.zip) |
 | Prismatic Plume Crescent Dervish | [Ruby-Prismatic-Plume-Crescent-Dervish.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-ruby/Ruby-Prismatic-Plume-Crescent-Dervish.zip) |
@@ -111,7 +94,6 @@ Validated upgrade-skin packages. All downloads are published in the
 | Prismatic Plume Mecha Maiden | [Ruby-Prismatic-Plume-Mecha-Maiden.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-ruby/Ruby-Prismatic-Plume-Mecha-Maiden.zip) |
 | Prismatic Plume Neon Edge | [Ruby-Prismatic-Plume-Neon-Edge.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-ruby/Ruby-Prismatic-Plume-Neon-Edge.zip) |
 | Prismatic Plume Pirate Parrot | [Ruby-Prismatic-Plume-Pirate-Parrot.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-ruby/Ruby-Prismatic-Plume-Pirate-Parrot.zip) |
-| Prismatic Plume Powderblue Butterfly | [Ruby-Prismatic-Plume-Powderblue-Butterfly.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-ruby/Ruby-Prismatic-Plume-Powderblue-Butterfly.zip) |
 | Prismatic Plume Soul Reaper | [Ruby-Prismatic-Plume-Soul-Reaper.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-ruby/Ruby-Prismatic-Plume-Soul-Reaper.zip) |
 | Soul Reaper Backup | [Ruby-Soul-Reaper-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-ruby/Ruby-Soul-Reaper-Backup.zip) |
 | Soul Reaper Cat Girl | [Ruby-Soul-Reaper-Cat-Girl.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-ruby/Ruby-Soul-Reaper-Cat-Girl.zip) |
@@ -122,5 +104,4 @@ Validated upgrade-skin packages. All downloads are published in the
 | Soul Reaper Mecha Maiden | [Ruby-Soul-Reaper-Mecha-Maiden.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-ruby/Ruby-Soul-Reaper-Mecha-Maiden.zip) |
 | Soul Reaper Neon Edge | [Ruby-Soul-Reaper-Neon-Edge.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-ruby/Ruby-Soul-Reaper-Neon-Edge.zip) |
 | Soul Reaper Pirate Parrot | [Ruby-Soul-Reaper-Pirate-Parrot.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-ruby/Ruby-Soul-Reaper-Pirate-Parrot.zip) |
-| Soul Reaper Powderblue Butterfly | [Ruby-Soul-Reaper-Powderblue-Butterfly.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-ruby/Ruby-Soul-Reaper-Powderblue-Butterfly.zip) |
 | Soul Reaper Prismatic Plume | [Ruby-Soul-Reaper-Prismatic-Plume.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-ruby/Ruby-Soul-Reaper-Prismatic-Plume.zip) |
