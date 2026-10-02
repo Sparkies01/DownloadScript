@@ -18,7 +18,7 @@ Validated upgrade-skin packages. All downloads are published in the
 | Honor Blade Moonblade | [Benedetta-Honor-Blade-Moonblade.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-benedetta/Benedetta-Honor-Blade-Moonblade.zip) |
 | Honor Blade Panigale V4S Rider | [Benedetta-Honor-Blade-Panigale-V4S-Rider.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-benedetta/Benedetta-Honor-Blade-Panigale-V4S-Rider.zip) |
 | Honor Blade Phantom Mirage | [Benedetta-Honor-Blade-Phantom-Mirage.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-benedetta/Benedetta-Honor-Blade-Phantom-Mirage.zip) |
-| Honor Blade Quantum Edge | [Benedetta-Honor-Blade-Quantum-Edge.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-benedetta/Benedetta-Honor-Blade-Quantum-Edge.zip) |
+| Honor Blade Quantum Edge.dependencies | [Benedetta-Honor-Blade-Quantum-Edge.dependencies.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-benedetta/Benedetta-Honor-Blade-Quantum-Edge.dependencies.zip) |
 | Honor Blade Street Thrasher | [Benedetta-Honor-Blade-Street-Thrasher.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-benedetta/Benedetta-Honor-Blade-Street-Thrasher.zip) |
 | Honor Blade Vessel of Pride | [Benedetta-Honor-Blade-Vessel-of-Pride.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-benedetta/Benedetta-Honor-Blade-Vessel-of-Pride.zip) |
 | Moonblade Backup | [Benedetta-Moonblade-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-benedetta/Benedetta-Moonblade-Backup.zip) |
@@ -30,7 +30,7 @@ Validated upgrade-skin packages. All downloads are published in the
 | Moonblade Street Thrasher | [Benedetta-Moonblade-Street-Thrasher.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-benedetta/Benedetta-Moonblade-Street-Thrasher.zip) |
 | Moonblade Vessel of Pride | [Benedetta-Moonblade-Vessel-of-Pride.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-benedetta/Benedetta-Moonblade-Vessel-of-Pride.zip) |
 | Panigale V4S Rider Backup | [Benedetta-Panigale-V4S-Rider-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-benedetta/Benedetta-Panigale-V4S-Rider-Backup.zip) |
-| Panigale V4S Rider Death Oath | [Benedetta-Panigale-V4S-Rider-Death-Oath.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-benedetta/Benedetta-Panigale-V4S-Rider-Death-Oath.zip) |
+| Panigale V4S Rider Death Oath.dependencies | [Benedetta-Panigale-V4S-Rider-Death-Oath.dependencies.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-benedetta/Benedetta-Panigale-V4S-Rider-Death-Oath.dependencies.zip) |
 | Panigale V4S Rider Honor Blade | [Benedetta-Panigale-V4S-Rider-Honor-Blade.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-benedetta/Benedetta-Panigale-V4S-Rider-Honor-Blade.zip) |
 | Panigale V4S Rider Moonblade | [Benedetta-Panigale-V4S-Rider-Moonblade.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-benedetta/Benedetta-Panigale-V4S-Rider-Moonblade.zip) |
 | Panigale V4S Rider Phantom Mirage | [Benedetta-Panigale-V4S-Rider-Phantom-Mirage.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-benedetta/Benedetta-Panigale-V4S-Rider-Phantom-Mirage.zip) |
