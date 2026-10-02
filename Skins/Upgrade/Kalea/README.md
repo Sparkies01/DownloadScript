@@ -5,7 +5,12 @@ Validated upgrade-skin packages. All downloads are published in the
 
 | Package | Download |
 | --- | --- |
+| Beta Skin 03 Detected in Beta Mirror Backup | [Kalea-Beta-Skin-03-Detected-in-Beta-Mirror-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-kalea/Kalea-Beta-Skin-03-Detected-in-Beta-Mirror-Backup.zip) |
+| Beta Skin 03 Detected in Beta Mirror Sakura Haruno | [Kalea-Beta-Skin-03-Detected-in-Beta-Mirror-Sakura-Haruno.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-kalea/Kalea-Beta-Skin-03-Detected-in-Beta-Mirror-Sakura-Haruno.zip) |
+| Beta Skin 03 Detected in Beta Mirror Shimmering Waves | [Kalea-Beta-Skin-03-Detected-in-Beta-Mirror-Shimmering-Waves.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-kalea/Kalea-Beta-Skin-03-Detected-in-Beta-Mirror-Shimmering-Waves.zip) |
 | Sakura Haruno Backup | [Kalea-Sakura-Haruno-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-kalea/Kalea-Sakura-Haruno-Backup.zip) |
+| Sakura Haruno Beta Skin 03 Detected in Beta Mirror | [Kalea-Sakura-Haruno-Beta-Skin-03-Detected-in-Beta-Mirror.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-kalea/Kalea-Sakura-Haruno-Beta-Skin-03-Detected-in-Beta-Mirror.zip) |
 | Sakura Haruno Shimmering Waves | [Kalea-Sakura-Haruno-Shimmering-Waves.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-kalea/Kalea-Sakura-Haruno-Shimmering-Waves.zip) |
 | Shimmering Waves Backup | [Kalea-Shimmering-Waves-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-kalea/Kalea-Shimmering-Waves-Backup.zip) |
+| Shimmering Waves Beta Skin 03 Detected in Beta Mirror | [Kalea-Shimmering-Waves-Beta-Skin-03-Detected-in-Beta-Mirror.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-kalea/Kalea-Shimmering-Waves-Beta-Skin-03-Detected-in-Beta-Mirror.zip) |
 | Shimmering Waves Sakura Haruno | [Kalea-Shimmering-Waves-Sakura-Haruno.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-kalea/Kalea-Shimmering-Waves-Sakura-Haruno.zip) |
