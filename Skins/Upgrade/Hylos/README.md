@@ -16,7 +16,7 @@ Validated upgrade-skin packages. All downloads are published in the
 | Bloodhoof Marauder Iron Steed | [Hylos-Bloodhoof-Marauder-Iron-Steed.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hylos/Hylos-Bloodhoof-Marauder-Iron-Steed.zip) |
 | Bloodhoof Marauder Jungle Watcher | [Hylos-Bloodhoof-Marauder-Jungle-Watcher.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hylos/Hylos-Bloodhoof-Marauder-Jungle-Watcher.zip) |
 | Bloodhoof Marauder Lord of the Tundra | [Hylos-Bloodhoof-Marauder-Lord-of-the-Tundra.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hylos/Hylos-Bloodhoof-Marauder-Lord-of-the-Tundra.zip) |
-| Bloodhoof Marauder Phantom Seer | [Hylos-Bloodhoof-Marauder-Phantom-Seer.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hylos/Hylos-Bloodhoof-Marauder-Phantom-Seer.zip) |
+| Bloodhoof Marauder Phantom Seer.dependencies | [Hylos-Bloodhoof-Marauder-Phantom-Seer.dependencies.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hylos/Hylos-Bloodhoof-Marauder-Phantom-Seer.dependencies.zip) |
 | Iron Steed Abyssal Shaman | [Hylos-Iron-Steed-Abyssal-Shaman.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hylos/Hylos-Iron-Steed-Abyssal-Shaman.zip) |
 | Iron Steed Backup | [Hylos-Iron-Steed-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hylos/Hylos-Iron-Steed-Backup.zip) |
 | Iron Steed Bloodhoof Marauder | [Hylos-Iron-Steed-Bloodhoof-Marauder.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hylos/Hylos-Iron-Steed-Bloodhoof-Marauder.zip) |
@@ -34,7 +34,7 @@ Validated upgrade-skin packages. All downloads are published in the
 | Lord of the Tundra Bloodhoof Marauder | [Hylos-Lord-of-the-Tundra-Bloodhoof-Marauder.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hylos/Hylos-Lord-of-the-Tundra-Bloodhoof-Marauder.zip) |
 | Lord of the Tundra Iron Steed | [Hylos-Lord-of-the-Tundra-Iron-Steed.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hylos/Hylos-Lord-of-the-Tundra-Iron-Steed.zip) |
 | Lord of the Tundra Jungle Watcher | [Hylos-Lord-of-the-Tundra-Jungle-Watcher.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hylos/Hylos-Lord-of-the-Tundra-Jungle-Watcher.zip) |
-| Lord of the Tundra Phantom Seer | [Hylos-Lord-of-the-Tundra-Phantom-Seer.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hylos/Hylos-Lord-of-the-Tundra-Phantom-Seer.zip) |
+| Lord of the Tundra Phantom Seer.dependencies | [Hylos-Lord-of-the-Tundra-Phantom-Seer.dependencies.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hylos/Hylos-Lord-of-the-Tundra-Phantom-Seer.dependencies.zip) |
 | Phantom Seer Abyssal Shaman | [Hylos-Phantom-Seer-Abyssal-Shaman.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hylos/Hylos-Phantom-Seer-Abyssal-Shaman.zip) |
 | Phantom Seer Backup | [Hylos-Phantom-Seer-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hylos/Hylos-Phantom-Seer-Backup.zip) |
 | Phantom Seer Bloodhoof Marauder | [Hylos-Phantom-Seer-Bloodhoof-Marauder.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-hylos/Hylos-Phantom-Seer-Bloodhoof-Marauder.zip) |
