@@ -6,10 +6,10 @@ Validated upgrade-skin packages. All downloads are published in the
 | Package | Download |
 | --- | --- |
 | Ba tender Backup | [Baxia-Ba-tender-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-baxia/Baxia-Ba-tender-Backup.zip) |
-| Ba tender Badass Roller | [Baxia-Ba-tender-Badass-Roller.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-baxia/Baxia-Ba-tender-Badass-Roller.zip) |
+| Ba tender Badass Roller.dependencies | [Baxia-Ba-tender-Badass-Roller.dependencies.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-baxia/Baxia-Ba-tender-Badass-Roller.dependencies.zip) |
 | Ba tender Beta Skin 06 Detected in Beta Mirror | [Baxia-Ba-tender-Beta-Skin-06-Detected-in-Beta-Mirror.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-baxia/Baxia-Ba-tender-Beta-Skin-06-Detected-in-Beta-Mirror.zip) |
-| Ba tender Beta Skin 07 Detected in Beta Mirror | [Baxia-Ba-tender-Beta-Skin-07-Detected-in-Beta-Mirror.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-baxia/Baxia-Ba-tender-Beta-Skin-07-Detected-in-Beta-Mirror.zip) |
-| Ba tender Black Tortoise | [Baxia-Ba-tender-Black-Tortoise.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-baxia/Baxia-Ba-tender-Black-Tortoise.zip) |
+| Ba tender Beta Skin 07 Detected in Beta Mirror.dependencies | [Baxia-Ba-tender-Beta-Skin-07-Detected-in-Beta-Mirror.dependencies.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-baxia/Baxia-Ba-tender-Beta-Skin-07-Detected-in-Beta-Mirror.dependencies.zip) |
+| Ba tender Black Tortoise.dependencies | [Baxia-Ba-tender-Black-Tortoise.dependencies.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-baxia/Baxia-Ba-tender-Black-Tortoise.dependencies.zip) |
 | Ba tender Dauntless Shield | [Baxia-Ba-tender-Dauntless-Shield.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-baxia/Baxia-Ba-tender-Dauntless-Shield.zip) |
 | Ba tender Wild Totem | [Baxia-Ba-tender-Wild-Totem.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-baxia/Baxia-Ba-tender-Wild-Totem.zip) |
 | Badass Roller Ba tender | [Baxia-Badass-Roller-Ba-tender.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-baxia/Baxia-Badass-Roller-Ba-tender.zip) |
@@ -17,7 +17,7 @@ Validated upgrade-skin packages. All downloads are published in the
 | Badass Roller Beta Skin 06 Detected in Beta Mirror | [Baxia-Badass-Roller-Beta-Skin-06-Detected-in-Beta-Mirror.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-baxia/Baxia-Badass-Roller-Beta-Skin-06-Detected-in-Beta-Mirror.zip) |
 | Badass Roller Beta Skin 07 Detected in Beta Mirror | [Baxia-Badass-Roller-Beta-Skin-07-Detected-in-Beta-Mirror.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-baxia/Baxia-Badass-Roller-Beta-Skin-07-Detected-in-Beta-Mirror.zip) |
 | Badass Roller Black Tortoise | [Baxia-Badass-Roller-Black-Tortoise.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-baxia/Baxia-Badass-Roller-Black-Tortoise.zip) |
-| Badass Roller Dauntless Shield | [Baxia-Badass-Roller-Dauntless-Shield.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-baxia/Baxia-Badass-Roller-Dauntless-Shield.zip) |
+| Badass Roller Dauntless Shield.dependencies | [Baxia-Badass-Roller-Dauntless-Shield.dependencies.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-baxia/Baxia-Badass-Roller-Dauntless-Shield.dependencies.zip) |
 | Badass Roller Wild Totem | [Baxia-Badass-Roller-Wild-Totem.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-baxia/Baxia-Badass-Roller-Wild-Totem.zip) |
 | Beta Skin 06 Detected in Beta Mirror Ba tender | [Baxia-Beta-Skin-06-Detected-in-Beta-Mirror-Ba-tender.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-baxia/Baxia-Beta-Skin-06-Detected-in-Beta-Mirror-Ba-tender.zip) |
 | Beta Skin 06 Detected in Beta Mirror Backup | [Baxia-Beta-Skin-06-Detected-in-Beta-Mirror-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-baxia/Baxia-Beta-Skin-06-Detected-in-Beta-Mirror-Backup.zip) |
@@ -35,8 +35,8 @@ Validated upgrade-skin packages. All downloads are published in the
 | Black Tortoise Backup | [Baxia-Black-Tortoise-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-baxia/Baxia-Black-Tortoise-Backup.zip) |
 | Black Tortoise Badass Roller | [Baxia-Black-Tortoise-Badass-Roller.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-baxia/Baxia-Black-Tortoise-Badass-Roller.zip) |
 | Black Tortoise Beta Skin 06 Detected in Beta Mirror | [Baxia-Black-Tortoise-Beta-Skin-06-Detected-in-Beta-Mirror.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-baxia/Baxia-Black-Tortoise-Beta-Skin-06-Detected-in-Beta-Mirror.zip) |
-| Black Tortoise Beta Skin 07 Detected in Beta Mirror | [Baxia-Black-Tortoise-Beta-Skin-07-Detected-in-Beta-Mirror.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-baxia/Baxia-Black-Tortoise-Beta-Skin-07-Detected-in-Beta-Mirror.zip) |
-| Black Tortoise Dauntless Shield | [Baxia-Black-Tortoise-Dauntless-Shield.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-baxia/Baxia-Black-Tortoise-Dauntless-Shield.zip) |
+| Black Tortoise Beta Skin 07 Detected in Beta Mirror.dependencies | [Baxia-Black-Tortoise-Beta-Skin-07-Detected-in-Beta-Mirror.dependencies.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-baxia/Baxia-Black-Tortoise-Beta-Skin-07-Detected-in-Beta-Mirror.dependencies.zip) |
+| Black Tortoise Dauntless Shield.dependencies | [Baxia-Black-Tortoise-Dauntless-Shield.dependencies.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-baxia/Baxia-Black-Tortoise-Dauntless-Shield.dependencies.zip) |
 | Black Tortoise Wild Totem | [Baxia-Black-Tortoise-Wild-Totem.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-baxia/Baxia-Black-Tortoise-Wild-Totem.zip) |
 | Dauntless Shield Ba tender | [Baxia-Dauntless-Shield-Ba-tender.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-baxia/Baxia-Dauntless-Shield-Ba-tender.zip) |
 | Dauntless Shield Backup | [Baxia-Dauntless-Shield-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-baxia/Baxia-Dauntless-Shield-Backup.zip) |
