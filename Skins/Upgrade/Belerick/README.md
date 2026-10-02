@@ -31,10 +31,10 @@ Validated upgrade-skin packages. All downloads are published in the
 | The Deep One Torch Guardian | [Belerick-The-Deep-One-Torch-Guardian.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-belerick/Belerick-The-Deep-One-Torch-Guardian.zip) |
 | Tiger s Claw Arbiter of Stars | [Belerick-Tiger-s-Claw-Arbiter-of-Stars.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-belerick/Belerick-Tiger-s-Claw-Arbiter-of-Stars.zip) |
 | Tiger s Claw Backup | [Belerick-Tiger-s-Claw-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-belerick/Belerick-Tiger-s-Claw-Backup.zip) |
-| Tiger s Claw Deep Reef | [Belerick-Tiger-s-Claw-Deep-Reef.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-belerick/Belerick-Tiger-s-Claw-Deep-Reef.zip) |
+| Tiger s Claw Deep Reef.dependencies | [Belerick-Tiger-s-Claw-Deep-Reef.dependencies.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-belerick/Belerick-Tiger-s-Claw-Deep-Reef.dependencies.zip) |
 | Tiger s Claw Emerald Guardian | [Belerick-Tiger-s-Claw-Emerald-Guardian.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-belerick/Belerick-Tiger-s-Claw-Emerald-Guardian.zip) |
 | Tiger s Claw The Deep One | [Belerick-Tiger-s-Claw-The-Deep-One.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-belerick/Belerick-Tiger-s-Claw-The-Deep-One.zip) |
-| Tiger s Claw Torch Guardian | [Belerick-Tiger-s-Claw-Torch-Guardian.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-belerick/Belerick-Tiger-s-Claw-Torch-Guardian.zip) |
+| Tiger s Claw Torch Guardian.dependencies | [Belerick-Tiger-s-Claw-Torch-Guardian.dependencies.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-belerick/Belerick-Tiger-s-Claw-Torch-Guardian.dependencies.zip) |
 | Torch Guardian Arbiter of Stars | [Belerick-Torch-Guardian-Arbiter-of-Stars.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-belerick/Belerick-Torch-Guardian-Arbiter-of-Stars.zip) |
 | Torch Guardian Backup | [Belerick-Torch-Guardian-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-belerick/Belerick-Torch-Guardian-Backup.zip) |
 | Torch Guardian Deep Reef | [Belerick-Torch-Guardian-Deep-Reef.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-belerick/Belerick-Torch-Guardian-Deep-Reef.zip) |
