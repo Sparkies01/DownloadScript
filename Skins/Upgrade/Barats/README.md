@@ -9,7 +9,7 @@ Validated upgrade-skin packages. All downloads are published in the
 | Armored Lizard Baratstein | [Barats-Armored-Lizard-Baratstein.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-barats/Barats-Armored-Lizard-Baratstein.zip) |
 | Armored Lizard Sunken Predator | [Barats-Armored-Lizard-Sunken-Predator.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-barats/Barats-Armored-Lizard-Sunken-Predator.zip) |
 | Armored Lizard Toy Rex | [Barats-Armored-Lizard-Toy-Rex.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-barats/Barats-Armored-Lizard-Toy-Rex.zip) |
-| Armored Lizard War Chief | [Barats-Armored-Lizard-War-Chief.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-barats/Barats-Armored-Lizard-War-Chief.zip) |
+| Armored Lizard War Chief.dependencies | [Barats-Armored-Lizard-War-Chief.dependencies.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-barats/Barats-Armored-Lizard-War-Chief.dependencies.zip) |
 | Baratstein Armored Lizard | [Barats-Baratstein-Armored-Lizard.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-barats/Barats-Baratstein-Armored-Lizard.zip) |
 | Baratstein Backup | [Barats-Baratstein-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-barats/Barats-Baratstein-Backup.zip) |
 | Baratstein Sunken Predator | [Barats-Baratstein-Sunken-Predator.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-barats/Barats-Baratstein-Sunken-Predator.zip) |
