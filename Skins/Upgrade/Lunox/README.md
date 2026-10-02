@@ -15,6 +15,7 @@ Validated upgrade-skin packages. All downloads are published in the
 | Ash Blossom Libra | [Lunox-Ash-Blossom-Libra.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-lunox/Lunox-Ash-Blossom-Libra.zip) |
 | Ash Blossom Nature Harmony | [Lunox-Ash-Blossom-Nature-Harmony.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-lunox/Lunox-Ash-Blossom-Nature-Harmony.zip) |
 | Ash Blossom Nature s Harmony | [Lunox-Ash-Blossom-Nature-s-Harmony.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-lunox/Lunox-Ash-Blossom-Nature-s-Harmony.zip) |
+| Ash Blossom Quantum Polarity | [Lunox-Ash-Blossom-Quantum-Polarity.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-lunox/Lunox-Ash-Blossom-Quantum-Polarity.zip) |
 | Bloody Mary Ash Blossom | [Lunox-Bloody-Mary-Ash-Blossom.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-lunox/Lunox-Bloody-Mary-Ash-Blossom.zip) |
 | Bloody Mary Backup | [Lunox-Bloody-Mary-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-lunox/Lunox-Bloody-Mary-Backup.zip) |
 | Bloody Mary Butterfly Seraphim | [Lunox-Bloody-Mary-Butterfly-Seraphim.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-lunox/Lunox-Bloody-Mary-Butterfly-Seraphim.zip) |
@@ -25,6 +26,7 @@ Validated upgrade-skin packages. All downloads are published in the
 | Bloody Mary Libra | [Lunox-Bloody-Mary-Libra.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-lunox/Lunox-Bloody-Mary-Libra.zip) |
 | Bloody Mary Nature Harmony | [Lunox-Bloody-Mary-Nature-Harmony.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-lunox/Lunox-Bloody-Mary-Nature-Harmony.zip) |
 | Bloody Mary Nature s Harmony | [Lunox-Bloody-Mary-Nature-s-Harmony.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-lunox/Lunox-Bloody-Mary-Nature-s-Harmony.zip) |
+| Bloody Mary Quantum Polarity | [Lunox-Bloody-Mary-Quantum-Polarity.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-lunox/Lunox-Bloody-Mary-Quantum-Polarity.zip) |
 | Butterfly Seraphim Ash Blossom | [Lunox-Butterfly-Seraphim-Ash-Blossom.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-lunox/Lunox-Butterfly-Seraphim-Ash-Blossom.zip) |
 | Butterfly Seraphim Backup | [Lunox-Butterfly-Seraphim-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-lunox/Lunox-Butterfly-Seraphim-Backup.zip) |
 | Butterfly Seraphim Bloody Mary | [Lunox-Butterfly-Seraphim-Bloody-Mary.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-lunox/Lunox-Butterfly-Seraphim-Bloody-Mary.zip) |
@@ -35,6 +37,7 @@ Validated upgrade-skin packages. All downloads are published in the
 | Butterfly Seraphim Libra | [Lunox-Butterfly-Seraphim-Libra.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-lunox/Lunox-Butterfly-Seraphim-Libra.zip) |
 | Butterfly Seraphim Nature Harmony | [Lunox-Butterfly-Seraphim-Nature-Harmony.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-lunox/Lunox-Butterfly-Seraphim-Nature-Harmony.zip) |
 | Butterfly Seraphim Nature s Harmony | [Lunox-Butterfly-Seraphim-Nature-s-Harmony.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-lunox/Lunox-Butterfly-Seraphim-Nature-s-Harmony.zip) |
+| Butterfly Seraphim Quantum Polarity | [Lunox-Butterfly-Seraphim-Quantum-Polarity.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-lunox/Lunox-Butterfly-Seraphim-Quantum-Polarity.zip) |
 | Cosmic Harmony Ash Blossom | [Lunox-Cosmic-Harmony-Ash-Blossom.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-lunox/Lunox-Cosmic-Harmony-Ash-Blossom.zip) |
 | Cosmic Harmony Backup | [Lunox-Cosmic-Harmony-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-lunox/Lunox-Cosmic-Harmony-Backup.zip) |
 | Cosmic Harmony Bloody Mary | [Lunox-Cosmic-Harmony-Bloody-Mary.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-lunox/Lunox-Cosmic-Harmony-Bloody-Mary.zip) |
@@ -45,6 +48,7 @@ Validated upgrade-skin packages. All downloads are published in the
 | Cosmic Harmony Libra | [Lunox-Cosmic-Harmony-Libra.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-lunox/Lunox-Cosmic-Harmony-Libra.zip) |
 | Cosmic Harmony Nature Harmony | [Lunox-Cosmic-Harmony-Nature-Harmony.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-lunox/Lunox-Cosmic-Harmony-Nature-Harmony.zip) |
 | Cosmic Harmony Nature s Harmony | [Lunox-Cosmic-Harmony-Nature-s-Harmony.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-lunox/Lunox-Cosmic-Harmony-Nature-s-Harmony.zip) |
+| Cosmic Harmony Quantum Polarity | [Lunox-Cosmic-Harmony-Quantum-Polarity.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-lunox/Lunox-Cosmic-Harmony-Quantum-Polarity.zip) |
 | Dawn Revelation Ash Blossom | [Lunox-Dawn-Revelation-Ash-Blossom.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-lunox/Lunox-Dawn-Revelation-Ash-Blossom.zip) |
 | Dawn Revelation Backup | [Lunox-Dawn-Revelation-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-lunox/Lunox-Dawn-Revelation-Backup.zip) |
 | Dawn Revelation Bloody Mary | [Lunox-Dawn-Revelation-Bloody-Mary.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-lunox/Lunox-Dawn-Revelation-Bloody-Mary.zip) |
@@ -55,6 +59,7 @@ Validated upgrade-skin packages. All downloads are published in the
 | Dawn Revelation Libra | [Lunox-Dawn-Revelation-Libra.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-lunox/Lunox-Dawn-Revelation-Libra.zip) |
 | Dawn Revelation Nature Harmony | [Lunox-Dawn-Revelation-Nature-Harmony.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-lunox/Lunox-Dawn-Revelation-Nature-Harmony.zip) |
 | Dawn Revelation Nature s Harmony | [Lunox-Dawn-Revelation-Nature-s-Harmony.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-lunox/Lunox-Dawn-Revelation-Nature-s-Harmony.zip) |
+| Dawn Revelation Quantum Polarity | [Lunox-Dawn-Revelation-Quantum-Polarity.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-lunox/Lunox-Dawn-Revelation-Quantum-Polarity.zip) |
 | Divine Goddess Ash Blossom | [Lunox-Divine-Goddess-Ash-Blossom.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-lunox/Lunox-Divine-Goddess-Ash-Blossom.zip) |
 | Divine Goddess Backup | [Lunox-Divine-Goddess-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-lunox/Lunox-Divine-Goddess-Backup.zip) |
 | Divine Goddess Bloody Mary | [Lunox-Divine-Goddess-Bloody-Mary.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-lunox/Lunox-Divine-Goddess-Bloody-Mary.zip) |
@@ -65,6 +70,7 @@ Validated upgrade-skin packages. All downloads are published in the
 | Divine Goddess Libra | [Lunox-Divine-Goddess-Libra.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-lunox/Lunox-Divine-Goddess-Libra.zip) |
 | Divine Goddess Nature Harmony | [Lunox-Divine-Goddess-Nature-Harmony.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-lunox/Lunox-Divine-Goddess-Nature-Harmony.zip) |
 | Divine Goddess Nature s Harmony | [Lunox-Divine-Goddess-Nature-s-Harmony.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-lunox/Lunox-Divine-Goddess-Nature-s-Harmony.zip) |
+| Divine Goddess Quantum Polarity | [Lunox-Divine-Goddess-Quantum-Polarity.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-lunox/Lunox-Divine-Goddess-Quantum-Polarity.zip) |
 | Eyes of Eternity Ash Blossom | [Lunox-Eyes-of-Eternity-Ash-Blossom.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-lunox/Lunox-Eyes-of-Eternity-Ash-Blossom.zip) |
 | Eyes of Eternity Backup | [Lunox-Eyes-of-Eternity-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-lunox/Lunox-Eyes-of-Eternity-Backup.zip) |
 | Eyes of Eternity Bloody Mary | [Lunox-Eyes-of-Eternity-Bloody-Mary.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-lunox/Lunox-Eyes-of-Eternity-Bloody-Mary.zip) |
@@ -75,6 +81,7 @@ Validated upgrade-skin packages. All downloads are published in the
 | Eyes of Eternity Libra | [Lunox-Eyes-of-Eternity-Libra.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-lunox/Lunox-Eyes-of-Eternity-Libra.zip) |
 | Eyes of Eternity Nature Harmony | [Lunox-Eyes-of-Eternity-Nature-Harmony.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-lunox/Lunox-Eyes-of-Eternity-Nature-Harmony.zip) |
 | Eyes of Eternity Nature s Harmony | [Lunox-Eyes-of-Eternity-Nature-s-Harmony.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-lunox/Lunox-Eyes-of-Eternity-Nature-s-Harmony.zip) |
+| Eyes of Eternity Quantum Polarity | [Lunox-Eyes-of-Eternity-Quantum-Polarity.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-lunox/Lunox-Eyes-of-Eternity-Quantum-Polarity.zip) |
 | Libra Ash Blossom | [Lunox-Libra-Ash-Blossom.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-lunox/Lunox-Libra-Ash-Blossom.zip) |
 | Libra Backup | [Lunox-Libra-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-lunox/Lunox-Libra-Backup.zip) |
 | Libra Bloody Mary | [Lunox-Libra-Bloody-Mary.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-lunox/Lunox-Libra-Bloody-Mary.zip) |
@@ -85,6 +92,7 @@ Validated upgrade-skin packages. All downloads are published in the
 | Libra Eyes of Eternity | [Lunox-Libra-Eyes-of-Eternity.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-lunox/Lunox-Libra-Eyes-of-Eternity.zip) |
 | Libra Nature Harmony | [Lunox-Libra-Nature-Harmony.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-lunox/Lunox-Libra-Nature-Harmony.zip) |
 | Libra Nature s Harmony | [Lunox-Libra-Nature-s-Harmony.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-lunox/Lunox-Libra-Nature-s-Harmony.zip) |
+| Libra Quantum Polarity | [Lunox-Libra-Quantum-Polarity.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-lunox/Lunox-Libra-Quantum-Polarity.zip) |
 | Nature Harmony Ash Blossom | [Lunox-Nature-Harmony-Ash-Blossom.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-lunox/Lunox-Nature-Harmony-Ash-Blossom.zip) |
 | Nature Harmony Backup | [Lunox-Nature-Harmony-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-lunox/Lunox-Nature-Harmony-Backup.zip) |
 | Nature Harmony Bloody Mary | [Lunox-Nature-Harmony-Bloody-Mary.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-lunox/Lunox-Nature-Harmony-Bloody-Mary.zip) |
@@ -105,3 +113,14 @@ Validated upgrade-skin packages. All downloads are published in the
 | Nature s Harmony Eyes of Eternity | [Lunox-Nature-s-Harmony-Eyes-of-Eternity.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-lunox/Lunox-Nature-s-Harmony-Eyes-of-Eternity.zip) |
 | Nature s Harmony Libra | [Lunox-Nature-s-Harmony-Libra.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-lunox/Lunox-Nature-s-Harmony-Libra.zip) |
 | Nature s Harmony Nature Harmony | [Lunox-Nature-s-Harmony-Nature-Harmony.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-lunox/Lunox-Nature-s-Harmony-Nature-Harmony.zip) |
+| Nature s Harmony Quantum Polarity | [Lunox-Nature-s-Harmony-Quantum-Polarity.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-lunox/Lunox-Nature-s-Harmony-Quantum-Polarity.zip) |
+| Quantum Polarity Ash Blossom | [Lunox-Quantum-Polarity-Ash-Blossom.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-lunox/Lunox-Quantum-Polarity-Ash-Blossom.zip) |
+| Quantum Polarity Backup | [Lunox-Quantum-Polarity-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-lunox/Lunox-Quantum-Polarity-Backup.zip) |
+| Quantum Polarity Bloody Mary | [Lunox-Quantum-Polarity-Bloody-Mary.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-lunox/Lunox-Quantum-Polarity-Bloody-Mary.zip) |
+| Quantum Polarity Butterfly Seraphim | [Lunox-Quantum-Polarity-Butterfly-Seraphim.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-lunox/Lunox-Quantum-Polarity-Butterfly-Seraphim.zip) |
+| Quantum Polarity Cosmic Harmony | [Lunox-Quantum-Polarity-Cosmic-Harmony.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-lunox/Lunox-Quantum-Polarity-Cosmic-Harmony.zip) |
+| Quantum Polarity Dawn Revelation | [Lunox-Quantum-Polarity-Dawn-Revelation.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-lunox/Lunox-Quantum-Polarity-Dawn-Revelation.zip) |
+| Quantum Polarity Divine Goddess | [Lunox-Quantum-Polarity-Divine-Goddess.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-lunox/Lunox-Quantum-Polarity-Divine-Goddess.zip) |
+| Quantum Polarity Eyes of Eternity | [Lunox-Quantum-Polarity-Eyes-of-Eternity.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-lunox/Lunox-Quantum-Polarity-Eyes-of-Eternity.zip) |
+| Quantum Polarity Libra | [Lunox-Quantum-Polarity-Libra.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-lunox/Lunox-Quantum-Polarity-Libra.zip) |
+| Quantum Polarity Nature s Harmony | [Lunox-Quantum-Polarity-Nature-s-Harmony.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-lunox/Lunox-Quantum-Polarity-Nature-s-Harmony.zip) |
