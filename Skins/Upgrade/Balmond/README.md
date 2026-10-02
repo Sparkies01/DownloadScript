@@ -41,7 +41,7 @@ Validated upgrade-skin packages. All downloads are published in the
 | Infernal Warlord God of Mountains | [Balmond-Infernal-Warlord-God-of-Mountains.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-balmond/Balmond-Infernal-Warlord-God-of-Mountains.zip) |
 | Infernal Warlord Mighty Pointguard | [Balmond-Infernal-Warlord-Mighty-Pointguard.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-balmond/Balmond-Infernal-Warlord-Mighty-Pointguard.zip) |
 | Infernal Warlord Power Source | [Balmond-Infernal-Warlord-Power-Source.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-balmond/Balmond-Infernal-Warlord-Power-Source.zip) |
-| Infernal Warlord Razor Edge | [Balmond-Infernal-Warlord-Razor-Edge.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-balmond/Balmond-Infernal-Warlord-Razor-Edge.zip) |
+| Infernal Warlord Razor Edge.dependencies | [Balmond-Infernal-Warlord-Razor-Edge.dependencies.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-balmond/Balmond-Infernal-Warlord-Razor-Edge.dependencies.zip) |
 | Infernal Warlord Savage Hunter | [Balmond-Infernal-Warlord-Savage-Hunter.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-balmond/Balmond-Infernal-Warlord-Savage-Hunter.zip) |
 | Infernal Warlord Savage Pointguard | [Balmond-Infernal-Warlord-Savage-Pointguard.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-balmond/Balmond-Infernal-Warlord-Savage-Pointguard.zip) |
 | Infernal Warlord Vulcan Lionheart | [Balmond-Infernal-Warlord-Vulcan-Lionheart.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-balmond/Balmond-Infernal-Warlord-Vulcan-Lionheart.zip) |
