@@ -13,10 +13,8 @@ Validated upgrade-skin packages. All downloads are published in the
 | Beach Sweetheart Gladiator | [Freya-Beach-Sweetheart-Gladiator.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-freya/Freya-Beach-Sweetheart-Gladiator.zip) |
 | Beach Sweetheart Raven Shogun | [Freya-Beach-Sweetheart-Raven-Shogun.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-freya/Freya-Beach-Sweetheart-Raven-Shogun.zip) |
 | Beach Sweetheart S A B E R Manhunter | [Freya-Beach-Sweetheart-S-A-B-E-R-Manhunter.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-freya/Freya-Beach-Sweetheart-S-A-B-E-R-Manhunter.zip) |
-| Beach Sweetheart Spartan Spirit Painted 01 | [Freya-Beach-Sweetheart-Spartan-Spirit-Painted-01.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-freya/Freya-Beach-Sweetheart-Spartan-Spirit-Painted-01.zip) |
-| Beach Sweetheart Spartan Spirit Painted 02 | [Freya-Beach-Sweetheart-Spartan-Spirit-Painted-02.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-freya/Freya-Beach-Sweetheart-Spartan-Spirit-Painted-02.zip) |
-| Beach Sweetheart Spartan Spirit Skin 10 | [Freya-Beach-Sweetheart-Spartan-Spirit-Skin-10.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-freya/Freya-Beach-Sweetheart-Spartan-Spirit-Skin-10.zip) |
 | Beach Sweetheart Spartan Spirit | [Freya-Beach-Sweetheart-Spartan-Spirit.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-freya/Freya-Beach-Sweetheart-Spartan-Spirit.zip) |
+| Beach Sweetheart Starborn Resolve | [Freya-Beach-Sweetheart-Starborn-Resolve.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-freya/Freya-Beach-Sweetheart-Starborn-Resolve.zip) |
 | Beach Sweetheart War Angel | [Freya-Beach-Sweetheart-War-Angel.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-freya/Freya-Beach-Sweetheart-War-Angel.zip) |
 | Christmas Carnival Backup | [Freya-Christmas-Carnival-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-freya/Freya-Christmas-Carnival-Backup.zip) |
 | Christmas Carnival Beach Sweetheart | [Freya-Christmas-Carnival-Beach-Sweetheart.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-freya/Freya-Christmas-Carnival-Beach-Sweetheart.zip) |
@@ -26,10 +24,8 @@ Validated upgrade-skin packages. All downloads are published in the
 | Christmas Carnival Gladiator | [Freya-Christmas-Carnival-Gladiator.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-freya/Freya-Christmas-Carnival-Gladiator.zip) |
 | Christmas Carnival Raven Shogun | [Freya-Christmas-Carnival-Raven-Shogun.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-freya/Freya-Christmas-Carnival-Raven-Shogun.zip) |
 | Christmas Carnival S A B E R Manhunter | [Freya-Christmas-Carnival-S-A-B-E-R-Manhunter.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-freya/Freya-Christmas-Carnival-S-A-B-E-R-Manhunter.zip) |
-| Christmas Carnival Spartan Spirit Painted 01 | [Freya-Christmas-Carnival-Spartan-Spirit-Painted-01.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-freya/Freya-Christmas-Carnival-Spartan-Spirit-Painted-01.zip) |
-| Christmas Carnival Spartan Spirit Painted 02 | [Freya-Christmas-Carnival-Spartan-Spirit-Painted-02.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-freya/Freya-Christmas-Carnival-Spartan-Spirit-Painted-02.zip) |
-| Christmas Carnival Spartan Spirit Skin 10 | [Freya-Christmas-Carnival-Spartan-Spirit-Skin-10.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-freya/Freya-Christmas-Carnival-Spartan-Spirit-Skin-10.zip) |
 | Christmas Carnival Spartan Spirit | [Freya-Christmas-Carnival-Spartan-Spirit.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-freya/Freya-Christmas-Carnival-Spartan-Spirit.zip) |
+| Christmas Carnival Starborn Resolve | [Freya-Christmas-Carnival-Starborn-Resolve.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-freya/Freya-Christmas-Carnival-Starborn-Resolve.zip) |
 | Christmas Carnival War Angel | [Freya-Christmas-Carnival-War-Angel.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-freya/Freya-Christmas-Carnival-War-Angel.zip) |
 | Dark Rose Backup | [Freya-Dark-Rose-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-freya/Freya-Dark-Rose-Backup.zip) |
 | Dark Rose Beach Sweetheart | [Freya-Dark-Rose-Beach-Sweetheart.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-freya/Freya-Dark-Rose-Beach-Sweetheart.zip) |
@@ -39,10 +35,8 @@ Validated upgrade-skin packages. All downloads are published in the
 | Dark Rose Gladiator | [Freya-Dark-Rose-Gladiator.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-freya/Freya-Dark-Rose-Gladiator.zip) |
 | Dark Rose Raven Shogun | [Freya-Dark-Rose-Raven-Shogun.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-freya/Freya-Dark-Rose-Raven-Shogun.zip) |
 | Dark Rose S A B E R Manhunter | [Freya-Dark-Rose-S-A-B-E-R-Manhunter.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-freya/Freya-Dark-Rose-S-A-B-E-R-Manhunter.zip) |
-| Dark Rose Spartan Spirit Painted 01 | [Freya-Dark-Rose-Spartan-Spirit-Painted-01.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-freya/Freya-Dark-Rose-Spartan-Spirit-Painted-01.zip) |
-| Dark Rose Spartan Spirit Painted 02 | [Freya-Dark-Rose-Spartan-Spirit-Painted-02.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-freya/Freya-Dark-Rose-Spartan-Spirit-Painted-02.zip) |
-| Dark Rose Spartan Spirit Skin 10 | [Freya-Dark-Rose-Spartan-Spirit-Skin-10.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-freya/Freya-Dark-Rose-Spartan-Spirit-Skin-10.zip) |
 | Dark Rose Spartan Spirit | [Freya-Dark-Rose-Spartan-Spirit.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-freya/Freya-Dark-Rose-Spartan-Spirit.zip) |
+| Dark Rose Starborn Resolve | [Freya-Dark-Rose-Starborn-Resolve.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-freya/Freya-Dark-Rose-Starborn-Resolve.zip) |
 | Dark Rose War Angel | [Freya-Dark-Rose-War-Angel.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-freya/Freya-Dark-Rose-War-Angel.zip) |
 | Dragon Hunter Backup | [Freya-Dragon-Hunter-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-freya/Freya-Dragon-Hunter-Backup.zip) |
 | Dragon Hunter Beach Sweetheart | [Freya-Dragon-Hunter-Beach-Sweetheart.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-freya/Freya-Dragon-Hunter-Beach-Sweetheart.zip) |
@@ -52,10 +46,8 @@ Validated upgrade-skin packages. All downloads are published in the
 | Dragon Hunter Gladiator | [Freya-Dragon-Hunter-Gladiator.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-freya/Freya-Dragon-Hunter-Gladiator.zip) |
 | Dragon Hunter Raven Shogun | [Freya-Dragon-Hunter-Raven-Shogun.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-freya/Freya-Dragon-Hunter-Raven-Shogun.zip) |
 | Dragon Hunter S A B E R Manhunter | [Freya-Dragon-Hunter-S-A-B-E-R-Manhunter.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-freya/Freya-Dragon-Hunter-S-A-B-E-R-Manhunter.zip) |
-| Dragon Hunter Spartan Spirit Painted 01 | [Freya-Dragon-Hunter-Spartan-Spirit-Painted-01.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-freya/Freya-Dragon-Hunter-Spartan-Spirit-Painted-01.zip) |
-| Dragon Hunter Spartan Spirit Painted 02 | [Freya-Dragon-Hunter-Spartan-Spirit-Painted-02.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-freya/Freya-Dragon-Hunter-Spartan-Spirit-Painted-02.zip) |
-| Dragon Hunter Spartan Spirit Skin 10 | [Freya-Dragon-Hunter-Spartan-Spirit-Skin-10.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-freya/Freya-Dragon-Hunter-Spartan-Spirit-Skin-10.zip) |
 | Dragon Hunter Spartan Spirit | [Freya-Dragon-Hunter-Spartan-Spirit.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-freya/Freya-Dragon-Hunter-Spartan-Spirit.zip) |
+| Dragon Hunter Starborn Resolve | [Freya-Dragon-Hunter-Starborn-Resolve.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-freya/Freya-Dragon-Hunter-Starborn-Resolve.zip) |
 | Dragon Hunter War Angel | [Freya-Dragon-Hunter-War-Angel.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-freya/Freya-Dragon-Hunter-War-Angel.zip) |
 | Galactic Vanquisher Backup | [Freya-Galactic-Vanquisher-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-freya/Freya-Galactic-Vanquisher-Backup.zip) |
 | Galactic Vanquisher Beach Sweetheart | [Freya-Galactic-Vanquisher-Beach-Sweetheart.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-freya/Freya-Galactic-Vanquisher-Beach-Sweetheart.zip) |
@@ -65,10 +57,8 @@ Validated upgrade-skin packages. All downloads are published in the
 | Galactic Vanquisher Gladiator | [Freya-Galactic-Vanquisher-Gladiator.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-freya/Freya-Galactic-Vanquisher-Gladiator.zip) |
 | Galactic Vanquisher Raven Shogun | [Freya-Galactic-Vanquisher-Raven-Shogun.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-freya/Freya-Galactic-Vanquisher-Raven-Shogun.zip) |
 | Galactic Vanquisher S A B E R Manhunter | [Freya-Galactic-Vanquisher-S-A-B-E-R-Manhunter.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-freya/Freya-Galactic-Vanquisher-S-A-B-E-R-Manhunter.zip) |
-| Galactic Vanquisher Spartan Spirit Painted 01 | [Freya-Galactic-Vanquisher-Spartan-Spirit-Painted-01.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-freya/Freya-Galactic-Vanquisher-Spartan-Spirit-Painted-01.zip) |
-| Galactic Vanquisher Spartan Spirit Painted 02 | [Freya-Galactic-Vanquisher-Spartan-Spirit-Painted-02.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-freya/Freya-Galactic-Vanquisher-Spartan-Spirit-Painted-02.zip) |
-| Galactic Vanquisher Spartan Spirit Skin 10 | [Freya-Galactic-Vanquisher-Spartan-Spirit-Skin-10.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-freya/Freya-Galactic-Vanquisher-Spartan-Spirit-Skin-10.zip) |
 | Galactic Vanquisher Spartan Spirit | [Freya-Galactic-Vanquisher-Spartan-Spirit.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-freya/Freya-Galactic-Vanquisher-Spartan-Spirit.zip) |
+| Galactic Vanquisher Starborn Resolve | [Freya-Galactic-Vanquisher-Starborn-Resolve.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-freya/Freya-Galactic-Vanquisher-Starborn-Resolve.zip) |
 | Galactic Vanquisher War Angel | [Freya-Galactic-Vanquisher-War-Angel.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-freya/Freya-Galactic-Vanquisher-War-Angel.zip) |
 | Gladiator Backup | [Freya-Gladiator-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-freya/Freya-Gladiator-Backup.zip) |
 | Gladiator Beach Sweetheart | [Freya-Gladiator-Beach-Sweetheart.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-freya/Freya-Gladiator-Beach-Sweetheart.zip) |
@@ -78,8 +68,8 @@ Validated upgrade-skin packages. All downloads are published in the
 | Gladiator Galactic Vanquisher | [Freya-Gladiator-Galactic-Vanquisher.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-freya/Freya-Gladiator-Galactic-Vanquisher.zip) |
 | Gladiator Raven Shogun | [Freya-Gladiator-Raven-Shogun.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-freya/Freya-Gladiator-Raven-Shogun.zip) |
 | Gladiator S A B E R Manhunter | [Freya-Gladiator-S-A-B-E-R-Manhunter.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-freya/Freya-Gladiator-S-A-B-E-R-Manhunter.zip) |
-| Gladiator Spartan Spirit Skin 10 | [Freya-Gladiator-Spartan-Spirit-Skin-10.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-freya/Freya-Gladiator-Spartan-Spirit-Skin-10.zip) |
 | Gladiator Spartan Spirit | [Freya-Gladiator-Spartan-Spirit.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-freya/Freya-Gladiator-Spartan-Spirit.zip) |
+| Gladiator Starborn Resolve | [Freya-Gladiator-Starborn-Resolve.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-freya/Freya-Gladiator-Starborn-Resolve.zip) |
 | Gladiator War Angel | [Freya-Gladiator-War-Angel.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-freya/Freya-Gladiator-War-Angel.zip) |
 | Raven Shogun Backup | [Freya-Raven-Shogun-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-freya/Freya-Raven-Shogun-Backup.zip) |
 | Raven Shogun Beach Sweetheart | [Freya-Raven-Shogun-Beach-Sweetheart.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-freya/Freya-Raven-Shogun-Beach-Sweetheart.zip) |
@@ -89,10 +79,8 @@ Validated upgrade-skin packages. All downloads are published in the
 | Raven Shogun Galactic Vanquisher | [Freya-Raven-Shogun-Galactic-Vanquisher.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-freya/Freya-Raven-Shogun-Galactic-Vanquisher.zip) |
 | Raven Shogun Gladiator | [Freya-Raven-Shogun-Gladiator.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-freya/Freya-Raven-Shogun-Gladiator.zip) |
 | Raven Shogun S A B E R Manhunter | [Freya-Raven-Shogun-S-A-B-E-R-Manhunter.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-freya/Freya-Raven-Shogun-S-A-B-E-R-Manhunter.zip) |
-| Raven Shogun Spartan Spirit Painted 01 | [Freya-Raven-Shogun-Spartan-Spirit-Painted-01.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-freya/Freya-Raven-Shogun-Spartan-Spirit-Painted-01.zip) |
-| Raven Shogun Spartan Spirit Painted 02 | [Freya-Raven-Shogun-Spartan-Spirit-Painted-02.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-freya/Freya-Raven-Shogun-Spartan-Spirit-Painted-02.zip) |
-| Raven Shogun Spartan Spirit Skin 10 | [Freya-Raven-Shogun-Spartan-Spirit-Skin-10.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-freya/Freya-Raven-Shogun-Spartan-Spirit-Skin-10.zip) |
 | Raven Shogun Spartan Spirit | [Freya-Raven-Shogun-Spartan-Spirit.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-freya/Freya-Raven-Shogun-Spartan-Spirit.zip) |
+| Raven Shogun Starborn Resolve | [Freya-Raven-Shogun-Starborn-Resolve.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-freya/Freya-Raven-Shogun-Starborn-Resolve.zip) |
 | Raven Shogun War Angel | [Freya-Raven-Shogun-War-Angel.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-freya/Freya-Raven-Shogun-War-Angel.zip) |
 | S A B E R Manhunter Backup | [Freya-S-A-B-E-R-Manhunter-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-freya/Freya-S-A-B-E-R-Manhunter-Backup.zip) |
 | S A B E R Manhunter Beach Sweetheart | [Freya-S-A-B-E-R-Manhunter-Beach-Sweetheart.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-freya/Freya-S-A-B-E-R-Manhunter-Beach-Sweetheart.zip) |
@@ -102,10 +90,8 @@ Validated upgrade-skin packages. All downloads are published in the
 | S A B E R Manhunter Galactic Vanquisher | [Freya-S-A-B-E-R-Manhunter-Galactic-Vanquisher.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-freya/Freya-S-A-B-E-R-Manhunter-Galactic-Vanquisher.zip) |
 | S A B E R Manhunter Gladiator | [Freya-S-A-B-E-R-Manhunter-Gladiator.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-freya/Freya-S-A-B-E-R-Manhunter-Gladiator.zip) |
 | S A B E R Manhunter Raven Shogun | [Freya-S-A-B-E-R-Manhunter-Raven-Shogun.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-freya/Freya-S-A-B-E-R-Manhunter-Raven-Shogun.zip) |
-| S A B E R Manhunter Spartan Spirit Painted 01 | [Freya-S-A-B-E-R-Manhunter-Spartan-Spirit-Painted-01.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-freya/Freya-S-A-B-E-R-Manhunter-Spartan-Spirit-Painted-01.zip) |
-| S A B E R Manhunter Spartan Spirit Painted 02 | [Freya-S-A-B-E-R-Manhunter-Spartan-Spirit-Painted-02.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-freya/Freya-S-A-B-E-R-Manhunter-Spartan-Spirit-Painted-02.zip) |
-| S A B E R Manhunter Spartan Spirit Skin 10 | [Freya-S-A-B-E-R-Manhunter-Spartan-Spirit-Skin-10.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-freya/Freya-S-A-B-E-R-Manhunter-Spartan-Spirit-Skin-10.zip) |
 | S A B E R Manhunter Spartan Spirit | [Freya-S-A-B-E-R-Manhunter-Spartan-Spirit.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-freya/Freya-S-A-B-E-R-Manhunter-Spartan-Spirit.zip) |
+| S A B E R Manhunter Starborn Resolve | [Freya-S-A-B-E-R-Manhunter-Starborn-Resolve.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-freya/Freya-S-A-B-E-R-Manhunter-Starborn-Resolve.zip) |
 | S A B E R Manhunter War Angel | [Freya-S-A-B-E-R-Manhunter-War-Angel.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-freya/Freya-S-A-B-E-R-Manhunter-War-Angel.zip) |
 | Spartan Spirit Backup | [Freya-Spartan-Spirit-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-freya/Freya-Spartan-Spirit-Backup.zip) |
 | Spartan Spirit Beach Sweetheart | [Freya-Spartan-Spirit-Beach-Sweetheart.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-freya/Freya-Spartan-Spirit-Beach-Sweetheart.zip) |
@@ -114,41 +100,8 @@ Validated upgrade-skin packages. All downloads are published in the
 | Spartan Spirit Dragon Hunter | [Freya-Spartan-Spirit-Dragon-Hunter.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-freya/Freya-Spartan-Spirit-Dragon-Hunter.zip) |
 | Spartan Spirit Galactic Vanquisher | [Freya-Spartan-Spirit-Galactic-Vanquisher.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-freya/Freya-Spartan-Spirit-Galactic-Vanquisher.zip) |
 | Spartan Spirit Gladiator | [Freya-Spartan-Spirit-Gladiator.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-freya/Freya-Spartan-Spirit-Gladiator.zip) |
-| Spartan Spirit Painted 01 Backup | [Freya-Spartan-Spirit-Painted-01-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-freya/Freya-Spartan-Spirit-Painted-01-Backup.zip) |
-| Spartan Spirit Painted 01 Beach Sweetheart | [Freya-Spartan-Spirit-Painted-01-Beach-Sweetheart.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-freya/Freya-Spartan-Spirit-Painted-01-Beach-Sweetheart.zip) |
-| Spartan Spirit Painted 01 Christmas Carnival | [Freya-Spartan-Spirit-Painted-01-Christmas-Carnival.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-freya/Freya-Spartan-Spirit-Painted-01-Christmas-Carnival.zip) |
-| Spartan Spirit Painted 01 Dark Rose | [Freya-Spartan-Spirit-Painted-01-Dark-Rose.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-freya/Freya-Spartan-Spirit-Painted-01-Dark-Rose.zip) |
-| Spartan Spirit Painted 01 Dragon Hunter | [Freya-Spartan-Spirit-Painted-01-Dragon-Hunter.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-freya/Freya-Spartan-Spirit-Painted-01-Dragon-Hunter.zip) |
-| Spartan Spirit Painted 01 Galactic Vanquisher | [Freya-Spartan-Spirit-Painted-01-Galactic-Vanquisher.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-freya/Freya-Spartan-Spirit-Painted-01-Galactic-Vanquisher.zip) |
-| Spartan Spirit Painted 01 Raven Shogun | [Freya-Spartan-Spirit-Painted-01-Raven-Shogun.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-freya/Freya-Spartan-Spirit-Painted-01-Raven-Shogun.zip) |
-| Spartan Spirit Painted 01 S A B E R Manhunter | [Freya-Spartan-Spirit-Painted-01-S-A-B-E-R-Manhunter.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-freya/Freya-Spartan-Spirit-Painted-01-S-A-B-E-R-Manhunter.zip) |
-| Spartan Spirit Painted 01 Spartan Spirit Skin 10 | [Freya-Spartan-Spirit-Painted-01-Spartan-Spirit-Skin-10.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-freya/Freya-Spartan-Spirit-Painted-01-Spartan-Spirit-Skin-10.zip) |
-| Spartan Spirit Painted 01 War Angel | [Freya-Spartan-Spirit-Painted-01-War-Angel.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-freya/Freya-Spartan-Spirit-Painted-01-War-Angel.zip) |
-| Spartan Spirit Painted 02 Backup | [Freya-Spartan-Spirit-Painted-02-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-freya/Freya-Spartan-Spirit-Painted-02-Backup.zip) |
-| Spartan Spirit Painted 02 Beach Sweetheart | [Freya-Spartan-Spirit-Painted-02-Beach-Sweetheart.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-freya/Freya-Spartan-Spirit-Painted-02-Beach-Sweetheart.zip) |
-| Spartan Spirit Painted 02 Christmas Carnival | [Freya-Spartan-Spirit-Painted-02-Christmas-Carnival.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-freya/Freya-Spartan-Spirit-Painted-02-Christmas-Carnival.zip) |
-| Spartan Spirit Painted 02 Dark Rose | [Freya-Spartan-Spirit-Painted-02-Dark-Rose.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-freya/Freya-Spartan-Spirit-Painted-02-Dark-Rose.zip) |
-| Spartan Spirit Painted 02 Dragon Hunter | [Freya-Spartan-Spirit-Painted-02-Dragon-Hunter.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-freya/Freya-Spartan-Spirit-Painted-02-Dragon-Hunter.zip) |
-| Spartan Spirit Painted 02 Galactic Vanquisher | [Freya-Spartan-Spirit-Painted-02-Galactic-Vanquisher.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-freya/Freya-Spartan-Spirit-Painted-02-Galactic-Vanquisher.zip) |
-| Spartan Spirit Painted 02 Raven Shogun | [Freya-Spartan-Spirit-Painted-02-Raven-Shogun.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-freya/Freya-Spartan-Spirit-Painted-02-Raven-Shogun.zip) |
-| Spartan Spirit Painted 02 S A B E R Manhunter | [Freya-Spartan-Spirit-Painted-02-S-A-B-E-R-Manhunter.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-freya/Freya-Spartan-Spirit-Painted-02-S-A-B-E-R-Manhunter.zip) |
-| Spartan Spirit Painted 02 Spartan Spirit Skin 10 | [Freya-Spartan-Spirit-Painted-02-Spartan-Spirit-Skin-10.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-freya/Freya-Spartan-Spirit-Painted-02-Spartan-Spirit-Skin-10.zip) |
-| Spartan Spirit Painted 02 War Angel | [Freya-Spartan-Spirit-Painted-02-War-Angel.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-freya/Freya-Spartan-Spirit-Painted-02-War-Angel.zip) |
 | Spartan Spirit Raven Shogun | [Freya-Spartan-Spirit-Raven-Shogun.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-freya/Freya-Spartan-Spirit-Raven-Shogun.zip) |
 | Spartan Spirit S A B E R Manhunter | [Freya-Spartan-Spirit-S-A-B-E-R-Manhunter.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-freya/Freya-Spartan-Spirit-S-A-B-E-R-Manhunter.zip) |
-| Spartan Spirit Skin 10 Backup | [Freya-Spartan-Spirit-Skin-10-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-freya/Freya-Spartan-Spirit-Skin-10-Backup.zip) |
-| Spartan Spirit Skin 10 Beach Sweetheart | [Freya-Spartan-Spirit-Skin-10-Beach-Sweetheart.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-freya/Freya-Spartan-Spirit-Skin-10-Beach-Sweetheart.zip) |
-| Spartan Spirit Skin 10 Christmas Carnival | [Freya-Spartan-Spirit-Skin-10-Christmas-Carnival.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-freya/Freya-Spartan-Spirit-Skin-10-Christmas-Carnival.zip) |
-| Spartan Spirit Skin 10 Dark Rose | [Freya-Spartan-Spirit-Skin-10-Dark-Rose.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-freya/Freya-Spartan-Spirit-Skin-10-Dark-Rose.zip) |
-| Spartan Spirit Skin 10 Dragon Hunter | [Freya-Spartan-Spirit-Skin-10-Dragon-Hunter.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-freya/Freya-Spartan-Spirit-Skin-10-Dragon-Hunter.zip) |
-| Spartan Spirit Skin 10 Galactic Vanquisher | [Freya-Spartan-Spirit-Skin-10-Galactic-Vanquisher.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-freya/Freya-Spartan-Spirit-Skin-10-Galactic-Vanquisher.zip) |
-| Spartan Spirit Skin 10 Gladiator | [Freya-Spartan-Spirit-Skin-10-Gladiator.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-freya/Freya-Spartan-Spirit-Skin-10-Gladiator.zip) |
-| Spartan Spirit Skin 10 Raven Shogun | [Freya-Spartan-Spirit-Skin-10-Raven-Shogun.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-freya/Freya-Spartan-Spirit-Skin-10-Raven-Shogun.zip) |
-| Spartan Spirit Skin 10 S A B E R Manhunter | [Freya-Spartan-Spirit-Skin-10-S-A-B-E-R-Manhunter.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-freya/Freya-Spartan-Spirit-Skin-10-S-A-B-E-R-Manhunter.zip) |
-| Spartan Spirit Skin 10 Spartan Spirit Painted 01 | [Freya-Spartan-Spirit-Skin-10-Spartan-Spirit-Painted-01.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-freya/Freya-Spartan-Spirit-Skin-10-Spartan-Spirit-Painted-01.zip) |
-| Spartan Spirit Skin 10 Spartan Spirit Painted 02 | [Freya-Spartan-Spirit-Skin-10-Spartan-Spirit-Painted-02.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-freya/Freya-Spartan-Spirit-Skin-10-Spartan-Spirit-Painted-02.zip) |
-| Spartan Spirit Skin 10 War Angel | [Freya-Spartan-Spirit-Skin-10-War-Angel.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-freya/Freya-Spartan-Spirit-Skin-10-War-Angel.zip) |
-| Spartan Spirit Spartan Spirit | [Freya-Spartan-Spirit-Spartan-Spirit.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-freya/Freya-Spartan-Spirit-Spartan-Spirit.zip) |
 | Spartan Spirit War Angel | [Freya-Spartan-Spirit-War-Angel.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-freya/Freya-Spartan-Spirit-War-Angel.zip) |
 | Starborn Resolve Backup | [Freya-Starborn-Resolve-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-freya/Freya-Starborn-Resolve-Backup.zip) |
 | Starborn Resolve Beach Sweetheart | [Freya-Starborn-Resolve-Beach-Sweetheart.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-freya/Freya-Starborn-Resolve-Beach-Sweetheart.zip) |
@@ -159,7 +112,6 @@ Validated upgrade-skin packages. All downloads are published in the
 | Starborn Resolve Gladiator | [Freya-Starborn-Resolve-Gladiator.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-freya/Freya-Starborn-Resolve-Gladiator.zip) |
 | Starborn Resolve Raven Shogun | [Freya-Starborn-Resolve-Raven-Shogun.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-freya/Freya-Starborn-Resolve-Raven-Shogun.zip) |
 | Starborn Resolve S A B E R Manhunter | [Freya-Starborn-Resolve-S-A-B-E-R-Manhunter.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-freya/Freya-Starborn-Resolve-S-A-B-E-R-Manhunter.zip) |
-| Starborn Resolve Spartan Spirit | [Freya-Starborn-Resolve-Spartan-Spirit.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-freya/Freya-Starborn-Resolve-Spartan-Spirit.zip) |
 | Starborn Resolve War Angel | [Freya-Starborn-Resolve-War-Angel.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-freya/Freya-Starborn-Resolve-War-Angel.zip) |
 | War Angel Backup | [Freya-War-Angel-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-freya/Freya-War-Angel-Backup.zip) |
 | War Angel Beach Sweetheart | [Freya-War-Angel-Beach-Sweetheart.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-freya/Freya-War-Angel-Beach-Sweetheart.zip) |
@@ -170,7 +122,5 @@ Validated upgrade-skin packages. All downloads are published in the
 | War Angel Gladiator | [Freya-War-Angel-Gladiator.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-freya/Freya-War-Angel-Gladiator.zip) |
 | War Angel Raven Shogun | [Freya-War-Angel-Raven-Shogun.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-freya/Freya-War-Angel-Raven-Shogun.zip) |
 | War Angel S A B E R Manhunter | [Freya-War-Angel-S-A-B-E-R-Manhunter.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-freya/Freya-War-Angel-S-A-B-E-R-Manhunter.zip) |
-| War Angel Spartan Spirit Painted 01 | [Freya-War-Angel-Spartan-Spirit-Painted-01.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-freya/Freya-War-Angel-Spartan-Spirit-Painted-01.zip) |
-| War Angel Spartan Spirit Painted 02 | [Freya-War-Angel-Spartan-Spirit-Painted-02.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-freya/Freya-War-Angel-Spartan-Spirit-Painted-02.zip) |
-| War Angel Spartan Spirit Skin 10 | [Freya-War-Angel-Spartan-Spirit-Skin-10.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-freya/Freya-War-Angel-Spartan-Spirit-Skin-10.zip) |
 | War Angel Spartan Spirit | [Freya-War-Angel-Spartan-Spirit.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-freya/Freya-War-Angel-Spartan-Spirit.zip) |
+| War Angel Starborn Resolve | [Freya-War-Angel-Starborn-Resolve.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-freya/Freya-War-Angel-Starborn-Resolve.zip) |
