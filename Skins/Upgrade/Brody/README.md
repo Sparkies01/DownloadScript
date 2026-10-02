@@ -12,7 +12,7 @@ Validated upgrade-skin packages. All downloads are published in the
 | APBren Ore chemist | [Brody-APBren-Ore-chemist.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-brody/Brody-APBren-Ore-chemist.zip) |
 | APBren Quantum Grip | [Brody-APBren-Quantum-Grip.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-brody/Brody-APBren-Quantum-Grip.zip) |
 | APBren S T U N Brody | [Brody-APBren-S-T-U-N-Brody.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-brody/Brody-APBren-S-T-U-N-Brody.zip) |
-| Lethal Fang APBren | [Brody-Lethal-Fang-APBren.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-brody/Brody-Lethal-Fang-APBren.zip) |
+| Lethal Fang APBren.dependencies | [Brody-Lethal-Fang-APBren.dependencies.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-brody/Brody-Lethal-Fang-APBren.dependencies.zip) |
 | Lethal Fang Backup | [Brody-Lethal-Fang-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-brody/Brody-Lethal-Fang-Backup.zip) |
 | Lethal Fang Nameless Stray | [Brody-Lethal-Fang-Nameless-Stray.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-brody/Brody-Lethal-Fang-Nameless-Stray.zip) |
 | Lethal Fang Neobeast Brody | [Brody-Lethal-Fang-Neobeast-Brody.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-brody/Brody-Lethal-Fang-Neobeast-Brody.zip) |
