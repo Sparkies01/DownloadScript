@@ -12,6 +12,7 @@ Validated upgrade-skin packages. All downloads are published in the
 | Fashion Mogul The Navigator | [Nolan-Fashion-Mogul-The-Navigator.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-nolan/Nolan-Fashion-Mogul-The-Navigator.zip) |
 | Fashion Mogul Voidwalker | [Nolan-Fashion-Mogul-Voidwalker.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-nolan/Nolan-Fashion-Mogul-Voidwalker.zip) |
 | Spectral Strider The Navigator | [Nolan-Spectral-Strider-The-Navigator.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-nolan/Nolan-Spectral-Strider-The-Navigator.zip) |
+| Spectral Strider Backup | [Nolan-Spectral-Strider-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-nolan/Nolan-Spectral-Strider-Backup.zip) |
 | Starlight The Navigator | [Nolan-Starlight-The-Navigator.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-nolan/Nolan-Starlight-The-Navigator.zip) |
 | The Navigator Backup | [Nolan-The-Navigator-Backup.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-nolan/Nolan-The-Navigator-Backup.zip) |
 | The Navigator Fashion Mogul | [Nolan-The-Navigator-Fashion-Mogul.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-nolan/Nolan-The-Navigator-Fashion-Mogul.zip) |
