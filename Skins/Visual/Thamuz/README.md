@@ -10,7 +10,6 @@ Downloads are published in [`visual-thamuz`](https://github.com/Sparkies01/Downl
 | General Kai | [Thamuz-General-Kai.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-thamuz/Thamuz-General-Kai.zip) |
 | Liquid Fire | [Thamuz-Liquid-Fire.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-thamuz/Thamuz-Liquid-Fire.zip) |
 | Lord of Wraith | [Thamuz-Lord-of-Wraith.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-thamuz/Thamuz-Lord-of-Wraith.zip) |
-| Nexus Sea Legends | [Thamuz-Nexus-Sea-Legends.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-thamuz/Thamuz-Nexus-Sea-Legends.zip) |
 | Sanctified Flame | [Thamuz-Sanctified-Flame.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-thamuz/Thamuz-Sanctified-Flame.zip) |
 | Sanctified Inferno | [Thamuz-Sanctified-Inferno.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-thamuz/Thamuz-Sanctified-Inferno.zip) |
 | The Annihilator | [Thamuz-The-Annihilator.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-thamuz/Thamuz-The-Annihilator.zip) |
