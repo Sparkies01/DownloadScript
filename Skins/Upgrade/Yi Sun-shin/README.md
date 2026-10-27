@@ -14,7 +14,6 @@ Validated upgrade-skin packages. All downloads are published in the
 | Basic Collector | [Yi-Sun-shin-Basic-Collector.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-yi-sun-shin/Yi-Sun-shin-Basic-Collector.zip) |
 | Basic Fleet Warden | [Yi-Sun-shin-Basic-Fleet-Warden.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-yi-sun-shin/Yi-Sun-shin-Basic-Fleet-Warden.zip) |
 | Basic Major General | [Yi-Sun-shin-Basic-Major-General.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-yi-sun-shin/Yi-Sun-shin-Basic-Major-General.zip) |
-| Default Collector | [Yi-Sun-shin-Default-Collector.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-yi-sun-shin/Yi-Sun-shin-Default-Collector.zip) |
 | Elite 1 Collector | [Yi-Sun-shin-Elite-1-Collector.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-yi-sun-shin/Yi-Sun-shin-Elite-1-Collector.zip) |
 | Elite 2 Collector | [Yi-Sun-shin-Elite-2-Collector.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-yi-sun-shin/Yi-Sun-shin-Elite-2-Collector.zip) |
 | Elite Astralwanderer | [Yi-Sun-shin-Elite-Astralwanderer.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-yi-sun-shin/Yi-Sun-shin-Elite-Astralwanderer.zip) |

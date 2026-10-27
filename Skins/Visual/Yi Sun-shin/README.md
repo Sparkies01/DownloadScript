@@ -7,6 +7,7 @@ Downloads are published in [`visual-yi-sun-shin`](https://github.com/Sparkies01/
 | Yi Sun shin Apocalypse Agent | [Yi-Sun-shin-Apocalypse-Agent.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-yi-sun-shin/Yi-Sun-shin-Apocalypse-Agent.zip) |
 | Yi Sun shin Astral Wanderer | [Yi-Sun-shin-Astral-Wanderer.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-yi-sun-shin/Yi-Sun-shin-Astral-Wanderer.zip) |
 | Yi Sun shin Azure Sentry | [Yi-Sun-shin-Azure-Sentry.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-yi-sun-shin/Yi-Sun-shin-Azure-Sentry.zip) |
+| Yi Sun-shin Collector | [Yi-Sun-shin-Collector.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-yi-sun-shin/Yi-Sun-shin-Collector.zip) |
 | Yi Sun shin Fleet Warden | [Yi-Sun-shin-Fleet-Warden.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-yi-sun-shin/Yi-Sun-shin-Fleet-Warden.zip) |
 | Yi Sun shin Major General | [Yi-Sun-shin-Major-General.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-yi-sun-shin/Yi-Sun-shin-Major-General.zip) |
 | Yi Sun shin Roguish Ranger | [Yi-Sun-shin-Roguish-Ranger.zip](https://github.com/Sparkies01/DownloadScript/releases/download/visual-yi-sun-shin/Yi-Sun-shin-Roguish-Ranger.zip) |
