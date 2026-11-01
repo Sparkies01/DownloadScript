@@ -1,0 +1,109 @@
+{
+  "catalog_version": "2026.11.01.lapu-aurora-v12",
+  "data": [
+    {
+      "enabled": true,
+      "id": "lapu-lapu-backup",
+      "portrait_file": "Lapu-Lapu-Default.png",
+      "script_file": "Lapu-Lapu-Backup.zip",
+      "skin_name": "Courageous Blade",
+      "splash_file": "Lapu-Lapu-Default.png",
+      "tag_id": null,
+      "tier": "Default"
+    },
+    {
+      "enabled": true,
+      "id": "lapu-lapu-ancestral-blade",
+      "portrait_file": "Lapu-Lapu-Ancestral-Blade.png",
+      "script_file": "Lapu-Lapu-Ancestral-Blade.zip",
+      "skin_name": "Ancestral Blade",
+      "splash_file": "Lapu-Lapu-Ancestral-Blade.png",
+      "tag_id": null,
+      "tier": "common"
+    },
+    {
+      "enabled": true,
+      "id": "lapu-lapu-imperial-champion",
+      "portrait_file": "Lapu-Lapu-Imperial-Champion.png",
+      "script_file": "Lapu-Lapu-Imperial-Champion.zip",
+      "skin_name": "Imperial Champion",
+      "splash_file": "Lapu-Lapu-Imperial-Champion.png",
+      "tag_id": "elite",
+      "tier": "common"
+    },
+    {
+      "enabled": true,
+      "id": "lapu-lapu-vulcan",
+      "portrait_file": "Lapu-Lapu-Vulcan.png",
+      "script_file": "Lapu-Lapu-Vulcan.zip",
+      "skin_name": "Vulcan",
+      "splash_file": "Lapu-Lapu-Vulcan.png",
+      "tag_id": "special",
+      "tier": "exceptional"
+    },
+    {
+      "enabled": true,
+      "id": "lapu-lapu-special-force",
+      "portrait_file": "Lapu-Lapu-Special-Force.png",
+      "script_file": "Lapu-Lapu-Special-Force.zip",
+      "skin_name": "Special Force",
+      "splash_file": "Lapu-Lapu-Special-Force.png",
+      "tag_id": "starlight-star",
+      "tier": "exceptional"
+    },
+    {
+      "enabled": true,
+      "id": "lapu-lapu-son-of-the-wild",
+      "portrait_file": "Lapu-Lapu-Son-of-the-Wild.png",
+      "script_file": "Lapu-Lapu-Son-of-the-Wild.zip",
+      "skin_name": "Son of the Wild",
+      "splash_file": "Lapu-Lapu-Son-of-the-Wild.png",
+      "tag_id": "s28",
+      "tier": "common"
+    },
+    {
+      "enabled": true,
+      "id": "lapu-lapu-adlaw-s-chosen",
+      "portrait_file": "Lapu-Lapu-Adlaw-s-Chosen.png",
+      "script_file": "Lapu-Lapu-Adlaw-s-Chosen.zip",
+      "skin_name": "Adlaw's Chosen",
+      "splash_file": "Lapu-Lapu-Adlaw-s-Chosen.png",
+      "tag_id": "collector",
+      "tier": "exquisite"
+    },
+    {
+      "enabled": true,
+      "id": "lapu-lapu-aurora-gaming-ph",
+      "portrait_file": "Lapu-Lapu-Aurora-Gaming-PH.png",
+      "script_file": "Lapu-Lapu-Aurora-Gaming-PH.zip",
+      "skin_name": "Aurora Gaming PH",
+      "splash_file": "Lapu-Lapu-Aurora-Gaming-PH.png",
+      "tag_id": "champion",
+      "tier": "exquisite",
+      "source_record_id": 1379,
+      "target_record_id": 1371,
+      "script_url": "https://github.com/Sparkies01/DownloadScript/releases/download/visual-lapu-lapu/Lapu-Lapu-Aurora-Gaming-PH.zip"
+    },
+    {
+      "enabled": true,
+      "id": "lapu-lapu-imperial-soldier-painted-01",
+      "portrait_file": "Lapu-Lapu-Imperial-Soldier.png",
+      "script_file": "Lapu-Lapu-Imperial-Soldier.zip",
+      "skin_name": "Imperial Soldier",
+      "splash_file": "Lapu-Lapu-Imperial-Soldier.png",
+      "tag_id": "painted",
+      "tier": "painted"
+    }
+  ],
+  "hero": {
+    "id": 37,
+    "name": "Lapu-Lapu",
+    "roles": [
+      "Fighter"
+    ],
+    "slug": "lapu-lapu"
+  },
+  "release_tag": "visual-lapu-lapu",
+  "schema_version": 1,
+  "updated_at": "2026-11-01T08:53:28.975728+00:00"
+}

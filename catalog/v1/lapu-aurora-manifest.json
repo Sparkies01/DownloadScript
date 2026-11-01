@@ -1,0 +1,131 @@
+{
+  "target": "Aurora Gaming PH",
+  "hero_id": 37,
+  "source_record_id": 1379,
+  "reference": "Accepted Imperial Champion v12",
+  "generated_at": "2026-11-01T08:53:28.975728+00:00",
+  "assets": [
+    {
+      "kind": "Portrait",
+      "file": "Lapu-Lapu-Aurora-Gaming-PH.png",
+      "url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Lapu-Lapu-Aurora-Gaming-PH.png",
+      "sha256": "1854d5d5b0dd604581eb69674b66a87654c37a81974a964199195120e8b0d9a0"
+    },
+    {
+      "kind": "Splash",
+      "file": "Lapu-Lapu-Aurora-Gaming-PH.png",
+      "url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Splash/Lapu-Lapu-Aurora-Gaming-PH.png",
+      "sha256": "4ff3932850e5faff71d67b730ab8535cbcef2b11845ecab738b260b11a5a7101"
+    }
+  ],
+  "visual": {
+    "url": "https://github.com/Sparkies01/DownloadScript/releases/download/visual-lapu-lapu/Lapu-Lapu-Aurora-Gaming-PH.zip",
+    "sha256": "c497366395fb182db49c3a39e50087ea2a193fec4cbc9f06776e27c60672f6e0",
+    "base_record_id": 1371,
+    "known_limitation": "Default retains the original creator black entrance; stock controller and ip11 remain unchanged"
+  },
+  "upgrades": [
+    {
+      "base_name": "Courageous Blade",
+      "base_record_id": 1371,
+      "base_skin": 0,
+      "base_ui": 371,
+      "filename": "Lapu-Lapu-Courageous-Blade-Aurora-Gaming-PH.zip",
+      "sha256": "c497366395fb182db49c3a39e50087ea2a193fec4cbc9f06776e27c60672f6e0",
+      "route_sha256": "7804bbe78b92808af48a732a61c08ad6ceddd711f8e6a40cbd04f7f28bee44f1",
+      "runtime_evidence": "Original creator control accepted with known black entrance limitation",
+      "url": "https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-lapu-lapu/Lapu-Lapu-Courageous-Blade-Aurora-Gaming-PH.zip"
+    },
+    {
+      "base_name": "Ancestral Blade",
+      "base_record_id": 1372,
+      "base_skin": 1,
+      "base_ui": 372,
+      "filename": "Lapu-Lapu-Ancestral-Blade-Aurora-Gaming-PH.zip",
+      "sha256": "b03d3f5273f417604fa5f5294f0b3f63014709446d2f148608df17a274e9d415",
+      "route_sha256": "2d2e34cb51cccdfa7e141735df3e87336446f9a0a6d7189f8f063eef4409b87c",
+      "runtime_evidence": "Rebased from accepted v12; individual slot runtime untested",
+      "url": "https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-lapu-lapu/Lapu-Lapu-Ancestral-Blade-Aurora-Gaming-PH.zip"
+    },
+    {
+      "base_name": "Imperial Champion",
+      "base_record_id": 1373,
+      "base_skin": 2,
+      "base_ui": 373,
+      "filename": "Lapu-Lapu-Imperial-Champion-Aurora-Gaming-PH.zip",
+      "sha256": "6bdd108f8dc3eb8d63ad3be7951ddc7f4bf390032578c0de41ef075e673eadf6",
+      "route_sha256": "908a9272adc6e35d9b99d343d46f371a88c92ce873dc9dba1b9e45e0179ecbee",
+      "runtime_evidence": "User-confirmed accepted v12",
+      "url": "https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-lapu-lapu/Lapu-Lapu-Imperial-Champion-Aurora-Gaming-PH.zip"
+    },
+    {
+      "base_name": "Vulcan",
+      "base_record_id": 1374,
+      "base_skin": 3,
+      "base_ui": 374,
+      "filename": "Lapu-Lapu-Vulcan-Aurora-Gaming-PH.zip",
+      "sha256": "f73a01ce4ff847f74a6d83f41e5d6ff9a60af4eac5a8bb86ed0106a3666ba342",
+      "route_sha256": "9d7869ef3128640a6c69b437cb4bec5c7d8e8ff29b7ecf62228af1d44e9c668a",
+      "runtime_evidence": "Rebased from accepted v12; individual slot runtime untested",
+      "url": "https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-lapu-lapu/Lapu-Lapu-Vulcan-Aurora-Gaming-PH.zip"
+    },
+    {
+      "base_name": "Special Force",
+      "base_record_id": 1375,
+      "base_skin": 4,
+      "base_ui": 375,
+      "filename": "Lapu-Lapu-Special-Force-Aurora-Gaming-PH.zip",
+      "sha256": "50b5454e7d3aa5928876e704c75f432df04bf55c0606f425ef71f29372508293",
+      "route_sha256": "99b9c12255861a28bdb63d5273a623779041e675aa32a46c8ac02acb06d89058",
+      "runtime_evidence": "Rebased from accepted v12; individual slot runtime untested",
+      "url": "https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-lapu-lapu/Lapu-Lapu-Special-Force-Aurora-Gaming-PH.zip"
+    },
+    {
+      "base_name": "Son of the Wild",
+      "base_record_id": 1376,
+      "base_skin": 5,
+      "base_ui": 376,
+      "filename": "Lapu-Lapu-Son-of-the-Wild-Aurora-Gaming-PH.zip",
+      "sha256": "4d95b9b151eaddc4d799b5057ccd64f4bb3c8b8871abdc9d349133651f880897",
+      "route_sha256": "555f41593e2561298d5dabec4b5f1877789cf2e851f66139ec3eda643f2575a9",
+      "runtime_evidence": "Rebased from accepted v12; individual slot runtime untested",
+      "url": "https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-lapu-lapu/Lapu-Lapu-Son-of-the-Wild-Aurora-Gaming-PH.zip"
+    },
+    {
+      "base_name": "Adlaw's Chosen",
+      "base_record_id": 1377,
+      "base_skin": 6,
+      "base_ui": 377,
+      "filename": "Lapu-Lapu-Adlaw-s-Chosen-Aurora-Gaming-PH.zip",
+      "sha256": "91cd57349cc7552fd6991a52c8361759a6986cf428ace55dd3131d1c610ba4b7",
+      "route_sha256": "9566f75906518900a22ce0caf60afef31cc08c214612c3b4b81fdd363009bc75",
+      "runtime_evidence": "Rebased from accepted v12; individual slot runtime untested",
+      "url": "https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-lapu-lapu/Lapu-Lapu-Adlaw-s-Chosen-Aurora-Gaming-PH.zip"
+    }
+  ],
+  "validation": {
+    "zip_crc": true,
+    "route_ids_unique": true,
+    "painted_bases": 0,
+    "self_targets": 0,
+    "new_duplicate_pairs": 0,
+    "shared_destinations_byte_identical": true,
+    "cross_slot_private_cab_collisions": 0,
+    "serialized_local_references_valid": true
+  },
+  "excluded": [
+    {
+      "name": "Imperial Soldier",
+      "reason": "painted base shares skin02"
+    },
+    {
+      "id": 1378,
+      "reason": "unopened unnamed skin07; not a valid selectable catalog base"
+    },
+    {
+      "id": 1379,
+      "name": "Aurora Gaming PH",
+      "reason": "self-target"
+    }
+  ]
+}

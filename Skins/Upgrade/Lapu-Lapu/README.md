@@ -41,3 +41,19 @@ Validated upgrade-skin packages. All downloads are published in the
 | Vulcan Imperial Champion | [Lapu-Lapu-Vulcan-Imperial-Champion.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-lapu-lapu/Lapu-Lapu-Vulcan-Imperial-Champion.zip) |
 | Vulcan Son of the Wild | [Lapu-Lapu-Vulcan-Son-of-the-Wild.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-lapu-lapu/Lapu-Lapu-Vulcan-Son-of-the-Wild.zip) |
 | Vulcan Special Force | [Lapu-Lapu-Vulcan-Special-Force.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-lapu-lapu/Lapu-Lapu-Vulcan-Special-Force.zip) |
+
+## Aurora Gaming PH
+
+Aurora packages use the accepted Imperial Champion v12 entrance graph. Shared city dependencies are byte-identical; models, cards, effects, audio, and routes belong to the selected base. Default uses the original creator graph and retains its known black entrance limitation.
+
+| Base | Record | Download |
+| --- | --- | --- |
+| Courageous Blade | 1371 | [Lapu-Lapu-Courageous-Blade-Aurora-Gaming-PH.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-lapu-lapu/Lapu-Lapu-Courageous-Blade-Aurora-Gaming-PH.zip) |
+| Ancestral Blade | 1372 | [Lapu-Lapu-Ancestral-Blade-Aurora-Gaming-PH.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-lapu-lapu/Lapu-Lapu-Ancestral-Blade-Aurora-Gaming-PH.zip) |
+| Imperial Champion | 1373 | [Lapu-Lapu-Imperial-Champion-Aurora-Gaming-PH.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-lapu-lapu/Lapu-Lapu-Imperial-Champion-Aurora-Gaming-PH.zip) |
+| Vulcan | 1374 | [Lapu-Lapu-Vulcan-Aurora-Gaming-PH.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-lapu-lapu/Lapu-Lapu-Vulcan-Aurora-Gaming-PH.zip) |
+| Special Force | 1375 | [Lapu-Lapu-Special-Force-Aurora-Gaming-PH.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-lapu-lapu/Lapu-Lapu-Special-Force-Aurora-Gaming-PH.zip) |
+| Son of the Wild | 1376 | [Lapu-Lapu-Son-of-the-Wild-Aurora-Gaming-PH.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-lapu-lapu/Lapu-Lapu-Son-of-the-Wild-Aurora-Gaming-PH.zip) |
+| Adlaw's Chosen | 1377 | [Lapu-Lapu-Adlaw-s-Chosen-Aurora-Gaming-PH.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-lapu-lapu/Lapu-Lapu-Adlaw-s-Chosen-Aurora-Gaming-PH.zip) |
+
+[Catalog and validation manifest](../../../catalog/v1/lapu-aurora-manifest.json)

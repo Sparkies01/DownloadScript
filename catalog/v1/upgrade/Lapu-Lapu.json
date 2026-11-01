@@ -1,0 +1,370 @@
+{
+  "title": "Skin Upgrade Creator",
+  "hero": "Lapu-Lapu",
+  "role": "Fighter",
+  "skins": [
+    {
+      "name": "Default",
+      "Default_name": "Courageous Blade",
+      "Splash_url": "Lapu-Lapu-Default.png",
+      "Portrait_url": "Lapu-Lapu-Default.png",
+      "script": "Lapu-Lapu-Courageous-Blade-Backup.zip",
+      "Tags": null,
+      "targets": [
+        {
+          "name": "Aurora Gaming PH",
+          "Portrait_url": "Lapu-Lapu-Aurora-Gaming-PH.png",
+          "Splash_url": "Lapu-Lapu-Aurora-Gaming-PH.png",
+          "script": "Lapu-Lapu-Courageous-Blade-Aurora-Gaming-PH.zip",
+          "source_record_id": 1379,
+          "target_record_id": 1371,
+          "script_url": "https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-lapu-lapu/Lapu-Lapu-Courageous-Blade-Aurora-Gaming-PH.zip"
+        }
+      ],
+      "base_record_id": 1371,
+      "base_skin_id": 0
+    },
+    {
+      "name": "Basic",
+      "Default_name": "Ancestral Blade",
+      "Splash_url": "Lapu-Lapu-Ancestral-Blade.png",
+      "script": "Lapu-Lapu-Ancestral-Blade-Backup.zip",
+      "Portrait_url": "Lapu-Lapu-Ancestral-Blade.png",
+      "Tags": null,
+      "targets": [
+        {
+          "name": "Imperial Champion",
+          "Portrait_url": "Lapu-Lapu-Imperial-Champion.png",
+          "Splash_url": "Lapu-Lapu-Imperial-Champion.png",
+          "script": "Lapu-Lapu-Ancestral-Blade-Imperial-Champion.zip"
+        },
+        {
+          "name": "Special Force",
+          "Portrait_url": "Lapu-Lapu-Special-Force.png",
+          "Splash_url": "Lapu-Lapu-Special-Force.png",
+          "script": "Lapu-Lapu-Ancestral-Blade-Special-Force.zip"
+        },
+        {
+          "name": "Son of the Wild",
+          "Portrait_url": "Lapu-Lapu-Son-of-the-Wild.png",
+          "Splash_url": "Lapu-Lapu-Son-of-the-Wild.png",
+          "script": "Lapu-Lapu-Ancestral-Blade-Son-of-the-Wild.zip"
+        },
+        {
+          "name": "Adlaw's Chosen",
+          "Portrait_url": "Lapu-Lapu-Adlaw-s-Chosen.png",
+          "Splash_url": "Lapu-Lapu-Adlaw-s-Chosen.png",
+          "script": "Lapu-Lapu-Ancestral-Blade-Adlaw-s-Chosen.zip"
+        },
+        {
+          "name": "Imperial Soldier",
+          "Portrait_url": "Lapu-Lapu-Imperial-Soldier.png",
+          "Splash_url": "Lapu-Lapu-Imperial-Soldier.png",
+          "script": "Lapu-Lapu-Ancestral-Blade-Imperial-Soldier.zip"
+        },
+        {
+          "name": "Aurora Gaming PH",
+          "Portrait_url": "Lapu-Lapu-Aurora-Gaming-PH.png",
+          "Splash_url": "Lapu-Lapu-Aurora-Gaming-PH.png",
+          "script": "Lapu-Lapu-Ancestral-Blade-Aurora-Gaming-PH.zip",
+          "source_record_id": 1379,
+          "target_record_id": 1372,
+          "script_url": "https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-lapu-lapu/Lapu-Lapu-Ancestral-Blade-Aurora-Gaming-PH.zip"
+        }
+      ],
+      "base_record_id": 1372,
+      "base_skin_id": 1
+    },
+    {
+      "name": "Elite",
+      "Default_name": "Imperial Champion",
+      "Splash_url": "Lapu-Lapu-Imperial-Champion.png",
+      "script": "Lapu-Lapu-Imperial-Champion-Backup.zip",
+      "Portrait_url": "Lapu-Lapu-Imperial-Champion.png",
+      "Tags": [
+        "Elite.png"
+      ],
+      "targets": [
+        {
+          "name": "Ancestral Blade",
+          "Portrait_url": "Lapu-Lapu-Ancestral-Blade.png",
+          "Splash_url": "Lapu-Lapu-Ancestral-Blade.png",
+          "script": "Lapu-Lapu-Imperial-Champion-Ancestral-Blade.zip"
+        },
+        {
+          "name": "Vulcan",
+          "Portrait_url": "Lapu-Lapu-Vulcan.png",
+          "Splash_url": "Lapu-Lapu-Vulcan.png",
+          "script": "Lapu-Lapu-Imperial-Champion-Vulcan.zip"
+        },
+        {
+          "name": "Special Force",
+          "Portrait_url": "Lapu-Lapu-Special-Force.png",
+          "Splash_url": "Lapu-Lapu-Special-Force.png",
+          "script": "Lapu-Lapu-Imperial-Champion-Special-Force.zip"
+        },
+        {
+          "name": "Son of the Wild",
+          "Portrait_url": "Lapu-Lapu-Son-of-the-Wild.png",
+          "Splash_url": "Lapu-Lapu-Son-of-the-Wild.png",
+          "script": "Lapu-Lapu-Imperial-Champion-Son-of-the-Wild.zip"
+        },
+        {
+          "name": "Adlaw's Chosen",
+          "Portrait_url": "Lapu-Lapu-Adlaw-s-Chosen.png",
+          "Splash_url": "Lapu-Lapu-Adlaw-s-Chosen.png",
+          "script": "Lapu-Lapu-Imperial-Champion-Adlaw-s-Chosen.zip"
+        },
+        {
+          "name": "Aurora Gaming PH",
+          "Portrait_url": "Lapu-Lapu-Aurora-Gaming-PH.png",
+          "Splash_url": "Lapu-Lapu-Aurora-Gaming-PH.png",
+          "script": "Lapu-Lapu-Imperial-Champion-Aurora-Gaming-PH.zip",
+          "source_record_id": 1379,
+          "target_record_id": 1373,
+          "script_url": "https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-lapu-lapu/Lapu-Lapu-Imperial-Champion-Aurora-Gaming-PH.zip"
+        }
+      ],
+      "base_record_id": 1373,
+      "base_skin_id": 2
+    },
+    {
+      "name": "Special",
+      "Default_name": "Vulcan",
+      "Splash_url": "Lapu-Lapu-Vulcan.png",
+      "script": "Lapu-Lapu-Vulcan-Backup.zip",
+      "Portrait_url": "Lapu-Lapu-Vulcan.png",
+      "Tags": [
+        "Special.png"
+      ],
+      "targets": [
+        {
+          "name": "Ancestral Blade",
+          "Portrait_url": "Lapu-Lapu-Ancestral-Blade.png",
+          "Splash_url": "Lapu-Lapu-Ancestral-Blade.png",
+          "script": "Lapu-Lapu-Vulcan-Ancestral-Blade.zip"
+        },
+        {
+          "name": "Imperial Champion",
+          "Portrait_url": "Lapu-Lapu-Imperial-Champion.png",
+          "Splash_url": "Lapu-Lapu-Imperial-Champion.png",
+          "script": "Lapu-Lapu-Vulcan-Imperial-Champion.zip"
+        },
+        {
+          "name": "Special Force",
+          "Portrait_url": "Lapu-Lapu-Special-Force.png",
+          "Splash_url": "Lapu-Lapu-Special-Force.png",
+          "script": "Lapu-Lapu-Vulcan-Special-Force.zip"
+        },
+        {
+          "name": "Son of the Wild",
+          "Portrait_url": "Lapu-Lapu-Son-of-the-Wild.png",
+          "Splash_url": "Lapu-Lapu-Son-of-the-Wild.png",
+          "script": "Lapu-Lapu-Vulcan-Son-of-the-Wild.zip"
+        },
+        {
+          "name": "Adlaw's Chosen",
+          "Portrait_url": "Lapu-Lapu-Adlaw-s-Chosen.png",
+          "Splash_url": "Lapu-Lapu-Adlaw-s-Chosen.png",
+          "script": "Lapu-Lapu-Vulcan-Adlaw-s-Chosen.zip"
+        },
+        {
+          "name": "Imperial Soldier",
+          "Portrait_url": "Lapu-Lapu-Imperial-Soldier.png",
+          "Splash_url": "Lapu-Lapu-Imperial-Soldier.png",
+          "script": "Lapu-Lapu-Vulcan-Imperial-Soldier.zip"
+        },
+        {
+          "name": "Aurora Gaming PH",
+          "Portrait_url": "Lapu-Lapu-Aurora-Gaming-PH.png",
+          "Splash_url": "Lapu-Lapu-Aurora-Gaming-PH.png",
+          "script": "Lapu-Lapu-Vulcan-Aurora-Gaming-PH.zip",
+          "source_record_id": 1379,
+          "target_record_id": 1374,
+          "script_url": "https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-lapu-lapu/Lapu-Lapu-Vulcan-Aurora-Gaming-PH.zip"
+        }
+      ],
+      "base_record_id": 1374,
+      "base_skin_id": 3
+    },
+    {
+      "name": "Starlight",
+      "Default_name": "Special Force",
+      "Splash_url": "Lapu-Lapu-Special-Force.png",
+      "script": "Lapu-Lapu-Special-Force-Backup.zip",
+      "Portrait_url": "Lapu-Lapu-Special-Force.png",
+      "Tags": [
+        "Starlight Star.png"
+      ],
+      "targets": [
+        {
+          "name": "Ancestral Blade",
+          "Portrait_url": "Lapu-Lapu-Ancestral-Blade.png",
+          "Splash_url": "Lapu-Lapu-Ancestral-Blade.png",
+          "script": "Lapu-Lapu-Special-Force-Ancestral-Blade.zip"
+        },
+        {
+          "name": "Imperial Champion",
+          "Portrait_url": "Lapu-Lapu-Imperial-Champion.png",
+          "Splash_url": "Lapu-Lapu-Imperial-Champion.png",
+          "script": "Lapu-Lapu-Special-Force-Imperial-Champion.zip"
+        },
+        {
+          "name": "Vulcan",
+          "Portrait_url": "Lapu-Lapu-Vulcan.png",
+          "Splash_url": "Lapu-Lapu-Vulcan.png",
+          "script": "Lapu-Lapu-Special-Force-Vulcan.zip"
+        },
+        {
+          "name": "Son of the Wild",
+          "Portrait_url": "Lapu-Lapu-Son-of-the-Wild.png",
+          "Splash_url": "Lapu-Lapu-Son-of-the-Wild.png",
+          "script": "Lapu-Lapu-Special-Force-Son-of-the-Wild.zip"
+        },
+        {
+          "name": "Adlaw's Chosen",
+          "Portrait_url": "Lapu-Lapu-Adlaw-s-Chosen.png",
+          "Splash_url": "Lapu-Lapu-Adlaw-s-Chosen.png",
+          "script": "Lapu-Lapu-Special-Force-Adlaw-s-Chosen.zip"
+        },
+        {
+          "name": "Imperial Soldier",
+          "Portrait_url": "Lapu-Lapu-Imperial-Soldier.png",
+          "Splash_url": "Lapu-Lapu-Imperial-Soldier.png",
+          "script": "Lapu-Lapu-Special-Force-Imperial-Soldier.zip"
+        },
+        {
+          "name": "Aurora Gaming PH",
+          "Portrait_url": "Lapu-Lapu-Aurora-Gaming-PH.png",
+          "Splash_url": "Lapu-Lapu-Aurora-Gaming-PH.png",
+          "script": "Lapu-Lapu-Special-Force-Aurora-Gaming-PH.zip",
+          "source_record_id": 1379,
+          "target_record_id": 1375,
+          "script_url": "https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-lapu-lapu/Lapu-Lapu-Special-Force-Aurora-Gaming-PH.zip"
+        }
+      ],
+      "base_record_id": 1375,
+      "base_skin_id": 4
+    },
+    {
+      "name": "Season",
+      "Default_name": "Son of the Wild",
+      "Splash_url": "Lapu-Lapu-Son-of-the-Wild.png",
+      "script": "Lapu-Lapu-Son-of-the-Wild-Backup.zip",
+      "Portrait_url": "Lapu-Lapu-Son-of-the-Wild.png",
+      "Tags": [
+        "Seasons.png"
+      ],
+      "targets": [
+        {
+          "name": "Ancestral Blade",
+          "Portrait_url": "Lapu-Lapu-Ancestral-Blade.png",
+          "Splash_url": "Lapu-Lapu-Ancestral-Blade.png",
+          "script": "Lapu-Lapu-Son-of-the-Wild-Ancestral-Blade.zip"
+        },
+        {
+          "name": "Imperial Champion",
+          "Portrait_url": "Lapu-Lapu-Imperial-Champion.png",
+          "Splash_url": "Lapu-Lapu-Imperial-Champion.png",
+          "script": "Lapu-Lapu-Son-of-the-Wild-Imperial-Champion.zip"
+        },
+        {
+          "name": "Vulcan",
+          "Portrait_url": "Lapu-Lapu-Vulcan.png",
+          "Splash_url": "Lapu-Lapu-Vulcan.png",
+          "script": "Lapu-Lapu-Son-of-the-Wild-Vulcan.zip"
+        },
+        {
+          "name": "Special Force",
+          "Portrait_url": "Lapu-Lapu-Special-Force.png",
+          "Splash_url": "Lapu-Lapu-Special-Force.png",
+          "script": "Lapu-Lapu-Son-of-the-Wild-Special-Force.zip"
+        },
+        {
+          "name": "Adlaw's Chosen",
+          "Portrait_url": "Lapu-Lapu-Adlaw-s-Chosen.png",
+          "Splash_url": "Lapu-Lapu-Adlaw-s-Chosen.png",
+          "script": "Lapu-Lapu-Son-of-the-Wild-Adlaw-s-Chosen.zip"
+        },
+        {
+          "name": "Imperial Soldier",
+          "Portrait_url": "Lapu-Lapu-Imperial-Soldier.png",
+          "Splash_url": "Lapu-Lapu-Imperial-Soldier.png",
+          "script": "Lapu-Lapu-Son-of-the-Wild-Imperial-Soldier.zip"
+        },
+        {
+          "name": "Aurora Gaming PH",
+          "Portrait_url": "Lapu-Lapu-Aurora-Gaming-PH.png",
+          "Splash_url": "Lapu-Lapu-Aurora-Gaming-PH.png",
+          "script": "Lapu-Lapu-Son-of-the-Wild-Aurora-Gaming-PH.zip",
+          "source_record_id": 1379,
+          "target_record_id": 1376,
+          "script_url": "https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-lapu-lapu/Lapu-Lapu-Son-of-the-Wild-Aurora-Gaming-PH.zip"
+        }
+      ],
+      "base_record_id": 1376,
+      "base_skin_id": 5
+    },
+    {
+      "name": "Collector",
+      "Default_name": "Adlaw's Chosen",
+      "Splash_url": "Lapu-Lapu-Adlaw-s-Chosen.png",
+      "script": "Lapu-Lapu-Adlaw-s-Chosen-Backup.zip",
+      "Portrait_url": "Lapu-Lapu-Adlaw-s-Chosen.png",
+      "Tags": [
+        "Collector.png"
+      ],
+      "targets": [
+        {
+          "name": "Ancestral Blade",
+          "Portrait_url": "Lapu-Lapu-Ancestral-Blade.png",
+          "Splash_url": "Lapu-Lapu-Ancestral-Blade.png",
+          "script": "Lapu-Lapu-Adlaw-s-Chosen-Ancestral-Blade.zip"
+        },
+        {
+          "name": "Imperial Champion",
+          "Portrait_url": "Lapu-Lapu-Imperial-Champion.png",
+          "Splash_url": "Lapu-Lapu-Imperial-Champion.png",
+          "script": "Lapu-Lapu-Adlaw-s-Chosen-Imperial-Champion.zip"
+        },
+        {
+          "name": "Vulcan",
+          "Portrait_url": "Lapu-Lapu-Vulcan.png",
+          "Splash_url": "Lapu-Lapu-Vulcan.png",
+          "script": "Lapu-Lapu-Adlaw-s-Chosen-Vulcan.zip"
+        },
+        {
+          "name": "Special Force",
+          "Portrait_url": "Lapu-Lapu-Special-Force.png",
+          "Splash_url": "Lapu-Lapu-Special-Force.png",
+          "script": "Lapu-Lapu-Adlaw-s-Chosen-Special-Force.zip"
+        },
+        {
+          "name": "Son of the Wild",
+          "Portrait_url": "Lapu-Lapu-Son-of-the-Wild.png",
+          "Splash_url": "Lapu-Lapu-Son-of-the-Wild.png",
+          "script": "Lapu-Lapu-Adlaw-s-Chosen-Son-of-the-Wild.zip"
+        },
+        {
+          "name": "Imperial Soldier",
+          "Portrait_url": "Lapu-Lapu-Imperial-Soldier.png",
+          "Splash_url": "Lapu-Lapu-Imperial-Soldier.png",
+          "script": "Lapu-Lapu-Adlaw-s-Chosen-Imperial-Soldier.zip"
+        },
+        {
+          "name": "Aurora Gaming PH",
+          "Portrait_url": "Lapu-Lapu-Aurora-Gaming-PH.png",
+          "Splash_url": "Lapu-Lapu-Aurora-Gaming-PH.png",
+          "script": "Lapu-Lapu-Adlaw-s-Chosen-Aurora-Gaming-PH.zip",
+          "source_record_id": 1379,
+          "target_record_id": 1377,
+          "script_url": "https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-lapu-lapu/Lapu-Lapu-Adlaw-s-Chosen-Aurora-Gaming-PH.zip"
+        }
+      ],
+      "base_record_id": 1377,
+      "base_skin_id": 6
+    }
+  ],
+  "release_tag": "upgrade-lapu-lapu",
+  "updated_at": "2026-11-01T08:53:28.975728+00:00"
+}
