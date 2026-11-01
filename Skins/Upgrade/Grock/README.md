@@ -69,12 +69,12 @@ Validated upgrade-skin packages. All downloads are published in the
 | Wasteland Psycho Iceland Golem | [Grock-Wasteland-Psycho-Iceland-Golem.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-grock/Grock-Wasteland-Psycho-Iceland-Golem.zip) |
 | Wasteland Psycho Titanic Illusion | [Grock-Wasteland-Psycho-Titanic-Illusion.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-grock/Grock-Wasteland-Psycho-Titanic-Illusion.zip) |
 | Wasteland Psycho V E N O M Monitor Lizard | [Grock-Wasteland-Psycho-V-E-N-O-M-Monitor-Lizard.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-grock/Grock-Wasteland-Psycho-V-E-N-O-M-Monitor-Lizard.zip) |
-| Ancient Golem FMVP | [Grock-Ancient-Golem-FMVP.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-grock/Grock-Ancient-Golem-FMVP.zip) |
-| Castle Guard FMVP | [Grock-Castle-Guard-FMVP.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-grock/Grock-Castle-Guard-FMVP.zip) |
-| Codename Rhino FMVP | [Grock-Codename-Rhino-FMVP.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-grock/Grock-Codename-Rhino-FMVP.zip) |
-| Grave Guardian FMVP | [Grock-Grave-Guardian-FMVP.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-grock/Grock-Grave-Guardian-FMVP.zip) |
-| Iceland Golem FMVP | [Grock-Iceland-Golem-FMVP.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-grock/Grock-Iceland-Golem-FMVP.zip) |
-| Titanic Illusion FMVP | [Grock-Titanic-Illusion-FMVP.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-grock/Grock-Titanic-Illusion-FMVP.zip) |
-| Tremor of the Deep FMVP | [Grock-Tremor-of-the-Deep-FMVP.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-grock/Grock-Tremor-of-the-Deep-FMVP.zip) |
-| V E N O M Monitor Lizard FMVP | [Grock-V-E-N-O-M-Monitor-Lizard-FMVP.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-grock/Grock-V-E-N-O-M-Monitor-Lizard-FMVP.zip) |
-| Wasteland Psycho FMVP | [Grock-Wasteland-Psycho-FMVP.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-grock/Grock-Wasteland-Psycho-FMVP.zip) |
+| Ancient Golem Colossus of Light | [Grock-Ancient-Golem-Colossus-of-Light.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-grock/Grock-Ancient-Golem-Colossus-of-Light.zip) |
+| Castle Guard Colossus of Light | [Grock-Castle-Guard-Colossus-of-Light.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-grock/Grock-Castle-Guard-Colossus-of-Light.zip) |
+| Codename Rhino Colossus of Light | [Grock-Codename-Rhino-Colossus-of-Light.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-grock/Grock-Codename-Rhino-Colossus-of-Light.zip) |
+| Grave Guardian Colossus of Light | [Grock-Grave-Guardian-Colossus-of-Light.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-grock/Grock-Grave-Guardian-Colossus-of-Light.zip) |
+| Iceland Golem Colossus of Light | [Grock-Iceland-Golem-Colossus-of-Light.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-grock/Grock-Iceland-Golem-Colossus-of-Light.zip) |
+| Titanic Illusion Colossus of Light | [Grock-Titanic-Illusion-Colossus-of-Light.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-grock/Grock-Titanic-Illusion-Colossus-of-Light.zip) |
+| Tremor of the Deep Colossus of Light | [Grock-Tremor-of-the-Deep-Colossus-of-Light.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-grock/Grock-Tremor-of-the-Deep-Colossus-of-Light.zip) |
+| V E N O M Monitor Lizard Colossus of Light | [Grock-V-E-N-O-M-Monitor-Lizard-Colossus-of-Light.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-grock/Grock-V-E-N-O-M-Monitor-Lizard-Colossus-of-Light.zip) |
+| Wasteland Psycho Colossus of Light | [Grock-Wasteland-Psycho-Colossus-of-Light.zip](https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-grock/Grock-Wasteland-Psycho-Colossus-of-Light.zip) |
