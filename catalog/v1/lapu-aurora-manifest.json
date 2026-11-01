@@ -20,7 +20,7 @@
   ],
   "visual": {
     "url": "https://github.com/Sparkies01/DownloadScript/releases/download/visual-lapu-lapu/Lapu-Lapu-Aurora-Gaming-PH.zip",
-    "sha256": "c497366395fb182db49c3a39e50087ea2a193fec4cbc9f06776e27c60672f6e0",
+    "sha256": "703c61996ff8ab034e4237b188c51e1a28d758988c2c188759ecda98b2363ef6",
     "base_record_id": 1371,
     "known_limitation": "Default retains the original creator black entrance; stock controller and ip11 remain unchanged"
   },
@@ -31,10 +31,11 @@
       "base_skin": 0,
       "base_ui": 371,
       "filename": "Lapu-Lapu-Courageous-Blade-Aurora-Gaming-PH.zip",
-      "sha256": "c497366395fb182db49c3a39e50087ea2a193fec4cbc9f06776e27c60672f6e0",
+      "sha256": "703c61996ff8ab034e4237b188c51e1a28d758988c2c188759ecda98b2363ef6",
       "route_sha256": "7804bbe78b92808af48a732a61c08ad6ceddd711f8e6a40cbd04f7f28bee44f1",
       "runtime_evidence": "Original creator control accepted with known black entrance limitation",
-      "url": "https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-lapu-lapu/Lapu-Lapu-Courageous-Blade-Aurora-Gaming-PH.zip"
+      "url": "https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-lapu-lapu/Lapu-Lapu-Courageous-Blade-Aurora-Gaming-PH.zip",
+      "legacy_fallback": "146 byte-identical files from accepted Basic v5, including native split dependencies, shared with Default"
     },
     {
       "base_name": "Ancestral Blade",
@@ -42,10 +43,11 @@
       "base_skin": 1,
       "base_ui": 372,
       "filename": "Lapu-Lapu-Ancestral-Blade-Aurora-Gaming-PH.zip",
-      "sha256": "b03d3f5273f417604fa5f5294f0b3f63014709446d2f148608df17a274e9d415",
+      "sha256": "d03c89dfbe2cb2e734f95e057ad57d3661d16bded13918ae002606d590cdb1ae",
       "route_sha256": "2d2e34cb51cccdfa7e141735df3e87336446f9a0a6d7189f8f063eef4409b87c",
       "runtime_evidence": "Rebased from accepted v12; individual slot runtime untested",
-      "url": "https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-lapu-lapu/Lapu-Lapu-Ancestral-Blade-Aurora-Gaming-PH.zip"
+      "url": "https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-lapu-lapu/Lapu-Lapu-Ancestral-Blade-Aurora-Gaming-PH.zip",
+      "legacy_fallback": "146 byte-identical files from accepted Basic v5, including native split dependencies, shared with Default"
     },
     {
       "base_name": "Imperial Champion",
@@ -127,5 +129,14 @@
       "name": "Aurora Gaming PH",
       "reason": "self-target"
     }
-  ]
+  ],
+  "legacy_default_basic_fallback": {
+    "files": 146,
+    "source": "User-confirmed Basic Universal SFX v5",
+    "native_dispatcher": {
+      "1371": false,
+      "1372": false
+    },
+    "shared_paths_byte_identical": true
+  }
 }

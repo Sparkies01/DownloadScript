@@ -8,7 +8,7 @@ Downloads are published in [`visual-lapu-lapu`](https://github.com/Sparkies01/Do
 
 ## Aurora Gaming PH
 
-Aurora packages use the accepted Imperial Champion v12 entrance graph. Shared city dependencies are byte-identical; models, cards, effects, audio, and routes belong to the selected base. Default uses the original creator graph and retains its known black entrance limitation.
+Aurora packages use the accepted Imperial Champion v12 entrance graph. Shared city dependencies are byte-identical; models, cards, and routes belong to the selected base. Default and Basic share the exact proven v5 combat/audio fallback because they have no native combat dispatcher; the other slots retain private effects/audio. Default uses the original creator graph and retains its known black entrance limitation.
 
 | Base | Record | Download |
 | --- | --- | --- |
