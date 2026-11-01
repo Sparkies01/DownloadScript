@@ -138,5 +138,29 @@
       "1372": false
     },
     "shared_paths_byte_identical": true
+  },
+  "live_catalogs": {
+    "deployed": true,
+    "verified_at": "2026-11-01T09:07:17.350391+00:00",
+    "catalogs": [
+      {
+        "kind": "visual",
+        "url": "https://lansordnix.org/NixHub-Server-Catalog/catalog/v1/visual/lapu-lapu.json",
+        "http_status": 200,
+        "aurora_entries": 1,
+        "sha256": "17e21c620c0803e6f4db7384cf6cf4c2a7e2e339d1149309ef0a4395ea41e6a6",
+        "payload_matches_local": true
+      },
+      {
+        "kind": "upgrade",
+        "url": "https://lansordnix.org/NixHub-Server-Catalog/catalog/v1/upgrade/Lapu-Lapu.json",
+        "http_status": 200,
+        "aurora_entries": 7,
+        "sha256": "91c640f7b3142bd22786449650efb535afed2d7c7d3a6954c77843ba41e28c71",
+        "payload_matches_local": true
+      }
+    ],
+    "app_parser_validation": true,
+    "resolved_asset_urls": 10
   }
 }

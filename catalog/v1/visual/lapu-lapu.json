@@ -1,5 +1,5 @@
 {
-  "catalog_version": "2026.11.01.lapu-aurora-v12",
+  "catalog_version": "2026.11.01.lapu-aurora-live1",
   "data": [
     {
       "enabled": true,
@@ -79,10 +79,7 @@
       "skin_name": "Aurora Gaming PH",
       "splash_file": "Lapu-Lapu-Aurora-Gaming-PH.png",
       "tag_id": "champion",
-      "tier": "exquisite",
-      "source_record_id": 1379,
-      "target_record_id": 1371,
-      "script_url": "https://github.com/Sparkies01/DownloadScript/releases/download/visual-lapu-lapu/Lapu-Lapu-Aurora-Gaming-PH.zip"
+      "tier": "exquisite"
     },
     {
       "enabled": true,
@@ -105,5 +102,5 @@
   },
   "release_tag": "visual-lapu-lapu",
   "schema_version": 1,
-  "updated_at": "2026-11-01T08:53:28.975728+00:00"
+  "updated_at": "2026-11-01T09:06:27.882026+00:00"
 }

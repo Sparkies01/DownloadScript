@@ -15,14 +15,9 @@
           "name": "Aurora Gaming PH",
           "Portrait_url": "Lapu-Lapu-Aurora-Gaming-PH.png",
           "Splash_url": "Lapu-Lapu-Aurora-Gaming-PH.png",
-          "script": "Lapu-Lapu-Courageous-Blade-Aurora-Gaming-PH.zip",
-          "source_record_id": 1379,
-          "target_record_id": 1371,
-          "script_url": "https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-lapu-lapu/Lapu-Lapu-Courageous-Blade-Aurora-Gaming-PH.zip"
+          "script": "Lapu-Lapu-Courageous-Blade-Aurora-Gaming-PH.zip"
         }
-      ],
-      "base_record_id": 1371,
-      "base_skin_id": 0
+      ]
     },
     {
       "name": "Basic",
@@ -66,14 +61,9 @@
           "name": "Aurora Gaming PH",
           "Portrait_url": "Lapu-Lapu-Aurora-Gaming-PH.png",
           "Splash_url": "Lapu-Lapu-Aurora-Gaming-PH.png",
-          "script": "Lapu-Lapu-Ancestral-Blade-Aurora-Gaming-PH.zip",
-          "source_record_id": 1379,
-          "target_record_id": 1372,
-          "script_url": "https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-lapu-lapu/Lapu-Lapu-Ancestral-Blade-Aurora-Gaming-PH.zip"
+          "script": "Lapu-Lapu-Ancestral-Blade-Aurora-Gaming-PH.zip"
         }
-      ],
-      "base_record_id": 1372,
-      "base_skin_id": 1
+      ]
     },
     {
       "name": "Elite",
@@ -119,14 +109,9 @@
           "name": "Aurora Gaming PH",
           "Portrait_url": "Lapu-Lapu-Aurora-Gaming-PH.png",
           "Splash_url": "Lapu-Lapu-Aurora-Gaming-PH.png",
-          "script": "Lapu-Lapu-Imperial-Champion-Aurora-Gaming-PH.zip",
-          "source_record_id": 1379,
-          "target_record_id": 1373,
-          "script_url": "https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-lapu-lapu/Lapu-Lapu-Imperial-Champion-Aurora-Gaming-PH.zip"
+          "script": "Lapu-Lapu-Imperial-Champion-Aurora-Gaming-PH.zip"
         }
-      ],
-      "base_record_id": 1373,
-      "base_skin_id": 2
+      ]
     },
     {
       "name": "Special",
@@ -178,14 +163,9 @@
           "name": "Aurora Gaming PH",
           "Portrait_url": "Lapu-Lapu-Aurora-Gaming-PH.png",
           "Splash_url": "Lapu-Lapu-Aurora-Gaming-PH.png",
-          "script": "Lapu-Lapu-Vulcan-Aurora-Gaming-PH.zip",
-          "source_record_id": 1379,
-          "target_record_id": 1374,
-          "script_url": "https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-lapu-lapu/Lapu-Lapu-Vulcan-Aurora-Gaming-PH.zip"
+          "script": "Lapu-Lapu-Vulcan-Aurora-Gaming-PH.zip"
         }
-      ],
-      "base_record_id": 1374,
-      "base_skin_id": 3
+      ]
     },
     {
       "name": "Starlight",
@@ -237,14 +217,9 @@
           "name": "Aurora Gaming PH",
           "Portrait_url": "Lapu-Lapu-Aurora-Gaming-PH.png",
           "Splash_url": "Lapu-Lapu-Aurora-Gaming-PH.png",
-          "script": "Lapu-Lapu-Special-Force-Aurora-Gaming-PH.zip",
-          "source_record_id": 1379,
-          "target_record_id": 1375,
-          "script_url": "https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-lapu-lapu/Lapu-Lapu-Special-Force-Aurora-Gaming-PH.zip"
+          "script": "Lapu-Lapu-Special-Force-Aurora-Gaming-PH.zip"
         }
-      ],
-      "base_record_id": 1375,
-      "base_skin_id": 4
+      ]
     },
     {
       "name": "Season",
@@ -296,14 +271,9 @@
           "name": "Aurora Gaming PH",
           "Portrait_url": "Lapu-Lapu-Aurora-Gaming-PH.png",
           "Splash_url": "Lapu-Lapu-Aurora-Gaming-PH.png",
-          "script": "Lapu-Lapu-Son-of-the-Wild-Aurora-Gaming-PH.zip",
-          "source_record_id": 1379,
-          "target_record_id": 1376,
-          "script_url": "https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-lapu-lapu/Lapu-Lapu-Son-of-the-Wild-Aurora-Gaming-PH.zip"
+          "script": "Lapu-Lapu-Son-of-the-Wild-Aurora-Gaming-PH.zip"
         }
-      ],
-      "base_record_id": 1376,
-      "base_skin_id": 5
+      ]
     },
     {
       "name": "Collector",
@@ -355,16 +325,11 @@
           "name": "Aurora Gaming PH",
           "Portrait_url": "Lapu-Lapu-Aurora-Gaming-PH.png",
           "Splash_url": "Lapu-Lapu-Aurora-Gaming-PH.png",
-          "script": "Lapu-Lapu-Adlaw-s-Chosen-Aurora-Gaming-PH.zip",
-          "source_record_id": 1379,
-          "target_record_id": 1377,
-          "script_url": "https://github.com/Sparkies01/DownloadScript/releases/download/upgrade-lapu-lapu/Lapu-Lapu-Adlaw-s-Chosen-Aurora-Gaming-PH.zip"
+          "script": "Lapu-Lapu-Adlaw-s-Chosen-Aurora-Gaming-PH.zip"
         }
-      ],
-      "base_record_id": 1377,
-      "base_skin_id": 6
+      ]
     }
   ],
   "release_tag": "upgrade-lapu-lapu",
-  "updated_at": "2026-11-01T08:53:28.975728+00:00"
+  "updated_at": "2026-11-01T09:06:28.676632+00:00"
 }
